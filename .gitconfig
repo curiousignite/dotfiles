@@ -1,0 +1,7 @@
+[core]
+	autocrlf = true
+[user]
+	email = berkeerbagci@outlook.com
+	name = curiousignite
+[init]
+	defaultBranch = main

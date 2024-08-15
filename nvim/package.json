@@ -1,0 +1,13 @@
+{
+    "name": "snippets",
+    "contributes": {
+        "snippets": [
+            {
+                "language": [
+                    "zig"
+                ],
+                "path": "snippets/zig.json"
+            }
+        ]
+    }
+}
