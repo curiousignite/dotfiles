@@ -146,7 +146,7 @@ end)
 vim.keymap.set("n", "<C-m>", function()
     harpoon:list():select(2)
 end)
-vim.keymap.set("n", "<ö>", function()
+vim.keymap.set("n", "<C-ö>", function()
     harpoon:list():select(3)
 end)
 vim.keymap.set("n", "<C-ç>", function()
@@ -160,11 +160,6 @@ end, { desc = "Harpoon [P]revious" })
 keymap.set("n", "<leader>n", function()
     harpoon:list():next()
 end, { desc = "Harpoon [N]ext" })
-
-keymap.set({ "n", "t", "i" }, "<C-t>", function()
-
-end)
-
 
 keymap.set({ "n", "t", "i" }, "<C-\\>", function()
     vim.cmd([[ ToggleTermToggleAll ]])

@@ -157,8 +157,8 @@ return {
  MM     M8 8M""""""  MM     MM;Mm  8M"""""" 8M""""""  MM     MM     M8  ,pm9MM  WmmmP"  8M        MM ⠀
  MM.   ,M9 YM.    ,  MM     MM `Mb.YM.    , YM.    ,  MM     MM.   ,M9 8M   MM 8M       YM.    ,  MM ⠀
  P^YbmdP'   `Mbmmd'.JMML. .JMML. YA.`Mbmmd'  `Mbmmd'.JMML.   P^YbmdP'  `Moo9^Yo.YMMMMMb  YMbmd' .JMML⠀
-                                                                               6'     dP             ⠀
-                                                                               Ybmmmd'               ⠀]]
+                                                                              6'     dP             ⠀
+                                                                              Ybmmmd'               ⠀]]
             logo = string.rep("\n", 9) .. logo .. "\n\n"
             opts.config.header = vim.split(logo, "\n")
         end,
