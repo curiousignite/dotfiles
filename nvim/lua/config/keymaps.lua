@@ -19,17 +19,11 @@ keymap.set("n", "<s-tab>", ":tabprev<Return>", opts)
 --Split window
 keymap.set("n", "ss", ":split<Return>", opts)
 keymap.set("n", "sv", ":vsplit<Return>", opts)
-
 --Move window
 keymap.set("n", "<C-h>", "<C-w><C-h>", { desc = "Move focus to the left window" })
 keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right window" })
 keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
 keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
-
---Explore
-keymap.set("n", "<leader>fs", function()
-    builtin.grep_string({ search = vim.fn.input("Grep > ") })
-end, { desc = "[F]ind with [S]tring" })
 
 --IncRename
 keymap.set("n", "<leader>rn", ":IncRename ", { desc = "Incremental Rename" })
@@ -89,11 +83,14 @@ keymap.set("n", "<down>", '<cmd>echo "Use j to move!!"<CR>')
 -- Enable Telescope extensions if they are installed
 pcall(require("telescope").load_extension, "fzf")
 pcall(require("telescope").load_extension, "ui-select")
--- Git
+
+--Explore
+keymap.set("n", "<leader>fs", function()
+    builtin.grep_string({ search = vim.fn.input("Grep > ") })
+end, { desc = "[F]ind with [S]tring" })
 keymap.set("n", "<leader>fh", builtin.help_tags, { desc = "[F]ind [H]elp" })
 keymap.set("n", "<leader>fk", builtin.keymaps, { desc = "[F]ind [K]eymaps" })
 keymap.set("n", "<leader>fw", builtin.grep_string, { desc = "[F]ind current [W]ord" })
--- keymap.set("n", "<leader>fS", builtin.builtin, { desc = "[F]ind current [W]ord" })
 keymap.set("n", "<leader>fW", function()
     local word = vim.fn.expand("<cWORD>")
     builtin.grep_string({ search = word })
