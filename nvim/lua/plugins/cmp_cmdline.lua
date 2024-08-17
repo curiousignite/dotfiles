@@ -1,6 +1,6 @@
 return {
     {
-        "hrsh6th/cmp-cmdline",
+        "hrsh7th/cmp-cmdline",
         event = "VeryLazy",
         config = function()
             local cmp = require("cmp")
