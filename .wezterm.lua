@@ -1,3 +1,4 @@
+-- test
 -- Pull in the wezterm API
 -- This will hold the configuration.
 local wezterm = require 'wezterm'
@@ -103,5 +104,6 @@ config.keys = {
     { key = "h", mods = "ALT|SHIFT", action = wezterm.action.AdjustPaneSize { "Left", 10 } },
     { key = "l", mods = "ALT|SHIFT", action = wezterm.action.AdjustPaneSize { "Right", 10 } },
     { key = "t", mods = "ALT|SHIFT", action = wezterm.action.EmitEvent('trigger-vim-with-scrollback') },
+    { key = 'v', mods = 'CTRL',      action = act.PasteFrom 'Clipboard' }
 }
 return config

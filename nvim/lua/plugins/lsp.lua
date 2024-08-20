@@ -114,6 +114,15 @@ return {
                         },
                     })
                 end,
+                --PowerShell
+                ["powershell_es"] = function()
+                    lspconfig.powershell_es.setup({
+                        capabilities = capabilities,
+                        settings = { powershell = { codeFormatting = { Preset = 'OTBS' } } },
+                    })
+                    vim.g.zig_fmt_parse_errors = 0
+                    vim.g.zig_fmt_autosave = 0
+                end,
                 ["lua_ls"] = function()
                     lspconfig.lua_ls.setup({
                         capabilities = capabilities,

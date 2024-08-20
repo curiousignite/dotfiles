@@ -42,6 +42,8 @@ alt + oem_6             : komorebic resize-axis horizontal decrease
 alt + shift + oem_4     : komorebic resize-axis vertical increase 
 alt + shift + oem_6     : komorebic resize-axis vertical decrease 
 
+alt + oem_4             : komorebic resize-edge left increase
+
 # Manipulate windows
 alt + t                 : komorebic toggle-float
 alt + shift + f         : komorebic toggle-monocle
