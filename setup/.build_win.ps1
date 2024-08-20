@@ -1,42 +1,76 @@
 #TODO: 
 # [X] - Check which programs are installed, download them to correct places
 # [X] - Create junctions and symlinks for windows config files
-# [ ] - Check and replace old config files with config.old file for safety
+# [X] - Check and replace old config files with config.old file for safety
 
 #NOTE: AutoHotKey, fonts, komorebi, scoop and whkdrc do not need any links.
 
-$nvim = 'C:\Program Files\Neovim\bin\nvim.exe'
-$posh = $home +'\AppData\Local\Programs\oh-my-posh\bin\oh-my-posh.exe'
-$wezterm = 'C:\Program Files\WezTerm\wezterm.exe'
+#Executables
+$nvim_exe = 'C:\Program Files\Neovim\bin\nvim.exe'
+$posh_exe = $home +'\AppData\Local\Programs\oh-my-posh\bin\oh-my-posh.exe'
+$wezterm_exe = 'C:\Program Files\WezTerm\wezterm.exe'
+$docker_exe = 'C:\Program Files\Docker\Docker\Docker Desktop.exe'
+
+#Configs
+$nvim_config = $home + '\AppData\Local\nvim'
+$posh_config = $home +'\Posh'
+$wezterm_config = $home + '\.wezterm.lua'
+$pwsh_config = $home + '\Documents\PowerShell'
+$docker_config = $home + '\.docker'
+
+#Config old
+$nvim_config_old = $nvim_config + '.old'
+$posh_config_old = $posh_config + '.old' 
+$wezterm_config_old = $wezterm_config + '.old'
+$pwsh_config_old = $pwsh_config + '.old'
+$docker_config_old = $home + '.docker' + '.old'
 
 function Docker {
-    New-Item -ItemType -SymbolicLink -Path "~\.docker" -Target (Get-Item ~\.config\.docker).FullName
+    if (Test-Path $docker_exe) {
+        if(Test-Path $docker_config){
+            Move-Item -Path $docker_config -Destination $docker_config_old
+        }
+        New-Item -ItemType Junction -Path $docker_config -Target (Get-Item ~\.config\.docker).FullName
+    } else {
+        Write-Output 'No Docker found.'
+    }
 }
 
-
 function Nvim {
-    if (Test-Path $nvim) {
-        New-Item -ItemType Junction -Path "~\AppData\Local\nvim" -Target (Get-Item ~\.config\nvim).FullName
+    if (Test-Path $nvim_exe) {
+        if(Test-Path $nvim_config){
+            Move-Item -Path $nvim_config -Destination $nvim_config_old
+        }
+        New-Item -ItemType Junction -Path $nvim_config -Target (Get-Item ~\.config\nvim).FullName
     } else {
         Write-Output 'No NeoVim found.'
     }
 }
 
 function Posh {
-    if (Test-Path $posh) {
-        New-Item -ItemType Junction -Path "~\Posh" -Target (Get-Item ~\.config\Posh).FullName
+    if (Test-Path $posh_exe) {
+        if(Test-Path $posh_config ){
+            Move-Item -Path $posh_config -Destination $posh_config_old
+        }
+        New-Item -ItemType Junction -Path $posh_config -Target (Get-Item ~\.config\Posh).FullName
     } else {
         Write-Output 'No oh-my-posh found.'
     }
 }
 
 function PowerShell {
-    New-Item -ItemType Junction -Path "~\Documents\PowerShell" -Target (Get-Item ~\.config\PowerShell).FullName
+    if(Test-Path $nvim_config){
+        Move-Item -Path $pwsh_config -Destination $pwsh_config_old
+    }
+    New-Item -ItemType Junction -Path $pwsh_config -Target (Get-Item ~\.config\PowerShell).FullName
 }
 
 function WezTerm {
-    if (Test-Path $wezterm) {
-        New-Item -ItemType SymbolicLink -Path "~\.wezterm.lua" -Target (Get-Item ..\.wezterm.lua).FullName
+    if (Test-Path $wezterm_exe) {
+        if(Test-Path $wezterm_config){
+            Move-Item -Path $wezterm_config -Destination $wezterm_config_old
+        }
+        New-Item -ItemType SymbolicLink -Path $wezterm_config -Target (Get-Item ~\.config\.wezterm.lua).FullName
     } else {
         Write-Output 'No WezTerm found.'
     }
@@ -49,4 +83,5 @@ function init {
     PowerShell
     Wezterm
 }
-#init
+# init
+WezTerm
