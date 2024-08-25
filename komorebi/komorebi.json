@@ -7,8 +7,8 @@
         "enabled": true,
         "duration": 150
     },
-    "default_workspace_padding": 5,
-    "default_container_padding": 5,
+    "default_workspace_padding": 3,
+    "default_container_padding": 3,
     "border": true,
     "border_width": 5,
     "border_offset": -1,

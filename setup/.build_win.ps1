@@ -1,8 +1,3 @@
-#TODO: 
-# [X] - Check which programs are installed, download them to correct places
-# [X] - Create junctions and symlinks for windows config files
-# [X] - Check and replace old config files with config.old file for safety
-
 #NOTE: AutoHotKey, fonts, komorebi, scoop and whkdrc do not need any links.
 
 #Executables
@@ -24,6 +19,11 @@ $posh_config_old = $posh_config + '.old'
 $wezterm_config_old = $wezterm_config + '.old'
 $pwsh_config_old = $pwsh_config + '.old'
 $docker_config_old = $home + '.docker' + '.old'
+
+#Fonts
+$FontFolder = $home + '\.config\fonts'
+$FontItem = Get-Item -Path $FontFolder
+$FontList = Get-ChildItem -Path "$FontItem\*" -Include ('*.fon','*.otf','*.ttc','*.ttf') -Recurse
 
 function Docker {
     if (Test-Path $docker_exe) {
@@ -75,7 +75,15 @@ function WezTerm {
         Write-Output 'No WezTerm found.'
     }
 }
+function Fonts {
+    foreach ($Font in $FontList) {
+        Write-Host 'Installing font -' $Font.BaseName
+        Copy-Item $Font "C:\Windows\Fonts"
+        #register font for all users
+        New-ItemProperty -Name $Font.BaseName -Path "HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Fonts" -PropertyType string -Value $Font.name
 
+    } 
+}
 function init {
     Docker
     Nvim
@@ -84,4 +92,4 @@ function init {
     Wezterm
 }
 # init
-WezTerm
+Fonts
