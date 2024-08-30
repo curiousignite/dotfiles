@@ -43,6 +43,7 @@ keymap.set({ "n", "x", "o" }, "H", "^")
 keymap.set({ "n", "x", "o" }, "L", "$")
 keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
 keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
+keymap.set("n", "<BS>", "_")
 --Yank into system clipboard
 --
 keymap.set("v", "<leader>y", '"+y', { desc = "[y]ank to system clipboard" })

@@ -33,3 +33,6 @@ data
 .stignore
 .stversions*
 *sync-conflict*
+
+#firefox
+parent.lock

@@ -1,11 +1,9 @@
--- test
--- Pull in the wezterm API
--- This will hold the configuration.
 local wezterm = require 'wezterm'
 local io = require 'io'
 local os = require 'os'
 local act = wezterm.action
 local config = wezterm.config_builder()
+
 config.color_scheme = 'Catppuccin Mocha'
 config.font = wezterm.font 'Hack Nerd Font Mono'
 config.window_background_opacity = 0.8
@@ -16,9 +14,12 @@ config.line_height = 1
 config.use_fancy_tab_bar = false
 config.adjust_window_size_when_changing_font_size = false
 config.inactive_pane_hsb = { saturation = 0.8, brightness = 0.7 }
-config.default_cursor_style = 'BlinkingBar'
+config.default_cursor_style = 'BlinkingBlock'
+config.cursor_blink_ease_in = 'Constant'
+config.cursor_blink_ease_out = 'Constant'
+config.animation_fps = 60
 
--- config.front_end = 'OpenGL'
+config.front_end = 'OpenGL'
 config.window_padding = {
     left = 0,
     right = 0,
