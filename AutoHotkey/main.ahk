@@ -4,6 +4,6 @@
 
 ^!r::Reload  ; Assign Ctrl+Alt+r as a hotkey to restart the script
 
-;^!E::
-;    Run cmd.exe /c %clipboard%
+^!w::
+    Run wezterm-gui.exe
 return
