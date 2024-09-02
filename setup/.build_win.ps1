@@ -1,13 +1,11 @@
-#NOTE: AutoHotKey, fonts, komorebi, scoop and whkdrc do not need any links.
-
-#Executables
+#Executable paths
 $nvim_exe = 'C:\Program Files\Neovim\bin\nvim.exe'
 $nvim_exe2 = 'C:\tools\neovim\nvim-win64\bin\nvim.exe'
 $posh_exe = $home +'\AppData\Local\Programs\oh-my-posh\bin\oh-my-posh.exe'
 $wezterm_exe = 'C:\Program Files\WezTerm\wezterm.exe'
 $docker_exe = 'C:\Program Files\Docker\Docker\Docker Desktop.exe'
 
-#Configs
+#Config paths
 $nvim_config = $home + '\AppData\Local\nvim'
 $posh_config = $home +'\Posh'
 $wezterm_config = $home + '\.wezterm.lua'
@@ -25,6 +23,258 @@ $docker_config_old = $docker_config + '.old'
 $FontFolder = $home + '\.config\fonts'
 $FontItem = Get-Item -Path $FontFolder
 $FontList = Get-ChildItem -Path "$FontItem\*" -Include ('*.fon','*.otf','*.ttc','*.ttf') -Recurse
+
+$winget_apps= @'
+All
+MSYS2.MSYS2
+JanDeDobbeleer.OhMyPosh
+Microsoft.Powershell.Preview
+Microsoft.WindowsTerminalPreview
+Git.Git
+Neovim.Neovim
+Microsoft.DotNet.SDK.7
+Microsoft.DotNet.Runtime.7
+Mozilla.Firefox.DeveloperEdition
+Valve.Steam
+LGUG2Z.komorebi
+LGUG2Z.whkd
+wez.wezterm
+Docker.DockerDesktop
+'@ -split [environment]::NewLine
+
+$scoop_apps = @'
+All
+sudo
+bat
+btop
+fastfetch
+vcredist
+secureuxtheme
+archwsl
+topgrade
+7zip
+meld
+'@ -split [environment]::NewLine
+
+$RegistryKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock"
+
+if (! (Test-Path -Path $RegistryKeyPath)) {
+    New-Item -Path $RegistryKeyPath -ItemType Directory -Force
+}
+
+if (! (Get-ItemProperty -Path $RegistryKeyPath | Select-Object -ExpandProperty AllowDevelopmentWithoutDevLicense)) {
+    # Add registry value to enable Developer Mode
+    New-ItemProperty -Path $RegistryKeyPath -Name AllowDevelopmentWithoutDevLicense -PropertyType DWORD -Value 1
+}
+function Download-Winget{
+    Clear-Host
+    function Out-Menu {
+        param (
+            [Parameter(Mandatory = $true, ValueFromPipeline = $True, ValueFromPipelinebyPropertyName = $True)]
+            [object[]]$Object,
+            [string]$Header,
+            [string]$Footer,
+            [switch]$AllowCancel, 
+            [switch]$AllowMultiple
+        )
+
+        if ($input) {
+            $Object = @($input)
+            Write-Host $Object
+        }
+
+        if (!$Object) {
+            throw 'Must provide an object.'
+        }
+ 
+        Write-Host '' 
+ 
+        do { 
+            $prompt = New-Object System.Text.StringBuilder 
+            switch ($true) { 
+                { [bool]$Header -and $Header -notmatch '^(?:\s+)?$' } {
+                    $null = $prompt.Append($Header); break 
+                }
+                $true {
+                    $null = $prompt.Append('Choose an option') 
+                } 
+                $AllowCancel {
+                    $null = $prompt.Append(', or enter "c" to cancel.') 
+                } 
+                $AllowMultiple {
+                    $null = $prompt.Append("`nTo select multiple, enter numbers separated by a comma EX: 1, 2") 
+                } 
+            } 
+            Write-Host $prompt.ToString() 
+ 
+            for ($i = 0; $i -lt $Object.Count; $i++) { 
+                Write-Host "$('{0:D2}' -f ($i)). $($Object[$i])" 
+            } 
+ 
+            if ($Footer) { 
+                Write-Host $Footer 
+            } 
+
+            Write-Host '' 
+ 
+            if ($AllowMultiple) { 
+                $answers = @(Read-Host).Split(',').Trim() 
+
+                if ($AllowCancel -and $answers -match 'c') { 
+                    return
+                } 
+ 
+                $ok = $true 
+                foreach ($ans in $answers) { 
+                    if ($ans -in 0..$Object.Count) { 
+                        $Object[$ans] 
+                    } else { 
+                        Write-Host 'Not an option!' -ForegroundColor Red 
+                        Write-Host ''
+                        $ok = $false 
+                    }
+                }
+            } else { 
+                $answer = Read-Host 
+
+                if ($AllowCancel -and $answer -eq 'c') { 
+                    return 
+                } 
+ 
+                $ok = $true
+                if ($answer -in 0..$Object.Count) { 
+                    $Object[$answer] 
+                } else { 
+                    Write-Host 'Not an option!' -ForegroundColor Red
+                    Write-Host '' 
+                    $ok = $false
+                }
+            }
+        } while (!$ok)
+    }
+
+    $Choices = Out-Menu $winget_apps -AllowCancel -AllowMultiple
+
+
+    if ($Choices -Contains "All") {
+        foreach ($Choice in $winget_apps) {
+            if ($Choice -eq "All") {
+                continue
+            }
+            Winget install --id $Choice
+        }
+    } else {
+        foreach ($Choice in $Choices) {
+            Winget install --id $Choice
+        }
+    } 
+}
+
+function Download-Scoop{
+    Clear-Host
+    function Out-Menu {
+        param (
+            [Parameter(Mandatory = $true, ValueFromPipeline = $True, ValueFromPipelinebyPropertyName = $True)]
+            [object[]]$Object,
+            [string]$Header,
+            [string]$Footer,
+            [switch]$AllowCancel, 
+            [switch]$AllowMultiple
+        )
+
+        if ($input) {
+            $Object = @($input)
+            Write-Host $Object
+        }
+
+        if (!$Object) {
+            throw 'Must provide an object.'
+        }
+ 
+        Write-Host '' 
+ 
+        do { 
+            $prompt = New-Object System.Text.StringBuilder 
+            switch ($true) { 
+                { [bool]$Header -and $Header -notmatch '^(?:\s+)?$' } {
+                    $null = $prompt.Append($Header); break 
+                }
+                $true {
+                    $null = $prompt.Append('Choose an option') 
+                } 
+                $AllowCancel {
+                    $null = $prompt.Append(', or enter "c" to cancel.') 
+                } 
+                $AllowMultiple {
+                    $null = $prompt.Append("`nTo select multiple, enter numbers separated by a comma EX: 1, 2") 
+                } 
+            } 
+            Write-Host $prompt.ToString() 
+ 
+            for ($i = 0; $i -lt $Object.Count; $i++) { 
+                Write-Host "$('{0:D2}' -f ($i)). $($Object[$i])" 
+            } 
+ 
+            if ($Footer) { 
+                Write-Host $Footer 
+            } 
+
+            Write-Host '' 
+ 
+            if ($AllowMultiple) { 
+                $answers = @(Read-Host).Split(',').Trim() 
+
+                if ($AllowCancel -and $answers -match 'c') { 
+                    return
+                } 
+ 
+                $ok = $true 
+                foreach ($ans in $answers) { 
+                    if ($ans -in 0..$Object.Count) { 
+                        $Object[$ans] 
+                    } else { 
+                        Write-Host 'Not an option!' -ForegroundColor Red 
+                        Write-Host ''
+                        $ok = $false 
+                    }
+                }
+            } else { 
+                $answer = Read-Host 
+
+                if ($AllowCancel -and $answer -eq 'c') { 
+                    return 
+                } 
+ 
+                $ok = $true
+                if ($answer -in 0..$Object.Count) { 
+                    $Object[$answer] 
+                } else { 
+                    Write-Host 'Not an option!' -ForegroundColor Red
+                    Write-Host '' 
+                    $ok = $false
+                }
+            }
+        } while (!$ok)
+    }
+
+    $Choices = Out-Menu $scoop_apps -AllowCancel -AllowMultiple
+
+    if ($Choices -Contains "All") {
+        foreach ($Choice in $scoop_apps) {
+            if ($Choice -eq "All") {
+                continue
+            }
+            scoop install $Choice
+        }
+    } else {
+        foreach ($Choice in $Choices) {
+            scoop install $Choice
+        }
+    } 
+    scoop update -all
+}
+
+
 
 function Docker {
     if (Test-Path $docker_exe) {
@@ -94,7 +344,14 @@ function Fonts {
         }
     } 
 }
-function init {
+function komorebi{
+    ## Set komorebi to run on startup
+    $RegPath = "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run"
+    Set-ItemProperty -Name 'KomorebicOnLogin' -Value 'C:\Program Files\komorebi\bin\komorebic.exe start --whkd --await-configuration' -Path $RegPath
+}
+function Init {
+    Download-Winget
+    Download-Scoop
     Docker
     Nvim
     Posh
@@ -102,5 +359,4 @@ function init {
     Wezterm
     Fonts
 }
-
-init
+Init

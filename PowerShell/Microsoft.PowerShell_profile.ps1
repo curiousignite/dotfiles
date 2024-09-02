@@ -16,3 +16,4 @@ function which {
 
 
 # Invoke-Expression (&starship init powershell)
+# try { $null = gcm pshazz -ea stop; pshazz init 'default' } catch { }
