@@ -21,13 +21,20 @@ config.cursor_blink_ease_in = 'Constant'
 config.cursor_blink_ease_out = 'Constant'
 config.animation_fps = 60
 config.window_decorations = "INTEGRATED_BUTTONS|RESIZE"
-config.front_end = 'OpenGL'
+-- config.front_end = 'OpenGL'
+config.front_end = 'WebGpu'
 config.window_padding = {
     left = 0,
     right = 0,
     top = 0,
     bottom = 0,
 }
+for _, gpu in ipairs(wezterm.gui.enumerate_gpus()) do
+    if gpu.device_type == 'DiscreteGpu' then
+        config.front_end = 'OpenGL'
+        break
+    end
+end
 
 -- config.background = {
 --     {

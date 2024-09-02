@@ -13,7 +13,7 @@ I use this to work on multiple setups simultaniously, both windows and linux.
 - [ ] nvim/wezterm open links in browser on click and keybind
 - [ ] Sideberry auto-launch on firefox
 - [ ] Separate TODO files for crowded files
-- [ ] 
+- [ ] Create a setup for Sidebery and nightTab
 
 ### Windows
 
@@ -21,6 +21,7 @@ I use this to work on multiple setups simultaniously, both windows and linux.
 - [X] Create junctions and symlinks for windows config files
 - [X] Check and replace old config files with config.old file for safety
 - [ ] Ignore Firefox *preview tab* window in komorebi
+- [ ] Check if fonts exists before installation
 
 
 ### Linux

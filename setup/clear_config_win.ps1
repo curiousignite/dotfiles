@@ -10,6 +10,5 @@ function clear_config {
     Remove-Item $wezterm_config
     Remove-Item $pwsh_config -Recurse
     Remove-Item $docker_config -Recurse
-    
 }
 clear_config
