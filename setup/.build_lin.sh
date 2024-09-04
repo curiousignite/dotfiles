@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "not implemented yet"
+echo "Not implemented yet!"

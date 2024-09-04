@@ -13,10 +13,10 @@
     "border_width": 5,
     "border_offset": -1,
     "border_colours": {
-        "single": "#42a5f5",
-        "stack": "#00a542",
-        "monocle": "#ff3399",
-        "unfocused": "#808080"
+        "single": "#cba6f7",
+        "stack": "#a6e3a1",
+        "monocle": "#f5c2e7",
+        "unfocused": "#1e1e2e"
     },
     "stackbar": {
         "height": 40,
