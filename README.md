@@ -13,7 +13,7 @@ Here is a link to git repo: <https://github.com/khaneliman/dotfiles/tree/main>
 ### General
 
 - [X] nvim/wezterm open links in browser on click and keybind
-- [ ] Firefox user.js configuration (https://github.com/arkenfox/user.js)
+- [X] Firefox user.js configuration (https://github.com/arkenfox/user.js)
 - [ ] Implement nightTab and Sidebery configs
 
 ### Windows
@@ -24,7 +24,6 @@ Here is a link to git repo: <https://github.com/khaneliman/dotfiles/tree/main>
 - [X] Prompt for installation of missing programs
 - [X] Check if fonts exists before installation
 - [X] Windows Explorer Theme settings 
-- [ ] Ignore Firefox *preview tab* window in komorebi
 
 
 ### Linux

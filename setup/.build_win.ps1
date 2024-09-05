@@ -1,3 +1,4 @@
+using module RegistryEntry
 #
 # ░█░█░▀█▀░█▀█░█▀▄░█▀█░█░█░█▀▀░░░█▀▀░█▀█░█▀█░█▀▀░▀█▀░█▀▀░█▀▀
 # ░█▄█░░█░░█░█░█░█░█░█░█▄█░▀▀█░░░█░░░█░█░█░█░█▀▀░░█░░█░█░▀▀█
@@ -8,7 +9,7 @@
 Clear-Host
 #Variables setup
 $global:GIT_DIR = git rev-parse --show-toplevel
-$RegistryKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock"
+$global:SCRIPTS_DIR = $GIT_DIR+"/setup/os/windows"
 
 #
 # ░█▀█░█▀▄░█▀▀░█▀█
@@ -20,14 +21,23 @@ $RegistryKeyPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlo
 Write-Host "Setting powershell to allow execution of scripts"
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
 
-if (! (Test-Path -Path $RegistryKeyPath)) {
-    New-Item -Path $RegistryKeyPath -ItemType Directory -Force
-}
+##
+# Install Powershell modules
+##
+Write-Host "
+Installing Powershell Modules"
+.$SCRIPTS_DIR/Install-Modules.ps1
 
-if (! (Get-ItemProperty -Path $RegistryKeyPath | Select-Object -ExpandProperty AllowDevelopmentWithoutDevLicense)) {
-    # Add registry value to enable Developer Mode
-    New-ItemProperty -Path $RegistryKeyPath -Name AllowDevelopmentWithoutDevLicense -PropertyType DWORD -Value 1
-}
+#
+# ░█▀▀░█▀█░█▀█░▀█▀░█▀▀
+# ░█▀▀░█░█░█░█░░█░░▀▀█
+# ░▀░░░▀▀▀░▀░▀░░▀░░▀▀▀
+#
+# Install fonts
+##
+Write-Host "
+Installing fonts"
+.$SCRIPTS_DIR/Install-Fonts.ps1 $GIT_DIR"/fonts"
 
 #
 # ░█░█░▀█▀░█▀█░█▀▄░█▀█░█░█░█▀▀░░░█▀▀░█▀▀░█▀█░▀█▀░█░█░█▀▄░█▀▀░█▀▀
@@ -38,7 +48,7 @@ if (! (Get-ItemProperty -Path $RegistryKeyPath | Select-Object -ExpandProperty A
 ##
 Write-Host "
 Enabling developer mode and Windows Features"
-.$GIT_DIR/setup/os/windows/Enable-WindowsFeatures.ps1
+.$SCRIPTS_DIR/Enable-WindowsFeatures.ps1
 
 #
 # ░█▀█░█▀█░█▀█░█░░░▀█▀░█▀▀░█▀█░▀█▀░▀█▀░█▀█░█▀█░█▀▀
@@ -49,7 +59,51 @@ Enabling developer mode and Windows Features"
 ##
 Write-Host "
 Installing software."
-.$GIT_DIR/setup/os/windows/Install-Programs.ps1
+.$SCRIPTS_DIR/Install-Programs.ps1
+
+#
+# ░▀█▀░█░█░█▀▀░█▄█░▀█▀░█▀█░█▀▀
+# ░░█░░█▀█░█▀▀░█░█░░█░░█░█░█░█
+# ░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀
+# Install themes
+##
+
+##
+# Customize windows taskbar
+##
+Write-Host "
+Customizing the taskbar"
+.$SCRIPTS_DIR/Customize-Taskbar.ps1
+
+##
+# Customize windows explorer
+##
+Write-Host "
+Customizing explorer"
+.$SCRIPTS_DIR/Customize-Explorer.ps1
+
+##
+# Customize cursor
+##
+Write-Host "
+Installing Posy's Cursor"
+.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR//themes/Cursors/Posys Cursor/_install Posy Default.inf"
+Write-Host "
+Installing Posy's Cursor Black"
+.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR//themes/Cursors/Posys Cursor Black/_install Posy Black.inf"
+
+##
+# Update windows theme
+##
+Write-Host "
+Installing Catppuccin Explorer Themes" 
+.$SCRIPTS_DIR/Install-Theme.ps1 "$GIT_DIR/themes/Explorer/*"
+
+# Need to test on VM first
+#
+# Write-Host "
+# Setting Catppuccin Windows Colors" 
+#.$SCRIPTS_DIR/Color-Explorer.ps1
 
 #
 # ░█▀▀░█▀█░█▀█░█▀▀░▀█▀░█▀▀░█░█░█▀▄░█▀█░▀█▀░▀█▀░█▀█░█▀█
@@ -60,11 +114,11 @@ Installing software."
 ##
 Write-Host "
 Installing Config Files"
-.$GIT_DIR/os/windows/Configure-Apps.ps1
+.$SCRIPTS_DIR/Configure-Apps.ps1
 
 Write-Host "
 Adding programs to startup"
-.$GIT_DIR/setup/os/windows/Startup.ps1
+.$SCRIPTS_DIR/Startup.ps1
 
 Write-Host "
 [!!] Dotfiles finished installation. Some changes require a reboot to take effect!"

@@ -1,0 +1,119 @@
+/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/button_effect_icon_glow.css made available under Mozilla Public License v. 2.0
+See the above repository for updates as well as full license text. */
+
+/* Replace the button background-colors with a glow effect */
+/* Edit the color choices how you see fit */
+:root {
+    --uc-icon-glow-primary: cyan;
+    --uc-icon-glow-secondary: cadetblue;
+    --uc-icon-glow-hover-primary: red;
+    --uc-icon-glow-hover-secondary: yellow;
+
+    /* --uc-icon-glow-primary: #cba6f7; */
+    /* --uc-icon-glow-secondary: #89dceb; */
+    /* --uc-icon-glow-hover-primary: #f38ba8; */
+    /* --uc-icon-glow-hover-secondary: #f9e2af; */
+
+    /* catppuccin theme colors */
+    --ctp-rosewater: #f5e0dc;
+    --ctp-flamingo: #f2cdcd;
+    --ctp-pink: #f5c2e7;
+    --ctp-mauve: #cba6f7;
+    --ctp-red: #f38ba8;
+    --ctp-maroon: #eba0ac;
+    --ctp-peach: #fab387;
+    --ctp-yellow: #f9e2af;
+    --ctp-green: #a6e3a1;
+    --ctp-teal: #94e2d5;
+    --ctp-sky: #89dceb;
+    --ctp-sapphire: #74c7ec;
+    --ctp-blue: #87b0f9;
+    --ctp-lavender: #b4befe;
+    --ctp-text: #c6d0f5;
+    --ctp-subtext1: #b3bcdf;
+    --ctp-subtext0: #a1a8c9;
+    --ctp-overlay2: #8e95b3;
+    --ctp-overlay1: #7b819d;
+    --ctp-overlay0: #696d86;
+    --ctp-surface2: #565970;
+    --ctp-surface1: #43465a;
+    --ctp-surface0: #313244;
+    --ctp-base: #1e1e2e;
+    --ctp-mantle: #181825;
+    --ctp-crust: #11111b;
+}
+
+
+/* Make backgrounds transparent */
+#tabbrowser-tabs toolbarbutton,
+#identity-box,
+#tracking-protection-icon-container,
+#unified-extensions-view .unified-extensions-item-menu-button:hover>.toolbarbutton-icon,
+.titlebar-button,
+.identity-box-button,
+.findbar-textbox~toolbarbutton,
+.close-icon,
+.urlbar-icon,
+.urlbar-icon-wrapper,
+toolbarbutton.scrollbutton-up,
+toolbarbutton.scrollbutton-down,
+toolbarbutton#scrollbutton-up,
+toolbar .toolbarbutton-1,
+toolbar toolbarbutton>.toolbarbutton-icon,
+toolbar toolbarbutton>.toolbarbutton-badge-stack,
+toolbarbutton#scrollbutton-down {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+/* Glow effects on hover */
+#downloads-button:hover,
+#downloads-indicator-icon:hover,
+#titlebar .titlebar-buttonbox>.titlebar-min:hover,
+#titlebar .titlebar-buttonbox>.titlebar-max:hover,
+#titlebar .titlebar-buttonbox>.titlebar-restore:hover,
+#tracking-protection-icon:hover,
+#page-action-buttons>.urlbar-icon:hover,
+#TabsToolbar toolbarbutton:not([disabled]):hover .toolbarbutton-icon,
+#unified-extensions-view .unified-extensions-item-menu-button:hover>.toolbarbutton-icon,
+.close-icon:hover,
+.findbar-textbox~toolbarbutton:not([disabled]):hover,
+.identity-box-button:hover,
+.urlbar-history-dropmarker:hover,
+.urlbar-input-container [role="button"] image:hover,
+.urlbar-icon-wrapper:hover>.urlbar-icon,
+.tab-close-button:hover,
+.downloadIconShow>.button-box>.button-icon:hover,
+.unified-extensions-item-menu-button>.toolbarbutton:hover,
+toolbar #downloads-button:hover #downloads-indicator-anchor,
+toolbar .toolbarbutton-1:not([disabled]):hover .toolbarbutton-icon,
+toolbarbutton.scrollbutton-up:not([disabled]):hover,
+toolbarbutton.scrollbutton-down:not([disabled]):hover,
+toolbarbutton#scrollbutton-up:not([disabled]):hover,
+toolbarbutton#scrollbutton-down:not([disabled]):hover {
+    filter: drop-shadow(0 0 2px var(--uc-icon-glow-secondary)) drop-shadow(0 0 1px var(--uc-icon-glow-primary))
+}
+
+/* Active states and close window button hover state */
+#titlebar .titlebar-buttonbox>.titlebar-close:hover>.toolbarbutton-icon,
+#page-action-buttons>.urlbar-icon:active,
+#page-action-buttons>.urlbar-icon[open],
+#TabsToolbar toolbarbutton:not([disabled]):active .toolbarbutton-icon,
+#tracking-protection-icon-container[open] #tracking-protection-icon,
+#unified-extensions-view[open] .unified-extensions-item-menu-button:hover>.toolbarbutton-icon,
+.close-icon:active,
+.urlbar-history-dropmarker:active,
+.urlbar-icon-wrapper:active>.urlbar-icon,
+.urlbar-icon-wrapper[open]>.urlbar-icon,
+.identity-box-button:active,
+.findbar-textbox~toolbarbutton:not([disabled]):active,
+toolbar #downloads-button:active #downloads-indicator-anchor,
+toolbar #downloads-button[open] #downloads-indicator-anchor,
+toolbar toolbarbutton:not([disabled]):active .toolbarbutton-icon,
+toolbar toolbarbutton:not([disabled])[open] .toolbarbutton-icon,
+toolbarbutton.scrollbutton-up:active,
+toolbarbutton.scrollbutton-down:active,
+toolbarbutton#scrollbutton-up:active,
+toolbarbutton#scrollbutton-down:active {
+    filter: drop-shadow(0 0 2px var(--uc-icon-glow-hover-secondary)) drop-shadow(0 0 1px var(--uc-icon-glow-hover-primary))
+}

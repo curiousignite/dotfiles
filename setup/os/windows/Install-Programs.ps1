@@ -1,3 +1,7 @@
+using module RegistryEntry
+using module TestCommandExists
+using module Message
+
 $winget_apps= @'
 All
 MSYS2.MSYS2
@@ -8,7 +12,7 @@ Git.Git
 Neovim.Neovim
 Microsoft.DotNet.SDK.7
 Microsoft.DotNet.Runtime.7
-Mozilla.Firefox.DeveloperEdition
+Mozilla.Firefox
 Valve.Steam
 LGUG2Z.komorebi
 LGUG2Z.whkd
@@ -32,14 +36,14 @@ meld
 '@ -split [environment]::NewLine
 if ( !(Test-CommandExists winget)) {
     Write-Host ""
-    Write-Host  "Installing winget"
+    Write-Message  -Message "Installing winget"
     $download_url = "https://github.com/microsoft/winget-cli/releases/download/v1.4.10173/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
     $download_save_file = "$($env:USERPROFILE)\Downloads\MicrosoftDesktopAppInstaller_8wekyb3d8bbwe.msixbundle"
     $wc.Downloadfile($download_url, $download_save_file)
     Add-AppXPackage -Path $($env:USERPROFILE)\Downloads\MicrosoftDesktopAppInstaller_8wekyb3d8bbwe.msixbundle
 } else {
     Write-Host ""
-    Write-Host "Winget already installed. Skipping..."
+    Write-Message -Type WARNING  -Message "Winget already installed. Skipping..."
 }
 Clear-Host
 function Out-Menu {
@@ -147,7 +151,7 @@ if (!(Test-Path -Path "$($env:USERPROFILE)/scoop/shims/scoop" -PathType Leaf)) {
     Invoke-RestMethod get.scoop.sh | Invoke-Expression
 } else {
     Write-Host ""
-    Write-Host "Scoop already installed. skipping..."
+    Write-Message -Type WARNING -Message "Scoop already installed. skipping..."
 }
 # Install scoop
 $scoop_buckets = @(
@@ -156,7 +160,6 @@ $scoop_buckets = @(
 foreach ($bucket in $scoop_buckets) {
     scoop bucket add $bucket
 }
-Clear-Host
 function Out-Menu {
     param (
         [Parameter(Mandatory = $true, ValueFromPipeline = $True, ValueFromPipelinebyPropertyName = $True)]

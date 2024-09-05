@@ -59,7 +59,7 @@ return {
                 ["zls"] = function()
                     lspconfig.zls.setup({
                         filetypes = { 'zig', 'zir' },
-                        cmd = { 'C:\\zig-windows-x86_64-0.14.0-dev.311+c50f30038\\' },
+                        cmd = { 'zls' },
                         single_file_support = true,
                         root_dir = lspconfig.util.root_pattern(".git", "build.zig", "zls.json"),
                         settings = {
@@ -67,7 +67,7 @@ return {
                                 enable_inlay_hints = true,
                                 enable_snippets = true,
                                 warn_style = true,
-                                zig_exe_path = 'C:\\zig-windows-x86_64-0.14.0-dev.311+c50f30038\\',
+                                zig_exe_path = 'C:\\zig-windows-x86_64-0.14.0-dev.311+c50f30038\\zig.exe',
                             },
                         },
                     })
