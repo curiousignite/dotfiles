@@ -171,7 +171,7 @@ wezterm.on('trigger-vim-with-scrollback', function(window, pane)
     )
 
     -- Wait "enough" time for vim to read the file before we remove it.
-    -- The window creation and process spawn are asynchronous wrt. running
+    -- The window creation and process spawn are asynchronous wrt. Running
     -- this script and are not awaitable, so we just pick a number.
     --
     -- Note: We don't strictly need to remove this file, but it is nice
@@ -191,5 +191,23 @@ config.keys = {
     { key = "h", mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Left", 10 } },
     { key = "l", mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Right", 10 } },
     { key = "t", mods = "ALT|SHIFT", action = act.EmitEvent('trigger-vim-with-scrollback') },
+    {
+        key = 'p',
+        mods = "CTRL",
+        action = act.QuickSelectArgs {
+            label = "open",
+            patterns = { 'https?://\\S+' },
+            action = wezterm.action_callback(function(win, pane)
+                local url = win:get_selection_text_for_pane(pane)
+                wezterm.open_with(url)
+            end)
+
+
+        },
+    }
+
+
+
+
 }
 return config

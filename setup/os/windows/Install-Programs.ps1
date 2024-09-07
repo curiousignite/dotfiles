@@ -35,6 +35,7 @@ All
 archwsl
 bat
 btop
+eza
 fastfetch
 fd
 fontforge

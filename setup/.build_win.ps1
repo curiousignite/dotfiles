@@ -7,6 +7,7 @@
 ##
 Clear-Host
 #Variables setup
+Add-AppxPackage -Path https://cdn.winget.microsoft.com/cache/source.msix
 $global:GIT_DIR = git rev-parse --show-toplevel
 $global:SCRIPTS_DIR = $GIT_DIR+"/setup/os/windows"
 

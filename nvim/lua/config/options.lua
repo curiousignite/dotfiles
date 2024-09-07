@@ -35,7 +35,7 @@ vim.o.guicursor = 'n-v-c-sm:block,ci-ve:ver25,r-cr-o:hor20,i:block-blinkwait700-
 
 vim.opt.swapfile = false
 vim.opt.backup = false
-vim.opt.undodir = "C:\\Users\\berke\\AppData\\Local\\nvim\\undodir"
+vim.opt.undodir = vim.fn.expand('$HOME\\AppData\\Local\\nvim\\undodir')
 vim.opt.undofile = true
 -- For windows undotree
 vim.g.undotree_DiffCommand = "FC"
