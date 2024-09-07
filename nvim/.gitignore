@@ -34,4 +34,3 @@ data
 .stignore
 .stversions*
 *sync-conflict*
-undodir/

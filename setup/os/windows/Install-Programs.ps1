@@ -4,35 +4,55 @@ using module Message
 
 $winget_apps= @'
 All
-MSYS2.MSYS2
-JanDeDobbeleer.OhMyPosh
-Microsoft.Powershell.Preview
-Microsoft.WindowsTerminalPreview
+AutoHotkey.AutoHotkey
+BurntSushi.ripgrep.MSVC
+DevToys-app.DevToys
+Docker.DockerDesktop
+equalsraf.neovim-qt
 Git.Git
-Neovim.Neovim
-Microsoft.DotNet.SDK.7
-Microsoft.DotNet.Runtime.7
-Mozilla.Firefox
-Valve.Steam
+JanDeDobbeleer.OhMyPosh
 LGUG2Z.komorebi
 LGUG2Z.whkd
-wez.wezterm
-Docker.DockerDesktop
 LLVM.LLVM
+MSYS2.MSYS2
+Microsoft.DevHome
+Microsoft.DotNet.Runtime.7
+Microsoft.DotNet.SDK.7
+Microsoft.Powershell
+Microsoft.WindowsTerminal
+Microsoft.WindowsTerminalPreview
+Mozilla.Firefox
+Neovim.Neovim
+RARLab.WinRAR
+Skillbrains.Lightshot
+Valve.Steam
+wez.wezterm
 '@ -split [environment]::NewLine
 
 $scoop_apps = @'
 All
-sudo
+7zip
+archwsl
 bat
 btop
 fastfetch
-vcredist
-secureuxtheme
-archwsl
-topgrade
-7zip
+fd
+fontforge
+fzf
+go
+grep
+gzip
+make
 meld
+pyenv
+python
+secureuxtheme
+sudo
+topgrade
+touch
+unzip
+vcredist
+wget
 '@ -split [environment]::NewLine
 if ( !(Test-CommandExists winget)) {
     Write-Host ""

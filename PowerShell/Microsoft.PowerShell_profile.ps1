@@ -23,6 +23,5 @@ function which {
 }
 function clr {
     Clear-Host;
-    fastfetch --logo C:\Users\berke\.config\fastfetch\logos\catppuccin-windows --logo-type "file" --logo-color-1 green --logo-color-2 yellow --logo-color-3 red --logo-color-4 magenta --logo-color-5 blue ;
+    fastfetch
 }
-fastfetch --logo C:\Users\berke\.config\fastfetch\logos\catppuccin-windows --logo-type "file" --logo-color-1 green --logo-color-2 yellow --logo-color-3 red --logo-color-4 magenta --logo-color-5 blue ;

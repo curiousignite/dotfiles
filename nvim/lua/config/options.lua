@@ -20,6 +20,8 @@ for option, value in pairs(powershell_options) do
 end
 vim.opt.clipboard = ""
 vim.opt.spelllang = "tr,en"
+-- vim.opt.spelllang = "en_us"
+vim.opt.spell = true
 vim.opt.nu = true
 vim.opt.relativenumber = true
 vim.opt.scrolloff = 8

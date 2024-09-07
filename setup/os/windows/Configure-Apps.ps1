@@ -25,7 +25,7 @@ $userjs_old         = $userjs         + '.old'
 
 if (Test-Path $docker_exe) {
     if(Test-Path $docker_config) {
-        Remove-Item -Path $docker_config_old -Force -Recurse 
+        Remove-Item -Path $docker_config_old -Force -Recurse
         Move-Item -Path $docker_config -Destination $docker_config_old
     }
     New-Item -ItemType Junction -Path $docker_config -Target (Get-Item ~\.config\.docker).FullName
@@ -35,7 +35,7 @@ if (Test-Path $docker_exe) {
 
 if( (Test-Path $nvim_exe) -or (Test-Path $nvim_exe2) ){
     if(Test-Path $nvim_config) {
-        Remove-Item -Path $nvim_config_old -Force -Recurse 
+        Remove-Item -Path $nvim_config_old -Force -Recurse
         Move-Item -Path $nvim_config -Destination $nvim_config_old
     }
     New-Item -ItemType Junction -Path $nvim_config -Target (Get-Item ~\.config\nvim).FullName
@@ -45,7 +45,7 @@ if( (Test-Path $nvim_exe) -or (Test-Path $nvim_exe2) ){
 
 if (Test-Path $posh_exe) {
     if(Test-Path $posh_config ) {
-        Remove-Item -Path $posh_config_old -Force -Recurse 
+        Remove-Item -Path $posh_config_old -Force -Recurse
         Move-Item -Path $posh_config -Destination $posh_config_old
     }
     New-Item -ItemType Junction -Path $posh_config -Target (Get-Item ~\.config\Posh).FullName
@@ -54,7 +54,7 @@ if (Test-Path $posh_exe) {
 }
 
 if(Test-Path $pwsh_config) {
-    Remove-Item -Path $pwsh_config_old -Force -Recurse 
+    Remove-Item -Path $pwsh_config_old -Force -Recurse
     Move-Item -Path $pwsh_config -Destination $pwsh_config_old
 }
 New-Item -ItemType Junction -Path $pwsh_config -Target (Get-Item ~\.config\PowerShell).FullName
@@ -62,7 +62,7 @@ New-Item -ItemType Junction -Path $pwsh_config -Target (Get-Item ~\.config\Power
 
 if (Test-Path $wezterm_exe) {
     if(Test-Path $wezterm_config) {
-        Remove-Item -Path  $wezterm_config_old -Force -Recurse 
+        Remove-Item -Path  $wezterm_config_old -Force -Recurse
         Move-Item -Path $wezterm_config -Destination $wezterm_config_old
     }
     New-Item -ItemType SymbolicLink -Path $wezterm_config -Target (Get-Item ~\.config\.wezterm.lua).FullName
