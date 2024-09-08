@@ -16,6 +16,7 @@ So I ~~stole~~ inspired and implemented some techniques from it but kept the con
 - [X] nvim/wezterm open links in browser on click
 - [X] Firefox user.js configuration (https://github.com/arkenfox/user.js)
 - [ ] Setup VM for testing purposes because it's getting hard to test it on my pc
+- [ ] Nvim errors about treesitter
 
 ### Windows
 
@@ -25,6 +26,13 @@ So I ~~stole~~ inspired and implemented some techniques from it but kept the con
 - [X] Prompt for installation of missing programs
 - [X] Check if fonts exists before installation
 - [X] Windows Explorer Theme settings 
+- [X] Look for wezterm dependencies(OpenGL)
+- [ ] Check if Modules and Fonts folders exist and create otherwise
+- [ ] Change wezterm to nightly
+- [ ] Install script installs wrong packages sometimes
+- [ ] Install script installs OneDrive as dependency
+- [ ] Parameter error when installing cursor
+- [ ] Opacity issues with wezterm on VM(Probably about OpenGL)
 
 
 ### Linux

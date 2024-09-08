@@ -5,7 +5,7 @@
 #
 # Set up Windows Configurations
 ##
-Clear-Host
+
 #Variables setup
 Add-AppxPackage -Path https://cdn.winget.microsoft.com/cache/source.msix
 $global:GIT_DIR = git rev-parse --show-toplevel
@@ -83,21 +83,22 @@ Customizing explorer"
 .$SCRIPTS_DIR/Customize-Explorer.ps1
 
 ##
-# Customize cursor
-##
-Write-Host "
-Installing Posy's Cursor"
-.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR//themes/Cursors/Posys Cursor/_install Posy Default.inf"
-Write-Host "
-Installing Posy's Cursor Black"
-.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR//themes/Cursors/Posys Cursor Black/_install Posy Black.inf"
-
-##
 # Update windows theme
 ##
 Write-Host "
 Installing Catppuccin Explorer Themes" 
 .$SCRIPTS_DIR/Install-Theme.ps1 "$GIT_DIR/themes/Explorer/*"
+
+##
+# Customize cursor
+##
+Write-Host "
+Installing Posy's Cursor"
+.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR/themes/Cursors/Posys Cursor/_install Posy Default.inf"
+Write-Host "
+Installing Posy's Cursor Black"
+.$SCRIPTS_DIR/Install-Cursor.ps1 "$GIT_DIR/themes/Cursors/Posys Cursor Black/_install Posy Black.inf"
+
 
 # Need to test on VM first
 #

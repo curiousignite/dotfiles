@@ -4,6 +4,7 @@ using module Message
 
 $winget_apps= @'
 All
+9NQPSL29BFFF
 AutoHotkey.AutoHotkey
 BurntSushi.ripgrep.MSVC
 DevToys-app.DevToys
@@ -66,7 +67,6 @@ if ( !(Test-CommandExists winget)) {
     Write-Host ""
     Write-Message -Type WARNING  -Message "Winget already installed. Skipping..."
 }
-Clear-Host
 function Out-Menu {
     param (
         [Parameter(Mandatory = $true, ValueFromPipeline = $True, ValueFromPipelinebyPropertyName = $True)]
@@ -159,6 +159,9 @@ if ($Choices -Contains "All") {
     foreach ($Choice in $winget_apps) {
         if ($Choice -eq "All") {
             continue
+        }
+        if ($Choice -eq "OpenGL ( Required for WezTerm") {
+            $Choice = "9NQPSL29BFFF"
         }
         Winget install --id $Choice
     }
