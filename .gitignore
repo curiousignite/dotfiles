@@ -18,7 +18,7 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
-undodir/*
+nvim/undodir/*
 
 tt.*
 .tests
@@ -33,6 +33,7 @@ data
 .stignore
 .stversions*
 *sync-conflict*
+*~syncthing~*
 
 #firefox
 parent.lock

@@ -4,47 +4,47 @@ This is my configuration files repo.
 
 I use this to work on multiple setups simultaneously, both windows and linux.
 
-After creating the skeleton from scratch, I came across a git repo which does basically the same thing as mine does but in a larger scale.
-So I ~~stole~~ inspired and implemented some techniques from it but kept the config files and programs the same for my liking and simplicity.
-
-- Here is a link to git repo: <https://github.com/khaneliman/dotfiles/tree/main>
-
 ## TODO
 
 ### General
 
 - [X] nvim/wezterm open links in browser on click
 - [X] Firefox user.js configuration (https://github.com/arkenfox/user.js)
-- [ ] Setup VM for testing purposes because it's getting hard to test it on my pc
-- [ ] Nvim errors about treesitter
+- [X] Setup VM for testing purposes because it's getting hard to test it on my pc
 
 ### Windows
 
 - [X] Check which programs are installed and install programs
 - [X] Check and replace old config files with config.old file for safety
 - [X] Create junctions and symlinks for windows config files
-- [X] Prompt for installation of missing programs
 - [X] Check if fonts exists before installation
 - [X] Windows Explorer Theme settings 
 - [X] Look for wezterm dependencies(OpenGL)
+- [X] Change wezterm to nightly
+- [X] _Install Script_ installs wrong packages sometimes
+- [X] Parameter error when installing cursor(On desktop and VM)
+- [ ] Manage scoop/chocolatey/winget packages for duplicates
 - [ ] Check if Modules and Fonts folders exist and create otherwise
-- [ ] Change wezterm to nightly
-- [ ] Install script installs wrong packages sometimes
-- [ ] Install script installs OneDrive as dependency
-- [ ] Parameter error when installing cursor
-- [ ] Opacity issues with wezterm on VM(Probably about OpenGL)
+- [ ] Adding komorebic to startup does not work for some reason
 
 
 ### Linux
 
-- [ ] Check which programs are installed and install programs
+- [ ] Check which programs are installed then install missing programs
 - [ ] Check and replace old config files with config.old file for safety
 - [ ] Create links for config files
-- [ ] Prompt for installation of missing programs
 
 ### Future Plans
 
+- Finish linux configuration
 - Create a macOS setup
 - Create a minimal setup versions for old systems
 - Separate personal and work stuff(Don't install steam on work pc etc.)
-- Create a single executable with the minimum dependency for starting point
+- Create a single executable with the minimum dependency for starting point on fresh installs
+
+
+## References/Inspirations
+
+- <https://github.com/khaneliman/dotfiles/tree/main>
+- <https://github.com/KevinSilvester/wezterm-config>
+- <https://github.com/tjdevries/config_manager/tree/master/windows/ahk>

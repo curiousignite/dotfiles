@@ -4,7 +4,7 @@ using module Message
 
 $winget_apps= @'
 All
-9NQPSL29BFFF
+OpenGL
 AutoHotkey.AutoHotkey
 BurntSushi.ripgrep.MSVC
 DevToys-app.DevToys
@@ -160,7 +160,7 @@ if ($Choices -Contains "All") {
         if ($Choice -eq "All") {
             continue
         }
-        if ($Choice -eq "OpenGL ( Required for WezTerm") {
+        if ($Choice -eq "OpenGL") {
             $Choice = "9NQPSL29BFFF"
         }
         Winget install --id $Choice
@@ -282,6 +282,3 @@ if ($Choices -Contains "All") {
         scoop install $Choice
     }
 }
-
-scoop update --all
-winget upgrade --all

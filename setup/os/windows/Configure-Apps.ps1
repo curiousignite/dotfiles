@@ -11,8 +11,18 @@ $nvim_config    = $home + '\AppData\Local\nvim'
 $posh_config    = $home + '\Posh'
 $wezterm_config = $home + '\.wezterm.lua'
 $docker_config  = $home + '\.docker'
-$firefox_config = $home + '\AppData\Roaming\Mozilla\Firefox\Profiles\92wg67t8.berke\chrome'
-$userjs         = $home + '\AppData\Roaming\Mozilla\Firefox\Profiles\92wg67t8.berke\user.js'
+Get-ChildItem -Path "$env:APPDATA\Mozilla\Firefox\Profiles" | Where-Object {$_.PSIsContainer -and $_.Name -match "\.default"} | % {
+    # copy content to *.default-release folder
+    if($_.Name -match "\.default-release$"){
+        Copy-Item -Path \\server\... -Destination $_.FullName
+        $firefox_config = $_.FullName + '\chrome'
+        $userjs         = $_.FullName + '\user.js'
+    } else{
+        # copy content to *.default folder
+        $firefox_config = $_.FullName + '\chrome'
+        $userjs         = $_.FullName + '\user.js'
+    }
+}
 $pwsh_config    = split-path -parent $PROFILE
 
 # Config old
@@ -21,6 +31,7 @@ $posh_config_old    = $posh_config    + '.old'
 $wezterm_config_old = $wezterm_config + '.old'
 $pwsh_config_old    = $pwsh_config    + '.old'
 $firefox_config_old = $firefox_config + '.old'
+$docker_config_old  = $docker_config  + '.old'
 $userjs_old         = $userjs         + '.old'
 
 if (Test-Path $docker_exe) {
