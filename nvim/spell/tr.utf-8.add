@@ -34,3 +34,6 @@ wezterm
 dotfiles
 awaitable
 winget
+POSIX
+basename
+wez
