@@ -13,20 +13,54 @@ elseif platform.is_win or platform.is_linux then
     mod.SUPER_REV = 'ALT|CTRL'
 end
 
+local function isViProcess(pane)
+    -- get_foreground_process_name On Linux, macOS and Windows,
+    -- the process can be queried to determine this path. Other operating systems
+    -- (notably, FreeBSD and other unix systems) are not currently supported
+    return pane:get_foreground_process_name():find('n?vim') ~= nil or pane:get_title():find("n?vim") ~= nil
+end
+
+local function conditionalActivatePane(window, pane, pane_direction, vim_direction)
+    if isViProcess(pane) then
+        window:perform_action(
+        -- This should match the keybinds you set in Neovim.
+            act.SendKey({ key = vim_direction, mods = 'CTRL' }),
+            pane
+        )
+    else
+        window:perform_action(act.ActivatePaneDirection(pane_direction), pane)
+    end
+end
+wezterm.on('ActivatePaneDirection-right', function(window, pane)
+    conditionalActivatePane(window, pane, 'Right', 'l')
+end)
+wezterm.on('ActivatePaneDirection-left', function(window, pane)
+    conditionalActivatePane(window, pane, 'Left', 'h')
+end)
+wezterm.on('ActivatePaneDirection-up', function(window, pane)
+    conditionalActivatePane(window, pane, 'Up', 'k')
+end)
+wezterm.on('ActivatePaneDirection-down', function(window, pane)
+    conditionalActivatePane(window, pane, 'Down', 'j')
+end)
+
+
 local keys = {
+    { key = 'ğ',     mods = 'CTRL',      action = act.ActivatePaneDirection("Prev") },
+    { key = 'ü',     mods = 'CTRL',      action = act.ActivatePaneDirection("Next") },
 
-    { key = 'o', mods = "CTRL",      action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
-    { key = '"', mods = "CTRL",      action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
-    { key = 'q', mods = "CTRL",      action = act.CloseCurrentPane { confirm = false } },
-    { key = 'w', mods = "ALT",       action = act.CloseCurrentTab({ confirm = true }) },
-    { key = "h", mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Left", 10 } },
-    { key = "l", mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Right", 10 } },
-    { key = "t", mods = "ALT|SHIFT", action = act.EmitEvent('trigger-vim-with-scrollback') },
+    { key = '"',     mods = "CTRL",      action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
+    { key = 'Space', mods = "CTRL",      action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
+    { key = 'q',     mods = "CTRL",      action = act.CloseCurrentPane { confirm = false } },
+    { key = 'w',     mods = "CTRL",      action = act.CloseCurrentTab({ confirm = false }) },
+    { key = "h",     mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Left", 10 } },
+    { key = "l",     mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Right", 10 } },
+    { key = "t",     mods = "ALT|SHIFT", action = act.EmitEvent('trigger-vim-with-scrollback') },
 
-    { key = 'h', mods = 'CTRL',      action = act.ActivatePaneDirection("Left") },
-    { key = 'j', mods = 'CTRL',      action = act.ActivatePaneDirection("Down") },
-    { key = 'k', mods = 'CTRL',      action = act.ActivatePaneDirection("Up") },
-    { key = 'l', mods = 'CTRL',      action = act.ActivatePaneDirection("Right") },
+    { key = 'h',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-left') },
+    { key = 'j',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-down') },
+    { key = 'k',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-up') },
+    { key = 'l',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-right') },
     {
         key = 'p',
         mods = "CTRL",
@@ -50,15 +84,15 @@ local keys = {
         },
     },
     -- misc/useful --
-    { key = 'F1', mods = 'NONE', action = 'ActivateCopyMode' },
-    { key = 'F2', mods = 'NONE', action = act.ActivateCommandPalette },
-    { key = 'F3', mods = 'NONE', action = act.ShowLauncher },
-    { key = 'F4', mods = 'NONE', action = act.ShowLauncherArgs({ flags = 'FUZZY|TABS' }) },
-    {
-        key = 'F5',
-        mods = 'NONE',
-        action = act.ShowLauncherArgs({ flags = 'FUZZY|WORKSPACES' }),
-    },
+    { key = 'F1',  mods = 'NONE',       action = 'ActivateCopyMode' },
+    { key = 'F2',  mods = 'NONE',       action = act.ActivateCommandPalette },
+    { key = 'F3',  mods = 'NONE',       action = act.ShowLauncher },
+    { key = 'F4',  mods = 'NONE',       action = act.ShowLauncherArgs({ flags = 'FUZZY|TABS' }) },
+    -- {
+    --     key = 'F5',
+    --     mods = 'NONE',
+    --     action = act.ShowLauncherArgs({ flags = 'FUZZY|WORKSPACES' }),
+    -- },
     { key = 'F11', mods = 'NONE',       action = act.ToggleFullScreen },
     -- copy/paste --
     { key = 'c',   mods = 'CTRL|SHIFT', action = act.CopyTo('Clipboard') },
@@ -111,7 +145,7 @@ local keys = {
     { key = '9',   mods = 'CTRL',         action = act.ActivateTab(8) },
     { key = '0',   mods = 'CTRL',         action = act.ActivateTab(9) },
 
-    { key = 't',   mods = mod.SUPER,      action = act.SpawnTab('DefaultDomain') },
+    { key = 't',   mods = 'CTRL',         action = act.SpawnTab('DefaultDomain') },
     -- tabs: navigation
     { key = 'Tab', mods = 'SHIFT | CTRL', action = act.ActivateTabRelative(-1) },
     { key = 'Tab', mods = 'CTRL',         action = act.ActivateTabRelative(1) },

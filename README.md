@@ -25,7 +25,7 @@ I use this to work on multiple setups simultaneously, both windows and linux.
 - [X] Parameter error when installing cursor(On desktop and VM)
 - [ ] Manage scoop/chocolatey/winget packages for duplicates
 - [ ] Check if Modules and Fonts folders exist and create otherwise
-- [ ] Adding komorebic to startup does not work for some reason
+- [ ] Adding komorebi to startup does not work for some reason
 
 
 ### Linux
@@ -39,7 +39,7 @@ I use this to work on multiple setups simultaneously, both windows and linux.
 - Finish linux configuration
 - Create a macOS setup
 - Create a minimal setup versions for old systems
-- Separate personal and work stuff(Don't install steam on work pc etc.)
+- Separate personal and work stuff(Don't install Steam on work pc etc.)
 - Create a single executable with the minimum dependency for starting point on fresh installs
 
 

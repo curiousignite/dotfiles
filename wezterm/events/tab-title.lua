@@ -1,42 +1,48 @@
-local wezterm = require 'wezterm';
-local M = {}
+local wezterm                 = require 'wezterm';
+local nf                      = wezterm.nerdfonts
+local M                       = {}
+
+local SOLID_LEFT_ARROW        = utf8.char(0xe0ba)
+local SOLID_LEFT_MOST         = utf8.char(0x2588)
+local SOLID_RIGHT_ARROW       = utf8.char(0xe0bc)
+
+local GLYPH_SEMI_CIRCLE_LEFT  = utf8.char(0xe0b6)
+local GLYPH_SEMI_CIRCLE_RIGHT = utf8.char(0xe0b4)
+
+
+local ADMIN_ICON     = utf8.char(0xed25)
+
+local CMD_ICON       = utf8.char(0xe62a)
+local NU_ICON        = utf8.char(0xe7a8)
+local PS_ICON        = utf8.char(0xe70f)
+local ELV_ICON       = utf8.char(0xef4e)
+local WSL_ICON       = utf8.char(0xf17c)
+local YORI_ICON      = utf8.char(0xf1d4)
+local NYA_ICON       = utf8.char(0xf011b)
+
+local VIM_ICON       = utf8.char(0xf36f)
+local PAGER_ICON     = utf8.char(0xf15c)
+local FUZZY_ICON     = utf8.char(0xf0b0)
+local HOURGLASS_ICON = utf8.char(0xf252)
+local SUNGLASS_ICON  = utf8.char(0xf04e0)
+
+local PYTHON_ICON    = utf8.char(0xe73c)
+local NODE_ICON      = utf8.char(0xe74e)
+local DENO_ICON      = utf8.char(0xe628)
+local LAMBDA_ICON    = utf8.char(0xf0627)
+
+local SUP_IDX        = { "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "¹⁰",
+    "¹¹", "¹²", "¹³", "¹⁴", "¹⁵", "¹⁶", "¹⁷", "¹⁸", "¹⁹", "²⁰" }
+local SUB_IDX        = { "₁", "₂", "₃", "₄", "₅", "₆", "₇", "₈", "₉", "₁₀",
+    "₁₁", "₁₂", "₁₃", "₁₄", "₁₅", "₁₆", "₁₇", "₁₈", "₁₉", "₂₀" }
+
 -- Equivalent to POSIX basename(3)
 -- Given "/foo/bar" returns "bar"
 -- Given "c:\\foo\\bar" returns "bar"
 local function basename(s)
     return string.gsub(s, "(.*[/\\])(.*)", "%2")
 end
-
-local SOLID_LEFT_ARROW  = utf8.char(0xe0ba)
-local SOLID_LEFT_MOST   = utf8.char(0x2588)
-local SOLID_RIGHT_ARROW = utf8.char(0xe0bc)
-
-local ADMIN_ICON        = utf8.char(0xf49c)
-
-local CMD_ICON          = utf8.char(0xe62a)
-local NU_ICON           = utf8.char(0xe7a8)
-local PS_ICON           = utf8.char(0xe70f)
-local ELV_ICON          = utf8.char(0xfc6f)
-local WSL_ICON          = utf8.char(0xf17c)
-local YORI_ICON         = utf8.char(0xf1d4)
-local NYA_ICON          = utf8.char(0xf61a)
-
-local VIM_ICON          = ''
-local PAGER_ICON        = utf8.char(0xf718)
-local FUZZY_ICON        = utf8.char(0xf0b0)
-local HOURGLASS_ICON    = utf8.char(0xf252)
-local SUNGLASS_ICON     = utf8.char(0xf9df)
-
-local PYTHON_ICON       = utf8.char(0xf820)
-local NODE_ICON         = utf8.char(0xe74e)
-local DENO_ICON         = utf8.char(0xe628)
-local LAMBDA_ICON       = utf8.char(0xfb26)
-
-local SUP_IDX           = { "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "¹⁰",
-    "¹¹", "¹²", "¹³", "¹⁴", "¹⁵", "¹⁶", "¹⁷", "¹⁸", "¹⁹", "²⁰" }
-local SUB_IDX           = { "₁", "₂", "₃", "₄", "₅", "₆", "₇", "₈", "₉", "₁₀",
-    "₁₁", "₁₂", "₁₃", "₁₄", "₁₅", "₁₆", "₁₇", "₁₈", "₁₉", "₂₀" }
-M.setup                 = function()
+M.setup = function()
     wezterm.on("format-tab-title", function(tab, tabs, panes, config, hover, max_width)
         local edge_background = "#121212"
         local background = "#4E4E4E"
@@ -96,9 +102,9 @@ M.setup                 = function()
         if pane_title:match("^Administrator: ") then
             title_with_icon = title_with_icon .. " " .. ADMIN_ICON
         end
-        local left_arrow = SOLID_LEFT_ARROW
+        local left_arrow = GLYPH_SEMI_CIRCLE_LEFT
         if tab.tab_index == 0 then
-            left_arrow = SOLID_LEFT_MOST
+            left_arrow = GLYPH_SEMI_CIRCLE_LEFT
         end
         local id = SUB_IDX[tab.tab_index + 1]
         local pid = SUP_IDX[tab.active_pane.pane_index + 1]
@@ -117,7 +123,8 @@ M.setup                 = function()
             { Text = pid },
             { Background = { Color = edge_background } },
             { Foreground = { Color = edge_foreground } },
-            { Text = SOLID_RIGHT_ARROW },
+            { Text = GLYPH_SEMI_CIRCLE_RIGHT
+            },
             { Attribute = { Intensity = "Normal" } },
         }
     end)

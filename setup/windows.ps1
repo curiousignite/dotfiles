@@ -36,7 +36,8 @@ Installing Powershell Modules"
 ##
 Write-Host "
 Installing fonts"
-.$SCRIPTS_DIR/Install-Fonts.ps1 $GIT_DIR"/fonts"
+.$SCRIPTS_DIR/Install-Fonts.ps1 $GIT_DIR"/fonts/Hack"
+.$SCRIPTS_DIR/Install-Fonts.ps1 $GIT_DIR"/fonts/JetBrains"
 
 #
 # ░█░█░▀█▀░█▀█░█▀▄░█▀█░█░█░█▀▀░░░█▀▀░█▀▀░█▀█░▀█▀░█░█░█▀▄░█▀▀░█▀▀

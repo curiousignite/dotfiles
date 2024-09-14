@@ -36,7 +36,7 @@ return {
         require("mason").setup({})
         require("mason-lspconfig").setup({
             ensure_installed = {
-                "tsserver",
+                -- "tsserver",
                 "html",
                 "cssls",
                 "tailwindcss",
@@ -48,6 +48,7 @@ return {
                 "pyright",
                 "gopls",
                 "zls",
+                "clangd",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
@@ -73,18 +74,18 @@ return {
                     })
                 end,
                 --TypeScript
-                ["tsserver"] = function()
-                    lspconfig.tsserver.setup({
-                        capabilities = capabilities,
-                        settings = {
-                            completions = {
-                                completeFunctionCalls = true,
-                            },
-                        },
-                    })
-                    vim.g.zig_fmt_parse_errors = 0
-                    vim.g.zig_fmt_autosave = 0
-                end,
+                -- ["tsserver"] = function()
+                --     lspconfig.tsserver.setup({
+                --         capabilities = capabilities,
+                --         settings = {
+                --             completions = {
+                --                 completeFunctionCalls = true,
+                --             },
+                --         },
+                --     })
+                --     vim.g.zig_fmt_parse_errors = 0
+                --     vim.g.zig_fmt_autosave = 0
+                -- end,
 
                 -- Emmet
                 ["emmet_ls"] = function()
@@ -128,7 +129,7 @@ return {
                         capabilities = capabilities,
                         settings = {
                             Lua = {
-                                runtime = { version = "Lua 5.4" },
+                                runtime = { version = "Lua 5.4.7" },
                                 telemetry = { enabled = false },
                                 diagnostics = {
                                     globals = { "bit", "vim", "it", "describe", "before_each", "after_each" },

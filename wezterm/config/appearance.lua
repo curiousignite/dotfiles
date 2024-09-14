@@ -1,6 +1,7 @@
 local wezterm = require('wezterm')
 local gpu_adapters = require('utils.gpu_adapter')
 local colors = require('colors.custom')
+local fonts = require('config.fonts')
 
 return {
     animation_fps = 60,
@@ -34,6 +35,7 @@ return {
     hide_tab_bar_if_only_one_tab = false,
     use_fancy_tab_bar = false,
     window_decorations = "INTEGRATED_BUTTONS|RESIZE",
+    integrated_title_button_color = "pink",
     tab_max_width = 25,
     show_tab_index_in_tab_bar = false,
     switch_to_last_active_tab_when_closing_tab = true,
@@ -43,18 +45,13 @@ return {
         left = 5,
         right = 10,
         top = 12,
-        bottom = 7,
-        -- left = 0,
-        -- right = 0,
-        -- top = 0,
-        -- bottom = 0,
-
+        bottom = 0,
     },
     window_close_confirmation = 'NeverPrompt',
     window_frame = {
         active_titlebar_bg = '#090909',
-        -- font = fonts.font,
-        -- font_size = fonts.font_size,
+        font = fonts.font,
+        font_size = fonts.font_size,
     },
     inactive_pane_hsb = {
         saturation = 0.9,

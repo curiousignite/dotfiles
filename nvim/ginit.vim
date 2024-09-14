@@ -3,9 +3,9 @@ set mouse=a
 " Set Editor Font
 if exists(':GuiFont')
     " Use GuiFont! to ignore font errors
-    GuiFont Hack Nerd Font Mono:h14
+    GuiFont JetBrains Nerd Font Mono:h14
 else
-  set guifont=Hack\ Nerd\ Font\ Mono:h16
+  set guifont=JetBrains\ Nerd\ Font\ Mono:h14
 endif
 if exists(':GuiWindowOpacity')
      GuiWindowOpacity 0.9

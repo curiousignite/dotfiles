@@ -1,34 +1,27 @@
 -- Keymaps are automatically loaded on the VeryLazy event
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 local keymap = vim.keymap
-local opts = { noremap = true, silent = true }
 local builtin = require("telescope.builtin")
 local harpoon = require("harpoon")
 --Increment/decrement
 keymap.set("n", "+", "<C-a>")
 keymap.set("n", "-", "<C-x>")
-
--- Select all
--- keymap.set("n", "<C-a>", "gg<S-v>G")
-
--- New tab
-keymap.set("n", "te", ":tabedit<Return>", opts)
-keymap.set("n", "<tab>", ":tabnext<Return>", opts)
-keymap.set("n", "<s-tab>", ":tabprev<Return>", opts)
-
+--
 --Split window
-keymap.set("n", "ss", ":split<Return>", opts)
-keymap.set("n", "sv", ":vsplit<Return>", opts)
+keymap.set("n", "ss", ":split<Return>", { desc = 'Split Horizantally' })
+keymap.set("n", "sv", ":vsplit<Return>", { desc = 'Split Vertically' })
+--
 --Move window
-keymap.set("n", "<C-h>", "<C-w><C-h>", { desc = "Move focus to the left window" })
-keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right window" })
-keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
-keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
+-- keymap.set("n", "<C-h>", "<C-w><C-h>", { desc = "Move focus to the left  window" })
+-- keymap.set("n", "<C-l>", "<C-w><C-l>", { desc = "Move focus to the right window" })
+-- keymap.set("n", "<C-j>", "<C-w><C-j>", { desc = "Move focus to the lower window" })
+-- keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper window" })
 
-vim.keymap.set({ 'n', 't' }, '<C-h>', '<CMD>NavigatorLeft<CR>')
-vim.keymap.set({ 'n', 't' }, '<C-l>', '<CMD>NavigatorRight<CR>')
-vim.keymap.set({ 'n', 't' }, '<C-k>', '<CMD>NavigatorUp<CR>')
-vim.keymap.set({ 'n', 't' }, '<C-j>', '<CMD>NavigatorDown<CR>')
+-- WezTerm navigation
+keymap.set({ 'n', 't' }, '<C-h>', '<CMD>NavigatorLeft<CR>')
+keymap.set({ 'n', 't' }, '<C-l>', '<CMD>NavigatorRight<CR>')
+keymap.set({ 'n', 't' }, '<C-k>', '<CMD>NavigatorUp<CR>')
+keymap.set({ 'n', 't' }, '<C-j>', '<CMD>NavigatorDown<CR>')
 
 --IncRename
 keymap.set("n", "<leader>rn", ":IncRename ", { desc = "Incremental Rename" })
@@ -49,11 +42,18 @@ keymap.set({ "n", "x", "o" }, "L", "$")
 keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
 keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
 keymap.set("n", "<BS>", "_")
+
 --Yank into system clipboard
---
 keymap.set("v", "<leader>y", '"+y', { desc = "[y]ank to system clipboard" })
 keymap.set("n", "<leader>y", '"+y', { desc = "[y]ank to system clipboard" })
 keymap.set("n", "<leader>Y", '"+y$', { desc = "[Y]ank to system clipboard" })
+
+-- Common typos
+keymap.set('n', ':W', ':w<CR>', { noremap = true, silent = true })
+keymap.set('n', ':Q', ':q<CR>', { noremap = true, silent = true })
+keymap.set('n', ':Wq', ':wq<CR>', { noremap = true, silent = true })
+keymap.set('n', ':WQ', ':wq<CR>', { noremap = true, silent = true })
+keymap.set('n', 'q:', ':q<CR>', { noremap = true, silent = true })
 
 -- Delete to void
 keymap.set({ "n", "v" }, "<leader>d", '"_d', { desc = "[D]elete to void" })
@@ -157,39 +157,39 @@ vim.keymap.set("n", "<C-ç>", function()
 end)
 
 -- Toggle previous & next buffers stored within Harpoon list
-keymap.set("n", "<leader>p", function()
-    harpoon:list():prev()
-end, { desc = "Harpoon [P]revious" })
+-- keymap.set("n", "<leader>p", function()
+--     harpoon:list():prev()
+-- end, { desc = "Harpoon [P]revious" })
 keymap.set("n", "<leader>n", function()
     harpoon:list():next()
 end, { desc = "Harpoon [N]ext" })
 
-keymap.set({ "n", "t", "i" }, "<C-\\>", function()
-    vim.cmd([[ ToggleTermToggleAll ]])
+-- keymap.set({ "n", "t", "i" }, "<C-\\>", function()
+--     vim.cmd([[ ToggleTermToggleAll ]])
+--
+--     -- list current buffers
+--     local buffers = vim.api.nvim_list_bufs()
+--
+--     -- check if toggleterm buffer exists. If not then create one by vim.cmd [[ exe 1 . "ToggleTerm" ]]
+--     local toggleterm_exists = false
+--     for _, buf in ipairs(buffers) do
+--         local buf_name = vim.api.nvim_buf_get_name(buf)
+--         if buf_name:find("toggleterm#") then
+--             toggleterm_exists = true
+--             break
+--         end
+--     end
+--
+--     if not toggleterm_exists then
+--         vim.cmd([[ exe 1 . "ToggleTerm" ]])
+--     end
+-- end)
 
-    -- list current buffers
-    local buffers = vim.api.nvim_list_bufs()
 
-    -- check if toggleterm buffer exists. If not then create one by vim.cmd [[ exe 1 . "ToggleTerm" ]]
-    local toggleterm_exists = false
-    for _, buf in ipairs(buffers) do
-        local buf_name = vim.api.nvim_buf_get_name(buf)
-        if buf_name:find("toggleterm#") then
-            toggleterm_exists = true
-            break
-        end
-    end
-
-    if not toggleterm_exists then
-        vim.cmd([[ exe 1 . "ToggleTerm" ]])
-    end
-end)
-
-
-keymap.set("n", "<leader>gst", vim.cmd.Git, { desc = "[G]it [S][T]atus" })
-keymap.set("n", "<leader>ga", "<CMD>G add *<CR>", { desc = "[G]it [A]dd" })
-keymap.set("n", "<leader>gc", "<CMD>G commit<CR>", { desc = "[G]it [C]ommit" })
-keymap.set("n", "<leader>gp", "<CMD>G push<CR>", { desc = "[G]it [P]ush" })
-keymap.set("n", "<leader>gP", "<CMD>G pull --rebase<CR>", { desc = "[G]it [P]ull" })
+-- keymap.set("n", "<leader>gst", vim.cmd.Git, { desc = "[G]it [S][T]atus" })
+-- keymap.set("n", "<leader>ga", "<CMD>G add *<CR>", { desc = "[G]it [A]dd" })
+-- keymap.set("n", "<leader>gc", "<CMD>G commit<CR>", { desc = "[G]it [C]ommit" })
+-- keymap.set("n", "<leader>gp", "<CMD>G push<CR>", { desc = "[G]it [P]ush" })
+-- keymap.set("n", "<leader>gP", "<CMD>G pull --rebase<CR>", { desc = "[G]it [P]ull" })
 --Cellular Automaton
 keymap.set("n", "<leader>fml", "<CMD>CellularAutomaton make_it_rain<CR>", { desc = "FML" })
