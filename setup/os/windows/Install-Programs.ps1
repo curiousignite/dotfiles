@@ -4,12 +4,10 @@ using module Message
 
 $winget_apps= @'
 All
-OpenGL
 AutoHotkey.AutoHotkey
 BurntSushi.ripgrep.MSVC
 DevToys-app.DevToys
 Docker.DockerDesktop
-equalsraf.neovim-qt
 Git.Git
 JanDeDobbeleer.OhMyPosh
 LGUG2Z.komorebi
@@ -24,10 +22,15 @@ Microsoft.WindowsTerminal
 Microsoft.WindowsTerminalPreview
 Mozilla.Firefox
 Neovim.Neovim
+Nextcloud.NextcloudDesktop
+Obsidian.Obsidian
+OpenGL
 RARLab.WinRAR
 Skillbrains.Lightshot
 Valve.Steam
-wez.wezterm
+equalsraf.neovim-qt
+Syncthing.Syncthing
+tldr-pages.tlrc
 '@ -split [environment]::NewLine
 
 $scoop_apps = @'
@@ -54,6 +57,7 @@ topgrade
 touch
 unzip
 vcredist
+wezterm-nightly
 wget
 '@ -split [environment]::NewLine
 if ( !(Test-CommandExists winget)) {

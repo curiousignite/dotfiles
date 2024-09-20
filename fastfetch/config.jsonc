@@ -34,7 +34,6 @@
         "cpu",
         "gpu",
         "memory",
-        "swap",
         "disk",
         "localip",
         "battery",

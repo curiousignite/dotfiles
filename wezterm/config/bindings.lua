@@ -46,34 +46,38 @@ end)
 
 
 local keys = {
-    { key = 'ğ',     mods = 'CTRL',      action = act.ActivatePaneDirection("Prev") },
-    { key = 'ü',     mods = 'CTRL',      action = act.ActivatePaneDirection("Next") },
+    { key = 'ğ', mods = 'CTRL',       action = act.ActivatePaneDirection("Prev") },
+    { key = 'ü', mods = 'CTRL',       action = act.ActivatePaneDirection("Next") },
 
-    { key = '"',     mods = "CTRL",      action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
-    { key = 'Space', mods = "CTRL",      action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
-    { key = 'q',     mods = "CTRL",      action = act.CloseCurrentPane { confirm = false } },
-    { key = 'w',     mods = "CTRL",      action = act.CloseCurrentTab({ confirm = false }) },
-    { key = "h",     mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Left", 10 } },
-    { key = "l",     mods = "ALT|SHIFT", action = act.AdjustPaneSize { "Right", 10 } },
-    { key = "t",     mods = "ALT|SHIFT", action = act.EmitEvent('trigger-vim-with-scrollback') },
+    { key = '"', mods = "CTRL",       action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
+    { key = '-', mods = "CTRL",       action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
 
-    { key = 'h',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-left') },
-    { key = 'j',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-down') },
-    { key = 'k',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-up') },
-    { key = 'l',     mods = 'CTRL',      action = act.EmitEvent('ActivatePaneDirection-right') },
+    { key = 'q', mods = "CTRL",       action = act.CloseCurrentPane { confirm = false } },
+    { key = 'w', mods = "CTRL",       action = act.CloseCurrentTab({ confirm = false }) },
+    { key = "h", mods = "ALT|SHIFT",  action = act.AdjustPaneSize { "Left", 10 } },
+    { key = "l", mods = "ALT|SHIFT",  action = act.AdjustPaneSize { "Right", 10 } },
+    { key = "t", mods = "ALT|SHIFT",  action = act.EmitEvent('trigger-vim-with-scrollback') },
+
+    -- movement
+    { key = 'h', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-left') },
+    { key = 'j', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-down') },
+    { key = 'k', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-up') },
+    { key = 'l', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-right') },
+    -- search
+    { key = 'f', mods = 'CTRL|SHIFT', action = act.Search({ CaseInSensitiveString = '' }) },
     {
         key = 'p',
         mods = "CTRL",
         action = act.QuickSelectArgs {
             label = "open url",
-            patterns = {
-                '\\((https?://\\S+)\\)',
-                '\\[(https?://\\S+)\\]',
-                '\\{(https?://\\S+)\\}',
-                '<(https?://\\S+)>',
-                '\\bhttps?://\\S+[)/a-zA-Z0-9-]+'
-
-            },
+            -- patterns = {
+            --     '\\((https?://\\S+)\\)',
+            --     '\\[(https?://\\S+)\\]',
+            --     '\\{(https?://\\S+)\\}',
+            --     '<(https?://\\S+)>',
+            --     '\\bhttps?://\\S+[)/a-zA-Z0-9-]+'
+            --
+            -- },
             action = wezterm.action_callback(function(win, pane)
                 local url = win:get_selection_text_for_pane(pane)
                 wezterm.log_info('opening: ' .. url)
@@ -94,6 +98,7 @@ local keys = {
     --     action = act.ShowLauncherArgs({ flags = 'FUZZY|WORKSPACES' }),
     -- },
     { key = 'F11', mods = 'NONE',       action = act.ToggleFullScreen },
+
     -- copy/paste --
     { key = 'c',   mods = 'CTRL|SHIFT', action = act.CopyTo('Clipboard') },
     { key = 'v',   mods = 'CTRL|SHIFT', action = act.PasteFrom('Clipboard') },
