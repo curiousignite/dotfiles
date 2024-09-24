@@ -52,4 +52,5 @@ return {
             end
         end
 
-    } }
+    }
+}

@@ -24,6 +24,9 @@ Mozilla.Firefox
 Neovim.Neovim
 Nextcloud.NextcloudDesktop
 Obsidian.Obsidian
+WinToys
+OBSProject.OBSStudio
+AltSnap.AltSnap
 OpenGL
 RARLab.WinRAR
 Skillbrains.Lightshot
@@ -57,6 +60,7 @@ topgrade
 touch
 unzip
 vcredist
+vlc
 wezterm-nightly
 wget
 '@ -split [environment]::NewLine
@@ -167,10 +171,19 @@ if ($Choices -Contains "All") {
         if ($Choice -eq "OpenGL") {
             $Choice = "9NQPSL29BFFF"
         }
+        if ($Choice -eq "WinToys") {
+            $Choice = "9P8LTPGCBZXD"
+        }
         Winget install --id $Choice
     }
 } else {
     foreach ($Choice in $Choices) {
+        if ($Choice -eq "OpenGL") {
+            $Choice = "9NQPSL29BFFF"
+        }
+        if ($Choice -eq "WinToys") {
+            $Choice = "9P8LTPGCBZXD"
+        }
         Winget install --id $Choice
     }
 }

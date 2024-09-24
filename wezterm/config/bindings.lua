@@ -46,25 +46,24 @@ end)
 
 
 local keys = {
-    { key = 'ğ', mods = 'CTRL',       action = act.ActivatePaneDirection("Prev") },
-    { key = 'ü', mods = 'CTRL',       action = act.ActivatePaneDirection("Next") },
+    { key = 'ğ', mods = 'CTRL',         action = act.ActivatePaneDirection("Prev") },
+    { key = 'ü', mods = 'CTRL',         action = act.ActivatePaneDirection("Next") },
 
-    { key = '"', mods = "CTRL",       action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
-    { key = '-', mods = "CTRL",       action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
-
-    { key = 'q', mods = "CTRL",       action = act.CloseCurrentPane { confirm = false } },
-    { key = 'w', mods = "CTRL",       action = act.CloseCurrentTab({ confirm = false }) },
-    { key = "h", mods = "ALT|SHIFT",  action = act.AdjustPaneSize { "Left", 10 } },
-    { key = "l", mods = "ALT|SHIFT",  action = act.AdjustPaneSize { "Right", 10 } },
-    { key = "t", mods = "ALT|SHIFT",  action = act.EmitEvent('trigger-vim-with-scrollback') },
+    { key = '"', mods = "CTRL",         action = act.SplitHorizontal({ domain = 'CurrentPaneDomain' }) },
+    { key = '-', mods = "CTRL",         action = act.SplitVertical({ domain = 'CurrentPaneDomain' }) },
+    { key = 'q', mods = "CTRL | SHIFT", action = act.CloseCurrentPane { confirm = false } },
+    { key = 'w', mods = "CTRL | SHIFT", action = act.CloseCurrentTab({ confirm = false }) },
+    { key = "h", mods = "ALT|SHIFT",    action = act.AdjustPaneSize { "Left", 10 } },
+    { key = "l", mods = "ALT|SHIFT",    action = act.AdjustPaneSize { "Right", 10 } },
+    { key = "t", mods = "ALT|SHIFT",    action = act.EmitEvent('trigger-vim-with-scrollback') },
 
     -- movement
-    { key = 'h', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-left') },
-    { key = 'j', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-down') },
-    { key = 'k', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-up') },
-    { key = 'l', mods = 'CTRL',       action = act.EmitEvent('ActivatePaneDirection-right') },
+    { key = 'h', mods = 'CTRL',         action = act.EmitEvent('ActivatePaneDirection-left') },
+    { key = 'j', mods = 'CTRL',         action = act.EmitEvent('ActivatePaneDirection-down') },
+    { key = 'k', mods = 'CTRL',         action = act.EmitEvent('ActivatePaneDirection-up') },
+    { key = 'l', mods = 'CTRL',         action = act.EmitEvent('ActivatePaneDirection-right') },
     -- search
-    { key = 'f', mods = 'CTRL|SHIFT', action = act.Search({ CaseInSensitiveString = '' }) },
+    { key = 'f', mods = 'CTRL|SHIFT',   action = act.Search({ CaseInSensitiveString = '' }) },
     {
         key = 'p',
         mods = "CTRL",

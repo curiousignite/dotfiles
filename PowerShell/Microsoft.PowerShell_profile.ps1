@@ -9,6 +9,7 @@ Import-Module $modules\translate\0.1\translate.psm1
 $Env:KOMOREBI_CONFIG_HOME = "$HOME\.config\komorebi"
 Set-Alias -Name 'vim' -Value 'nvim'
 Set-Alias fe FindFile 
+Set-Alias wc Measure-Object
 
 function ll {
     param($var) eza -la --hyperlink $var
@@ -29,6 +30,8 @@ function FindFile {
     }
 
 }
+
+
 #function prompt {
 #    $p = $executionContext.SessionState.Path.CurrentLocation
 #    $osc7 = ""

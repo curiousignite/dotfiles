@@ -30,6 +30,7 @@ local PYTHON_ICON    = utf8.char(0xe73c)
 local NODE_ICON      = utf8.char(0xe74e)
 local DENO_ICON      = utf8.char(0xe628)
 local LAMBDA_ICON    = utf8.char(0xf0627)
+local GO_ICON        = utf8.char(0xe627)
 
 local SUP_IDX        = { "¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "¹⁰",
     "¹¹", "¹²", "¹³", "¹⁴", "¹⁵", "¹⁶", "¹⁷", "¹⁸", "¹⁹", "²⁰" }
@@ -90,6 +91,8 @@ M.setup = function()
             title_with_icon = SUNGLASS_ICON .. " " .. exec_name:upper()
         elseif exec_name == "python" or exec_name == "hiss" then
             title_with_icon = PYTHON_ICON .. " " .. exec_name
+        elseif exec_name == "gopls" then
+            title_with_icon = GO_ICON .. " " .. 'Go'
         elseif exec_name == "node" then
             title_with_icon = NODE_ICON .. " " .. exec_name:upper()
         elseif exec_name == "deno" then

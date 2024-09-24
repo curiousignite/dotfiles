@@ -55,5 +55,6 @@ return {
             })
         end,
     },
-    { "tpope/vim-fugitive", version = "*" },
+    { "tpope/vim-fugitive",     version = "*" },
+    { "junegunn/vim-easy-align" },
 }

@@ -4,7 +4,6 @@
 --
 -- For conceallevel for json files
 local autocmd = vim.api.nvim_create_autocmd
-local vim = vim
 autocmd("FileType", {
     pattern = { "json", "jsonc", "lua" },
     callback = function()
@@ -20,7 +19,6 @@ autocmd("ColorScheme", {
         vim.api.nvim_set_hl(0, "TabLineSelect", { bg = "none" })
     end,
 })
-
 
 -- autocmd("LspAttach", {
 --     callback = function(e)

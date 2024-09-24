@@ -2,7 +2,7 @@
 
 This is my configuration files repo.
 
-I use this to work on multiple setups simultaneously, both windows and linux.
+I use this to work on multiple setups simultaneously on multiple OS.
 
 ## TODO
 
@@ -11,6 +11,7 @@ I use this to work on multiple setups simultaneously, both windows and linux.
 - [X] nvim/wezterm open links in browser on click
 - [X] Firefox user.js configuration (https://github.com/arkenfox/user.js)
 - [X] Setup VM for testing purposes because it's getting hard to test it on my pc
+- [ ] Wezterm split sizing
 
 ### Windows
 

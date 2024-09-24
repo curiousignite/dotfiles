@@ -164,32 +164,9 @@ keymap.set("n", "<leader>n", function()
     harpoon:list():next()
 end, { desc = "Harpoon [N]ext" })
 
--- keymap.set({ "n", "t", "i" }, "<C-\\>", function()
---     vim.cmd([[ ToggleTermToggleAll ]])
---
---     -- list current buffers
---     local buffers = vim.api.nvim_list_bufs()
---
---     -- check if toggleterm buffer exists. If not then create one by vim.cmd [[ exe 1 . "ToggleTerm" ]]
---     local toggleterm_exists = false
---     for _, buf in ipairs(buffers) do
---         local buf_name = vim.api.nvim_buf_get_name(buf)
---         if buf_name:find("toggleterm#") then
---             toggleterm_exists = true
---             break
---         end
---     end
---
---     if not toggleterm_exists then
---         vim.cmd([[ exe 1 . "ToggleTerm" ]])
---     end
--- end)
-
-
--- keymap.set("n", "<leader>gst", vim.cmd.Git, { desc = "[G]it [S][T]atus" })
--- keymap.set("n", "<leader>ga", "<CMD>G add *<CR>", { desc = "[G]it [A]dd" })
--- keymap.set("n", "<leader>gc", "<CMD>G commit<CR>", { desc = "[G]it [C]ommit" })
--- keymap.set("n", "<leader>gp", "<CMD>G push<CR>", { desc = "[G]it [P]ush" })
--- keymap.set("n", "<leader>gP", "<CMD>G pull --rebase<CR>", { desc = "[G]it [P]ull" })
 --Cellular Automaton
 keymap.set("n", "<leader>fml", "<CMD>CellularAutomaton make_it_rain<CR>", { desc = "FML" })
+
+-- Easy Align
+keymap.set('x', 'ga', '<Plug>(EasyAlign)', { desc = 'vim-easy-align', })
+keymap.set('n', 'ga', '<Plug>(EasyAlign)', { desc = 'vim-easy-align', })

@@ -1,0 +1,147 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Microsoft.PowerShell.Commands.PSRepositoryItemInfo</T>
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="Name">PSCalendar</S>
+      <Version N="Version">2.9.0</Version>
+      <S N="Type">Module</S>
+      <S N="Description">A PowerShell module to display a calendar in the console.</S>
+      <S N="Author">Jeff Hicks</S>
+      <S N="CompanyName">JeffHicks</S>
+      <S N="Copyright">(c) 2018-2022 JDH Information Technology Solutions, Inc. All rights reserved.</S>
+      <DT N="PublishedDate">2022-12-19T15:50:13+03:00</DT>
+      <Obj N="InstalledDate" RefId="1">
+        <DT>2024-09-24T23:22:49.6613905+03:00</DT>
+        <MS>
+          <Obj N="DisplayHint" RefId="2">
+            <TN RefId="1">
+              <T>Microsoft.PowerShell.Commands.DisplayHintType</T>
+              <T>System.Enum</T>
+              <T>System.ValueType</T>
+              <T>System.Object</T>
+            </TN>
+            <ToString>DateTime</ToString>
+            <I32>2</I32>
+          </Obj>
+        </MS>
+      </Obj>
+      <Nil N="UpdatedDate" />
+      <URI N="LicenseUri">https://github.com/jdhitsolutions/PSCalendar/blob/master/license.txt</URI>
+      <URI N="ProjectUri">https://github.com/jdhitsolutions/PSCalendar</URI>
+      <Nil N="IconUri" />
+      <Obj N="Tags" RefId="3">
+        <TN RefId="2">
+          <T>System.Object[]</T>
+          <T>System.Array</T>
+          <T>System.Object</T>
+        </TN>
+        <LST>
+          <S>calendar</S>
+          <S>reminder</S>
+          <S>wpf</S>
+          <S>ncal</S>
+          <S>PSModule</S>
+          <S>PSEdition_Desktop</S>
+          <S>PSEdition_Core</S>
+        </LST>
+      </Obj>
+      <Obj N="Includes" RefId="4">
+        <TN RefId="3">
+          <T>System.Collections.Hashtable</T>
+          <T>System.Object</T>
+        </TN>
+        <DCT>
+          <En>
+            <S N="Key">Workflow</S>
+            <Obj N="Value" RefId="5">
+              <TNRef RefId="2" />
+              <LST />
+            </Obj>
+          </En>
+          <En>
+            <S N="Key">Cmdlet</S>
+            <Ref N="Value" RefId="5" />
+          </En>
+          <En>
+            <S N="Key">DscResource</S>
+            <Ref N="Value" RefId="5" />
+          </En>
+          <En>
+            <S N="Key">Command</S>
+            <Ref N="Value" RefId="5" />
+          </En>
+          <En>
+            <S N="Key">Function</S>
+            <Ref N="Value" RefId="5" />
+          </En>
+          <En>
+            <S N="Key">RoleCapability</S>
+            <Ref N="Value" RefId="5" />
+          </En>
+        </DCT>
+      </Obj>
+      <Nil N="PowerShellGetFormatVersion" />
+      <S N="ReleaseNotes">https://github.com/jdhitsolutions/PSCalendar/blob/master/README.md</S>
+      <Obj N="Dependencies" RefId="6">
+        <TNRef RefId="2" />
+        <LST>
+          <Obj RefId="7">
+            <TN RefId="4">
+              <T>System.Collections.Specialized.OrderedDictionary</T>
+              <T>System.Object</T>
+            </TN>
+            <DCT>
+              <En>
+                <S N="Key">Name</S>
+                <S N="Value">ThreadJob</S>
+              </En>
+              <En>
+                <S N="Key">CanonicalId</S>
+                <S N="Value">nuget:ThreadJob</S>
+              </En>
+            </DCT>
+          </Obj>
+        </LST>
+      </Obj>
+      <S N="RepositorySourceLocation">https://www.powershellgallery.com/api/v2</S>
+      <S N="Repository">PSGallery</S>
+      <S N="PackageManagementProvider">NuGet</S>
+      <Obj N="AdditionalMetadata" RefId="8">
+        <TN RefId="5">
+          <T>System.Management.Automation.PSCustomObject</T>
+          <T>System.Object</T>
+        </TN>
+        <MS>
+          <S N="copyright">(c) 2018-2022 JDH Information Technology Solutions, Inc. All rights reserved.</S>
+          <S N="description">A PowerShell module to display a calendar in the console.</S>
+          <S N="requireLicenseAcceptance">False</S>
+          <S N="releaseNotes">https://github.com/jdhitsolutions/PSCalendar/blob/master/README.md</S>
+          <S N="isLatestVersion">True</S>
+          <S N="isAbsoluteLatestVersion">True</S>
+          <S N="versionDownloadCount">14370</S>
+          <S N="downloadCount">17608</S>
+          <S N="packageSize">2100007</S>
+          <S N="published">19/12/2022 15:50:13 +03:00</S>
+          <S N="created">19/12/2022 15:50:13 +03:00</S>
+          <S N="lastUpdated">24/09/2024 20:20:00 +03:00</S>
+          <S N="tags">calendar reminder wpf ncal PSModule PSEdition_Desktop PSEdition_Core</S>
+          <S N="developmentDependency">False</S>
+          <S N="updated">2024-09-24T20:20:00Z</S>
+          <S N="NormalizedVersion">2.9.0</S>
+          <S N="Authors">Jeff Hicks</S>
+          <S N="IsPrerelease">false</S>
+          <S N="ItemType">Module</S>
+          <S N="FileList">PSCalendar.nuspec|changelog.md|PSCalendar.psm1|docs\Get-MonthName.md|docs\Show-Calendar.md|formats\pscalendarconfiguration.format.ps1xml|functions\Get-NCalendar.ps1|functions\Show-Calendar.ps1|images\autocomplete-month.png|images\console-calendar.png|images\get-calendar-v2.png|images\pscalendar-configuration-2.png|images\show-calendar.png|license.txt|PSCalendarManual.pdf|docs\Get-NCalendar.md|docs\Show-GuiCalendar.md|functions\archived-calendar-functions.txt|functions\Get-PSCalendarConfiguration.ps1|functions\Show-GuiCalendar.ps1|images\calendar-background.png|images\console-calendar2.png|images\get-calendar.png|images\psreadlineoptions.png|images\show-guicalendar-2.png|README.md|docs\Get-PSCalendarConfiguration.md|docs\Show-PSCalendarHelp.md|functions\Get-Calendar.ps1|functions\private.ps1|functions\Show-PSCalendarHelp.ps1|images\calendar-bgcolor.png|images\get-calendar-2.png|images\ncal-1.png|images\show-calendar-2.png|images\show-guicalendar.png|PSCalendar.psd1|docs\Get-Calendar.md|docs\Set-PSCalendarConfiguration.md|en-us\PSCalendar-help.xml|functions\Get-MonthName.ps1|functions\Set-PSCalendarConfiguration.ps1|images\astroclock_thumb.png|images\calendar-popup.png|images\get-calendar-3.png|images\pscalendar-configuration-1.png|images\show-calendar-v2.png</S>
+          <S N="GUID">222beda0-cdb5-464d-bf49-7ab701da86c9</S>
+          <S N="PowerShellVersion">5.1</S>
+          <S N="CompanyName">JDH Information Technology Solutions, Inc.</S>
+        </MS>
+      </Obj>
+      <S N="InstalledLocation">C:\Users\berke\Documents\PowerShell\Modules\PSCalendar\2.9.0</S>
+    </MS>
+  </Obj>
+</Objs>

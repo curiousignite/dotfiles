@@ -23,13 +23,11 @@ Get-ChildItem -Path "$env:APPDATA\Mozilla\Firefox\Profiles" | Where-Object {$_.P
         $userjs         = $_.FullName + '\user.js'
     }
 }
-$pwsh_config    = split-path -parent $PROFILE
 
 # Config old
 $nvim_config_old    = $nvim_config    + '.old'
 $posh_config_old    = $posh_config    + '.old' 
 $wezterm_config_old = $wezterm_config + '.old'
-$pwsh_config_old    = $pwsh_config    + '.old'
 $firefox_config_old = $firefox_config + '.old'
 $docker_config_old  = $docker_config  + '.old'
 $userjs_old         = $userjs         + '.old'
@@ -63,12 +61,6 @@ if (Test-Path $posh_exe) {
 } else {
     Write-Output 'No oh-my-posh found.'
 }
-
-if(Test-Path $pwsh_config) {
-    Remove-Item -Path $pwsh_config_old -Force -Recurse
-    Move-Item -Path $pwsh_config -Destination $pwsh_config_old
-}
-New-Item -ItemType Junction -Path $pwsh_config -Target (Get-Item ~\.config\PowerShell).FullName
 
 
 if (Test-Path $wezterm_exe) {
