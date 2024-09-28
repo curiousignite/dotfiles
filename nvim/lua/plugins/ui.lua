@@ -93,28 +93,28 @@ return {
     --     },
     -- },
     -- bufferline
-    {
-        "akinsho/bufferline.nvim",
-        keys = {
-            { "<Tab>",   "<Cmd>BufferLineCycleNext<CR>", desc = "Next tab" },
-            { "<S-Tab>", "<Cmd>BufferLineCyclePrev<CR>", desc = "Prev tab" },
-        },
-        version = "*",
-        dependencies = { "nvim-tree/nvim-web-devicons" },
-        opts = {
-            options = {
-                mode = "tabs",
-                show_buffer_close_icons = false,
-                show_close_icon = false,
-                after = "catppuccin",
-                config = function()
-                    require("bufferline").setup({
-                        print(require("catppuccin.groups.integrations.bufferline").get()),
-                    })
-                end,
-            },
-        },
-    },
+    -- {
+    --     "akinsho/bufferline.nvim",
+    --     keys = {
+    --         { "<Tab>",   "<Cmd>BufferLineCycleNext<CR>", desc = "Next tab" },
+    --         { "<S-Tab>", "<Cmd>BufferLineCyclePrev<CR>", desc = "Prev tab" },
+    --     },
+    --     version = "*",
+    --     dependencies = { "nvim-tree/nvim-web-devicons" },
+    --     opts = {
+    --         options = {
+    --             mode = "tabs",
+    --             show_buffer_close_icons = false,
+    --             show_close_icon = false,
+    --             after = "catppuccin",
+    --             config = function()
+    --                 require("bufferline").setup({
+    --                     print(require("catppuccin.groups.integrations.bufferline").get()),
+    --                 })
+    --             end,
+    --         },
+    --     },
+    -- },
     -- statusline
     {
         "nvim-lualine/lualine.nvim",
@@ -124,7 +124,6 @@ return {
             table.insert(opts.sections.lualine_x, {
                 function()
                     local status = require("ollama").status()
-
                     if status == "IDLE" then
                         return "󱙺" -- nf-md-robot-outline
                     elseif status == "WORKING" then
@@ -140,8 +139,6 @@ return {
     --Neovim QT settings
     { "equalsraf/neovim-gui-shim" },
     -- logo
-
-    -- ColorMyPencils()
     {
         "nvimdev/dashboard-nvim",
         event = "VimEnter",

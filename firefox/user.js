@@ -746,3 +746,8 @@ user_pref("privacy.userContext.ui.enabled", true);
 user_pref("devtools.webextensions.@react-devtools.enabled", true);
 user_pref("devtools.webextensions.extension@redux.devtools.enabled", true);
 user_pref("extensions.autoDisableScopes", 0);
+
+// Cookies
+user_pref("cookiebanners.ui.desktop.enabled", true);
+user_pref("cookiebanners.service.mode", 1);
+user_pref("cookiebanners.service.mode.privateBrowsing", 1);
