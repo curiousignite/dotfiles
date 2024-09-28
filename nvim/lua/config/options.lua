@@ -20,7 +20,6 @@ for option, value in pairs(powershell_options) do
 end
 vim.opt.clipboard = ""
 vim.opt.spelllang = "tr,en"
--- vim.opt.spelllang = "en_us"
 vim.opt.spell = true
 vim.opt.nu = true
 vim.opt.relativenumber = true
@@ -29,6 +28,7 @@ vim.opt.scroll = 16
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
+-- vim.opt.shiftwidth = 2
 vim.opt.expandtab = true
 vim.opt.wrap = true
 vim.o.guicursor = 'n-v-c-sm:block,ci-ve:ver25,r-cr-o:hor20,i:block-blinkwait700-blinkoff400-blinkon250-Cursor/lCursor'

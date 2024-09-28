@@ -83,8 +83,6 @@ return {
                 --             },
                 --         },
                 --     })
-                --     vim.g.zig_fmt_parse_errors = 0
-                --     vim.g.zig_fmt_autosave = 0
                 -- end,
 
                 -- Emmet
@@ -121,8 +119,22 @@ return {
                         capabilities = capabilities,
                         settings = { powershell = { codeFormatting = { Preset = 'OTBS' } } },
                     })
-                    vim.g.zig_fmt_parse_errors = 0
-                    vim.g.zig_fmt_autosave = 0
+                end,
+                --Clangd
+                ["clangd"] = function()
+                    lspconfig.clangd.setup({
+                        capabilities = capabilities,
+                        cmd = {
+                            "clangd",
+                            "--background-index",
+                            "--clang-tidy",
+                            "--header-insertion=iwyu",
+                            "--completion-style=detailed",
+                            "--function-arg-placeholders",
+                            "-j4",
+                            "--fallback-style=llvm",
+                        },
+                    })
                 end,
                 ["lua_ls"] = function()
                     lspconfig.lua_ls.setup({

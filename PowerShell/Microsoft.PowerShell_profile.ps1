@@ -10,9 +10,9 @@ $Env:KOMOREBI_CONFIG_HOME = "$HOME\.config\komorebi"
 Set-Alias -Name 'vim' -Value 'nvim'
 Set-Alias fe FindFile 
 Set-Alias wc Measure-Object
-
+Set-Alias du Get-Folder-Size
 function ll {
-    param($var) eza -la --hyperlink $var
+    param($var) eza -la --hyperlink --header --icons $var
 }
 function which {
     param($bin) Get-Command $bin
@@ -28,17 +28,7 @@ function FindFile {
     fzf | ForEach-Object{
         vim $_
     }
-
 }
-
-
-#function prompt {
-#    $p = $executionContext.SessionState.Path.CurrentLocation
-#    $osc7 = ""
-#    if ($p.Provider.Name -eq "FileSystem") {
-#        $ansi_escape = [char]27
-#        $provider_path = $p.ProviderPath -Replace "\\", "/"
-#        $osc7 = "$ansi_escape]7;file://${env:COMPUTERNAME}/${provider_path}${ansi_escape}\"
-#    }
-#    "${osc7}PS $p$('>' * ($nestedPromptLevel + 1)) ";
-#}
+function Get-Folder-Size {
+    param($path) Get-ChildItem -Path $path -Directory | ForEach-Object { $_.FullName + ": " + [math]::Round((Get-ChildItem $_.FullName -Recurse | Measure-Object -Property Length -Sum).Sum / 1MB,2) + " MB" }
+}
