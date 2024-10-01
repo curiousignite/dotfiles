@@ -69,14 +69,14 @@ local keys = {
         mods = "CTRL",
         action = act.QuickSelectArgs {
             label = "open url",
-            -- patterns = {
-            --     '\\((https?://\\S+)\\)',
-            --     '\\[(https?://\\S+)\\]',
-            --     '\\{(https?://\\S+)\\}',
-            --     '<(https?://\\S+)>',
-            --     '\\bhttps?://\\S+[)/a-zA-Z0-9-]+'
-            --
-            -- },
+            patterns = {
+                '\\((https?://\\S+)\\)',
+                '\\[(https?://\\S+)\\]',
+                '\\{(https?://\\S+)\\}',
+                '<(https?://\\S+)>',
+                '\\bhttps?://\\S+[)/a-zA-Z0-9-]+'
+
+            },
             action = wezterm.action_callback(function(win, pane)
                 local url = win:get_selection_text_for_pane(pane)
                 wezterm.log_info('opening: ' .. url)
@@ -148,32 +148,38 @@ local keys = {
     { key = '8',   mods = 'CTRL',         action = act.ActivateTab(7) },
     { key = '9',   mods = 'CTRL',         action = act.ActivateTab(8) },
     { key = '0',   mods = 'CTRL',         action = act.ActivateTab(9) },
+    { key = '*',   mods = 'CTRL',         action = act.ActivateTab(10) },
 
     { key = 't',   mods = 'CTRL',         action = act.SpawnTab('DefaultDomain') },
     -- tabs: navigation
     { key = 'Tab', mods = 'SHIFT | CTRL', action = act.ActivateTabRelative(-1) },
     { key = 'Tab', mods = 'CTRL',         action = act.ActivateTabRelative(1) },
+    -- key_tables activation
+    { key = 'r',   mods = 'LEADER',       action = act.ActivateKeyTable { name = 'resize_pane', one_shot = false }, },
+    { key = 'f',   mods = 'LEADER',       action = act.ActivateKeyTable { name = 'resize_font', one_shot = false }, },
 }
-
 -- stylua: ignore
 local key_tables = {
     resize_font = {
-        { key = 'k',      action = act.IncreaseFontSize },
-        { key = 'j',      action = act.DecreaseFontSize },
-        { key = 'r',      action = act.ResetFontSize },
-        { key = 'Escape', action = 'PopKeyTable' },
-        { key = 'q',      action = 'PopKeyTable' },
+        { key = 'k', action = act.IncreaseFontSize },
+        { key = 'j', action = act.DecreaseFontSize },
+        { key = 'r', action = act.ResetFontSize },
     },
     resize_pane = {
-        { key = 'k',      action = act.AdjustPaneSize({ 'Up', 1 }) },
-        { key = 'j',      action = act.AdjustPaneSize({ 'Down', 1 }) },
-        { key = 'h',      action = act.AdjustPaneSize({ 'Left', 1 }) },
-        { key = 'l',      action = act.AdjustPaneSize({ 'Right', 1 }) },
-        { key = 'Escape', action = 'PopKeyTable' },
-        { key = 'q',      action = 'PopKeyTable' },
+        { key = 'k', action = act.AdjustPaneSize({ 'Up', 1 }) },
+        { key = 'j', action = act.AdjustPaneSize({ 'Down', 1 }) },
+        { key = 'h', action = act.AdjustPaneSize({ 'Left', 1 }) },
+        { key = 'l', action = act.AdjustPaneSize({ 'Right', 1 }) },
     },
 }
-
+for k, _ in pairs(key_tables) do
+    table.insert(key_tables[k], { key = "Escape", action = "PopKeyTable" })
+    table.insert(key_tables[k], { key = "q", action = "PopKeyTable" })
+    table.insert(
+        key_tables[k],
+        { key = "c", mods = "CTRL", action = "PopKeyTable" }
+    )
+end
 local mouse_bindings = {
     -- Ctrl-click will open the link under the mouse cursor
     {
@@ -185,7 +191,7 @@ local mouse_bindings = {
 
 return {
     disable_default_key_bindings = true,
-    leader = { key = 'Space', mods = mod.SUPER_REV },
+    leader = { key = 'Space', mods = mod.SUPER_REV, timeout_milliseconds = math.maxinteger },
     keys = keys,
     key_tables = key_tables,
     mouse_bindings = mouse_bindings,

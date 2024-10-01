@@ -11,7 +11,7 @@ I use this to work on multiple setups simultaneously on multiple OS.
 - [X] nvim/wezterm open links in browser on click
 - [X] Firefox user.js configuration (https://github.com/arkenfox/user.js)
 - [X] Setup VM for testing purposes because it's getting hard to test it on my pc
-- [ ] Wezterm split sizing
+- [X] Wezterm split sizing
 
 ### Windows
 
@@ -24,9 +24,9 @@ I use this to work on multiple setups simultaneously on multiple OS.
 - [X] Change wezterm to nightly
 - [X] _Install Script_ installs wrong packages sometimes
 - [X] Parameter error when installing cursor(On desktop and VM)
+- [X] Adding komorebi to startup does not work for some reason
 - [ ] Manage scoop/chocolatey/winget packages for duplicates
 - [ ] Check if Modules and Fonts folders exist and create otherwise
-- [ ] Adding komorebi to startup does not work for some reason
 
 
 ### Linux

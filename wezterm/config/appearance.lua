@@ -9,6 +9,7 @@ return {
     front_end = 'WebGpu',
     webgpu_power_preference = 'HighPerformance',
     webgpu_preferred_adapter = gpu_adapters:pick_best(),
+    dpi = 96.0,
 
     -- color scheme
     colors = colors,
