@@ -48,7 +48,7 @@ return {
                 "pyright",
                 "gopls",
                 "zls",
-                "clangd",
+                -- "clangd",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
@@ -121,21 +121,21 @@ return {
                     })
                 end,
                 --Clangd
-                ["clangd"] = function()
-                    lspconfig.clangd.setup({
-                        capabilities = capabilities,
-                        cmd = {
-                            "clangd",
-                            "--background-index",
-                            "--clang-tidy",
-                            "--header-insertion=iwyu",
-                            "--completion-style=detailed",
-                            "--function-arg-placeholders",
-                            "-j4",
-                            "--fallback-style=llvm",
-                        },
-                    })
-                end,
+                -- ["clangd"] = function()
+                --     lspconfig.clangd.setup({
+                --         capabilities = capabilities,
+                --         cmd = {
+                --             "clangd",
+                --             "--background-index",
+                --             "--clang-tidy",
+                --             "--header-insertion=iwyu",
+                --             "--completion-style=detailed",
+                --             "--function-arg-placeholders",
+                --             "-j4",
+                --             "--fallback-style=llvm",
+                --         },
+                --     })
+                -- end,
                 ["lua_ls"] = function()
                     lspconfig.lua_ls.setup({
                         capabilities = capabilities,
