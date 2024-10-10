@@ -17,104 +17,30 @@ return {
         event = "VeryLazy",
         version = "*",
     },
-    -- {
-    --     "folke/noice.nvim",
-    --     event = "VeryLazy",
-    --     enabled = true,
-    --     lazy = true,
-    --     opts = function(_, opts)
-    --         table.insert(opts.routes, {
-    --             filter = {
-    --                 event = "notify",
-    --                 find = "No information available",
-    --             },
-    --             opts = { skip = true },
-    --         })
-    --         opts.presets.lsp_doc_border = true
-    --     end,
-    --     dependencies = {
-    --         "MunifTanjim/nui.nvim",
-    --         "rcarriga/nvim-notify",
-    --     },
-    --     keys = {
-    --         {
-    --             "<S-Enter>",
-    --             function()
-    --                 require("noice").redirect(vim.fn.getcmdline())
-    --             end,
-    --             mode = "c",
-    --             desc = "Redirect Cmdline",
-    --         },
-    --         {
-    --             "<leader>snl",
-    --             function()
-    --                 require("noice").cmd("last")
-    --             end,
-    --             desc = "Noice Last Message",
-    --         },
-    --         {
-    --             "<leader>snh",
-    --             function()
-    --                 require("noice").cmd("history")
-    --             end,
-    --             desc = "Noice History",
-    --         },
-    --         {
-    --             "<leader>sna",
-    --             function()
-    --                 require("noice").cmd("all")
-    --             end,
-    --             desc = "Noice All",
-    --         },
-    --         {
-    --             "<c-f>",
-    --             function()
-    --                 if not require("noice.lsp").scroll(4) then
-    --                     return "<c-f>"
-    --                 end
-    --             end,
-    --             silent = true,
-    --             expr = true,
-    --             desc = "Scroll forward",
-    --             mode = { "i", "n", "s" },
-    --         },
-    --         {
-    --             "<c-b>",
-    --             function()
-    --                 if not require("noice.lsp").scroll(-4) then
-    --                     return "<c-b>"
-    --                 end
-    --             end,
-    --             silent = true,
-    --             expr = true,
-    --             desc = "Scroll backward",
-    --             mode = { "i", "n", "s" },
-    --         },
-    --     },
-    -- },
+
     -- bufferline
-    -- {
-    --     "akinsho/bufferline.nvim",
-    --     keys = {
-    --         { "<Tab>",   "<Cmd>BufferLineCycleNext<CR>", desc = "Next tab" },
-    --         { "<S-Tab>", "<Cmd>BufferLineCyclePrev<CR>", desc = "Prev tab" },
-    --     },
-    --     version = "*",
-    --     dependencies = { "nvim-tree/nvim-web-devicons" },
-    --     opts = {
-    --         options = {
-    --             mode = "tabs",
-    --             show_buffer_close_icons = false,
-    --             show_close_icon = false,
-    --             after = "catppuccin",
-    --             config = function()
-    --                 require("bufferline").setup({
-    --                     print(require("catppuccin.groups.integrations.bufferline").get()),
-    --                 })
-    --             end,
-    --         },
-    --     },
-    -- },
+    {
+        "akinsho/bufferline.nvim",
+        keys = {
+            { "<Tab>",   "<Cmd>BufferLineCycleNext<CR>", desc = "Next tab" },
+            { "<S-Tab>", "<Cmd>BufferLineCyclePrev<CR>", desc = "Prev tab" },
+        },
+        version = "*",
+        dependencies = { "nvim-tree/nvim-web-devicons" },
+        opts = {
+            options = {
+                mode = "tabs",
+                show_buffer_close_icons = false,
+                show_close_icon = false,
+                after = "catppuccin",
+                config = function()
+                    require("bufferline").setup({
+                        print(require("catppuccin.groups.integrations.bufferline").get()),
+                    })
+                end,
+            },
+        },
+    },
     -- statusline
     {
         "nvim-lualine/lualine.nvim",

@@ -11,12 +11,6 @@
             "5": "blue"
         }
     },
-    // "logo": {
-    //     "type": "iterm",
-    //     "source": "C:\\Users\\berke\\.config\\fastfetch\\logos\\eldritch.png",
-    //     "width": 33,
-    //     "height": 20
-    // },
     "modules": [
         "title",
         "separator",

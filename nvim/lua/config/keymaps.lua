@@ -140,19 +140,19 @@ local function toggle_telescope(harpoon_files)
         sorter = conf.generic_sorter({}),
     }):find()
 end
-vim.keymap.set("n", "<C-e>", function() toggle_telescope(harpoon:list()) end,
+keymap.set("n", "<C-e>", function() toggle_telescope(harpoon:list()) end,
     { desc = "Open harpoon window" })
 
-vim.keymap.set("n", "<C-n>", function()
+keymap.set("n", "<C-n>", function()
     harpoon:list():select(1)
 end)
-vim.keymap.set("n", "<C-m>", function()
+keymap.set("n", "<C-m>", function()
     harpoon:list():select(2)
 end)
-vim.keymap.set("n", "<C-ö>", function()
+keymap.set("n", "<C-ö>", function()
     harpoon:list():select(3)
 end)
-vim.keymap.set("n", "<C-ç>", function()
+keymap.set("n", "<C-ç>", function()
     harpoon:list():select(4)
 end)
 
@@ -170,3 +170,10 @@ keymap.set("n", "<leader>fml", "<CMD>CellularAutomaton make_it_rain<CR>", { desc
 -- Easy Align
 keymap.set('x', 'ga', '<Plug>(EasyAlign)', { desc = 'vim-easy-align', })
 keymap.set('n', 'ga', '<Plug>(EasyAlign)', { desc = 'vim-easy-align', })
+
+--Go quick err
+keymap.set(
+    "n",
+    "<leader>ee",
+    "oif err != nil {<CR>}<Esc>Oreturn err<Esc>",
+    { desc = "if err != nil, return err" })
