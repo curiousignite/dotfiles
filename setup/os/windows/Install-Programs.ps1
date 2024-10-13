@@ -13,6 +13,7 @@ JanDeDobbeleer.OhMyPosh
 LGUG2Z.komorebi
 LGUG2Z.whkd
 LLVM.LLVM
+AmN.yasb
 MSYS2.MSYS2
 Microsoft.DevHome
 Microsoft.DotNet.Runtime.7

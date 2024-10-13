@@ -37,3 +37,6 @@ data
 
 #firefox
 parent.lock
+
+#YASB
+yasb/yasb.log
