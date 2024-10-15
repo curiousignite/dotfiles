@@ -33,7 +33,7 @@ bars:
     padding:
       top: 4
       left: 0
-      bottom: 0
+      bottom: 4
       right: 0
     widgets:
       left:
@@ -50,6 +50,7 @@ bars:
         [
           # "media",
           "wifi",
+          "battery",
           "volume",
           "clock",
           "power_menu"
@@ -207,12 +208,10 @@ widgets:
       app_list:
         - {icon: "\uf489", launch: "C:\\Users\\berke\\scoop\\apps\\wezterm-nightly\\current\\wezterm-gui.exe"}
         - {icon: "\udb80\ude39", launch: "C:\\Program Files\\Mozilla Firefox\\firefox.exe"}
-        # - {icon: "\uf0a2", launch: "notification_center"}
-        # - {icon: "\ueb51", launch: "quick_settings"}
-        # - {icon: "\uf46a", launch: "cmd.exe /c start ms-settings:windowsupdate"}
+        - {icon: "\uf0a2", launch: "notification_center"}
+        - {icon: "\ueb51", launch: "quick_settings"}
+        - {icon: "\uf422", launch: "launcher"}
         # - {icon: "\uf422", launch: "search"}
-        #- {icon: "\udb84\udf55", launch: "widget"}
-        # Currently available to use quick_settings, notification_center, search, widget, launcher (launcher will trigger ALT+A)
   github:
     type: "yasb.github.GithubWidget"
     options:

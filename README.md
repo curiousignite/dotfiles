@@ -2,7 +2,7 @@
 
 My personal configuration files repo.
 
-I use this to work on multiple setups simultaneously on multiple OS.
+This is intended to work on my setup only, use with caution.
 
 ## TODO
 
@@ -27,6 +27,8 @@ I use this to work on multiple setups simultaneously on multiple OS.
 - [X] Adding komorebi to startup does not work for some reason
 - [ ] Manage scoop/chocolatey/winget packages for duplicates
 - [ ] Check if Modules and Fonts folders exist and create otherwise
+- [ ] Get the current  firefox config name and close current firefox
+- [ ] Change the title for wezterm sessions
 
 ### Linux
 

@@ -39,8 +39,8 @@ keymap.set("n", "n", "nzzzv")
 keymap.set("n", "N", "Nzzzv")
 keymap.set({ "n", "x", "o" }, "H", "^")
 keymap.set({ "n", "x", "o" }, "L", "$")
-keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
-keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
+-- keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
+-- keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
 keymap.set("n", "<BS>", "_")
 
 --Yank into system clipboard

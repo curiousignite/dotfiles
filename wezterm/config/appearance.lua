@@ -10,11 +10,8 @@ return {
     webgpu_power_preference = 'HighPerformance',
     webgpu_preferred_adapter = gpu_adapters:pick_best(),
     dpi = 96.0,
-
-    -- color scheme
     colors = colors,
 
-    -- background
     background = {
         {
             source = { File = wezterm.GLOBAL.background },
@@ -28,7 +25,6 @@ return {
         },
     },
 
-    -- scrollbar
     enable_scroll_bar = true,
 
     -- tab bar
@@ -45,7 +41,7 @@ return {
     window_padding = {
         left = 5,
         right = 10,
-        top = 12,
+        top = 10,
         bottom = 0,
     },
     window_close_confirmation = 'NeverPrompt',
