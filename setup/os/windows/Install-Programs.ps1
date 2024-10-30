@@ -25,6 +25,7 @@ Mozilla.Firefox
 Neovim.Neovim
 Nextcloud.NextcloudDesktop
 Obsidian.Obsidian
+OpenJS.NodeJS
 WinToys
 OBSProject.OBSStudio
 AltSnap.AltSnap

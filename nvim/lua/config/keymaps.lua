@@ -39,29 +39,21 @@ keymap.set("n", "n", "nzzzv")
 keymap.set("n", "N", "Nzzzv")
 keymap.set({ "n", "x", "o" }, "H", "^")
 keymap.set({ "n", "x", "o" }, "L", "$")
--- keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
--- keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
 keymap.set("n", "<BS>", "_")
+keymap.set("v", "<A-j>", ":m '>+1<CR>gv=gv")
+keymap.set("v", "<A-k>", ":m '<-2<CR>gv=gv")
 
 --Yank into system clipboard
 keymap.set("v", "<leader>y", '"+y', { desc = "[y]ank to system clipboard" })
 keymap.set("n", "<leader>y", '"+y', { desc = "[y]ank to system clipboard" })
 keymap.set("n", "<leader>Y", '"+y$', { desc = "[Y]ank to system clipboard" })
 
--- Common typos
-keymap.set('n', ':W', ':w<CR>', { noremap = true, silent = true })
-keymap.set('n', ':Q', ':q<CR>', { noremap = true, silent = true })
-keymap.set('n', ':Wq', ':wq<CR>', { noremap = true, silent = true })
-keymap.set('n', ':WQ', ':wq<CR>', { noremap = true, silent = true })
-keymap.set('n', 'q:', ':q<CR>', { noremap = true, silent = true })
-
 -- Delete to void
 keymap.set({ "n", "v" }, "<leader>d", '"_d', { desc = "[D]elete to void" })
 keymap.set({ "n", "v" }, "<leader>D", '"_D', { desc = "[D]elete to void" })
--- Paste to void
-keymap.set({ "n", "v" }, "<leader>p", '"_p', { desc = "[P]aste to void" })
 -- Change to void
 keymap.set({ "n", "v" }, "<leader>c", '"_c', { desc = "[C]hange to void" })
+keymap.set({ "n", "v" }, "<leader>C", '"_C', { desc = "[C]hange to void" })
 
 -- Shift+Insert Multiline paste for windows
 keymap.set("i", "<S-Insert>", "<C-R>+")
@@ -72,12 +64,6 @@ keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Open parent directory" })
 -- Open parent directory in floating window
 keymap.set("n", "<leader>-", require("oil").toggle_float, { desc = "Open parent directory floating" })
 
--- Diagnostic keymaps // Using trouble so this is mostly redundant
--- keymap.set("n", "[d", vim.diagnostic.goto_prev, { desc = "go to previous [d]iagnostic message" })
--- keymap.set("n", "]d", vim.diagnostic.goto_next, { desc = "go to next [d]iagnostic message" })
--- keymap.set("n", "<leader>e", vim.diagnostic.open_float, { desc = "show diagnostic [e]rror messages" })
--- keymap.set("n", "<leader>q", vim.diagnostic.setloclist, { desc = "Open diagnostic [Q]uickfix list" })
---
 --Quick Save
 keymap.set("n", "<ESC>", "<CMD>w<CR>")
 -- Disable arrow keys in normal mode
@@ -157,9 +143,9 @@ keymap.set("n", "<C-ç>", function()
 end)
 
 -- Toggle previous & next buffers stored within Harpoon list
--- keymap.set("n", "<leader>p", function()
---     harpoon:list():prev()
--- end, { desc = "Harpoon [P]revious" })
+keymap.set("n", "<leader>p", function()
+    harpoon:list():prev()
+end, { desc = "Harpoon [P]revious" })
 keymap.set("n", "<leader>n", function()
     harpoon:list():next()
 end, { desc = "Harpoon [N]ext" })

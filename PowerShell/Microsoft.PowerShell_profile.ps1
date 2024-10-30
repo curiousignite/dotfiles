@@ -3,7 +3,7 @@ $modules = "$(Split-Path $PROFILE)\Modules"
 # $desktop =  $(resolve-path "$Env:userprofile\desktop")
 
 oh-my-posh init pwsh --config $HOME\posh\themes\catppuccin\catppuccin.omp.json | Invoke-Expression
-Import-Module git-aliases -DisableNameChecking
+#Import-Module git-aliases -DisableNameChecking
 Import-Module PSReadLine
 Import-Module $modules\translate\0.1\translate.psm1
 $Env:KOMOREBI_CONFIG_HOME = "$HOME\.config\komorebi"

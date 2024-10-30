@@ -31,7 +31,7 @@ return {
             --         detached = false
             --     }
             -- }
-
+            -- SAP ABAP Debugger configuration for muscle memory
             vim.keymap.set("n", "<F5>", dap.step_into)
             vim.keymap.set("n", "<F6>", dap.step_over)
             vim.keymap.set("n", "<F7>", dap.step_back)

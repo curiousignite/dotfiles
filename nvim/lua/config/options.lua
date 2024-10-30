@@ -35,10 +35,14 @@ vim.o.guicursor = 'n-v-c-sm:block,ci-ve:ver25,r-cr-o:hor20,i:block-blinkwait700-
 
 vim.opt.swapfile = false
 vim.opt.backup = false
-vim.opt.undodir = vim.fn.expand('$HOME\\AppData\\Local\\nvim\\undodir')
 vim.opt.undofile = true
--- For windows undotree
-vim.g.undotree_DiffCommand = "FC"
+if vim.loop.os_uname().sysname == "Windows_NT" then
+    -- For windows undotree
+    vim.opt.undodir = vim.fn.expand('$HOME\\AppData\\Local\\nvim\\undodir')
+    vim.g.undotree_DiffCommand = "FC"
+else
+    vim.opt.undodir = vim.fn.expand('$HOME/nvim/undodir')
+end
 vim.opt.termguicolors = true
 vim.opt.updatetime = 50
 vim.g.mapleader = " "

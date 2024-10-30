@@ -8,13 +8,12 @@ return {
             ensure_installed = {
                 "vimdoc",
                 "javascript",
-                "typescript",
                 "c",
                 "lua",
-                "rust",
                 "jsdoc",
                 "bash",
                 "zig",
+                "go",
             },
             ignore_install = {},
 
