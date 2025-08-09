@@ -1,0 +1,122 @@
+{
+  "app_name": "Silene",
+  "app_title": "Close to the Sun",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Silene",
+      "asset_id": "Silene",
+      "build_version": "120",
+      "catalog_item_id": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "silene",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-14T21:30:22.790Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/ctts/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CloseToTheSun"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "silene"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "availableDate": {
+        "type": "STRING",
+        "value": "1556802000"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Wired Productions"
+      }
+    },
+    "description": "Close to the Sun",
+    "developer": "Wired Productions",
+    "developerId": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+    "endOfSupport": false,
+    "entitlementName": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1420,
+        "md5": "bb3fa978410a243939f19bcb8c0d4806",
+        "size": 1518658,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-09T15:12:37.985Z",
+        "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "md5": "8c8a438ac89caec5ae1b4ab1bc1e57f6",
+        "size": 2032265,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-09T15:13:03.021Z",
+        "url": "https://cdn1.epicgames.com/silene/item/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg",
+        "width": 1920
+      }
+    ],
+    "lastModifiedDate": "2020-04-09T15:13:08.190Z",
+    "mainGameItemList": [],
+    "namespace": "silene",
+    "releaseInfo": [
+      {
+        "appId": "Silene",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-14T00:00:00.000Z",
+        "id": "b494cd3f50bd40568256da2b455064b4",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Close to the Sun",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

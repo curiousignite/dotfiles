@@ -1,0 +1,175 @@
+{
+  "app_name": "50d8518151d0498b83ff5d18a7bdb68b",
+  "app_title": "The Textorcist",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "50d8518151d0498b83ff5d18a7bdb68b",
+      "asset_id": "50d8518151d0498b83ff5d18a7bdb68b",
+      "build_version": "1.0.92PC",
+      "catalog_item_id": "f536dc7fce56442696263f3ebfe168cb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-07-01T18:09:49.598Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "C:\\Users[username]\\AppData\\Local\\Textorcist"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "/Users/[username]/Library/Application Support/com.headup.textorcist-mac/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheTextorcist"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0f7039ef44ad4ee18f16f19d96cf2a6b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Textorcist",
+    "developer": "Headup Gmbh",
+    "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-20T21:23:17.966Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "The Village DLC Audience",
+        "developer": "Headup Gmbh",
+        "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+        "endOfSupport": false,
+        "entitlementName": "7df22a6e4baa4cc48be3696fdf0c00e4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7df22a6e4baa4cc48be3696fdf0c00e4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-16T22:38:07.047Z",
+        "mainGameItem": {
+          "id": "f536dc7fce56442696263f3ebfe168cb",
+          "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f536dc7fce56442696263f3ebfe168cb",
+            "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Village DLC Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f536dc7fce56442696263f3ebfe168cb",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f536dc7fce56442696263f3ebfe168cb",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1afdc9edc6b8ad5d70e777d1df5f43d9",
+        "size": 1044664,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-04T18:33:15.402Z",
+        "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/item/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S1-2560x1440-1afdc9edc6b8ad5d70e777d1df5f43d9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6484f62929a6c900dc30cb13d73acebf",
+        "size": 636932,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-04T18:33:26.266Z",
+        "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/item/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S2-1200x1600-6484f62929a6c900dc30cb13d73acebf.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-03-16T22:38:07.052Z",
+    "mainGameItemList": [],
+    "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+    "releaseInfo": [
+      {
+        "appId": "50d8518151d0498b83ff5d18a7bdb68b",
+        "dateAdded": "2020-09-01T00:00:00.000Z",
+        "id": "854bde88bd034ba199506081ef040a18",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Textorcist",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

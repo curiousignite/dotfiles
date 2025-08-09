@@ -1,0 +1,113 @@
+{
+  "app_name": "ef063f88bc514433ae28420fb9030ca9",
+  "app_title": "The Forgotten City\t",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ef063f88bc514433ae28420fb9030ca9",
+      "asset_id": "ef063f88bc514433ae28420fb9030ca9",
+      "build_version": "1.3.1",
+      "catalog_item_id": "20c772d4d19b4f48b5a23d3de7c9bf59",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-yw5ga5z854qs64ld82qey3dz2d7z32/d07e91e733d64a3292cbf1dd6cff32bd/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-yw5ga5z854qs64ld82qey3dz2d7z32/d07e91e733d64a3292cbf1dd6cff32bd/default",
+    "https://download.epicgames.com/Builds/Org/o-yw5ga5z854qs64ld82qey3dz2d7z32/d07e91e733d64a3292cbf1dd6cff32bd/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-yw5ga5z854qs64ld82qey3dz2d7z32/d07e91e733d64a3292cbf1dd6cff32bd/default"
+  ],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567I8fU1NeGkYzLmQPHZoB32Qrn",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-02T22:37:49.771Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheForgottenCity"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fd990d1478724f3faa938e519c2835a5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Forgotten City\t",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "endOfSupport": false,
+    "entitlementName": "20c772d4d19b4f48b5a23d3de7c9bf59",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "20c772d4d19b4f48b5a23d3de7c9bf59",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6fa8fccc5d3c247efdf58ea35c00de0c",
+        "size": 986335,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-20T18:40:19.564Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S3_2560x1440-6fa8fccc5d3c247efdf58ea35c00de0c",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "daa08f45ad30bcc69a39ca09317e9ebe",
+        "size": 1018732,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-20T18:40:26.986Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S4_1200x1600-daa08f45ad30bcc69a39ca09317e9ebe",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-08-10T15:12:53.439Z",
+    "mainGameItemList": [],
+    "namespace": "fd990d1478724f3faa938e519c2835a5",
+    "releaseInfo": [
+      {
+        "appId": "ef063f88bc514433ae28420fb9030ca9",
+        "id": "cc4aebcfbabd4c149583acbccf9f05b0",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Forgotten City\t",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,116 @@
+{
+  "app_name": "be23672deb69402781cd47cc2919caf4",
+  "app_title": "Marvel's Spider-Man Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "be23672deb69402781cd47cc2919caf4",
+      "asset_id": "be23672deb69402781cd47cc2919caf4",
+      "build_version": "Build_20240618.0",
+      "catalog_item_id": "6f39a1e367f2441586f5ab1c170e456b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4bc43145bb8245a5b5cc9ea262ffbe0e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567MJuabx74YThKlwMLc52c7Qq7",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-22T06:13:26.098Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.save"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Marvel's Spider-Man Remastered/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MarvelsSpiderManRemaster"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4bc43145bb8245a5b5cc9ea262ffbe0e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Marvel's Spider-Man Remastered",
+    "developer": "Sony Interactive Entertainment",
+    "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "endOfSupport": false,
+    "entitlementName": "6f39a1e367f2441586f5ab1c170e456b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6f39a1e367f2441586f5ab1c170e456b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "73702d11161b29a0b7c40a8b489b1808",
+        "size": 464942,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-10T20:40:04.831Z",
+        "url": "https://cdn1.epicgames.com/item/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "76424286902489f4d9639ac9b735c2b2",
+        "size": 413511,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-10T20:40:08.018Z",
+        "url": "https://cdn1.epicgames.com/item/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S2_1200x1600-76424286902489f4d9639ac9b735c2b2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-08-13T00:31:54.737Z",
+    "mainGameItemList": [],
+    "namespace": "4bc43145bb8245a5b5cc9ea262ffbe0e",
+    "releaseInfo": [
+      {
+        "appId": "be23672deb69402781cd47cc2919caf4",
+        "id": "165c889c8a324a4299d0201aa74c0bc2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Marvel's Spider-Man Remastered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

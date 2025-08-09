@@ -1,0 +1,178 @@
+{
+  "app_name": "2420b50453144c07b3b847fff941275d",
+  "app_title": "Sunless Sea",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2420b50453144c07b3b847fff941275d",
+      "asset_id": "2420b50453144c07b3b847fff941275d",
+      "build_version": "2.2.11.3212a-Windows",
+      "catalog_item_id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "43982f3335e3495c9502ac4c03731438"
+      },
+      "namespace": "f672c20984f04f69936e6057feefe3d1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567xhkd8BPhZrOgP2RsFzyoab3v",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-11T01:21:23.690Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Sea/saves/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Sea/saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SunlessSea"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "50000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f672c20984f04f69936e6057feefe3d1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sunless Sea",
+    "developer": "Failbetter Games",
+    "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-15T17:15:02.077Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RheniumDLCAudience",
+        "developer": "Failbetter Games",
+        "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+        "endOfSupport": false,
+        "entitlementName": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7c54e75be5e40eeb6dbed2a5348d5d5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-25T14:34:56.909Z",
+        "mainGameItem": {
+          "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+          "namespace": "f672c20984f04f69936e6057feefe3d1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+            "namespace": "f672c20984f04f69936e6057feefe3d1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f672c20984f04f69936e6057feefe3d1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RheniumDLCAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "dd9cc5214b904e5e92c5fe664ff2cf14",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "af1c9bc575a90fb04f6acf5db6e93019",
+        "size": 483666,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-22T20:44:42.273Z",
+        "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/item/EGS_SunlessSea_FailbetterGames_S1-2560x1440-af1c9bc575a90fb04f6acf5db6e93019.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "68d9c3a68026b8542212f0e69f04f741",
+        "size": 461549,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-22T20:44:55.990Z",
+        "url": "https://cdn1.epicgames.com/f672c20984f04f69936e6057feefe3d1/item/EGS_SunlessSea_FailbetterGames_S2-1200x1600-68d9c3a68026b8542212f0e69f04f741.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-03-30T14:40:50.513Z",
+    "mainGameItemList": [],
+    "namespace": "f672c20984f04f69936e6057feefe3d1",
+    "releaseInfo": [
+      {
+        "appId": "2420b50453144c07b3b847fff941275d",
+        "dateAdded": "2021-02-11T00:00:00.000Z",
+        "id": "ce5596a84ab04b61a7a1775cc2b7da13",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sunless Sea",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

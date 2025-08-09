@@ -1,0 +1,165 @@
+{
+  "app_name": "bb406082b69a47208489d3616b22b5c2",
+  "app_title": "Horizon Chase Turbo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "bb406082b69a47208489d3616b22b5c2",
+      "asset_id": "bb406082b69a47208489d3616b22b5c2",
+      "build_version": "2.0.202311091807",
+      "catalog_item_id": "54ff4322184a4c3086ee6da0a2d20f79",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "253d451b16364a22907dd01b7e928fb6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45675C1cu2PAvMQpN9ZV51TysurJ",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-26T22:56:10.468Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Aquiris/HorizonChaseTurbo/HorizonChaseTurbo_EpicGameStore/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HorizonChaseTurbo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "253d451b16364a22907dd01b7e928fb6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Horizon Chase Turbo",
+    "developer": "AQUIRIS",
+    "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2021-09-24T16:59:33.337Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Horizon Chase Turbo - SF Audience",
+        "developer": "AQUIRIS",
+        "developerId": "o-9vdp6e5ydhtqt23utprf59f8hg45se",
+        "endOfSupport": false,
+        "entitlementName": "574bdda9c06643acba297b615977b51d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "574bdda9c06643acba297b615977b51d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-10-19T23:52:07.532Z",
+        "mainGameItem": {
+          "id": "54ff4322184a4c3086ee6da0a2d20f79",
+          "namespace": "253d451b16364a22907dd01b7e928fb6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "54ff4322184a4c3086ee6da0a2d20f79",
+            "namespace": "253d451b16364a22907dd01b7e928fb6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "253d451b16364a22907dd01b7e928fb6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horizon Chase Turbo - SF Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "54ff4322184a4c3086ee6da0a2d20f79",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "54ff4322184a4c3086ee6da0a2d20f79",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1e6041993df289505da364dfe77dd561",
+        "size": 1015493,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-22T03:08:52.872Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+        "size": 831526,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-22T03:08:55.796Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S2_1200x1600-7b51e6b8f8cf6ebd50f5fb77be96ad9d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-06-23T14:48:18.562Z",
+    "mainGameItemList": [],
+    "namespace": "253d451b16364a22907dd01b7e928fb6",
+    "releaseInfo": [
+      {
+        "appId": "bb406082b69a47208489d3616b22b5c2",
+        "dateAdded": "2021-01-26T00:00:00.000Z",
+        "id": "c34fec3ce7f34be398f8f2660e2c4cb7",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Horizon Chase Turbo",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

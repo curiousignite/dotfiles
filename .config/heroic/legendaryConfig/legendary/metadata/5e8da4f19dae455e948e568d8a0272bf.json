@@ -1,0 +1,389 @@
+{
+  "app_name": "5e8da4f19dae455e948e568d8a0272bf",
+  "app_title": "Democracy 4",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5e8da4f19dae455e948e568d8a0272bf",
+      "asset_id": "5e8da4f19dae455e948e568d8a0272bf",
+      "build_version": "1.67",
+      "catalog_item_id": "d8feca711b13448d992d2988e25e784b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dffce08f0a1b4207a81ba50d9873b87e",
+        "update_type": "MINOR"
+      },
+      "namespace": "74b602736d704ed2a5915c31319d99f6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-24T03:23:30.482Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/democracy4/savegames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Democracy4"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "74b602736d704ed2a5915c31319d99f6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Democracy 4",
+    "developer": "Positech Computing Ltd",
+    "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-16T18:22:48.896Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Democracy4CountryPack"
+          }
+        },
+        "description": "Democracy 4 - Country Pack",
+        "developer": "Positech Computing Ltd",
+        "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+        "endOfSupport": false,
+        "entitlementName": "345daee19c234b4e8948d50507c2cf4d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "345daee19c234b4e8948d50507c2cf4d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1082b396b25c52cd5fb64f3fd26b8838",
+            "size": 633349,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-09-15T18:04:07.873Z",
+            "url": "https://cdn1.epicgames.com/item/74b602736d704ed2a5915c31319d99f6/EGS_Democracy4CountryPack_PositechGames_DLC_S1_2560x1440-1082b396b25c52cd5fb64f3fd26b8838",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "0a7fca676eaa5377f54b06673f1d5078",
+            "size": 409011,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-09-15T18:04:10.671Z",
+            "url": "https://cdn1.epicgames.com/item/74b602736d704ed2a5915c31319d99f6/EGS_Democracy4CountryPack_PositechGames_DLC_S2_1200x1600-0a7fca676eaa5377f54b06673f1d5078",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-16T18:35:15.131Z",
+        "mainGameItem": {
+          "id": "d8feca711b13448d992d2988e25e784b",
+          "namespace": "74b602736d704ed2a5915c31319d99f6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d8feca711b13448d992d2988e25e784b",
+            "namespace": "74b602736d704ed2a5915c31319d99f6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "74b602736d704ed2a5915c31319d99f6",
+        "releaseInfo": [
+          {
+            "appId": "503bd776dbc14553b6ced69bd17d9099",
+            "id": "42069ded3b8940faa994a572ba22b07e",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Democracy 4 - Country Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-02-16T18:22:48.898Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{UserDir}/My Games/democracy4/savegames/"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Democracy4"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "74b602736d704ed2a5915c31319d99f6"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Democracy 4 - Voting Systems",
+        "developer": "Positech Computing Ltd",
+        "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+        "endOfSupport": false,
+        "entitlementName": "62684a9ee6494813bb479f812beeb3da",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "62684a9ee6494813bb479f812beeb3da",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "81a04fbe3eca23aefa0946ee6c383ce4",
+            "size": 602646,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-06T22:36:28.029Z",
+            "url": "https://cdn1.epicgames.com/item/74b602736d704ed2a5915c31319d99f6/EGS_Democracy4VotingSystems_PositechGames_DLC_S1_2560x1440-81a04fbe3eca23aefa0946ee6c383ce4",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "64855a43a7217dcc4dc9f2afebe5f4e2",
+            "size": 429943,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-06T22:36:31.221Z",
+            "url": "https://cdn1.epicgames.com/item/74b602736d704ed2a5915c31319d99f6/EGS_Democracy4VotingSystems_PositechGames_DLC_S2_1200x1600-64855a43a7217dcc4dc9f2afebe5f4e2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-16T18:35:15.131Z",
+        "mainGameItem": {
+          "id": "d8feca711b13448d992d2988e25e784b",
+          "namespace": "74b602736d704ed2a5915c31319d99f6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d8feca711b13448d992d2988e25e784b",
+            "namespace": "74b602736d704ed2a5915c31319d99f6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "74b602736d704ed2a5915c31319d99f6",
+        "releaseInfo": [
+          {
+            "appId": "7f2081615c834bd29e747146df7d5ca3",
+            "id": "33e4a6030c7e48ecb01c3a8ae3a7e310",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Democracy 4 - Voting Systems",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-16T18:22:48.901Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Democracy4EventPack"
+          }
+        },
+        "description": "Democracy 4 Event Pack",
+        "developer": "Positech Computing Ltd",
+        "developerId": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+        "endOfSupport": false,
+        "entitlementName": "791dbfc691e141b989780e6b1f044907",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "791dbfc691e141b989780e6b1f044907",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Democracy 4 Democracy 4 - Event Pack Offer",
+            "height": 1440,
+            "md5": "b11c9888727cea8a4126c3def7c95898",
+            "size": 3437003,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-02-16T18:20:45.786Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61babb8404c3480eb6e4304ae0ec7f93/democracy-4-l6wxq.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Democracy 4 Democracy 4 - Event Pack Offer",
+            "height": 1600,
+            "md5": "de51230b9d725c50c41dfd7daa58886d",
+            "size": 2248315,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-02-16T18:20:47.669Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/61babb8404c3480eb6e4304ae0ec7f93/democracy-4-47ru2.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-16T18:35:15.131Z",
+        "mainGameItem": {
+          "id": "d8feca711b13448d992d2988e25e784b",
+          "namespace": "74b602736d704ed2a5915c31319d99f6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d8feca711b13448d992d2988e25e784b",
+            "namespace": "74b602736d704ed2a5915c31319d99f6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "74b602736d704ed2a5915c31319d99f6",
+        "releaseInfo": [
+          {
+            "appId": "479cda7d05d247c08f0408be2005dddd",
+            "id": "b2c24a5854b0492994ec12148104c625",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Democracy 4 Event Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d8feca711b13448d992d2988e25e784b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d8feca711b13448d992d2988e25e784b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "33f27e8ec9ac5a10cd1318a5e3d1d591",
+        "size": 888103,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-19T06:28:28.602Z",
+        "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/item/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S1-2560x1440-33f27e8ec9ac5a10cd1318a5e3d1d591.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ec91fbed991c7124fb9257b86d57c90b",
+        "size": 512620,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-19T06:28:30.536Z",
+        "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/item/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-20T20:27:46.480Z",
+    "mainGameItemList": [],
+    "namespace": "74b602736d704ed2a5915c31319d99f6",
+    "releaseInfo": [
+      {
+        "appId": "5e8da4f19dae455e948e568d8a0272bf",
+        "id": "a5e4b57e99d44ec1af2d32180030257d",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Democracy 4",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

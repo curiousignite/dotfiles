@@ -1,0 +1,109 @@
+{
+  "app_name": "Morganite",
+  "app_title": "Sludge Life",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Morganite",
+      "asset_id": "Morganite",
+      "build_version": "V201003",
+      "catalog_item_id": "2edb842ca4d6404eada94ae182420e4e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "158a0eaa18574bb39347c04286d118c7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-18T21:49:47.540Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SludgeLife"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "158a0eaa18574bb39347c04286d118c7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sludge Life",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "2edb842ca4d6404eada94ae182420e4e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2edb842ca4d6404eada94ae182420e4e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d9ff8e9ba3ea57e017f1e7b94290d290",
+        "size": 508632,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-26T15:22:00.046Z",
+        "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+        "size": 234275,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-02-26T15:22:15.532Z",
+        "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/item/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-05-28T13:21:34.723Z",
+    "mainGameItemList": [],
+    "namespace": "158a0eaa18574bb39347c04286d118c7",
+    "releaseInfo": [
+      {
+        "appId": "Morganite",
+        "id": "381b00f14e504e8ebb10c9fa616d5360",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Sludge Life",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,373 @@
+{
+  "app_name": "4123bcce398b4b1d8b9ef878f81055d1",
+  "app_title": "Thief",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4123bcce398b4b1d8b9ef878f81055d1",
+      "asset_id": "4123bcce398b4b1d8b9ef878f81055d1",
+      "build_version": "TH4_EPIC_1.7.0.5",
+      "catalog_item_id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c6dcdc61b45240b0bd2bc63a8f5155d7"
+      },
+      "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456752yDxDGUr6TNdQsEes7uL2eT",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-18T19:19:53.379Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/ThiefGame/SaveData/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ThiefvWwV2"
+      }
+    },
+    "description": "Thief is a 1st person stealth-action game by Eidos-Montr\u00e9al. In this reimagination of the cult classic Thief franchise, steal, stealth and infiltrate your way through the treacherous City as Garrett, the Master Thief.",
+    "developer": "Eidos Interactive Corporation",
+    "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-25T17:55:11.797Z",
+        "description": "Explore a sinister abandoned facility, steal all its darker secrets and escape what may be lurking in the shadows\u2026\n\nChallenge your friends and rediscover areas of the game with complete new rules!",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "5643b92147444a7d95b65c7902174088",
+        "entitlementType": "EXECUTABLE",
+        "id": "5643b92147444a7d95b65c7902174088",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Thief The Forsaken - Challenge Map Offer",
+            "height": 1440,
+            "md5": "48ef7ae7b88a1467aca3dc078a1f10a4",
+            "size": 1997976,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-17T13:57:16.803Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-140ox.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Thief The Forsaken - Challenge Map Offer",
+            "height": 1600,
+            "md5": "6715372379d11eeeddce5e9988533aba",
+            "size": 1266707,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-17T13:57:17.179Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1gi7q.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+        "mainGameItem": {
+          "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+          "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+            "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Forsaken - Challenge Map",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-25T18:00:09.854Z",
+        "description": "The famous Stonemarket First Bank is known to be unbreachable\u2026but not to all.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "ce377f0928f3491a9725f5100df47923",
+        "entitlementType": "EXECUTABLE",
+        "id": "ce377f0928f3491a9725f5100df47923",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Thief The Bank Heist Offer",
+            "height": 1440,
+            "md5": "65301e03420abd14fab1c0386f20c878",
+            "size": 1785235,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-17T13:54:43.280Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1ewlk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Thief The Bank Heist Offer",
+            "height": 1600,
+            "md5": "98434616586ed8736501858bc7f59212",
+            "size": 2288971,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-17T13:54:42.687Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-14t5u.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+        "mainGameItem": {
+          "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+          "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+            "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Bank Heist",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-25T18:08:40.774Z",
+        "description": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through Thief.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "8817b9c208e147cb900789478e665c42",
+        "entitlementType": "EXECUTABLE",
+        "id": "8817b9c208e147cb900789478e665c42",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Thief Booster Pack - Ghost Offer",
+            "height": 1440,
+            "md5": "fb1b8d6298cab2a3949f6be9938ca607",
+            "size": 1138168,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-17T13:59:03.191Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-95h82.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Thief Booster Pack - Ghost Offer",
+            "height": 1600,
+            "md5": "a8c78822054e6c4a8f03416aba7692bd",
+            "size": 710963,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-17T13:59:03.661Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-s7vy9.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+        "mainGameItem": {
+          "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+          "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+            "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Booster Pack - Ghost",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-25T18:08:04.340Z",
+        "description": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through Thief.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "9f27f822630a416785b0c207ad98205d",
+        "entitlementType": "EXECUTABLE",
+        "id": "9f27f822630a416785b0c207ad98205d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Thief Booster Pack - Predator Offer",
+            "height": 1440,
+            "md5": "a8ed5eaec6e019ec96d189ef97f1709f",
+            "size": 1256980,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-17T13:59:55.447Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1yomy.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Thief Booster Pack - Predator Offer",
+            "height": 1600,
+            "md5": "75b0e7d1217f1a1df0afc5c9e3055dba",
+            "size": 816452,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-17T13:59:55.022Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1f37z.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+        "mainGameItem": {
+          "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+          "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+            "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Booster Pack - Predator",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-25T18:07:38.236Z",
+        "description": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through Thief.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "9c4715e95edb44489d652e8a96ffd734",
+        "entitlementType": "EXECUTABLE",
+        "id": "9c4715e95edb44489d652e8a96ffd734",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Thief Booster Pack - Opportunist Offer",
+            "height": 1440,
+            "md5": "10df09127dc98e6a1fa94dc97b5172b0",
+            "size": 1142615,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-17T14:00:14.221Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1b16c.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Thief Booster Pack - Opportunist Offer",
+            "height": 1600,
+            "md5": "fea14f61e736fa0cb792f49b005db826",
+            "size": 729874,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-17T14:00:13.854Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-qntr3.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+        "mainGameItem": {
+          "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+          "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+            "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Booster Pack - Opportunist",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Thief Offer",
+        "height": 1440,
+        "md5": "bcb7ea0ecdc4684c30c0f1c107be3c21",
+        "size": 1980980,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-09-27T13:51:55.608Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-nny72.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Thief Offer",
+        "height": 1600,
+        "md5": "cf2c1694992a2994556464c5df787b98",
+        "size": 3102816,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-09-27T13:51:57.729Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/44b12bc6a7f045a3bf313574c344dfd7/thief-1m5zx.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-25T12:30:45.902Z",
+    "mainGameItemList": [],
+    "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+    "releaseInfo": [
+      {
+        "appId": "4123bcce398b4b1d8b9ef878f81055d1",
+        "id": "26bcb87a18f842f1b2fbcdc567469d23",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Thief",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

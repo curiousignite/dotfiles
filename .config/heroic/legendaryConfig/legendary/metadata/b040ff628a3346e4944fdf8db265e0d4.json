@@ -1,0 +1,90 @@
+{
+  "app_name": "b040ff628a3346e4944fdf8db265e0d4",
+  "app_title": "DEATH STRANDING DIRECTOR'S CUT - Artbook",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b040ff628a3346e4944fdf8db265e0d4",
+      "asset_id": "b040ff628a3346e4944fdf8db265e0d4",
+      "build_version": "1.01",
+      "catalog_item_id": "f409d3a5a0f14194bb34ee2ef7498dd5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4ca24c7224d46bea54f8b360eeff401"
+      },
+      "namespace": "0a9e3c5ab6684506bd624a849ca0cf39",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567yfjXGhAtozprq2mNWIovtrZG",
+    "categories": [
+      {
+        "path": "digitalextras"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-28T19:32:39.894Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeathStrandingArt"
+      }
+    },
+    "description": "DEATH STRANDING DIRECTOR'S CUT - Artbook",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "f409d3a5a0f14194bb34ee2ef7498dd5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f409d3a5a0f14194bb34ee2ef7498dd5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "fe4e51f1801fba36e452aa3466625789",
+        "size": 947111,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-30T14:24:12.395Z",
+        "url": "https://cdn1.epicgames.com/item/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DEATHSTRANDINGDIRECTORSCUT_KOJIMAPRODUCTIONS_Expansion_S1_2560x1440-fe4e51f1801fba36e452aa3466625789_2560x1440-fe4e51f1801fba36e452aa3466625789",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5f99e16507795f9b497716b470cfd876",
+        "size": 590400,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-30T14:24:07.551Z",
+        "url": "https://cdn1.epicgames.com/item/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DEATHSTRANDINGDIRECTORSCUT_KOJIMAPRODUCTIONS_Expansion_S2_1200x1600-5f99e16507795f9b497716b470cfd876_1200x1600-5f99e16507795f9b497716b470cfd876",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-03-30T14:27:55.185Z",
+    "mainGameItemList": [],
+    "namespace": "0a9e3c5ab6684506bd624a849ca0cf39",
+    "releaseInfo": [
+      {
+        "appId": "b040ff628a3346e4944fdf8db265e0d4",
+        "id": "1d18c09f252e477a96155755dfe0c59b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "DEATH STRANDING DIRECTOR'S CUT - Artbook",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

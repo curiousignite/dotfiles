@@ -1,0 +1,116 @@
+{
+  "app_name": "b9af0845f9d64b0d9e851d9811141f67",
+  "app_title": "Sheltered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b9af0845f9d64b0d9e851d9811141f67",
+      "asset_id": "b9af0845f9d64b0d9e851d9811141f67",
+      "build_version": "123",
+      "catalog_item_id": "557f906fd29646569c7ec1df332efb5a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3b550d92911244558770b68c5a812a5d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-06T21:32:40.677Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Sheltered"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3b550d92911244558770b68c5a812a5d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sheltered",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "endOfSupport": false,
+    "entitlementName": "557f906fd29646569c7ec1df332efb5a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "557f906fd29646569c7ec1df332efb5a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c24e2bf4318dc189a15e7f659c1377b0",
+        "size": 618973,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-19T16:32:27.321Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sheltered_Unicube_S3_2560x1440-c24e2bf4318dc189a15e7f659c1377b0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "58640350f28283adb5f1340114ad9aaa",
+        "size": 535755,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-19T16:32:22.686Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sheltered_Unicube_S4_1200x1600-58640350f28283adb5f1340114ad9aaa",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-02T13:55:28.260Z",
+    "mainGameItemList": [],
+    "namespace": "3b550d92911244558770b68c5a812a5d",
+    "releaseInfo": [
+      {
+        "appId": "b9af0845f9d64b0d9e851d9811141f67",
+        "dateAdded": "2020-10-06T00:00:00.000Z",
+        "id": "7f969a2636764ef0937e3b781a948de8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sheltered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

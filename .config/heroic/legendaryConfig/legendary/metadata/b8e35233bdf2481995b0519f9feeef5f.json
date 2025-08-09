@@ -1,0 +1,291 @@
+{
+  "app_name": "b8e35233bdf2481995b0519f9feeef5f",
+  "app_title": "The Forgotten City - Collector's DLC",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b8e35233bdf2481995b0519f9feeef5f",
+      "asset_id": "b8e35233bdf2481995b0519f9feeef5f",
+      "build_version": "1.01",
+      "catalog_item_id": "ea05f2ff2c6c464ca538d08a83774865",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "50f33ef1102f48c59858d909a309d1ab"
+      },
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "digitalextras"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-16T23:43:22.609Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TFCCollectorsDLC"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fd990d1478724f3faa938e519c2835a5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Forgotten City - Collector's DLC",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "endOfSupport": false,
+    "entitlementName": "ea05f2ff2c6c464ca538d08a83774865",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ea05f2ff2c6c464ca538d08a83774865",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "30c66d5187d72134a1236abda9b43330",
+        "size": 959146,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-20T18:43:20.718Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCityCollectorsDLC_ModernStoryteller_DigitalExtras_S1_2560x1440-30c66d5187d72134a1236abda9b43330",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9888609476286979d75da5522fc9c526",
+        "size": 728847,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-20T18:43:17.013Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCityCollectorsDLC_ModernStoryteller_DigitalExtras_S2_1200x1600-9888609476286979d75da5522fc9c526",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-07-28T06:52:20.480Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "digitalextras"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2021-06-16T23:45:20.072Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "TFCContent"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "false"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "fd990d1478724f3faa938e519c2835a5"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "The Forgotten City Content",
+      "developer": "Plug In Digital SAS",
+      "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+      "endOfSupport": false,
+      "entitlementName": "9482eed7de7d467baf093acffbe929d1",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "9482eed7de7d467baf093acffbe929d1",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "6fa8fccc5d3c247efdf58ea35c00de0c",
+          "size": 986335,
+          "type": "DieselGameBox",
+          "uploadedDate": "2021-07-20T18:41:39.122Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S3_2560x1440-6fa8fccc5d3c247efdf58ea35c00de0c",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "089418a2c2fca13670da6e945dad66bb",
+          "size": 1018732,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2021-07-20T18:41:47.642Z",
+          "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S6_1200x1600-089418a2c2fca13670da6e945dad66bb",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2021-07-28T06:52:20.480Z",
+      "mainGameItemList": [],
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "releaseInfo": [
+        {
+          "appId": "be3d7b9bd03b45db9ddfe8f5607100e7",
+          "id": "cac0ed8bcc5944d5b1de02b7d7544fe2",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "The Forgotten City Content",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "digitalextras"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-16T23:45:20.072Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TFCContent"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "fd990d1478724f3faa938e519c2835a5"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "The Forgotten City Content",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "9482eed7de7d467baf093acffbe929d1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9482eed7de7d467baf093acffbe929d1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "6fa8fccc5d3c247efdf58ea35c00de0c",
+            "size": 986335,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-20T18:41:39.122Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S3_2560x1440-6fa8fccc5d3c247efdf58ea35c00de0c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "089418a2c2fca13670da6e945dad66bb",
+            "size": 1018732,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-20T18:41:47.642Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheForgottenCity_ModernStoryteller_S6_1200x1600-089418a2c2fca13670da6e945dad66bb",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-07-28T06:52:20.480Z",
+        "mainGameItemList": [],
+        "namespace": "fd990d1478724f3faa938e519c2835a5",
+        "releaseInfo": [
+          {
+            "appId": "be3d7b9bd03b45db9ddfe8f5607100e7",
+            "id": "cac0ed8bcc5944d5b1de02b7d7544fe2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Forgotten City Content",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "fd990d1478724f3faa938e519c2835a5",
+    "releaseInfo": [
+      {
+        "appId": "b8e35233bdf2481995b0519f9feeef5f",
+        "id": "1795ca0e3b2a4052a949875f0e813a89",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Forgotten City - Collector's DLC",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,500 @@
+{
+  "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+  "app_title": "GigaBash",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "asset_id": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "build_version": "EOS_89108_121_Shipping",
+      "catalog_item_id": "b61305fc1b184d289c6707ef7ee0f72b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-20T18:24:29.231Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TitanXX/Saved/SaveGames"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Gigabash"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "16fc138ed83846bc90d923fe0d87ad72"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "GigaBash",
+    "developer": "Passion Republic Games",
+    "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-20T18:24:29.233Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon Tokyo",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "067620b978db40dfb9f8fda077b82040",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "067620b978db40dfb9f8fda077b82040",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash - Godzilla 4 Kaiju Pack-222268",
+            "height": 1440,
+            "md5": "f1ea4c931b8b45561d454346584485e0",
+            "size": 965893,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-08T14:04:22.876Z",
+            "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBashGodzilla4KaijuPack_PassionRepublicGames_DLC_S1_2560x1440-f1ea4c931b8b45561d454346584485e0",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - Godzilla 4 Kaiju Pack Offer",
+            "height": 1600,
+            "md5": "32ba6e8d87adae8ac6741929fe8b4020",
+            "size": 989160,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-27T10:26:37.063Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1wvgx.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-11T06:10:15.648Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon Tokyo",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-20T18:24:29.229Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon DLC2",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "36c7f7d4220547229e7b32b9f17ea426",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36c7f7d4220547229e7b32b9f17ea426",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash - Ultraman 4 Characters Pack-932061",
+            "height": 1440,
+            "md5": "8063aa5f06409f9799e6e84033eb6c41",
+            "size": 1011531,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-07T14:45:40.429Z",
+            "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBashUltraman4CharactersPack_PassionRepublicGames_DLC_S1_2560x1440-8063aa5f06409f9799e6e84033eb6c41",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - Ultraman 4 Characters Pack Offer",
+            "height": 1600,
+            "md5": "55ec45e7ac5411ce702b4bf393d4fc3e",
+            "size": 958143,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-27T10:27:26.148Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1sjxv.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-11T06:10:15.648Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon DLC2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-03T03:43:09.121Z",
+        "customAttributes": {},
+        "description": "The Nemeses of Godzilla have arrived! Play as King Ghidorah and Hedorah to challenge #Godzilla for the ultimate Kaiju showdown in the GigaBash universe. Both characters feature a unique skillset and playstyle inspired by iconic moments seen in their films.",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "e539fa24318e45499b8e9549212b88fb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "e539fa24318e45499b8e9549212b88fb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash GigaBash | Godzilla: Nemesis DLC Offer",
+            "height": 1440,
+            "md5": "e2e154b5dab7cad9906ff623514c6331",
+            "size": 2722589,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-20T04:12:06.103Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1ycvl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash | Godzilla: Nemesis DLC Offer",
+            "height": 1600,
+            "md5": "5d5715e6206191419e82c0ab6675bbcf",
+            "size": 1632859,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-20T04:13:23.822Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-rf2f9.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-11T06:10:15.648Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GigaBash | Godzilla: Nemesis DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-13T09:20:10.097Z",
+        "customAttributes": {},
+        "description": "Will you invade Earth as \u201cBalzarr\u201d, the Demon Star? Or will you serve as mankind\u2019s last line of defense with the super mech, \u201cR.O.J.A.K.\u201d? This DLC adds \u201cBalzarr\u201d and \u201cR.O.J.A.K.,\u201d 2 original GigaBash characters, to the game, both featuring unique abilities and playstyles.",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "fc5ace4ce9f246cc91cb61624da57f62",
+        "entitlementType": "EXECUTABLE",
+        "id": "fc5ace4ce9f246cc91cb61624da57f62",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash GigaBash - Mighty DLC: R.O.J.A.K & Balzarr Offer",
+            "height": 1440,
+            "md5": "5872ecceaa24de6288991f99a3bd51d8",
+            "size": 2859629,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-08-15T05:28:20.671Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-yml3c.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - Mighty DLC: R.O.J.A.K & Balzarr Offer",
+            "height": 1600,
+            "md5": "887d5acc26e2c18892f56ecc81071523",
+            "size": 1558068,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-08-14T10:16:20.120Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-fagip.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-11T06:10:15.648Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GigaBash - Mighty DLC: R.O.J.A.K & Balzarr",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-08T08:40:37.255Z",
+        "description": "This DLC adds \u201cUltraman & Emi\u201d from Ultraman: Rising to the game, featuring iconic abilities from the animated feature film and a unique skillset that combines Ultraman and the newborn kaiju, Emi as one character.",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "7e024df666214cfba238c53ba29e1501",
+        "entitlementType": "EXECUTABLE",
+        "id": "7e024df666214cfba238c53ba29e1501",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash GigaBash | Ultraman: Rising DLC Offer",
+            "height": 1440,
+            "md5": "3e41089ca43097179077a39ebd286cc7",
+            "size": 3031733,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-10-30T06:53:53.714Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-8in7w.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash | Ultraman: Rising DLC Offer",
+            "height": 1600,
+            "md5": "a9383be8496e78e16f4a9ff4257775ce",
+            "size": 1385091,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-10-30T06:53:41.425Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-bo0tb.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-11T06:10:15.648Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GigaBash | Ultraman: Rising DLC",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-05-30T03:02:54.477Z",
+        "customAttributes": {},
+        "description": "This free DLC adds \u201cMechaJURAS\u201d, an original character from GigaBash to the game. Equipped with a unique moveset featuring its massive Rocket Drill to decimate Titans, and a Grapple Claw to grab foes from afar, MechaJURAS is ready to roll out!",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "d67c269d4f4d483b9389bfcbddb4e830",
+        "entitlementType": "EXECUTABLE",
+        "id": "d67c269d4f4d483b9389bfcbddb4e830",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash GigaBash - MechaJURAS Free DLC Offer",
+            "height": 1440,
+            "md5": "39fb1fa91efd3f4ad767888c7408cf10",
+            "size": 2770300,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-04-18T06:56:16.124Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-14evr.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - MechaJURAS Free DLC Offer",
+            "height": 1600,
+            "md5": "ffe82018d934ab1f3cbeb40ea800a965",
+            "size": 1660110,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-04-18T06:56:08.265Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1ux4y.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-30T03:02:54.477Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b61305fc1b184d289c6707ef7ee0f72b",
+            "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GigaBash - MechaJURAS Free DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b61305fc1b184d289c6707ef7ee0f72b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b61305fc1b184d289c6707ef7ee0f72b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f0d657610403750a33b2ed4a372d21ec",
+        "size": 959193,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-08-04T14:54:49.892Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "76be44277917f4d28d1bad123938d27d",
+        "size": 811547,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-08-04T14:54:59.707Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-30T03:02:54.856Z",
+    "mainGameItemList": [],
+    "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+    "releaseInfo": [
+      {
+        "appId": "2dc25e07aa624edf9ff132c09ce23a7c",
+        "id": "13c20277270d47c5992e9d0e642f5d8d",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "GigaBash",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "67fe331b4e294195b61bbd6ac99f3aea"
+    },
+    "rev": 1
+  }
+}

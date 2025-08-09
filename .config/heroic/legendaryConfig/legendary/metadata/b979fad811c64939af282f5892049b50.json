@@ -1,0 +1,93 @@
+{
+  "app_name": "b979fad811c64939af282f5892049b50",
+  "app_title": "Sunless Skies: Sovereign Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b979fad811c64939af282f5892049b50",
+      "asset_id": "b979fad811c64939af282f5892049b50",
+      "build_version": "2.0.5.6e8c8ff-a-Windows",
+      "catalog_item_id": "6b74182c39e34bccb214741b5d6b54df",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dc9dd62e565d467ba99f9ce78ae84379"
+      },
+      "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567FudsgEgRsa0bpaNV8jPSdWGz",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-07-31T10:33:43.843Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Failbetter Games/Sunless Skies/storage/characterrepository/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/unity.Failbetter Games.Sunless Skies/storage/characterrepository/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SunlessSkies"
+      }
+    },
+    "description": "Sunless Skies: Sovereign Edition",
+    "developer": "Failbetter Games",
+    "developerId": "o-rtt3u6nfx2dlvv3zuwr53utk9gjz82",
+    "endOfSupport": false,
+    "entitlementName": "6b74182c39e34bccb214741b5d6b54df",
+    "entitlementType": "EXECUTABLE",
+    "id": "6b74182c39e34bccb214741b5d6b54df",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Sunless Skies Offer",
+        "height": 1440,
+        "md5": "1b7a962c1a40adf5861f24a873877cb4",
+        "size": 909101,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-08T17:45:29.647Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1fjw3.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Sunless Skies Offer",
+        "height": 1600,
+        "md5": "3160c264def757a72cb35dc580ce02c8",
+        "size": 2962724,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-08T17:46:03.663Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-krvsq.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-14T09:50:20.421Z",
+    "mainGameItemList": [],
+    "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
+    "releaseInfo": [
+      {
+        "appId": "b979fad811c64939af282f5892049b50",
+        "id": "26beb8c05dad49f0810ba89e23eeb7e6",
+        "platform": [
+          "Mac",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sunless Skies: Sovereign Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

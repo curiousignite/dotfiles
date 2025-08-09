@@ -1,0 +1,98 @@
+{
+  "app_name": "73c56a1f38a548b2852ce8608c5e436e",
+  "app_title": "Adios",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "73c56a1f38a548b2852ce8608c5e436e",
+      "asset_id": "73c56a1f38a548b2852ce8608c5e436e",
+      "build_version": "1.0.0.11",
+      "catalog_item_id": "60a9e2610ec141e29e3e2f97f1140958",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "20952002cb3b4e45bf4b6fae804f4524"
+      },
+      "namespace": "a3dd9f3da8ec49c7b25dec42cce2ec46",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-29T22:36:14.370Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Adios/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Adios"
+      },
+      "productGeneration": {
+        "type": "STRING",
+        "value": "SPT"
+      }
+    },
+    "description": "Adios",
+    "developer": "Mischief LLC",
+    "developerId": "o-g7mfghfrudhwtc3xa4qm9aeyfwr3q4",
+    "endOfSupport": false,
+    "entitlementName": "60a9e2610ec141e29e3e2f97f1140958",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "60a9e2610ec141e29e3e2f97f1140958",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Adios Offer",
+        "height": 1440,
+        "md5": "098f6bcd4621d373cade4e832627b4f6",
+        "size": 915284,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-17T17:51:30.401Z",
+        "url": "https://cdn1.epicgames.com/spt/11ece774-5dc4-4f91-aa6e-34b865320fa6/adios-offer-41329995.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Adios Offer",
+        "height": 1600,
+        "md5": "098f6bcd4621d373cade4e832627b4f6",
+        "size": 482708,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-17T17:55:49.126Z",
+        "url": "https://cdn1.epicgames.com/spt/5b8fc800-b5a8-4f3c-b685-658792f1058b/download-adios-offer-3bab1685.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-02-18T09:15:55.636Z",
+    "mainGameItemList": [],
+    "namespace": "a3dd9f3da8ec49c7b25dec42cce2ec46",
+    "releaseInfo": [
+      {
+        "appId": "73c56a1f38a548b2852ce8608c5e436e",
+        "id": "7dffec5d20bd4d56aa301ee7c2bde0ce",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Adios",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

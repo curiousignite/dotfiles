@@ -1,0 +1,346 @@
+{
+  "app_name": "a7594e61a4f24e6d9495ea959749598e",
+  "app_title": "911 Operator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a7594e61a4f24e6d9495ea959749598e",
+      "asset_id": "a7594e61a4f24e6d9495ea959749598e",
+      "build_version": "1.59.25",
+      "catalog_item_id": "d173657a4a504d9eb5a10c53c4626f29",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b69f60f382a243f3aa2754eb5208c70a"
+      },
+      "namespace": "d923c737f0d243ccab407605ea40d39e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-27T13:48:44.358Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "OperatorNdmQG"
+      }
+    },
+    "description": "A game about the difficult work of people that manage emergency services. Answer incoming calls and react properly - give first aid instructions, advise, dispatch the correct number of firemen/police/ambulances, or sometimes - just ignore the call. Play on ANY CITY in the world!",
+    "developer": "Games Operators S.A.",
+    "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-23T13:08:32.980Z",
+        "description": "Additional 2 equipment 2 vehicles and 3 calls",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "dcf037ef86544dc5b80496e0a36b301e",
+        "entitlementType": "EXECUTABLE",
+        "id": "dcf037ef86544dc5b80496e0a36b301e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "911 Operator 911 Operator - First Response Offer",
+            "height": 1440,
+            "md5": "95f8beba7bb00481275c76a4b18f05ce",
+            "size": 1010871,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T11:47:09.518Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-puxch.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 911 Operator 911 Operator - First Response Offer",
+            "height": 1600,
+            "md5": "5ee4c465f36e85c538ec9d5e6d9d3d8c",
+            "size": 601924,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T11:47:08.203Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1y80t.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-05T10:50:24.475Z",
+        "mainGameItem": {
+          "id": "d173657a4a504d9eb5a10c53c4626f29",
+          "namespace": "d923c737f0d243ccab407605ea40d39e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d173657a4a504d9eb5a10c53c4626f29",
+            "namespace": "d923c737f0d243ccab407605ea40d39e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d923c737f0d243ccab407605ea40d39e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "911 Operator - First Response",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-07T14:04:26.584Z",
+        "customAttributes": {},
+        "description": "Use the new search mechanic and face a fire streak and a snowstorm. Make use of new equipment and vehicles. Answer 12 exciting calls and solve 24 incidents that you haven't encountered before.",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "90bba2acef814134b550a5f7e0a07f5a",
+        "entitlementType": "EXECUTABLE",
+        "id": "90bba2acef814134b550a5f7e0a07f5a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "911 Operator 911 Operator - Search & Rescue Offer",
+            "height": 1440,
+            "md5": "3d5efabc056890bb42a1eab63c9fa6cf",
+            "size": 1149560,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T12:05:49.606Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1dk6a.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 911 Operator 911 Operator - Search & Rescue Offer",
+            "height": 1600,
+            "md5": "b8ef8c19129f0c00b55ca95d49c40d63",
+            "size": 662632,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T12:05:51.811Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1iebh.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-05T10:50:24.475Z",
+        "mainGameItem": {
+          "id": "d173657a4a504d9eb5a10c53c4626f29",
+          "namespace": "d923c737f0d243ccab407605ea40d39e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d173657a4a504d9eb5a10c53c4626f29",
+            "namespace": "d923c737f0d243ccab407605ea40d39e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d923c737f0d243ccab407605ea40d39e",
+        "releaseInfo": [
+          {
+            "appId": "dfbe5b68cf6a49d68e3a819cca5e5cae",
+            "id": "b1d4ccded12d4c1a9238c20f41cab011",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "911 Operator - Search & Rescue",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-06T19:40:00.971Z",
+        "customAttributes": {},
+        "description": "A new expansion called Every Life Matters brings new challenges, features, vehicles and equipment.",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "273c7831fc3440e5b07317a9ce730a0f",
+        "entitlementType": "EXECUTABLE",
+        "id": "273c7831fc3440e5b07317a9ce730a0f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "911 Operator 911 Operator - Every Life Matters Offer",
+            "height": 1440,
+            "md5": "c11242da5e3c888e7428c10089b2dd64",
+            "size": 1451675,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T12:17:06.638Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-dg6i5.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 911 Operator 911 Operator - Every Life Matters Offer",
+            "height": 1600,
+            "md5": "de631e50818418415a5cd03701aa5e2e",
+            "size": 722549,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T12:17:08.880Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-uoqgg.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-05T10:50:24.475Z",
+        "mainGameItem": {
+          "id": "d173657a4a504d9eb5a10c53c4626f29",
+          "namespace": "d923c737f0d243ccab407605ea40d39e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d173657a4a504d9eb5a10c53c4626f29",
+            "namespace": "d923c737f0d243ccab407605ea40d39e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d923c737f0d243ccab407605ea40d39e",
+        "releaseInfo": [
+          {
+            "appId": "4e390f923d6240bab11621d1e7c6a99e",
+            "id": "28b00e4bce6e42ffa2e2be0879c642a0",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "911 Operator - Every Life Matters",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-03T12:46:07.107Z",
+        "customAttributes": {},
+        "description": "Additional 8 vehicles and 6 equipment types",
+        "developer": "Games Operators S.A.",
+        "developerId": "o-8dv8wz77w8tqnymmm8e99p28eny7kg",
+        "endOfSupport": false,
+        "entitlementName": "4bf035b559444aeeb523a89230a10569",
+        "entitlementType": "EXECUTABLE",
+        "id": "4bf035b559444aeeb523a89230a10569",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "911 Operator 911 Operator - Special Resources Offer",
+            "height": 1440,
+            "md5": "4ce1c3887ab129af37d502061e18d9b0",
+            "size": 874914,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T11:59:51.769Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-87mx1.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download 911 Operator 911 Operator - Special Resources Offer",
+            "height": 1600,
+            "md5": "62b4a3a8f4d9b60a7f86654518d411f5",
+            "size": 515903,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T11:59:48.955Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1o1y1.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-05T10:50:24.475Z",
+        "mainGameItem": {
+          "id": "d173657a4a504d9eb5a10c53c4626f29",
+          "namespace": "d923c737f0d243ccab407605ea40d39e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d173657a4a504d9eb5a10c53c4626f29",
+            "namespace": "d923c737f0d243ccab407605ea40d39e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d923c737f0d243ccab407605ea40d39e",
+        "releaseInfo": [
+          {
+            "appId": "51738cac52224ac2acc1b4d8267115f7",
+            "id": "d7a0716fbd7e4695a2c01bf6ff3c53a7",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "911 Operator - Special Resources",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d173657a4a504d9eb5a10c53c4626f29",
+    "entitlementType": "EXECUTABLE",
+    "id": "d173657a4a504d9eb5a10c53c4626f29",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "911 Operator Offer",
+        "height": 1440,
+        "md5": "e152c243be945a65a96377a2b7203bb3",
+        "size": 747117,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-12T15:28:37.649Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-22ohi.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download 911 Operator Offer",
+        "height": 1600,
+        "md5": "f75d1ee831a4baa84e11b55d9c245dc0",
+        "size": 968820,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-12T15:28:28.058Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-1jtcf.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-05T10:50:24.475Z",
+    "mainGameItemList": [],
+    "namespace": "d923c737f0d243ccab407605ea40d39e",
+    "releaseInfo": [
+      {
+        "appId": "a7594e61a4f24e6d9495ea959749598e",
+        "id": "bdfa9a9ff14449b7b6f686340be78fa9",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "911 Operator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

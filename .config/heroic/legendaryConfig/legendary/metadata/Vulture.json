@@ -1,0 +1,637 @@
+{
+  "app_name": "Vulture",
+  "app_title": "Faeria",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Vulture",
+      "asset_id": "Vulture",
+      "build_version": "0.20.3(Win)",
+      "catalog_item_id": "989914828a72490c864854c579546222",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-14T18:16:34.804Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Faeria"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f9c2aedaff8442b286fbd026948b9f09"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Faeria",
+    "developer": "Abrakam",
+    "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:44:28.980Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Premium Edition DLC",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "4a152cb11cbe42b18aba7bb06ac550b2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a152cb11cbe42b18aba7bb06ac550b2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:59:01.958Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:02:32.288Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Premium Edition DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:49:38.062Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Elements",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "f9c0cb9340c547e289fee75815ac8b7f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f9c0cb9340c547e289fee75815ac8b7f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:54:52.168Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:03:17.710Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Elements",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:50:17.335Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Chronicles of Gagana DLC",
+        "developer": "Versus Evil",
+        "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+        "endOfSupport": false,
+        "entitlementName": "b3eb5332493d43ab99341e33463714d2",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b3eb5332493d43ab99341e33463714d2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:56:55.650Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:03:32.601Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Chronicles of Gagana DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:55:09.964Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Cardbacks Pack",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "b0b4f92ee2fc4b908914864067375b56",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b0b4f92ee2fc4b908914864067375b56",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:54:26.023Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:03:57.837Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Cardbacks Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:48:19.121Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Fall of Everlife DLC",
+        "developer": "Versus Evil",
+        "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+        "endOfSupport": false,
+        "entitlementName": "fde250dee57e4b45918001d5964cbb0b",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fde250dee57e4b45918001d5964cbb0b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:57:16.701Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:02:48.764Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Fall of Everlife DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:49:00.030Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Resurgence DLC",
+        "developer": "Versus Evil",
+        "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+        "endOfSupport": false,
+        "entitlementName": "a961a7923baf4a72878901d61e17a3ab",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a961a7923baf4a72878901d61e17a3ab",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:55:43.560Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:03:03.840Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Resurgence DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:54:27.018Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Avatars Pack",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "ba63d35a8a944b8cb07efa40daa5e364",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ba63d35a8a944b8cb07efa40daa5e364",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:53:09.538Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:03:45.487Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Avatars Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:57:52.342Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wells Pack",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "d12b6b7b251b42f98f4f0d8a0723d7c1",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d12b6b7b251b42f98f4f0d8a0723d7c1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:57:57.180Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:04:24.132Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Wells Pack",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-09-09T19:56:52.289Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Orbs Pack",
+        "developer": "Abrakam",
+        "developerId": "o-7e471071ca794f1abc81c7430b7e8f",
+        "endOfSupport": false,
+        "entitlementName": "a7d919bd09634612b450a0152e654cc4",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "EVERYONE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a7d919bd09634612b450a0152e654cc4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 485,
+            "md5": "5765e4d7960a6a3da59dfa970b6f5147",
+            "size": 87036,
+            "type": "ESRB",
+            "uploadedDate": "2020-02-25T15:53:30.234Z",
+            "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/ESRB_Faeria-842x485-5765e4d7960a6a3da59dfa970b6f5147.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-03-24T01:04:10.905Z",
+        "mainGameItem": {
+          "id": "989914828a72490c864854c579546222",
+          "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "989914828a72490c864854c579546222",
+            "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+        "status": "ACTIVE",
+        "title": "Orbs Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "989914828a72490c864854c579546222",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "989914828a72490c864854c579546222",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e7e22dc2b5d69a70cd0a8a436da0094f",
+        "size": 398177,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-13T13:54:17.326Z",
+        "url": "https://cdn1.epicgames.com/item/f9c2aedaff8442b286fbd026948b9f09/fs1_2560x1440-e7e22dc2b5d69a70cd0a8a436da0094f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1f3479f8cd450dd150e8615eaa4dd775",
+        "size": 455887,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-13T13:54:20.127Z",
+        "url": "https://cdn1.epicgames.com/item/f9c2aedaff8442b286fbd026948b9f09/fs2_1200x1600-1f3479f8cd450dd150e8615eaa4dd775",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-07-13T13:54:23.581Z",
+    "mainGameItemList": [],
+    "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+    "releaseInfo": [
+      {
+        "appId": "Vulture",
+        "dateAdded": "2019-06-14T00:00:00.000Z",
+        "id": "a382244581994b8f96a4f99fa5f42de0",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Faeria",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

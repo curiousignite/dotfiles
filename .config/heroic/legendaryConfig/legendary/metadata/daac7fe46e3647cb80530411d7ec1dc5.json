@@ -1,0 +1,121 @@
+{
+  "app_name": "daac7fe46e3647cb80530411d7ec1dc5",
+  "app_title": "The Fall",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "daac7fe46e3647cb80530411d7ec1dc5",
+      "asset_id": "daac7fe46e3647cb80530411d7ec1dc5",
+      "build_version": "3.0.05.64nodll",
+      "catalog_item_id": "11b5d7e72d614d928fd2cd3ba656a816",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567stqbXQOr0cKDjz1M9EfrntS6",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-21T20:27:30.178Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "TheFallSavedData.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Over the Moon/The Fall/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheFall"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d16f231f238646e881bb0cd83e1d30c8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Fall",
+    "developer": "Over the Moon Games",
+    "developerId": "o-ft7qxhfh9byrlh33kw6k54vy8989jd",
+    "endOfSupport": false,
+    "entitlementName": "11b5d7e72d614d928fd2cd3ba656a816",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "11b5d7e72d614d928fd2cd3ba656a816",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "368b3e85b4d26f63468593c1defca54f",
+        "size": 468496,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-05T00:12:25.825Z",
+        "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/item/EGS_TheFall_overTheMoon_S2-1200x1600-368b3e85b4d26f63468593c1defca54f.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "7b4817dcd4a35cf5826da7f0bbc744f4",
+        "size": 662781,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-05T00:12:39.181Z",
+        "url": "https://cdn1.epicgames.com/d16f231f238646e881bb0cd83e1d30c8/item/EGS_TheFall_overTheMoon_S1-2560x1440-7b4817dcd4a35cf5826da7f0bbc744f4.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-03-11T15:09:27.556Z",
+    "mainGameItemList": [],
+    "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+    "releaseInfo": [
+      {
+        "appId": "daac7fe46e3647cb80530411d7ec1dc5",
+        "dateAdded": "2021-01-21T00:00:00.000Z",
+        "id": "297267048369484fbcd886d766377a47",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Fall",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

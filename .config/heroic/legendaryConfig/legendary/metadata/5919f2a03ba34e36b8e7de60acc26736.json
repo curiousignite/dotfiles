@@ -1,0 +1,98 @@
+{
+  "app_name": "5919f2a03ba34e36b8e7de60acc26736",
+  "app_title": "The Operator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5919f2a03ba34e36b8e7de60acc26736",
+      "asset_id": "5919f2a03ba34e36b8e7de60acc26736",
+      "build_version": "5146_MASTER_win",
+      "catalog_item_id": "b5ceb05aec154822a24582c27c4835c9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "92a4c8d5d6ba4f69a67727b42b6ed3c7",
+        "update_type": "PATCH"
+      },
+      "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567Q7O1iLARbXSxuDUhQZTkwcWG",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-04-01T12:41:58.588Z",
+    "customAttributes": {
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "settings_locall.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Bureau 81/OPERATOR/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/com.Bureau-81.OPERATOR/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheOperatorMMXbR"
+      }
+    },
+    "description": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
+    "developer": "Bureau 81",
+    "developerId": "o-hpn3hhrtaucjv5c67kvxa9sumrhskt",
+    "endOfSupport": false,
+    "entitlementName": "b5ceb05aec154822a24582c27c4835c9",
+    "entitlementType": "EXECUTABLE",
+    "id": "b5ceb05aec154822a24582c27c4835c9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Operator Offer",
+        "height": 1440,
+        "md5": "59e87de379bc8d04bb78f4752d6e1c5a",
+        "size": 2380354,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-06-04T14:34:10.631Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-dgz2h.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Operator Offer",
+        "height": 1600,
+        "md5": "89ccf6d2ef7dcc3ead418f26749a5f6f",
+        "size": 1171950,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-06-04T14:39:11.939Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-dme1v.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-24T04:29:49.034Z",
+    "mainGameItemList": [],
+    "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
+    "releaseInfo": [
+      {
+        "appId": "5919f2a03ba34e36b8e7de60acc26736",
+        "id": "02aef732886c4fb19b2a4bc848a59b72",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Operator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

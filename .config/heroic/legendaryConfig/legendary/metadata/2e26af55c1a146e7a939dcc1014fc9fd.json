@@ -1,0 +1,707 @@
+{
+  "app_name": "2e26af55c1a146e7a939dcc1014fc9fd",
+  "app_title": "MORDHAU",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2e26af55c1a146e7a939dcc1014fc9fd",
+      "asset_id": "2e26af55c1a146e7a939dcc1014fc9fd",
+      "build_version": "1.27443.15101.702625635",
+      "catalog_item_id": "52bf29cddef541aeaea4605f5d9f3123",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45675OKykah5dIsLCZt7vyauO7yC",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-24T16:05:42.759Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Mordhau"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2bda08f9230144a19e98373cc4a6ac2d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "MORDHAU",
+    "developer": "Triternion",
+    "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-27T10:06:59.023Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Grotesque Set audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "cdb51e4a218e49b1bfb86d4e7f646740",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cdb51e4a218e49b1bfb86d4e7f646740",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-06T06:59:09.599Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Grotesque Set audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-27T10:03:58.447Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dragon Set audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "02e9a85779e6489f82f0e6b43bb7e115",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "02e9a85779e6489f82f0e6b43bb7e115",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-06T06:59:09.586Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragon Set audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-27T10:05:53.004Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Lion Set audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "010c6ea48352488cbadf53436826c415",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "010c6ea48352488cbadf53436826c415",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-06T06:59:09.585Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lion Set audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-03-03T15:07:30.006Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MORDHAU - Continental Voice Pack 2 audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "c697600155fc44c2919b9470a2945f7e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c697600155fc44c2919b9470a2945f7e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-06T06:59:09.598Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MORDHAU - Continental Voice Pack 2 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-27T10:04:51.271Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Continental Voice Pack 1 audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "a1688a25dfd147a2a7630bbbb53a3638",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a1688a25dfd147a2a7630bbbb53a3638",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-11-06T06:59:09.597Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Continental Voice Pack 1 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-30T13:46:39.504Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "MORDHAU - Archduke Set",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "c2d9d9df773947f09ca9246b1205f917",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c2d9d9df773947f09ca9246b1205f917",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "220a4218649b1e04b4432af27d149099",
+            "size": 962411,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-09T13:04:16.597Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUArchdukeSet_Triternion_DLC_S1_2560x1440-220a4218649b1e04b4432af27d149099",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "1a7987b32b7e9398f97be7392f88a3ca",
+            "size": 777096,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-09T13:04:20.657Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUArchdukeSet_Triternion_DLC_S2_1200x1600-1a7987b32b7e9398f97be7392f88a3ca",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-11-06T06:59:09.598Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MORDHAU - Archduke Set",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-19T16:20:26.079Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "MORDHAU - Adventurer pack",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "4a7c9a87165a4e3ea86062a5400af2c6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a7c9a87165a4e3ea86062a5400af2c6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "91e1ab54a6538f98a5283644bd967a6e",
+            "size": 1012602,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-24T16:12:14.834Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUAdventurerpack_Triternion_DLC_S1_2560x1440-91e1ab54a6538f98a5283644bd967a6e",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "797f6208834f825500bb692990c37027",
+            "size": 984101,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-24T16:12:18.565Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUAdventurerpack_Triternion_DLC_S2_1200x1600-797f6208834f825500bb692990c37027",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-11-06T06:59:09.590Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MORDHAU - Adventurer pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "digitalextras"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-17T19:42:54.713Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MORDHAUSupporterPack"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "2bda08f9230144a19e98373cc4a6ac2d"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "MORDHAU - Supporter Pack",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "9fc83042f13d4b18a0c3657acb2f3e59",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9fc83042f13d4b18a0c3657acb2f3e59",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "83293f6c4ac43e2934724c56210e1251",
+            "size": 896875,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-04-03T16:54:47.346Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUSupporterPack_Triterniondoo_DLC_S1_2560x1440-83293f6c4ac43e2934724c56210e1251",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "38d5c5453ba911f5a5b1f333b43c30ac",
+            "size": 380156,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-04-03T16:54:49.753Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUSupporterPack_Triterniondoo_DLC_S2_1200x1600-38d5c5453ba911f5a5b1f333b43c30ac",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-07T21:08:18.483Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [
+          {
+            "appId": "127ce29c723a4763bb4177a5e2c1fb1d",
+            "dateAdded": "2020-04-24T00:00:00.000Z",
+            "id": "f21c5b187933444faac097688424464e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MORDHAU - Supporter Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-07T15:54:32.143Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "BWP audience",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "e5660fe18bc04e66842e1c044f9057ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e5660fe18bc04e66842e1c044f9057ad",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-11-06T06:59:09.753Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BWP audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-05T17:26:35.833Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "MORDHAU - BWP",
+        "developer": "Triternion",
+        "developerId": "o-tvu5xuu383665htjt4wez2tgl45exq",
+        "endOfSupport": false,
+        "entitlementName": "90d753e665e94f008757f7568b0529f2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "90d753e665e94f008757f7568b0529f2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9fde69338c1d69a9cbb1f93ee501c43c",
+            "size": 913531,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-05T17:27:31.831Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUBanisherWeaponPack_Triternion_DLC_S1_2560x1440-9fde69338c1d69a9cbb1f93ee501c43c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a85aa2dd4f6e0ba210098dab96dc9bf4",
+            "size": 1025170,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-05T17:27:39.473Z",
+            "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUBanisherWeaponPack_Triternion_DLC_S2_1200x1600-a85aa2dd4f6e0ba210098dab96dc9bf4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-11-06T06:59:09.595Z",
+        "mainGameItem": {
+          "id": "52bf29cddef541aeaea4605f5d9f3123",
+          "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52bf29cddef541aeaea4605f5d9f3123",
+            "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MORDHAU - BWP",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "52bf29cddef541aeaea4605f5d9f3123",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "52bf29cddef541aeaea4605f5d9f3123",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "572876bb8bcb903e5c33235b7eba8797",
+        "size": 868500,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-27T10:45:19.196Z",
+        "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S1_2560x1440-572876bb8bcb903e5c33235b7eba8797",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3c795e67d44f02e4127ed4df435560f3",
+        "size": 712920,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-27T10:45:21.654Z",
+        "url": "https://cdn1.epicgames.com/item/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S2_1200x1600-3c795e67d44f02e4127ed4df435560f3",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-11-06T06:59:09.753Z",
+    "mainGameItemList": [],
+    "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+    "releaseInfo": [
+      {
+        "appId": "2e26af55c1a146e7a939dcc1014fc9fd",
+        "dateAdded": "2020-04-24T16:07:57.578Z",
+        "id": "df7a71c27c844bb9bb38d36704840340",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "MORDHAU",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

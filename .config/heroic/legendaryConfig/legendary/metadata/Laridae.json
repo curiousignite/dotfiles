@@ -1,0 +1,127 @@
+{
+  "app_name": "Laridae",
+  "app_title": "RUINER",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Laridae",
+      "asset_id": "Laridae",
+      "build_version": "1.0.4",
+      "catalog_item_id": "682122e968804007beadd755c79db11b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "74d82b28ab424956ac24407229fe6faa",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T21:04:09.605Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Ruiner/Saved/SaveGames/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RUINER"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "74d82b28ab424956ac24407229fe6faa"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "RUINER",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "682122e968804007beadd755c79db11b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "682122e968804007beadd755c79db11b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f5548f0e232e2e27d0093f4aec67b8a2",
+        "size": 497487,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-30T21:01:16.157Z",
+        "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/item/EGS_ReikonGames_RUINER_S1-2560x1440-f5548f0e232e2e27d0093f4aec67b8a2.jpg",
+        "width": 2560
+      },
+      {
+        "height": 171,
+        "md5": "f4a25b2621539846ca33e9523975e6c5",
+        "size": 8232,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-30T21:01:24.202Z",
+        "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/item/EGS_ReikonGames_RUINER_IC1-846x171-f4a25b2621539846ca33e9523975e6c5.png",
+        "width": 846
+      },
+      {
+        "height": 1440,
+        "md5": "3e4c8444774e90c9496a19d5e0b9c29a",
+        "size": 428233,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/item/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:38.635Z",
+    "mainGameItemList": [],
+    "namespace": "74d82b28ab424956ac24407229fe6faa",
+    "releaseInfo": [
+      {
+        "appId": "Laridae",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "1f6f85b6d6de47b9a46aabcc97427760",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "RUINER",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

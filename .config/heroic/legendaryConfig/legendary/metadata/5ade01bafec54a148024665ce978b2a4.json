@@ -1,0 +1,124 @@
+{
+  "app_name": "5ade01bafec54a148024665ce978b2a4",
+  "app_title": "Hell is other demons",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5ade01bafec54a148024665ce978b2a4",
+      "asset_id": "5ade01bafec54a148024665ce978b2a4",
+      "build_version": "0.0.17-win",
+      "catalog_item_id": "c328481e98e0447cafaf9d3cc60dcbc4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "643a8667d7a940b8b36094020fcd0dcf",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45679fa7M5pc0SPtkjJPyDII8nN3",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "freegames"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-14T00:06:21.507Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Saves/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{InstallDir}/Saves"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HellisOtherDemons"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "643a8667d7a940b8b36094020fcd0dcf"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hell is other demons\n",
+    "developer": "Kongregate",
+    "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+    "endOfSupport": false,
+    "entitlementName": "c328481e98e0447cafaf9d3cc60dcbc4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c328481e98e0447cafaf9d3cc60dcbc4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "b9528f8932eadbc39d5e03db5d798859",
+        "size": 726273,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-07T20:20:56.629Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S1_2560x1440-b9528f8932eadbc39d5e03db5d798859",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "da6dce7cd466a31ae78e34ccdc27bab8",
+        "size": 560188,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-07T20:20:59.364Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Hellisotherdemons_CuddleMonsterGames_S2_1200x1600-da6dce7cd466a31ae78e34ccdc27bab8",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-06-21T15:57:27.451Z",
+    "mainGameItemList": [],
+    "namespace": "643a8667d7a940b8b36094020fcd0dcf",
+    "releaseInfo": [
+      {
+        "appId": "5ade01bafec54a148024665ce978b2a4",
+        "dateAdded": "2021-01-14T00:13:04.311Z",
+        "id": "d594dad8b6074fac95ea06235423d9e7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hell is other demons",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

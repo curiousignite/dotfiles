@@ -1,0 +1,88 @@
+{
+  "app_name": "956ee1dc4d5846648dc0666d7994284f",
+  "app_title": "Pilgrims",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "956ee1dc4d5846648dc0666d7994284f",
+      "asset_id": "956ee1dc4d5846648dc0666d7994284f",
+      "build_version": "1.1.0.439",
+      "catalog_item_id": "759cbe84099f4227bc53e61ec2f6380a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "56d85089f96b496884ddcebc58c5faee"
+      },
+      "namespace": "0693e8391e49492096424712a5595484",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567RQZCQHiCHvrbyJoHhMIPAeqx",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-12T16:17:43.233Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Saves/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Pilgrims"
+      }
+    },
+    "description": "Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
+    "developer": "Amanita Design s.r.o.",
+    "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+    "endOfSupport": false,
+    "entitlementName": "759cbe84099f4227bc53e61ec2f6380a",
+    "entitlementType": "EXECUTABLE",
+    "id": "759cbe84099f4227bc53e61ec2f6380a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Pilgrims Offer",
+        "height": 1440,
+        "md5": "53755699388256f6872a5beb482fda40",
+        "size": 3572363,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-04-03T12:36:49.934Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-1pqa1.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Pilgrims Offer",
+        "height": 1600,
+        "md5": "16f2c29947c880f877fdd1ac19d21076",
+        "size": 169554,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-04-03T12:36:48.197Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/bfb773acd06f4d4090b82bd18f4b7744/pilgrims-crj7i.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-01-20T16:15:51.437Z",
+    "mainGameItemList": [],
+    "namespace": "0693e8391e49492096424712a5595484",
+    "releaseInfo": [
+      {
+        "appId": "956ee1dc4d5846648dc0666d7994284f",
+        "id": "4e5d29160c744a88b0b3715180f5032b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Pilgrims",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

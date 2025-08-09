@@ -1,0 +1,457 @@
+{
+  "app_name": "f65978f976a944bcac6a51c5ba0afbec",
+  "app_title": "Magic: Legends",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f65978f976a944bcac6a51c5ba0afbec",
+      "asset_id": "f65978f976a944bcac6a51c5ba0afbec",
+      "build_version": "CL_2021_03_12_14_37",
+      "catalog_item_id": "0fbe799e913f454c91a294b47f08c68f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567L6ZKp816wDVMoNZNaki1afAU",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-23T01:09:05.297Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MagicLegends"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ce9774c9678a4377befaa8fdfc8ef71b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Magic: Legends",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:49:35.340Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Iron 5,000 + 300(Bonus) ZEN Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "922cc50d954f422da2d2f52d57fed847",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "922cc50d954f422da2d2f52d57fed847",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.368Z",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Iron 5,000 + 300(Bonus) ZEN Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-22T20:42:11.795Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "IronPlaneswalkerAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "bf7e2a0784c44a36b7ba9fd85a9149b5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bf7e2a0784c44a36b7ba9fd85a9149b5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.450Z",
+        "longDescription": "Planeswalker Bundle",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "IronPlaneswalkerAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:50:18.502Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Iron 10,000 + 1,000(Bonus) ZEN Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "4305ef0a5a5d45fdb09c4242e0d83b77",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4305ef0a5a5d45fdb09c4242e0d83b77",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.383Z",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Iron 10,000 + 1,000(Bonus) ZEN Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:51:27.072Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Iron 20,000 + 3,000(Bonus) ZEN Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "230605a58db345bdb1262b2820f8e7ae",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "230605a58db345bdb1262b2820f8e7ae",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.399Z",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Iron 20,000 + 3,000(Bonus) ZEN Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:45:11.288Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Iron 1,000 ZEN Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "361510c5f90a4b46b697a0bba2fcb56e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "361510c5f90a4b46b697a0bba2fcb56e",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.340Z",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Iron 1,000 ZEN Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:55:18.750Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "IronStarterPackAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "360ce8dc06c543419a1c4306ab67cee6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "360ce8dc06c543419a1c4306ab67cee6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.433Z",
+        "longDescription": "Epic Planeswalker Starter Pack",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "IronStarterPackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-09T02:48:30.532Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Iron 2,000 ZEN Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "a30654a0fb0d4ee195d7d44d98ec86ca",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a30654a0fb0d4ee195d7d44d98ec86ca",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.355Z",
+        "mainGameItem": {
+          "id": "0fbe799e913f454c91a294b47f08c68f",
+          "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "0fbe799e913f454c91a294b47f08c68f",
+            "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Iron 2,000 ZEN Audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "0fbe799e913f454c91a294b47f08c68f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0fbe799e913f454c91a294b47f08c68f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "aa51dce3a2e5bfd226f375a184c5cbe9",
+        "size": 981046,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-10T22:33:12.760Z",
+        "url": "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/item/EGS_MagicLegends_CrypticStudios_S5-1920x1080-aa51dce3a2e5bfd226f375a184c5cbe9.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "dfa374ef3b6283847ca520495f668c42",
+        "size": 1009216,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-10T22:33:23.784Z",
+        "url": "https://cdn1.epicgames.com/ce9774c9678a4377befaa8fdfc8ef71b/item/EGS_MagicLegends_CrypticStudios_S4-1200x1600-dfa374ef3b6283847ca520495f668c42.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-12T06:08:44.230Z",
+    "mainGameItemList": [],
+    "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+    "releaseInfo": [
+      {
+        "appId": "f65978f976a944bcac6a51c5ba0afbec",
+        "dateAdded": "2021-01-23T00:00:00.000Z",
+        "id": "63fb0ef8dbe64f809272d4c9e1570967",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Magic: Legends",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,108 @@
+{
+  "app_name": "4b920bb4aebf4586a4f6d823817fe32d",
+  "app_title": "Mages of Mystralia",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4b920bb4aebf4586a4f6d823817fe32d",
+      "asset_id": "4b920bb4aebf4586a4f6d823817fe32d",
+      "build_version": "1.0",
+      "catalog_item_id": "358264a79a7f4723b8226cc8fae4c0a7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bd12fd574df14846ad24703ca7b1a12b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-29T20:27:36.366Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MagesofMystralia"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "bd12fd574df14846ad24703ca7b1a12b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Mages of Mystralia",
+    "developer": "Dan Adelman LLC",
+    "developerId": "o-xez4pg2utm5x7l9d2xvzff2cuvsfzb",
+    "endOfSupport": false,
+    "entitlementName": "358264a79a7f4723b8226cc8fae4c0a7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "358264a79a7f4723b8226cc8fae4c0a7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "ba8f7f9dbc0d6e76c3d3746df6ce5077",
+        "size": 204843,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-10T15:44:24.207Z",
+        "url": "https://cdn1.epicgames.com/item/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S2_1200x1600-ba8f7f9dbc0d6e76c3d3746df6ce5077",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "fef9c8f9f6253ed99fb389372df85f88",
+        "size": 333855,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-12-27T05:08:30.408Z",
+        "url": "https://cdn1.epicgames.com/item/bd12fd574df14846ad24703ca7b1a12b/EGS_MagesofMystralia_BorealysGames_S1_2560x1440-fef9c8f9f6253ed99fb389372df85f88_2560x1440-fef9c8f9f6253ed99fb389372df85f88",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:36:46.593Z",
+    "mainGameItemList": [],
+    "namespace": "bd12fd574df14846ad24703ca7b1a12b",
+    "releaseInfo": [
+      {
+        "appId": "4b920bb4aebf4586a4f6d823817fe32d",
+        "id": "6c7d728d6ac04ef4b44a854d8ae1c32b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Mages of Mystralia",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

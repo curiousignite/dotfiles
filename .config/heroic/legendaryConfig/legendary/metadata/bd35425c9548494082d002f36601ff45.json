@@ -1,0 +1,116 @@
+{
+  "app_name": "bd35425c9548494082d002f36601ff45",
+  "app_title": "Rogue Legacy 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "bd35425c9548494082d002f36601ff45",
+      "asset_id": "bd35425c9548494082d002f36601ff45",
+      "build_version": "1.2.2a",
+      "catalog_item_id": "f5d84259a95a4b11ade74a7e4e0bde66",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4966d5da285c4f2c876937844b0e23ee",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567hZtnxOvWAKZ2wqCO6VWberyY",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-23T12:42:05.810Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Cellar Door Games/Rogue Legacy 2/Saves/Epic/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RogueLegacy2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4966d5da285c4f2c876937844b0e23ee"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rogue Legacy 2",
+    "developer": "Cellar Door Games",
+    "developerId": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
+    "endOfSupport": false,
+    "entitlementName": "f5d84259a95a4b11ade74a7e4e0bde66",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f5d84259a95a4b11ade74a7e4e0bde66",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c4a1a4bd16f3b4a05e766b81ee4a1232",
+        "size": 448461,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-29T15:58:42.684Z",
+        "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/RL2wide_2560x1440-c4a1a4bd16f3b4a05e766b81ee4a1232",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
+        "size": 275253,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-29T15:58:45.192Z",
+        "url": "https://cdn1.epicgames.com/item/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-05-30T20:38:11.212Z",
+    "mainGameItemList": [],
+    "namespace": "4966d5da285c4f2c876937844b0e23ee",
+    "releaseInfo": [
+      {
+        "appId": "bd35425c9548494082d002f36601ff45",
+        "dateAdded": "2020-06-23T00:00:00.000Z",
+        "id": "e255c573ed124c6e82a89f7b069f5691",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Rogue Legacy 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

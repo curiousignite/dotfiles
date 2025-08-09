@@ -1,0 +1,112 @@
+{
+  "app_name": "7b8fb449c8d3404ba7eda9cd4da1401b",
+  "app_title": "The Spectrum Retreat",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7b8fb449c8d3404ba7eda9cd4da1401b",
+      "asset_id": "7b8fb449c8d3404ba7eda9cd4da1401b",
+      "build_version": "1.0rc",
+      "catalog_item_id": "7f65d209277f4c10ac7c5eb4f1ed3ae9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "32ef234417314b65a4f76041b684f4d0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567jKngflW6n34iU3oVPL5hYU0U",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-22T21:53:24.424Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}\\My Games\\TheSpectrumRetreat\\Saves\\"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheSpectrumRetreat"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "32ef234417314b65a4f76041b684f4d0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Spectrum Retreat",
+    "developer": "Ripstone Ltd",
+    "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+    "endOfSupport": false,
+    "entitlementName": "7f65d209277f4c10ac7c5eb4f1ed3ae9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7f65d209277f4c10ac7c5eb4f1ed3ae9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "166b997f74a0f926ffe562d8b3dc67b9",
+        "size": 650605,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-24T07:02:55.548Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/bf525c62-bc8c-4a51-9d30-799186ab1293_1200x1600-166b997f74a0f926ffe562d8b3dc67b9",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "d583c45997a46d39e1a31525ae883b84",
+        "size": 719838,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-24T07:03:04.224Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/52b99d72-9223-4524-ab74-240ae808c489_2560x1440-d583c45997a46d39e1a31525ae883b84",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-07-02T15:01:02.147Z",
+    "mainGameItemList": [],
+    "namespace": "32ef234417314b65a4f76041b684f4d0",
+    "releaseInfo": [
+      {
+        "appId": "7b8fb449c8d3404ba7eda9cd4da1401b",
+        "id": "56756a32b45e4812872bfeb8ccd0040f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Spectrum Retreat",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

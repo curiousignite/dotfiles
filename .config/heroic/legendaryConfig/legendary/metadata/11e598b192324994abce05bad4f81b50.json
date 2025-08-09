@@ -1,0 +1,857 @@
+{
+  "app_name": "11e598b192324994abce05bad4f81b50",
+  "app_title": "A Total War Saga: TROY",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "11e598b192324994abce05bad4f81b50",
+      "asset_id": "11e598b192324994abce05bad4f81b50",
+      "build_version": "16676.3427123",
+      "catalog_item_id": "dc82015622b34172a049514af0c07758",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2794f2755792416399323bc3da17cb02"
+      },
+      "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-17T23:15:27.857Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TotalWarSagaTROY"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "53310576ce1d4446b20dbbdac4f09f2d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "A Total War Saga: TROY",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "engines"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-07-14T17:52:44.256Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TroyAssemblyKit"
+          },
+          "mods.installPath": {
+            "type": "STRING",
+            "value": "./Troy/mods/{mod id}/"
+          }
+        },
+        "description": "ASSEMBLY KIT",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "2e74fb281f874c00b928fa619bf49565",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2e74fb281f874c00b928fa619bf49565",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "03edcc1552e06a393173fa4e6d53b434",
+            "size": 808206,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-28T17:55:48.828Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_ATotalWarSagaTROYAssemblyKit_CreativeAssembly_DLC_S1-2560x1440-03edcc1552e06a393173fa4e6d53b434.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "9d0ac3c4d0e3ab0fb9141e3e519ed402",
+            "size": 1921316,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-28T17:56:02.630Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/ASSEMBLY KIT 1200x1600-1200x1600-9d0ac3c4d0e3ab0fb9141e3e519ed402.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-03-23T17:09:36.127Z",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "4eba30a3001849968cad332a2eb5e171",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-14T00:00:00.000Z",
+            "id": "b0c8b67eb7f0428c9969d97e8ad5700e",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "ASSEMBLY KIT",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-02T18:52:42.834Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HaddockNorth"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "isPrepurchase": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Mythos DLC",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "8f3946cb5b3748e2b1f7dbda17bb8eba",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8f3946cb5b3748e2b1f7dbda17bb8eba",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "359f53827507ce81d1db14f00bf91572",
+            "size": 940005,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-27T03:29:34.591Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ATotalWarSagaTROYMythos_CreativeAssembly_DLC_S1_2560x1440-359f53827507ce81d1db14f00bf91572",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b339fad1aa63d8e67a910f3dff6d25d4",
+            "size": 740737,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-27T03:29:40.254Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ATotalWarSagaTROYMythos_CreativeAssembly_DLC_S2_1200x1600-b339fad1aa63d8e67a910f3dff6d25d4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-11-17T16:43:15.990Z",
+        "longDescription": "HaddockNorthPrepurchase",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "HaddockNorthPrepurchase",
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "9710275c2ef14b45b929b29f0c42ca37",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Mythos DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {
+          "ESRB": {
+            "ageControl": 17,
+            "descriptor": "Blood and Gore, Violence",
+            "descriptorIds": [
+              4,
+              34
+            ],
+            "gameRating": "Mature 17+",
+            "isIARC": false,
+            "isTrad": true,
+            "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_M_192_192x192-1984f5076d6fb905bba422c8700c663e",
+            "ratingSystem": "ESRB",
+            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/ESRB-EN-M_355x530-dcad729ba3738cd2007b4ba16f05074f",
+            "title": "Mature 17+"
+          },
+          "GRAC": {
+            "ageControl": 19,
+            "descriptor": "\ud3ed\ub825\uc131",
+            "descriptorIds": [
+              440
+            ],
+            "gameRating": "\uccad\uc18c\ub144\uc774\uc6a9\ubd88\uac00",
+            "isIARC": false,
+            "isTrad": true,
+            "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC_19_272_272x272-65537df11aa656d20950e22b4600b8ba",
+            "ratingSystem": "GRAC",
+            "rectangularRatingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/GRAC_Mature_icon_827x966-ff9cf048be23bf94370075e62c0ef9ab",
+            "title": "\uccad\uc18c\ub144\uc774\uc6a9\ubd88\uac00"
+          }
+        },
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-19T14:21:06.360Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BloodAndGloryDLC"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "BLOOD & GLORY",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "c38f6d097b6a43d994a277ae65fd560b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c38f6d097b6a43d994a277ae65fd560b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b90cb3a6951c7852f63cebebbaf8bb88",
+            "size": 317482,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-10-28T17:39:19.049Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_TotalWarSagaTROYBLOODGLORY_CREATIVEASSEMBLY_AddOn_S2-1200x1600-b90cb3a6951c7852f63cebebbaf8bb88.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "f1f736c58b78fa1dd50547c5bba0a443",
+            "size": 549422,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-10-28T17:39:31.662Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_TotalWarSagaTROYBLOODGLORY_CREATIVEASSEMBLY_AddOn_S1-2560x1440-f1f736c58b78fa1dd50547c5bba0a443.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2021-09-09T18:57:22.564Z",
+        "longDescription": "BLOOD & GLORY",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "261cf18fe2e54e80a19ae905f2e1119c",
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "9710275c2ef14b45b929b29f0c42ca37",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BLOOD & GLORY",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-07-20T18:44:10.584Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AmazonsDLC"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "AMAZONS",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "717ea51853604f1786dfb936b70a0c71",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "717ea51853604f1786dfb936b70a0c71",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "ffabb6426cdc962efef42414edf61a47",
+            "size": 195596,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-08-10T17:11:45.455Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/troyDLCTall-1200x1600-ffabb6426cdc962efef42414edf61a47.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "ad55a7cd9febaabf0ad3c169f7df7f32",
+            "size": 301439,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-10T17:11:57.638Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/troyDLCWide-2560x1440-ad55a7cd9febaabf0ad3c169f7df7f32.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-17T16:47:19.520Z",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "1e6e892f7f9b4cbcace3a273854116bc",
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "9710275c2ef14b45b929b29f0c42ca37",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "AMAZONS",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-03-02T19:00:53.813Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HaddockSouth"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HaddockSouthPrepruchase",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "3d5892e0f7e74f09b7b518b95a28f886",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3d5892e0f7e74f09b7b518b95a28f886",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-12-01T15:12:40.294Z",
+        "longDescription": "HaddockSouthPrepruchase",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "HaddockSouthEarlyAccess",
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "9710275c2ef14b45b929b29f0c42ca37",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HaddockSouthPrepruchase",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-19T14:25:47.655Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AjaxDiomedes"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "AJAX & DIOMEDES",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "1a69bed65c5c4a15ba9766d878dbe5e3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1a69bed65c5c4a15ba9766d878dbe5e3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d6c2407cd8d69a21c544d65b8f6f8d87",
+            "size": 907991,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-01-28T14:54:30.568Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S1-2560x1440-d6c2407cd8d69a21c544d65b8f6f8d87.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c274aff775b27c7aeeadfb50ca8e54e2",
+            "size": 626285,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-01-28T14:54:40.865Z",
+            "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_ATotalWarSagaTROYAJAXDIOMEDES_CREATIVEASSEMBLY_DLC_S2-1200x1600-c274aff775b27c7aeeadfb50ca8e54e2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-07-27T13:51:48.985Z",
+        "longDescription": "AJAX & DIOMEDES",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "5975879203764aae9eed167a6648a225",
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "9710275c2ef14b45b929b29f0c42ca37",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "AJAX & DIOMEDES",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-02-19T19:24:10.336Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Mythos"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "MYTHOS",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "35a8a1fa23e745f4afbfec5295bd4b72",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "35a8a1fa23e745f4afbfec5295bd4b72",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b339fad1aa63d8e67a910f3dff6d25d4",
+            "size": 740737,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-02T13:59:44.355Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ATotalWarSagaTROYMythos_CreativeAssembly_DLC_S2_1200x1600-b339fad1aa63d8e67a910f3dff6d25d4",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "359f53827507ce81d1db14f00bf91572",
+            "size": 940005,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-02T13:59:55.299Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ATotalWarSagaTROYMythos_CreativeAssembly_DLC_S1_2560x1440-359f53827507ce81d1db14f00bf91572",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-17T16:42:07.725Z",
+        "longDescription": "HaddockNorth",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "4cdcfd4976ca45e7ad10b0b2761bf357",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "15795d0d1cac4242a3b9bb89a990bca2",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MYTHOS",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-02-19T19:24:38.027Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RhesusMemnon"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "A Total War Saga: TROY \u2013 Rhesus & Memnon",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "ea67536551014ca4862a0d6b26cbb3b1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea67536551014ca4862a0d6b26cbb3b1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3fc06e121ab7dc78b9d42e4ce0d1365e",
+            "size": 839825,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-29T23:50:51.627Z",
+            "url": "https://cdn1.epicgames.com/item/53310576ce1d4446b20dbbdac4f09f2d/EGS_ATotalWarSagaTROYRhesusMemnon_CreativeAssembly_DLC_S1_2560x1440-3fc06e121ab7dc78b9d42e4ce0d1365e",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "dbc0e73b5eb2759fe03491b950725825",
+            "size": 527829,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-29T23:50:56.854Z",
+            "url": "https://cdn1.epicgames.com/item/53310576ce1d4446b20dbbdac4f09f2d/EGS_ATotalWarSagaTROYRhesusMemnon_CreativeAssembly_DLC_S2_1200x1600-dbc0e73b5eb2759fe03491b950725825",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-11-17T16:46:31.037Z",
+        "longDescription": "A Total War Saga: TROY \u2013 Rhesus & Memnon",
+        "mainGameItem": {
+          "id": "dc82015622b34172a049514af0c07758",
+          "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "dc82015622b34172a049514af0c07758",
+            "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+        "releaseInfo": [
+          {
+            "appId": "f15a6c80ff1946209e1e9ef844ed66a3",
+            "compatibleApps": [],
+            "dateAdded": "2020-07-15T00:00:00.000Z",
+            "id": "fa6ea71511754d619b106748329db7fb",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "A Total War Saga: TROY \u2013 Rhesus & Memnon",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "dc82015622b34172a049514af0c07758",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && sega_of_europe)"
+    ],
+    "id": "dc82015622b34172a049514af0c07758",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3b37fecb384738a6fd0fff56b22d311d",
+        "size": 474667,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-28T19:08:45.550Z",
+        "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4dc6b4bb1c8958b13c60e4346ad31288",
+        "size": 228149,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-28T19:08:58.602Z",
+        "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/item/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-17T16:47:36.980Z",
+    "mainGameItemList": [],
+    "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+    "releaseInfo": [
+      {
+        "appId": "11e598b192324994abce05bad4f81b50",
+        "dateAdded": "2020-05-01T00:00:00.000Z",
+        "id": "e4485411286f4d3d9797144bbee5c8b4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "A Total War Saga: TROY",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

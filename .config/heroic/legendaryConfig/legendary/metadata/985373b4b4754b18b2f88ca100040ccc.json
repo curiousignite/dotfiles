@@ -1,0 +1,84 @@
+{
+  "app_name": "985373b4b4754b18b2f88ca100040ccc",
+  "app_title": "Kardboard Kings",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "985373b4b4754b18b2f88ca100040ccc",
+      "asset_id": "985373b4b4754b18b2f88ca100040ccc",
+      "build_version": "1.3.21",
+      "catalog_item_id": "2014cc67b96947ec956fc178a52fa097",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e51f32fab9ca44f3a17d850c05c9dcfa"
+      },
+      "namespace": "22a9bc193ad94ab78155b5c2f9541e6b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-12T22:33:03.320Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "KardboardKings6Px45"
+      }
+    },
+    "description": "Open your own Card shop by the seaside! Buy, trade and sell Cards, OR keep them for your own collection! Earn reputation with customers, beat your shop goals, unlock new decorations, and host exciting events to bring everyone to the best Card shop in town!",
+    "developer": "Akupara Games",
+    "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "endOfSupport": false,
+    "entitlementName": "2014cc67b96947ec956fc178a52fa097",
+    "entitlementType": "EXECUTABLE",
+    "id": "2014cc67b96947ec956fc178a52fa097",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Kardboard Kings Offer",
+        "height": 1440,
+        "md5": "f49baa297dfeb3b839bd41456f8ebc68",
+        "size": 2120431,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-14T19:04:06.049Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-8lyrd.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Kardboard Kings Offer",
+        "height": 1600,
+        "md5": "26574a2a4ef0e359102a806e72e8159a",
+        "size": 421178,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-14T19:04:01.279Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-1tup2.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-14T19:04:24.938Z",
+    "mainGameItemList": [],
+    "namespace": "22a9bc193ad94ab78155b5c2f9541e6b",
+    "releaseInfo": [
+      {
+        "appId": "985373b4b4754b18b2f88ca100040ccc",
+        "id": "81ede000e6d148a3bc0354154d3fe775",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Kardboard Kings",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

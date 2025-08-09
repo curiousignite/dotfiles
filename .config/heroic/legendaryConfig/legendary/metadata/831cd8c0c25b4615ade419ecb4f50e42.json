@@ -1,0 +1,104 @@
+{
+  "app_name": "831cd8c0c25b4615ade419ecb4f50e42",
+  "app_title": "The Last of Us\u2122 Part II Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "831cd8c0c25b4615ade419ecb4f50e42",
+      "asset_id": "831cd8c0c25b4615ade419ecb4f50e42",
+      "build_version": "rc-patch-6-row-20250721_022532",
+      "catalog_item_id": "3dff34510c1b4ac89d587a482100ca65",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7713e3fa4b234e0d8f553044205d53b6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567LccLqQcdSULTiR45TE6c85tz",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-22T06:14:03.735Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/The Last of Us Part II/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TLOUPart2Remastered"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7713e3fa4b234e0d8f553044205d53b6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "The Last of Us\u2122 Part II Remastered",
+    "developer": "Sony Interactive Entertainment",
+    "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "endOfSupport": false,
+    "entitlementName": "3dff34510c1b4ac89d587a482100ca65",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3dff34510c1b4ac89d587a482100ca65",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "2e13755a6b3fec2ee9dbcc231a1cf39c",
+        "size": 485738,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-29T23:28:15.631Z",
+        "url": "https://cdn1.epicgames.com/item/7713e3fa4b234e0d8f553044205d53b6/EGS_TheLastofUsPartIIRemastered_NaughtyDogLLCNixxesSoftwareIronGalaxy_S2_1200x1600-2e13755a6b3fec2ee9dbcc231a1cf39c",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "e93b7a99866b784c5fc948c1666df5e0",
+        "size": 787893,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-29T23:28:21.599Z",
+        "url": "https://cdn1.epicgames.com/item/7713e3fa4b234e0d8f553044205d53b6/EGS_TheLastofUsPartIIRemastered_NaughtyDogLLCNixxesSoftwareIronGalaxy_S1_2560x1440-e93b7a99866b784c5fc948c1666df5e0",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2025-04-25T15:37:02.705Z",
+    "mainGameItemList": [],
+    "namespace": "7713e3fa4b234e0d8f553044205d53b6",
+    "releaseInfo": [
+      {
+        "appId": "831cd8c0c25b4615ade419ecb4f50e42",
+        "id": "4cf92f2fea7341c4b10005a47bc6980f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Last of Us\u2122 Part II Remastered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

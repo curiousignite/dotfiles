@@ -1,0 +1,112 @@
+{
+  "app_name": "Hoki",
+  "app_title": "Darksiders II Deathinitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hoki",
+      "asset_id": "Hoki",
+      "build_version": "1.0a",
+      "catalog_item_id": "8c04901974534bd0818f747952b0a19b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MAJOR"
+      },
+      "namespace": "091d95ea332843498122beee1a786d71",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-04T08:39:07.841Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Darksiders2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "091d95ea332843498122beee1a786d71"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Darksiders II Deathinitive Edition",
+    "developer": "THQ Nordic GmbH",
+    "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "endOfSupport": false,
+    "entitlementName": "8c04901974534bd0818f747952b0a19b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8c04901974534bd0818f747952b0a19b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "aaf0b5a36c066638e2b3f0ebcf2885e0",
+        "size": 778591,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-19T21:54:10.003Z",
+        "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "79de1e63157da0a0af69d207703cec0a",
+        "size": 276640,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-19T21:54:18.442Z",
+        "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/item/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-03-06T07:37:16.597Z",
+    "mainGameItemList": [],
+    "namespace": "091d95ea332843498122beee1a786d71",
+    "releaseInfo": [
+      {
+        "appId": "Hoki",
+        "id": "6fa6ff06b3214b179e3da75eae5df8b7",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Darksiders II Deathinitive Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

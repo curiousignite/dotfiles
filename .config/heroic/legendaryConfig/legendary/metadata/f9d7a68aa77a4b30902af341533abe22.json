@@ -1,0 +1,108 @@
+{
+  "app_name": "f9d7a68aa77a4b30902af341533abe22",
+  "app_title": "Circus Electrique",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f9d7a68aa77a4b30902af341533abe22",
+      "asset_id": "f9d7a68aa77a4b30902af341533abe22",
+      "build_version": "0.1.3611.21444",
+      "catalog_item_id": "3324006765f34f57a408996ad2e592b5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "396a808f269241aba0fe2ad322ebd6d5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567WEH4GXiXV8iKulOAwl4D1UcB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-11T22:25:13.151Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CircusElectrique"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "396a808f269241aba0fe2ad322ebd6d5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Circus Electrique",
+    "developer": "Zen Studios",
+    "developerId": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "endOfSupport": false,
+    "entitlementName": "3324006765f34f57a408996ad2e592b5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3324006765f34f57a408996ad2e592b5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "50d47b0e40abc0190539fc491f204e23",
+        "size": 931004,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-01T15:57:39.469Z",
+        "url": "https://cdn1.epicgames.com/item/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S2_1200x1600-50d47b0e40abc0190539fc491f204e23",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "0f035a36376dd51b907662f4cd121553",
+        "size": 958308,
+        "type": "DieselGameBoxWide",
+        "uploadedDate": "2021-12-01T15:57:42.620Z",
+        "url": "https://cdn1.epicgames.com/item/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-09-06T15:54:20.285Z",
+    "mainGameItemList": [],
+    "namespace": "396a808f269241aba0fe2ad322ebd6d5",
+    "releaseInfo": [
+      {
+        "appId": "f9d7a68aa77a4b30902af341533abe22",
+        "id": "903c0f6b66484b2382b5fc45b2cfc769",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Circus Electrique",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

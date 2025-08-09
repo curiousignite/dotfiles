@@ -1,0 +1,431 @@
+{
+  "app_name": "Calluna",
+  "app_title": "Control",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Calluna",
+      "asset_id": "Calluna",
+      "build_version": "1.33",
+      "catalog_item_id": "9afb582e90b74bdd9e2146fb79c78589",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3606edd6f53040ebb5965290701778c3"
+      },
+      "namespace": "calluna",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Cxcv1a8X5WjLM0POC9NvYKxk",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-09T16:35:36.400Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Remedy/Control/Default-Epic-User/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Control"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "calluna"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "developerName": {
+        "type": "STRING",
+        "value": "Remedy Entertainment Plc"
+      }
+    },
+    "description": "Control",
+    "developer": "Remedy Entertainment",
+    "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-11T18:39:03.663Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "AWEDLC"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceID": {
+            "type": "STRING",
+            "value": "calluna"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Control Expansion 2 AWE",
+        "developer": "Remedy Entertainment",
+        "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+        "endOfSupport": false,
+        "entitlementName": "48832223fb834bc5bba847c115691ce2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48832223fb834bc5bba847c115691ce2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "bf9f368300c3fdb6116e63a99b405e49",
+            "size": 71863,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-27T13:25:08.891Z",
+            "url": "https://cdn1.epicgames.com/calluna/item/AWE_Wide-2560x1440-bf9f368300c3fdb6116e63a99b405e49.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1148,
+            "md5": "2533e3f639edd227d591b5a1cdd36865",
+            "size": 31836,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-08-27T13:25:40.563Z",
+            "url": "https://cdn1.epicgames.com/calluna/item/AWE_Tall-860x1148-2533e3f639edd227d591b5a1cdd36865.jpg",
+            "width": 860
+          }
+        ],
+        "lastModifiedDate": "2024-12-31T18:39:12.986Z",
+        "mainGameItem": {
+          "id": "9afb582e90b74bdd9e2146fb79c78589",
+          "namespace": "calluna",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9afb582e90b74bdd9e2146fb79c78589",
+            "namespace": "calluna",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "calluna",
+        "releaseInfo": [
+          {
+            "appId": "3da74e4fa1d94eceb950774f76dbfcea",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-11T00:00:00.000Z",
+            "id": "dc7f3959b5ad425b86ced13660bf2b11",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Control Expansion 2 AWE",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-11T18:16:11.036Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceID": {
+            "type": "STRING",
+            "value": "calluna"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "The Foundation DLC",
+        "developer": "Remedy Entertainment",
+        "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+        "endOfSupport": false,
+        "entitlementName": "6dc148f7be5c4b2580b987984a3520b5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6dc148f7be5c4b2580b987984a3520b5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+            "size": 586904,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-09T16:19:53.836Z",
+            "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+            "size": 455123,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-09T16:19:50.441Z",
+            "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-31T18:39:12.990Z",
+        "mainGameItem": {
+          "id": "9afb582e90b74bdd9e2146fb79c78589",
+          "namespace": "calluna",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9afb582e90b74bdd9e2146fb79c78589",
+            "namespace": "calluna",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "calluna",
+        "releaseInfo": [
+          {
+            "appId": "737e55c2736c43a6b93c9c769e04e112",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-11T00:00:00.000Z",
+            "id": "f5c7a4aecbca442da818709ab49e156d",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Foundation DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-08-20T18:25:53.335Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceID": {
+            "type": "STRING",
+            "value": "calluna"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "developerName": {
+            "type": "STRING",
+            "value": "Remedy Entertainment Plc"
+          }
+        },
+        "description": "Control Pre-Order Bonus",
+        "developer": "Remedy Entertainment",
+        "developerId": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+        "endOfSupport": false,
+        "entitlementName": "3df83c606f01446c9d0d126c4c15c367",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3df83c606f01446c9d0d126c4c15c367",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+            "size": 586904,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-09T16:17:31.847Z",
+            "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+            "size": 455123,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-09T16:17:27.965Z",
+            "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-31T18:39:12.987Z",
+        "longDescription": "Expansion Pack 1",
+        "mainGameItem": {
+          "id": "9afb582e90b74bdd9e2146fb79c78589",
+          "namespace": "calluna",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9afb582e90b74bdd9e2146fb79c78589",
+            "namespace": "calluna",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "calluna",
+        "releaseInfo": [
+          {
+            "appId": "CallunaDLC001",
+            "compatibleApps": [],
+            "dateAdded": "2019-02-28T00:00:00.000Z",
+            "id": "83b86dbd3916419cb565f935b0ab984b",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Control Pre-Order Bonus",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9afb582e90b74bdd9e2146fb79c78589",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9afb582e90b74bdd9e2146fb79c78589",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ec7b2eb03bb70f61d17ed01fa76d95a6",
+        "size": 586904,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-09T16:14:30.892Z",
+        "url": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "456c920cae7a0aa9b36670cd5e1237a1",
+        "size": 455123,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-09T16:14:25.269Z",
+        "url": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-31T18:39:12.983Z",
+    "mainGameItemList": [],
+    "namespace": "calluna",
+    "releaseInfo": [
+      {
+        "appId": "Calluna",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-28T00:00:00.000Z",
+        "id": "2c28695dc8e44c7b8716a5bc961b20be",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Control",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

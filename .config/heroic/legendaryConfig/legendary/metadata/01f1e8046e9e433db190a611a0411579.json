@@ -1,0 +1,104 @@
+{
+  "app_name": "01f1e8046e9e433db190a611a0411579",
+  "app_title": "Rogue Legacy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "01f1e8046e9e433db190a611a0411579",
+      "asset_id": "01f1e8046e9e433db190a611a0411579",
+      "build_version": "1.4.1e_0",
+      "catalog_item_id": "a079b2d882af49eeb742859635654c83",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "66ce501aea0a424cb80cfe5f31f80f03",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-08T21:37:20.688Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RogueLegacy"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "66ce501aea0a424cb80cfe5f31f80f03"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rogue Legacy",
+    "developer": "Cellar Door Games",
+    "developerId": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
+    "endOfSupport": false,
+    "entitlementName": "a079b2d882af49eeb742859635654c83",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a079b2d882af49eeb742859635654c83",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d135ac25ec63d39ffbc35415712c385a",
+        "size": 826906,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-28T21:39:32.312Z",
+        "url": "https://cdn1.epicgames.com/item/66ce501aea0a424cb80cfe5f31f80f03/EGS_RogueLegacy_CellarDoorGames_S1_2560x1440-d135ac25ec63d39ffbc35415712c385a_2560x1440-d135ac25ec63d39ffbc35415712c385a",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0c21e16789c61834252b65db0847585a",
+        "size": 933876,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-28T21:39:23.161Z",
+        "url": "https://cdn1.epicgames.com/item/66ce501aea0a424cb80cfe5f31f80f03/EGS_RogueLegacy_CellarDoorGames_S2_1200x1600-0c21e16789c61834252b65db0847585a_1200x1600-0c21e16789c61834252b65db0847585a",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:36:28.873Z",
+    "mainGameItemList": [],
+    "namespace": "66ce501aea0a424cb80cfe5f31f80f03",
+    "releaseInfo": [
+      {
+        "appId": "01f1e8046e9e433db190a611a0411579",
+        "id": "3af09031a8154869a35e7210cc8c9010",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Rogue Legacy",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

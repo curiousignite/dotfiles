@@ -1,0 +1,324 @@
+{
+  "app_name": "a74e41bbacdc4a4798befb4d55b441de",
+  "app_title": "Hundred Days - Winemaking Simulator",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a74e41bbacdc4a4798befb4d55b441de",
+      "asset_id": "a74e41bbacdc4a4798befb4d55b441de",
+      "build_version": "v1.8.0w1",
+      "catalog_item_id": "34a286dc541d42adab99ed45e3d3f7fc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5967bf1425fb4f8c85e61a66953787b4"
+      },
+      "namespace": "4d8b727a49144090b103f6b6ba471e71",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567oPvtVLkQq02ME1oSHnjWMaPH",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-25T21:27:30.280Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Broken Arms Games Srls/Hundred Days - Winemaking Simulator/Saves"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/con.brokenarmsgames.hundreddaysmac/  "
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HundredDaysWineSim"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4d8b727a49144090b103f6b6ba471e71"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hundred Days - Winemaking Simulator",
+    "developer": "Broken Arms Games srls",
+    "developerId": "o-ty5rvlnsbgdnfffytsywat86gcedkm",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-03-25T21:27:30.281Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "GrapeLab"
+          }
+        },
+        "description": "Hundred Days Grape Lab",
+        "developer": "Broken Arms Games srls",
+        "developerId": "o-ty5rvlnsbgdnfffytsywat86gcedkm",
+        "endOfSupport": false,
+        "entitlementName": "289103a0df43495a9f8648967ccf704b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "289103a0df43495a9f8648967ccf704b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "39cf6d847de6e43fddbb83b7189d198d",
+            "size": 786407,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-08-06T18:50:50.736Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HundredDaysGrapeLab_BrokenArmsGames_DLC_S1_2560x1440-39cf6d847de6e43fddbb83b7189d198d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "aa95631631dec7d759e5c5aedcc8706d",
+            "size": 523149,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-08-06T18:51:03.965Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HundredDaysGrapeLab_BrokenArmsGames_DLC_S2_1200x1600-aa95631631dec7d759e5c5aedcc8706d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-04T14:33:29.635Z",
+        "mainGameItem": {
+          "id": "34a286dc541d42adab99ed45e3d3f7fc",
+          "namespace": "4d8b727a49144090b103f6b6ba471e71",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "34a286dc541d42adab99ed45e3d3f7fc",
+            "namespace": "4d8b727a49144090b103f6b6ba471e71",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4d8b727a49144090b103f6b6ba471e71",
+        "releaseInfo": [
+          {
+            "appId": "f6f987419cc24ef0bd3f16728b0f00f2",
+            "id": "e020c806337842969154ef4de201b19a",
+            "platform": [
+              "Mac",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hundred Days Grape Lab",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2025-02-28T18:09:05.749Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CloudSaveFolder": {
+            "type": "STRING",
+            "value": "{AppData}/../LocalLow/Broken Arms Games Srls/Hundred Days - Winemaking Simulator/Saves"
+          },
+          "CloudSaveFolder_MAC": {
+            "type": "STRING",
+            "value": "{UserLibrary}/Application Support/con.brokenarmsgames.hundreddaysmac/  "
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HDNapaValley"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "4d8b727a49144090b103f6b6ba471e71"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Hundred Days - Napa Valley",
+        "developer": "Broken Arms Games srls",
+        "developerId": "o-ty5rvlnsbgdnfffytsywat86gcedkm",
+        "endOfSupport": false,
+        "entitlementName": "62c43102cb914d1a83243ea44915deac",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "62c43102cb914d1a83243ea44915deac",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hundred Days Hundred Days - Napa Valley Offer",
+            "height": 1440,
+            "md5": "aa1885e949a5930d8f83ccb045b5ab7b",
+            "size": 959804,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-28T18:07:51.912Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7c200a7c5a8646c696c919b29bbbaa29/hundred-days-t8xvf.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hundred Days Hundred Days - Napa Valley Offer",
+            "height": 1600,
+            "md5": "5364bbfe936ed908ac45e33f9b3d9932",
+            "size": 662211,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-28T18:07:51.725Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/7c200a7c5a8646c696c919b29bbbaa29/hundred-days-1mtvc.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-04T14:33:29.635Z",
+        "mainGameItem": {
+          "id": "34a286dc541d42adab99ed45e3d3f7fc",
+          "namespace": "4d8b727a49144090b103f6b6ba471e71",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "34a286dc541d42adab99ed45e3d3f7fc",
+            "namespace": "4d8b727a49144090b103f6b6ba471e71",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4d8b727a49144090b103f6b6ba471e71",
+        "releaseInfo": [
+          {
+            "appId": "f4439be3d48444b1b0b822b568402cf5",
+            "id": "472165c477b24c41ae7aca2a9ddf61aa",
+            "platform": [
+              "Mac",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hundred Days - Napa Valley",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "34a286dc541d42adab99ed45e3d3f7fc",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "34a286dc541d42adab99ed45e3d3f7fc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8f0dd95b6027cd1243361d430b3bf552",
+        "size": 728569,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-12T21:38:26.886Z",
+        "url": "https://cdn1.epicgames.com/4d8b727a49144090b103f6b6ba471e71/item/EGS_HundredDaysWinemakingSimulatorDEMO_BrokenArmsGames_Demo_S1-2560x1440-8f0dd95b6027cd1243361d430b3bf552.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "35531ec1fa868e3876fac76471a24017",
+        "size": 597967,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-12T21:38:41.787Z",
+        "url": "https://cdn1.epicgames.com/4d8b727a49144090b103f6b6ba471e71/item/EGS_HundredDaysWinemakingSimulatorDEMO_BrokenArmsGames_Demo_S2-1200x1600-35531ec1fa868e3876fac76471a24017.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-04T14:33:29.635Z",
+    "mainGameItemList": [],
+    "namespace": "4d8b727a49144090b103f6b6ba471e71",
+    "releaseInfo": [
+      {
+        "appId": "a74e41bbacdc4a4798befb4d55b441de",
+        "id": "efe0774f4fab4e2ab63f88f3d372fb8b",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hundred Days - Winemaking Simulator",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

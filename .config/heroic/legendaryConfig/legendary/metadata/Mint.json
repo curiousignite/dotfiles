@@ -1,0 +1,112 @@
+{
+  "app_name": "Mint",
+  "app_title": "Ghostbusters Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Mint",
+      "asset_id": "Mint",
+      "build_version": "retail10",
+      "catalog_item_id": "d10b9206b14c438e982582ae919775dc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-04-17T17:49:05.661Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GhostbustersRemastered"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d0545b136bb042fb9014e72b6af748f6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ghostbusters Remastered",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "endOfSupport": false,
+    "entitlementName": "d10b9206b14c438e982582ae919775dc",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d10b9206b14c438e982582ae919775dc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "dcfc9464f41731a51e0fb6d221e9da32",
+        "size": 1005971,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-16T18:59:11.847Z",
+        "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_Landscape_Offer_Image_2560_x_1440_2560x1440-dcfc9464f41731a51e0fb6d221e9da32",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6ef33922151cbfead3cae76161d0d6f6",
+        "size": 936615,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-16T18:59:09.681Z",
+        "url": "https://cdn1.epicgames.com/item/d0545b136bb042fb9014e72b6af748f6/GB_tall_image_1200_x_1600_1200x1600-6ef33922151cbfead3cae76161d0d6f6",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-09-27T23:05:42.266Z",
+    "mainGameItemList": [],
+    "namespace": "d0545b136bb042fb9014e72b6af748f6",
+    "releaseInfo": [
+      {
+        "appId": "Mint",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-17T00:00:00.000Z",
+        "id": "dec9f9d0cb82404baedc38b852d7b79d",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Ghostbusters Remastered",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

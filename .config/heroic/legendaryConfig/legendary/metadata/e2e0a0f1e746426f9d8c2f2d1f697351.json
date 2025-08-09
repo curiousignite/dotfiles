@@ -1,0 +1,295 @@
+{
+  "app_name": "e2e0a0f1e746426f9d8c2f2d1f697351",
+  "app_title": "Mafia: Definitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e2e0a0f1e746426f9d8c2f2d1f697351",
+      "asset_id": "e2e0a0f1e746426f9d8c2f2d1f697351",
+      "build_version": "2024-09-23-v17",
+      "catalog_item_id": "bc4e8f6978c640c6908fb0cc7710a693",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a4ebdb1b615c4c538677d723d90f5372"
+      },
+      "namespace": "ee8802651a004c48999169fa32eb4903",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567K5S7Luzaancsj1ZxkCZQifxF",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-13T22:28:51.283Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MafiaDE"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ee8802651a004c48999169fa32eb4903"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Mafia: Definitive Edition",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-28T17:57:19.276Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MafiaDEChicagoPack"
+          }
+        },
+        "description": "Chicago Pack",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "fba41885672a42a6ad6003df2617d1fc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fba41885672a42a6ad6003df2617d1fc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c7b4e75ecfe9b9e4889fee23dec356e6",
+            "size": 471034,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-09-24T22:36:12.536Z",
+            "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/EGS_MafiaDefinitiveEditionOfficialScore_Hangar13_DigitalExtras_S1-2560x1440-c7b4e75ecfe9b9e4889fee23dec356e6.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3674a5caa0e10eca89feb4dba0484112",
+            "size": 912584,
+            "type": "OfferImageTall",
+            "uploadedDate": "2020-09-24T22:36:25.770Z",
+            "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/EGS_MafiaDefinitiveEditionOfficialScore_Hangar13_DigitalExtras_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-09-24T23:01:49.324Z",
+        "longDescription": "Chicago Pack",
+        "mainGameItem": {
+          "id": "bc4e8f6978c640c6908fb0cc7710a693",
+          "namespace": "ee8802651a004c48999169fa32eb4903",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "bc4e8f6978c640c6908fb0cc7710a693",
+            "namespace": "ee8802651a004c48999169fa32eb4903",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ee8802651a004c48999169fa32eb4903",
+        "releaseInfo": [
+          {
+            "appId": "d1b2b9c24c9c4307a6160b0f00bade0d",
+            "dateAdded": "2020-05-27T00:00:00.000Z",
+            "id": "fb9ed3f21ebc4f0993c6abeed11f71d0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chicago Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "digitalextras"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-09-21T19:38:01.530Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MafiaOriginalGameScore"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Mafia 1 Definitive Edition Original Game Score",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "b324f4771c2e4eb6926b32f527eed49c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b324f4771c2e4eb6926b32f527eed49c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c7b4e75ecfe9b9e4889fee23dec356e6",
+            "size": 471034,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-06-08T21:59:18.352Z",
+            "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/EGS_MafiaDefinitiveEditionOfficialScore_Hangar13_DigitalExtras_S1-2560x1440-c7b4e75ecfe9b9e4889fee23dec356e6.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2021-12-09T19:09:09.044Z",
+        "mainGameItem": {
+          "id": "bc4e8f6978c640c6908fb0cc7710a693",
+          "namespace": "ee8802651a004c48999169fa32eb4903",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "bc4e8f6978c640c6908fb0cc7710a693",
+            "namespace": "ee8802651a004c48999169fa32eb4903",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ee8802651a004c48999169fa32eb4903",
+        "releaseInfo": [
+          {
+            "appId": "936fecf46d7d4ab98edb7f2f269444c7",
+            "dateAdded": "2020-05-27T00:00:00.000Z",
+            "id": "fb9ed3f21ebc4f0993c6abeed11f71d0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Mafia 1 Definitive Edition Original Game Score",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "bc4e8f6978c640c6908fb0cc7710a693",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "bc4e8f6978c640c6908fb0cc7710a693",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "268b01e611aa17de8caedd662b8462ab",
+        "size": 494929,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-18T19:57:59.850Z",
+        "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_G1A_00-1920x1080-268b01e611aa17de8caedd662b8462ab.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "3674a5caa0e10eca89feb4dba0484112",
+        "size": 912584,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-18T19:58:11.825Z",
+        "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/item/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-19T18:55:41.868Z",
+    "mainGameItemList": [],
+    "namespace": "ee8802651a004c48999169fa32eb4903",
+    "releaseInfo": [
+      {
+        "appId": "e2e0a0f1e746426f9d8c2f2d1f697351",
+        "dateAdded": "2020-05-27T00:00:00.000Z",
+        "id": "98ee34ea1d0645209b2aaac2a1579229",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Mafia: Definitive Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,104 @@
+{
+  "app_name": "Nemesia",
+  "app_title": "Vampire: The Masquerade \u2013 Bloodlines 2",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-13T12:11:22.827Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "VampireTheMasqueradeBloodlines2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "nemesia"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Paradox Interactive"
+      }
+    },
+    "description": "Vampire: The Masquerade \u2013 Bloodlines 2",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "endOfSupport": false,
+    "entitlementName": "2a8f3c0d466f47ca82a8553df6ed2f52",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paradoxinteractive)"
+    ],
+    "id": "2a8f3c0d466f47ca82a8553df6ed2f52",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "eed15ab6496fcba9770d4205aeb2aaf7",
+        "size": 532507,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-30T15:20:49.171Z",
+        "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S1_2560x1440-eed15ab6496fcba9770d4205aeb2aaf7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "31c6dc03b2c02f7cf43b6df2972791bf",
+        "size": 339924,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-30T15:20:51.842Z",
+        "url": "https://cdn1.epicgames.com/item/nemesia/EGS_VampireTheMasqueradeBloodlines2_TheChineseRoom_S2_1200x1600-31c6dc03b2c02f7cf43b6df2972791bf",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T16:37:45.022Z",
+    "mainGameItemList": [],
+    "namespace": "nemesia",
+    "releaseInfo": [
+      {
+        "appId": "Nemesia",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-13T00:00:00.000Z",
+        "id": "d34bc6e358d44114a2bd2144ed6197b4",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Vampire: The Masquerade \u2013 Bloodlines 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,117 @@
+{
+  "app_name": "ecfdc10170eb49b6b61cf16b3aa36d56",
+  "app_title": "Tannenberg",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ecfdc10170eb49b6b61cf16b3aa36d56",
+      "asset_id": "ecfdc10170eb49b6b61cf16b3aa36d56",
+      "build_version": "0.54578_Windows",
+      "catalog_item_id": "07a27e25fdce469fa023695acff0cc88",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "538de058a6d9490ea151c4cd111cc01b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-19T02:32:42.124Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/WW1 Game Series/WW1 Game Series/Epic/Tannenberg/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/WW1 Game Series/WW1 Game Series/Epic/Tannenberg/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Tannenberg"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "538de058a6d9490ea151c4cd111cc01b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tannenberg",
+    "developer": "BlackMill Games B.V.",
+    "developerId": "o-pqh887lztbpbmnnzvlmm79bps4an8w",
+    "endOfSupport": false,
+    "entitlementName": "07a27e25fdce469fa023695acff0cc88",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "07a27e25fdce469fa023695acff0cc88",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ac40112254aee2c0d5b1f9e488c41a11",
+        "size": 999744,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-22T04:34:14.133Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tannenberg_M2HBlackmillGames_S1_2560x1440-ac40112254aee2c0d5b1f9e488c41a11",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6a68dbd9a3765682e954deb3343ec76e",
+        "size": 1003004,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-22T04:34:28.271Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tannenberg_M2HBlackmillGames_S4_1200x1600-6a68dbd9a3765682e954deb3343ec76e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-08T16:38:00.748Z",
+    "mainGameItemList": [],
+    "namespace": "538de058a6d9490ea151c4cd111cc01b",
+    "releaseInfo": [
+      {
+        "appId": "ecfdc10170eb49b6b61cf16b3aa36d56",
+        "id": "684fa704f5d745d6b56bcc8205d90534",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tannenberg",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

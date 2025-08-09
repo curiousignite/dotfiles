@@ -1,0 +1,102 @@
+{
+  "app_name": "23cbdd44de914e9caec216acefc51f9b",
+  "app_title": "Deadtime Defenders",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "23cbdd44de914e9caec216acefc51f9b",
+      "asset_id": "23cbdd44de914e9caec216acefc51f9b",
+      "build_version": "1.0.3-RC1",
+      "catalog_item_id": "ef9ca65efc4f4598921cf13b5e442409",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4b2990a005c445a7b622e7362b47fc57",
+        "update_type": "PATCH"
+      },
+      "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567cVXbIOYaPnQz4TnrxUFDIslX",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-31T19:20:40.091Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "game*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Arcane Embers/Deadtime Defenders/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/Arcane Embers/Deadtime Defenders/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeadtimeDefenders3xCu2"
+      }
+    },
+    "description": "Deadtime Defenders",
+    "developer": "Arcane Embers Game Studio Inc.",
+    "developerId": "o-8ejptp3p7szx5jtbcpvur5nczb7yf2",
+    "endOfSupport": false,
+    "entitlementName": "ef9ca65efc4f4598921cf13b5e442409",
+    "entitlementType": "EXECUTABLE",
+    "id": "ef9ca65efc4f4598921cf13b5e442409",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Deadtime Defenders Offer",
+        "height": 1440,
+        "md5": "c64fea9e606274bc4f901f8a3cb89c63",
+        "size": 2921341,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-04-07T23:22:33.521Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-zhw1c.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Deadtime Defenders Offer",
+        "height": 1600,
+        "md5": "6a8ca7fc11a60ab524afc312a1d9f594",
+        "size": 1612950,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-04-07T23:22:32.993Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1dr6y.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-01T21:26:39.309Z",
+    "mainGameItemList": [],
+    "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+    "releaseInfo": [
+      {
+        "appId": "23cbdd44de914e9caec216acefc51f9b",
+        "id": "200a96a48d12473b8dc2badb31af2162",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deadtime Defenders",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "1780ef16b3e64f12bd5d46ace9627e51"
+    },
+    "rev": 1
+  }
+}

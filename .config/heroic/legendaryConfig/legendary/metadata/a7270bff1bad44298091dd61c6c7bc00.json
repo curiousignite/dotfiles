@@ -1,0 +1,87 @@
+{
+  "app_name": "a7270bff1bad44298091dd61c6c7bc00",
+  "app_title": "Gigapocalypse",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a7270bff1bad44298091dd61c6c7bc00",
+      "asset_id": "a7270bff1bad44298091dd61c6c7bc00",
+      "build_version": "1.1.32",
+      "catalog_item_id": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bcb38c2aa91a4e4da115cf0c35a557ad"
+      },
+      "namespace": "09f00180b25347bdb65ac0b7378756b7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45677yWKBqxiQdpIplOh7cy3n32K",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-12-22T12:55:58.536Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "GigapocalypseBsF2y"
+      }
+    },
+    "description": "Gigapocalypse",
+    "developer": "Headup Gmbh",
+    "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "endOfSupport": false,
+    "entitlementName": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Gigapocalypse Offer",
+        "height": 1440,
+        "md5": "cfedc75b3acfde245f0178d3de44bb17",
+        "size": 759578,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-02T04:19:09.972Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/79460c9ca0ac41f1bff52983d803a2d7/gigapocalypse-yieit.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Gigapocalypse Offer",
+        "height": 1600,
+        "md5": "f65097969dbeb845b0cd4f5fcb656198",
+        "size": 418067,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-02T04:19:04.896Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/79460c9ca0ac41f1bff52983d803a2d7/gigapocalypse-1uzwj.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-25T14:37:43.084Z",
+    "mainGameItemList": [],
+    "namespace": "09f00180b25347bdb65ac0b7378756b7",
+    "releaseInfo": [
+      {
+        "appId": "a7270bff1bad44298091dd61c6c7bc00",
+        "id": "5599c71a279d43edadf401bea82809fa",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gigapocalypse",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

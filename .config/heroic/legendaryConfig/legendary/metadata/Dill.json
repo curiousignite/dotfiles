@@ -1,0 +1,130 @@
+{
+  "app_name": "Dill",
+  "app_title": "Transistor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Dill",
+      "asset_id": "Dill",
+      "build_version": "1.50627.2019-06-10-16:14:59-x64",
+      "catalog_item_id": "6ab3fccba1b045a6b77eebefb5b65fc4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-04-04T01:42:40.951Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Transistor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "bc81d1e7d1794d3a94e4dbf26e92166d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Transistor",
+    "developer": "Supergiant Games LLC",
+    "developerId": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+    "endOfSupport": false,
+    "entitlementName": "6ab3fccba1b045a6b77eebefb5b65fc4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6ab3fccba1b045a6b77eebefb5b65fc4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "80b4204d1dbee38616e1484a262f1a94",
+        "size": 278179,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-04-04T01:37:20.245Z",
+        "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Primary_Promo-2580x1450-80b4204d1dbee38616e1484a262f1a94.jpg",
+        "width": 2580
+      },
+      {
+        "height": 983,
+        "md5": "0b765c8299dcd1198c2d1ebc1b94f6c5",
+        "size": 231518,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-04-04T01:37:31.459Z",
+        "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Logo_Color_Optimized-1920x983-0b765c8299dcd1198c2d1ebc1b94f6c5.png",
+        "width": 1920
+      },
+      {
+        "height": 400,
+        "md5": "1f99976dca8ff8828794939830af2ab0",
+        "size": 31422,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-04-04T14:30:46.926Z",
+        "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Thumbnail-400x400-1f99976dca8ff8828794939830af2ab0.png",
+        "width": 400
+      },
+      {
+        "height": 1420,
+        "md5": "cb8c25f61f7c2b27e0c20e45859278e6",
+        "size": 177118,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/bc81d1e7d1794d3a94e4dbf26e92166d/item/Transistor_Portrait_Promo-1280x1420-cb8c25f61f7c2b27e0c20e45859278e6.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:04:09.745Z",
+    "mainGameItemList": [],
+    "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+    "releaseInfo": [
+      {
+        "appId": "Dill",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-04T00:00:00.000Z",
+        "id": "38e2c065edb34c519eac51614d2b6ff7",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Transistor",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

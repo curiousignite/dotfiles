@@ -1,0 +1,193 @@
+{
+  "app_name": "456afef39a4c4cbbb6b17e92201443d7",
+  "app_title": "God of War Ragnar\u00f6k",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "456afef39a4c4cbbb6b17e92201443d7",
+      "asset_id": "456afef39a4c4cbbb6b17e92201443d7",
+      "build_version": "godofwar-21022-20250321",
+      "catalog_item_id": "634aa3f4ee28452fa9a9a175561d0e67",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2048c3dfa36d4326959703f6dd62425f",
+        "update_type": "PATCH"
+      },
+      "namespace": "862d80a2d1044d88b01104b3ebaed032",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/edaff839f0734d16bc89d2ddb1dc9339/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/edaff839f0734d16bc89d2ddb1dc9339/default",
+    "https://download.epicgames.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/edaff839f0734d16bc89d2ddb1dc9339/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/edaff839f0734d16bc89d2ddb1dc9339/default"
+  ],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-05-15T20:25:08.233Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "GOWRSAVE*,*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/God of War Ragnar\u00f6k/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GodofWarRagnarok"
+      }
+    },
+    "description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go \u2013 now on PC.",
+    "developer": "Sony Interactive Entertainment",
+    "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-17T19:34:38.123Z",
+        "description": "God of War Ragnar\u00f6k - Upgrade to Digital Deluxe Edition_SeasonPassAudience",
+        "developer": "Sony Interactive Entertainment",
+        "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+        "endOfSupport": false,
+        "entitlementName": "747984480ea244cebac8b0ec75da06a4",
+        "entitlementType": "AUDIENCE",
+        "id": "747984480ea244cebac8b0ec75da06a4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-09-19T15:13:07.090Z",
+        "mainGameItem": {
+          "id": "634aa3f4ee28452fa9a9a175561d0e67",
+          "namespace": "862d80a2d1044d88b01104b3ebaed032",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "634aa3f4ee28452fa9a9a175561d0e67",
+            "namespace": "862d80a2d1044d88b01104b3ebaed032",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "862d80a2d1044d88b01104b3ebaed032",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "God of War Ragnar\u00f6k - Upgrade to Digital Deluxe Edition_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-24T00:00:06.801Z",
+        "description": "God of War Ragnar\u00f6k Digtal Deluxe Content",
+        "developer": "Sony Interactive Entertainment",
+        "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+        "endOfSupport": false,
+        "entitlementName": "2625b5fcbd344d889f23e4fa1260ebf6",
+        "entitlementType": "EXECUTABLE",
+        "id": "2625b5fcbd344d889f23e4fa1260ebf6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Steel Magnolia God of War Ragnar\u00f6k Digtal Deluxe Content Offer",
+            "height": 1440,
+            "md5": "6be9c72bdc70defcf000167430a5ddff",
+            "size": 1023453,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-24T21:37:26.254Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-2wxnx.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Steel Magnolia God of War Ragnar\u00f6k Digtal Deluxe Content Offer",
+            "height": 1600,
+            "md5": "f7be309098271039495ffde804c0ed18",
+            "size": 533707,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-24T21:37:26.057Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-17w4g.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-06-21T23:36:09.353Z",
+        "mainGameItem": {
+          "id": "634aa3f4ee28452fa9a9a175561d0e67",
+          "namespace": "862d80a2d1044d88b01104b3ebaed032",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "634aa3f4ee28452fa9a9a175561d0e67",
+            "namespace": "862d80a2d1044d88b01104b3ebaed032",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "862d80a2d1044d88b01104b3ebaed032",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "God of War Ragnar\u00f6k Digtal Deluxe Content",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "634aa3f4ee28452fa9a9a175561d0e67",
+    "entitlementType": "EXECUTABLE",
+    "id": "634aa3f4ee28452fa9a9a175561d0e67",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Steel Magnolia Offer",
+        "height": 1440,
+        "md5": "c753e123b7151a399e8245673ac707a4",
+        "size": 633889,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-20T18:57:08.457Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-dqq7k.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Steel Magnolia Offer",
+        "height": 1600,
+        "md5": "81b5173d54c13aeacc13a77a3ccb5612",
+        "size": 628805,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-20T18:57:12.451Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-oxj88.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-08-08T18:18:46.092Z",
+    "mainGameItemList": [],
+    "namespace": "862d80a2d1044d88b01104b3ebaed032",
+    "releaseInfo": [
+      {
+        "appId": "456afef39a4c4cbbb6b17e92201443d7",
+        "id": "1fcb515c12e64187851cf240c62cb34b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "God of War Ragnar\u00f6k",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

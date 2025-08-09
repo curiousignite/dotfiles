@@ -1,0 +1,155 @@
+{
+  "app_name": "29d12cc907b148dd957a709f1414843e",
+  "app_title": "Death's Gambit - Afterlife",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "29d12cc907b148dd957a709f1414843e",
+      "asset_id": "29d12cc907b148dd957a709f1414843e",
+      "build_version": "1.0.0.130_2",
+      "catalog_item_id": "cc82af51ae724ec6bcf291fa940be8fc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9ab431cacb2e4536b5802a55e6957dc2"
+      },
+      "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-13T22:40:51.642Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeathsGambitAfterlifMUr7y"
+      }
+    },
+    "description": "Death's Gambit - Afterlife",
+    "developer": "Serenity Forge",
+    "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-25T15:46:05.528Z",
+        "customAttributes": {},
+        "description": "Death's Gambit: Afterlife - Ashes of Vados",
+        "developer": "Serenity Forge",
+        "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+        "endOfSupport": false,
+        "entitlementName": "1f417ac9abc84777b0cd4545de3443b7",
+        "entitlementType": "EXECUTABLE",
+        "id": "1f417ac9abc84777b0cd4545de3443b7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Death's Gambit - Afterlife Death's Gambit: Afterlife - Ashes of Vados Offer",
+            "height": 1440,
+            "md5": "8fbdabb3bfc4527cdb794129209c9390",
+            "size": 495219,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-07-17T20:21:39.137Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-gly5q.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Death's Gambit - Afterlife Death's Gambit: Afterlife - Ashes of Vados Offer",
+            "height": 1600,
+            "md5": "7ce45e1b1ccf3d3c6b3f5c7165af1098",
+            "size": 296805,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-07-17T20:21:42.557Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-r3c8d.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-25T15:46:05.528Z",
+        "mainGameItem": {
+          "id": "cc82af51ae724ec6bcf291fa940be8fc",
+          "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cc82af51ae724ec6bcf291fa940be8fc",
+            "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+        "releaseInfo": [
+          {
+            "appId": "3d31967c92f14aedb59a6b49a45b7aa9",
+            "id": "f773d6e2da96428e932613ca110c6375",
+            "platform": [
+              "Win32",
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Death's Gambit: Afterlife - Ashes of Vados",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "cc82af51ae724ec6bcf291fa940be8fc",
+    "entitlementType": "EXECUTABLE",
+    "id": "cc82af51ae724ec6bcf291fa940be8fc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Death's Gambit - Afterlife Offer",
+        "height": 1440,
+        "md5": "fd93f1fd5e8a78adef69b39e10ed06a7",
+        "size": 888644,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-13T21:14:35.216Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-1v244.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Death's Gambit - Afterlife Offer",
+        "height": 1600,
+        "md5": "f5805825c82ec22d34615f2ee8e2715f",
+        "size": 464231,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-06-13T21:14:38.090Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/58c8925d94e440c7b0b4206635272579/deaths-gambit--afterlife-1uq5i.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-08-12T20:50:40.194Z",
+    "mainGameItemList": [],
+    "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+    "releaseInfo": [
+      {
+        "appId": "29d12cc907b148dd957a709f1414843e",
+        "id": "14db0b912fca49c4af10433a7d47adec",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Death's Gambit - Afterlife",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

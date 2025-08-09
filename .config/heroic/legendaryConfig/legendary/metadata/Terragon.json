@@ -1,0 +1,116 @@
+{
+  "app_name": "Terragon",
+  "app_title": "Torchlight",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Terragon",
+      "asset_id": "Terragon",
+      "build_version": "1.15",
+      "catalog_item_id": "8c0bd96a32fb4e1e8955a62a414c84d5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-05-20T22:15:25.506Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../Roaming/runic games/torchlight/save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Torchlight"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d0230ef21b1f4ef29aec0d49946912fc"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Torchlight",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "endOfSupport": false,
+    "entitlementName": "8c0bd96a32fb4e1e8955a62a414c84d5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8c0bd96a32fb4e1e8955a62a414c84d5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "bf1e4c7ccea4b1f48cba1c014d8a85e8",
+        "size": 6129116,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-21T18:11:07.011Z",
+        "url": "https://cdn1.epicgames.com/item/d0230ef21b1f4ef29aec0d49946912fc/TL1_PDP_Banner_1440_2560x1440-bf1e4c7ccea4b1f48cba1c014d8a85e8",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f8147c005d12251321b8d3a1074fd8af",
+        "size": 3505737,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-21T18:11:10.320Z",
+        "url": "https://cdn1.epicgames.com/item/d0230ef21b1f4ef29aec0d49946912fc/TL1_PDP_Banner_1200x1600_1200x1600-f8147c005d12251321b8d3a1074fd8af",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-21T18:07:08.607Z",
+    "mainGameItemList": [],
+    "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+    "releaseInfo": [
+      {
+        "appId": "Terragon",
+        "dateAdded": "2019-06-24T00:00:00.000Z",
+        "id": "aaae4567b60a4cdba629039c72649cdf",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Torchlight",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

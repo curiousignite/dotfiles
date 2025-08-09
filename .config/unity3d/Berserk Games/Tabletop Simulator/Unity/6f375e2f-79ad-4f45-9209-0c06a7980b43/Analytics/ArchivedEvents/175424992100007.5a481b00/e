@@ -1,0 +1,6 @@
+(s)|{"appid":"6f375e2f-79ad-4f45-9209-0c06a7980b43","userid":"4d407d586938668d2a4db61d927507d0","sessionid":7837101646890779198,"platform":"LinuxPlayer","platformid":13,"sdk_ver":"u2019.4.40f1","sdk_rev":"ffc62b691db5","session_count":2,"localprojectid":"eefbd4433fd2579468ce867ad947a232","build_guid":"d7329cc62905f92439cbd77196e8cc91","deviceid":"3a06c1e60bb84220850176e56ab7920e","identity_token":"4d407d586938668d2a4db61d927507d0"}
+(g)|2
+{"type":"analytics.custom.v1","msg":{"ts":1754249921722,"t_since_start":4235907331,"name":"Multiplayer_Ended"}}
+{"type":"analytics.custom.v1","msg":{"ts":1754249925223,"t_since_start":4239408055,"name":"Multiplayer_Ended"}}
+{"type":"analytics.appRunning.v1","msg":{"duration":4238,"local_time_offset":-10800000,"ts":1754249925554,"t_since_start":4239739187}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1754249925554,"t_since_start":4239739354}}

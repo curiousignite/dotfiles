@@ -1,0 +1,146 @@
+{
+  "app_name": "7d5ec41fb5ae49c5beca9360034fd57e",
+  "app_title": "Lost Castle",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7d5ec41fb5ae49c5beca9360034fd57e",
+      "asset_id": "7d5ec41fb5ae49c5beca9360034fd57e",
+      "build_version": "2.08.1",
+      "catalog_item_id": "3f97c40f183e4673ab85579ef1c3a797",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a9760eb5e8794c55bbcff318b6fef4fe"
+      },
+      "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567LcA978K9f4TnKCxMNEjaxxzG",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-08-17T02:06:20.385Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Hunter Studio/Lost_Castle/epic/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LostCastleiMkuz"
+      }
+    },
+    "description": "Lost Castle is an action RPG beat'em up with roguelike elements and randomized dungeons for up to four players online and local!",
+    "developer": "Another Indie Studio Limited",
+    "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-14T08:08:14.861Z",
+        "description": "The Old Ones Awaken adds new levels to explore, new enemies to defeat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+        "developer": "Another Indie Studio Limited",
+        "developerId": "o-ze7grkplqlrzc92lepkjv4xpaj7gn8",
+        "endOfSupport": false,
+        "entitlementName": "9d1e8c4f38384ec0aa0d9c194ae7e81a",
+        "entitlementType": "EXECUTABLE",
+        "id": "9d1e8c4f38384ec0aa0d9c194ae7e81a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Lost Castle Lost Castle: The Old Ones Awaken Offer",
+            "height": 1440,
+            "md5": "cf592eb4ec36f32d1c37e2981631badd",
+            "size": 3018634,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-01-05T02:14:47.584Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-14bla.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Lost Castle Lost Castle: The Old Ones Awaken Offer",
+            "height": 1600,
+            "md5": "d1ca70018690dbbb410f947fb836623e",
+            "size": 2319721,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-01-24T01:11:54.628Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-1mzhp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-02-21T06:53:25.163Z",
+        "mainGameItem": {
+          "id": "3f97c40f183e4673ab85579ef1c3a797",
+          "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "3f97c40f183e4673ab85579ef1c3a797",
+            "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lost Castle: The Old Ones Awaken",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "3f97c40f183e4673ab85579ef1c3a797",
+    "entitlementType": "EXECUTABLE",
+    "id": "3f97c40f183e4673ab85579ef1c3a797",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Lost Castle Offer",
+        "height": 1440,
+        "md5": "91803ccaae82cc424ea536843cf72b38",
+        "size": 2938738,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-17T04:14:28.900Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-2mj5g.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Lost Castle Offer",
+        "height": 1600,
+        "md5": "efcf9ac451932f299e2238bc4e14f6dc",
+        "size": 2425195,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-17T04:23:18.629Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-95u09.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-21T06:53:25.163Z",
+    "mainGameItemList": [],
+    "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+    "releaseInfo": [
+      {
+        "appId": "7d5ec41fb5ae49c5beca9360034fd57e",
+        "id": "438e57af879543579adccd35811ffeb9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Lost Castle",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

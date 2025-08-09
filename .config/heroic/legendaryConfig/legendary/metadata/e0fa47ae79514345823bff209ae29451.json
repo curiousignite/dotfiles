@@ -1,0 +1,99 @@
+{
+  "app_name": "e0fa47ae79514345823bff209ae29451",
+  "app_title": "A Plague Tale: Innocence",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e0fa47ae79514345823bff209ae29451",
+      "asset_id": "e0fa47ae79514345823bff209ae29451",
+      "build_version": "EGS_1.08.4",
+      "catalog_item_id": "38649a203d904405ab9068e09dc5be91",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "71d19da3678943098859baa9c4c39f95",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567QWdXaU5ZgcFYvKEXef3eORjq",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-15T13:32:17.443Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/A Plague Tale Innocence/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "APlagueTale"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100MB"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "A Plague Tale: Innocence",
+    "developer": "Focus Entertainment Publishing",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "endOfSupport": false,
+    "entitlementName": "38649a203d904405ab9068e09dc5be91",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "38649a203d904405ab9068e09dc5be91",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1c47786e1130e040a090368a1551a627",
+        "size": 442781,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-29T14:26:02.016Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/1bbe911a-6c89-490c-9230-cdd99c3be4b5_2560x1440-1c47786e1130e040a090368a1551a627",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "64d325ee5395304b0e91595b5e22e07c",
+        "size": 556372,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-29T14:26:12.865Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/6890480d-5ce5-4e10-b0d5-4690552beac1_1200x1600-64d325ee5395304b0e91595b5e22e07c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-18T16:20:56.475Z",
+    "longDescription": "A Plague Tale: Innocence",
+    "mainGameItemList": [],
+    "namespace": "71d19da3678943098859baa9c4c39f95",
+    "releaseInfo": [
+      {
+        "appId": "e0fa47ae79514345823bff209ae29451",
+        "compatibleApps": [],
+        "dateAdded": "2020-09-15T00:00:00.000Z",
+        "id": "9cb5e475316944838e2b1113de0df35e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "A Plague Tale: Innocence",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

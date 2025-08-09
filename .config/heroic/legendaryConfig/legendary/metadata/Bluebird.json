@@ -1,0 +1,133 @@
+{
+  "app_name": "Bluebird",
+  "app_title": "Fez",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Bluebird",
+      "asset_id": "Bluebird",
+      "build_version": "1.12.0",
+      "catalog_item_id": "7a70b499513441c792b541d53505e0b2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-09T14:07:34.647Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../roaming/FEZ/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/FEZ/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Fez"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "41f47fd0d3e248bc938a5815d6d64daa"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fez",
+    "developer": "Polytron Corporation, Inc",
+    "developerId": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+    "endOfSupport": false,
+    "entitlementName": "7a70b499513441c792b541d53505e0b2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7a70b499513441c792b541d53505e0b2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "cf0e2f3af51039940999d57737e8c13c",
+        "size": 349220,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-08-14T13:27:19.695Z",
+        "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 720,
+        "md5": "aebf7ac340f3efcdc712de7c3c5fceef",
+        "size": 37905,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-08-14T13:27:29.322Z",
+        "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png",
+        "width": 760
+      },
+      {
+        "height": 1440,
+        "md5": "a442a5ef672e1904ffa98346d33a5ad9",
+        "size": 232610,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/item/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:02:42.064Z",
+    "mainGameItemList": [],
+    "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+    "releaseInfo": [
+      {
+        "appId": "Bluebird",
+        "dateAdded": "2019-08-09T00:00:00.000Z",
+        "id": "0a764754978e4216b1485bac07f15e7f",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Fez",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

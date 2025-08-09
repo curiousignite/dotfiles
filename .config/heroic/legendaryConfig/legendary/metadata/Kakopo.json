@@ -1,0 +1,1066 @@
+{
+  "app_name": "Kakopo",
+  "app_title": "Just Cause 4",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Kakopo",
+      "asset_id": "Kakopo",
+      "build_version": "JC4_2226912_1830540",
+      "catalog_item_id": "11fa5d6106524a3fa600b111ac243f58",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "845c87d11254483991120dc2d952122a"
+      },
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-11T21:16:27.789Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "JustCause4"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ba8062bdcc1342c0b78743e3c6242575"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Just Cause 4",
+    "developer": "Square Enix",
+    "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T19:47:26.704Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoNeon"
+          }
+        },
+        "description": "KakopoNeon",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "4bc500b2d08b49b0949d52e62e489688",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4bc500b2d08b49b0949d52e62e489688",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoNeon",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "f9673c218a4443a3a1a69b0e9cae2beb",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "selfRefundable": true,
+        "status": "ACTIVE",
+        "title": "KakopoNeon",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:46:33.524Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoToy"
+          }
+        },
+        "description": "KakopoToy",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "9835db5011204a0fa3dfe7aa543dd048",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9835db5011204a0fa3dfe7aa543dd048",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoToy",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "3877fc68d20b410eb2d982542dc3e11e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoToy",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:58:58.388Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoShark"
+          }
+        },
+        "description": "KakopoShark",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "f467c84491fe4d768201a23d59bd6240",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f467c84491fe4d768201a23d59bd6240",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoShark",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "1ef998074e18490aa3c6fd4b677fdd2b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoShark",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-12T03:11:00.096Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Demonios"
+          }
+        },
+        "description": "Demonios",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "1e8b6e885a5d4c6abe8682ad19bcc75c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1e8b6e885a5d4c6abe8682ad19bcc75c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoDemonios",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "0ed2a4cd32424c51875fc207248f0c5b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Demonios",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T19:51:42.890Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoScorpion"
+          }
+        },
+        "description": "KakopoScorpion",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "253e2dd66c524bdb87474b6055fb6d40",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "253e2dd66c524bdb87474b6055fb6d40",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoScorpion",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "cd3ebcc5587a459981a175f6022c999e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "selfRefundable": true,
+        "status": "ACTIVE",
+        "title": "KakopoScorpion",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:53:10.450Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoAssault"
+          }
+        },
+        "description": "KakopoAssault",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "d5cd3890371e47cbb7afa0316a321dac",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d5cd3890371e47cbb7afa0316a321dac",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoAssault",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "6ba588b46f4646e89bf08741334ffb6a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoAssault",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T19:00:53.413Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoBrawler"
+          }
+        },
+        "description": "KakopoBrawler",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "35f0f1402708437f971c45fdd8aaa4de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "35f0f1402708437f971c45fdd8aaa4de",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoBrawler",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "8244b88bd73444c2ad8adb134fe7a372",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoBrawler",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-12T03:05:30.023Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Darevil"
+          }
+        },
+        "description": "Darevil",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "31b7eb380df644f69852721baaa2086b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "31b7eb380df644f69852721baaa2086b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoDarevil",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "4f53f80e7b584c0fb78ca6412f089406",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Darevil",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-12T15:18:22.236Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Renegade"
+          }
+        },
+        "description": "Renegade Pack",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "5b0432d23fb443b0b848496223c376fb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b0432d23fb443b0b848496223c376fb",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.647Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoRenegade",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "998d98c684af42fca92597a2bdb9202c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "selfRefundable": true,
+        "status": "ACTIVE",
+        "title": "Renegade Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:50:02.543Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoSpeed"
+          }
+        },
+        "description": "Kakopo Speed",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "d5ca1a59f42a4645b72876f6290819c6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d5ca1a59f42a4645b72876f6290819c6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoSpeed",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "dcb217758bdc479e999cf5b8ee3c617c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Kakopo Speed",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-12T15:12:14.801Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoDanger"
+          }
+        },
+        "description": "KakopoDanger",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "ac1c75ec95324aef8098154d627884b3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ac1c75ec95324aef8098154d627884b3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoDanger",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "f8f75b1b01da4d08a8f9b7029cf5a7cb",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoDanger",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T19:40:27.981Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoSkystriker"
+          }
+        },
+        "description": "KakopoSkystriker",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "f1043493bdf9492e874a0bc5876908a9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f1043493bdf9492e874a0bc5876908a9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoSkystriker",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "1c5bf05512a2409d8986e78ecf3aa1be",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "selfRefundable": true,
+        "status": "ACTIVE",
+        "title": "KakopoSkystriker",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:43:43.671Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoDragon"
+          }
+        },
+        "description": "The Dragon",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "850460c17ece45478650786b3a087842",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "850460c17ece45478650786b3a087842",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoDragon",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "2a6ebec91e0a432e946c6456c560de84",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Dragon",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T18:56:36.147Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KakopoSea"
+          }
+        },
+        "description": "KakopoSea",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "90263bb5f2e8452f984d0df1d5a1fefc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "90263bb5f2e8452f984d0df1d5a1fefc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoSea",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "12d9754fc8a5476cb2b849b5919b1fbf",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "KakopoSea",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-16T19:56:58.129Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "GoldGear"
+          }
+        },
+        "description": "Gold Gear Pack",
+        "developer": "Square Enix",
+        "developerId": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+        "endOfSupport": false,
+        "entitlementName": "e86800a031374b40bbc89ce51b9d55ad",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e86800a031374b40bbc89ce51b9d55ad",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-04-09T14:22:00.648Z",
+        "mainGameItem": {
+          "id": "11fa5d6106524a3fa600b111ac243f58",
+          "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "11fa5d6106524a3fa600b111ac243f58",
+            "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+        "releaseInfo": [
+          {
+            "appId": "KakopoGold",
+            "dateAdded": "2019-09-13T00:00:00.000Z",
+            "id": "0a23cf28c5e0402e8e00a419a34aaf2a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Gold Gear Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "11fa5d6106524a3fa600b111ac243f58",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore && JC4"
+    ],
+    "id": "11fa5d6106524a3fa600b111ac243f58",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5c3b5edf8cb8b166fbc08b80df974f5f",
+        "size": 621232,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-16T15:05:21.456Z",
+        "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "63070ca3b25f0ad2ada1fe99a0a0e2c4",
+        "size": 200847,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-16T15:05:33.890Z",
+        "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/item/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-06-16T20:01:35.037Z",
+    "longDescription": "Just Cause 4",
+    "mainGameItemList": [],
+    "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+    "releaseInfo": [
+      {
+        "appId": "Kakopo",
+        "dateAdded": "2019-09-13T00:00:00.000Z",
+        "id": "f78926fd95554895b601f9c4e7c59c7c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Just Cause 4",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,111 @@
+{
+  "app_name": "Fangtooth",
+  "app_title": "Shadow Tactics: Blades of the Shogun",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Fangtooth",
+      "asset_id": "Fangtooth",
+      "build_version": "2.2.11.F.Windows_EpicStore.2023_01_17_1555_Windows",
+      "catalog_item_id": "c275c2a3a6564d298db3dd4ca623e1f9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2f215955790d456b80c291bc2feaf7f7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-18T10:01:23.762Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShadowTactics"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2f215955790d456b80c291bc2feaf7f7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Shadow Tactics: Blades of the Shogun",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "c275c2a3a6564d298db3dd4ca623e1f9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c275c2a3a6564d298db3dd4ca623e1f9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "216c2e04b177c6b7252f1f535edef030",
+        "size": 492918,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-20T03:05:04.257Z",
+        "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/item/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "f62935abb1b2bd42b2f19f9385da7fe7",
+        "size": 233870,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-20T03:05:17.511Z",
+        "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/item/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2019-12-28T16:25:22.437Z",
+    "mainGameItemList": [],
+    "namespace": "2f215955790d456b80c291bc2feaf7f7",
+    "releaseInfo": [
+      {
+        "appId": "Fangtooth",
+        "dateAdded": "2019-12-26T16:11:41.068Z",
+        "id": "3f6c16552d51425ab49e7ebffdba2454",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

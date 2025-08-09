@@ -1,0 +1,118 @@
+{
+  "app_name": "Goldfish",
+  "app_title": "Stick it to the Man",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Goldfish",
+      "asset_id": "Goldfish",
+      "build_version": "0.9.91",
+      "catalog_item_id": "95f1a18780fe4fcb89013cd71753c6ee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ad876f7812c946f6a362bf821b971b48",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567wK1XDa8iPoysRcb2qg5911F1",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-23T22:55:11.850Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/StickItToTheMan/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "StickItToTheMan"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ad876f7812c946f6a362bf821b971b48"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Stick it to the Man",
+    "developer": "Ripstone Ltd",
+    "developerId": "o-fbx9l7z95axq9s73trhbttadbareuq",
+    "endOfSupport": false,
+    "entitlementName": "95f1a18780fe4fcb89013cd71753c6ee",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "95f1a18780fe4fcb89013cd71753c6ee",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "959c120e1befd416396488b6698f8113",
+        "size": 789033,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-09T00:36:38.928Z",
+        "url": "https://cdn1.epicgames.com/ad876f7812c946f6a362bf821b971b48/item/EGS_StickItToTheMan_Zoink_S1-2560x1440-959c120e1befd416396488b6698f8113.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8847a93af4bb5939f82c50932e3a876e",
+        "size": 438956,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-09T00:36:43.039Z",
+        "url": "https://cdn1.epicgames.com/ad876f7812c946f6a362bf821b971b48/item/EGS_StickItToTheMan_Zoink_S2-1200x1600-8847a93af4bb5939f82c50932e3a876e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-09-24T14:32:15.013Z",
+    "mainGameItemList": [],
+    "namespace": "ad876f7812c946f6a362bf821b971b48",
+    "releaseInfo": [
+      {
+        "appId": "Goldfish",
+        "id": "b9e90547741e4f2db3929c849bf3b848",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Stick it to the Man",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

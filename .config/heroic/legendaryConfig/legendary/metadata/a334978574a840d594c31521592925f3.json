@@ -1,0 +1,97 @@
+{
+  "app_name": "a334978574a840d594c31521592925f3",
+  "app_title": "Shadow Tactics Blades of the Shogun",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a334978574a840d594c31521592925f3",
+      "asset_id": "a334978574a840d594c31521592925f3",
+      "build_version": "3.2.25.F.r4769a",
+      "catalog_item_id": "1589ce110ea941948380ea6bf73ef749",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3712f2f7a6194f8aa85a4fc9f7135025"
+      },
+      "namespace": "39c6dd5409944922a04cac3f59fbbcd4",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567vInWgFHMtdbhAaEqSrzS8VnS",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-22T23:56:44.195Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.png,*.save,*.bak"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun Aikos Choice/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShadowTacticsAikosChoice"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      }
+    },
+    "description": "Shadow Tactics Blades of the Shogun",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "1589ce110ea941948380ea6bf73ef749",
+    "entitlementType": "EXECUTABLE",
+    "id": "1589ce110ea941948380ea6bf73ef749",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Download Shadow Tactics - Aiko's Choice Offer",
+        "height": 1600,
+        "md5": "1386a85bd4ea6291bbd550e3cbc73f7c",
+        "size": 424770,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-03T15:32:42.377Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/download-shadow-tactics--aikos-choice-offer-10db5.jpg",
+        "width": 1200
+      },
+      {
+        "alt": "Shadow Tactics - Aiko's Choice Offer",
+        "height": 1440,
+        "md5": "0cf01d4163194c924a84689bd4e5de52",
+        "size": 633631,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-03T15:32:43.597Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/shadow-tactics--aikos-choice-offer-4j81a.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-06-02T12:24:10.327Z",
+    "mainGameItemList": [],
+    "namespace": "39c6dd5409944922a04cac3f59fbbcd4",
+    "releaseInfo": [
+      {
+        "appId": "a334978574a840d594c31521592925f3",
+        "id": "baa853d93a094aea801bc9d6cc3ff48c",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Shadow Tactics Blades of the Shogun",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

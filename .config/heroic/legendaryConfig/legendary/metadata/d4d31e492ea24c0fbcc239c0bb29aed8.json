@@ -1,0 +1,85 @@
+{
+  "app_name": "d4d31e492ea24c0fbcc239c0bb29aed8",
+  "app_title": "Gigantic: Rampage Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d4d31e492ea24c0fbcc239c0bb29aed8",
+      "asset_id": "d4d31e492ea24c0fbcc239c0bb29aed8",
+      "build_version": "614800",
+      "catalog_item_id": "b3303e3e422448b8bbcee71138f63a01",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "afe24cb6adc0420c9bfbbec773e4cdf7",
+        "update_type": "PATCH"
+      },
+      "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567sHNMLhwPUDu3dYlupsJMr9vk",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-07-08T15:52:47.575Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Gigantic_Rampage_Edition"
+      }
+    },
+    "description": "GIGANTIC: RAMPAGE EDITION is a premium and definitive release of the original 5v5 MOBA Hero Shooter, GIGANTIC. Choose a unique hero and team up with other players to control objectives. GIGANTIC: RAMPAGE EDITION includes a new game mode, cross platform play, new heroes, new maps.",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "endOfSupport": false,
+    "entitlementName": "b3303e3e422448b8bbcee71138f63a01",
+    "entitlementType": "EXECUTABLE",
+    "id": "b3303e3e422448b8bbcee71138f63a01",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Gigantic: Rampage Edition Offer",
+        "height": 1440,
+        "md5": "f0993507dc1b680ff02977a36c422f7e",
+        "size": 2601277,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-29T18:03:55.418Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-1nkcs.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Gigantic: Rampage Edition Offer",
+        "height": 1600,
+        "md5": "2e072e97018d07c3945126fecefe0999",
+        "size": 1773422,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-29T18:03:53.481Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-121wb.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-20T16:00:19.021Z",
+    "mainGameItemList": [],
+    "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
+    "releaseInfo": [
+      {
+        "appId": "d4d31e492ea24c0fbcc239c0bb29aed8",
+        "id": "e72f96b345ef4428a0de80933a5df16a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gigantic: Rampage Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

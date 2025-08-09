@@ -1,0 +1,325 @@
+{
+  "app_name": "03c9fe3b2869452ba8433ee7708a3e93",
+  "app_title": "F1\u00ae Manager 2024",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "03c9fe3b2869452ba8433ee7708a3e93",
+      "asset_id": "03c9fe3b2869452ba8433ee7708a3e93",
+      "build_version": "1.11.498643-Shipping-D",
+      "catalog_item_id": "93bae60779234528837028190b8495ff",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4ec23805d385488db1f4dd948a312bad",
+        "update_type": "MAJOR"
+      },
+      "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-12-18T10:48:29.916Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/F1Manager24/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "F1Manager2024"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "TRUE"
+      }
+    },
+    "description": "Lead your team to glory in F1\u00ae Manager 2024. A new Formula 1\u00ae season has arrived, and with it, the most comprehensive F1\u00ae management experience to date. Build a legacy with one of 10 official F1\u00ae constructors or create your own team for the very first time.",
+    "developer": "Frontier Developments",
+    "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-01T15:26:26.792Z",
+        "description": "Prepurchase F1\u00ae Manager 2024 now to receive an exclusive F1\u00ae 2024 Show Car preset for use in Create A Team",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "fd1540a8223141deb0bd80a52c75f44e",
+        "entitlementType": "EXECUTABLE",
+        "id": "fd1540a8223141deb0bd80a52c75f44e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "F1 Manager 2024 F1\u00ae Manager 2024 Prepurchase Bonus Offer",
+            "height": 1440,
+            "md5": "12d7e6c1bb7b01e784f2eedfc621d652",
+            "size": 194815,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-02T14:24:02.875Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-12406.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download F1 Manager 2024 F1\u00ae Manager 2024 Prepurchase Bonus Offer",
+            "height": 1600,
+            "md5": "f0cc1bcf01b8f1b7d71d1a2fb7629693",
+            "size": 117539,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-02T14:24:00.128Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-aini2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-25T11:00:21.260Z",
+        "mainGameItem": {
+          "id": "93bae60779234528837028190b8495ff",
+          "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "93bae60779234528837028190b8495ff",
+            "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "F1\u00ae Manager 2024 Prepurchase Bonus",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-18T13:41:14.911Z",
+        "description": "The F1\u00ae Manager 2024 Deluxe Upgrade Pack contains 5 classically inspired livery patterns for use in Create A Team and 5 custom race replay scenarios that will push even the most strategic Team Principal to the limit.",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "e906199309b14d2ebd28aacd6ad59261",
+        "entitlementType": "EXECUTABLE",
+        "id": "e906199309b14d2ebd28aacd6ad59261",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "F1 Manager 2024 F1\u00ae Manager 2024 Deluxe Upgrade Pack Offer",
+            "height": 1440,
+            "md5": "f6e759f8f18a59c368ad1ad4f641c9e7",
+            "size": 362863,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-02T14:20:27.250Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-9g7lu.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download F1 Manager 2024 F1\u00ae Manager 2024 Deluxe Upgrade Pack Offer",
+            "height": 1600,
+            "md5": "0e38410730c8cafa6ad441275de27d57",
+            "size": 228092,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-02T14:20:22.508Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-1e39n.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-25T11:00:21.260Z",
+        "mainGameItem": {
+          "id": "93bae60779234528837028190b8495ff",
+          "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "93bae60779234528837028190b8495ff",
+            "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "F1\u00ae Manager 2024 Deluxe Upgrade Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-26T10:17:57.014Z",
+        "customAttributes": {},
+        "description": "F1\u00ae Manager 2024: Historical Livery Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "202210f529524797a1bd482514d5e2d8",
+        "entitlementType": "EXECUTABLE",
+        "id": "202210f529524797a1bd482514d5e2d8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "F1 Manager 2024 F1\u00ae Manager 2024: Historical Livery Pack Offer",
+            "height": 1440,
+            "md5": "930138bdda1f1c0fd7125b5f2a8a08f9",
+            "size": 3215472,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-20T15:59:19.783Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-106bc.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download F1 Manager 2024 F1\u00ae Manager 2024: Historical Livery Pack Offer",
+            "height": 1600,
+            "md5": "97bf571bf002e12afde8092a14688102",
+            "size": 1624757,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-20T15:59:24.531Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-1vlsx.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-25T11:00:21.260Z",
+        "mainGameItem": {
+          "id": "93bae60779234528837028190b8495ff",
+          "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "93bae60779234528837028190b8495ff",
+            "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "F1\u00ae Manager 2024: Historical Livery Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-26T10:19:46.002Z",
+        "customAttributes": {},
+        "description": "F1\u00ae Manager 2024: Abstract Livery Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "1bc0d2e77ba243eda66d9ce7a43efff7",
+        "entitlementType": "EXECUTABLE",
+        "id": "1bc0d2e77ba243eda66d9ce7a43efff7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "F1 Manager 2024 F1\u00ae Manager 2024: Abstract Livery Pack Offer",
+            "height": 1440,
+            "md5": "e642bd4bb059f121a4b8fef47299d59a",
+            "size": 3215908,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-02-20T16:00:51.902Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-1fghr.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download F1 Manager 2024 F1\u00ae Manager 2024: Abstract Livery Pack Offer",
+            "height": 1600,
+            "md5": "c59b8c8d01a4b04306653605f4f939ff",
+            "size": 1890230,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-02-20T16:01:01.745Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-19gs9.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-25T11:00:21.260Z",
+        "mainGameItem": {
+          "id": "93bae60779234528837028190b8495ff",
+          "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "93bae60779234528837028190b8495ff",
+            "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "F1\u00ae Manager 2024: Abstract Livery Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "93bae60779234528837028190b8495ff",
+    "entitlementType": "EXECUTABLE",
+    "id": "93bae60779234528837028190b8495ff",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "F1 Manager 2024 Offer",
+        "height": 1440,
+        "md5": "110fb2104da89f218930a29a6e98e385",
+        "size": 354730,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-07T10:46:48.993Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-1c9s5.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download F1 Manager 2024 Offer",
+        "height": 1600,
+        "md5": "ccc12fbcefda73e466fbe6b2dcff92d2",
+        "size": 219614,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-07T10:46:54.543Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-7cyef.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-25T11:00:21.260Z",
+    "mainGameItemList": [],
+    "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+    "releaseInfo": [
+      {
+        "appId": "03c9fe3b2869452ba8433ee7708a3e93",
+        "id": "43c7cfbe68404993976ee4c2b546a7b1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "F1\u00ae Manager 2024",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

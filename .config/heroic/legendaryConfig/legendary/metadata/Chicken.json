@@ -1,0 +1,1391 @@
+{
+  "app_name": "Chicken",
+  "app_title": "Auto Chess",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Chicken",
+      "asset_id": "Chicken",
+      "build_version": "2.35.2",
+      "catalog_item_id": "fbd21ae74fe24bfa972828c85d43bdd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "37baf50c268d47779020d73143bb02b0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-06-06T19:14:24.054Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AutoChess"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "37baf50c268d47779020d73143bb02b0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Auto Chess is a multiplayer online strategy game co-developed by Dragonest Game Co.Ltd and Drodo Studio and published by Dragonest Game Co.Ltd.",
+    "developer": "Dragonest Game",
+    "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-06T19:14:24.052Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Weekly Pack audience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "048b58db4a7e422095d314ab96b61601",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "048b58db4a7e422095d314ab96b61601",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T23:00:18.993Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Weekly Pack audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-06T19:14:24.051Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Monthly Pack audience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "0b5f7c544bb74fc4a0123cf157701080",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b5f7c544bb74fc4a0123cf157701080",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monthly Pack audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-07T08:41:35.597Z",
+        "description": "Paidsign_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "08306c87ced440fe90fa32a113e2a8b4",
+        "entitlementType": "AUDIENCE",
+        "id": "08306c87ced440fe90fa32a113e2a8b4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:07.046Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Paidsign_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-08T09:12:41.263Z",
+        "description": "PiggyBank_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "a26d522f60eb45d6933138643097f14c",
+        "entitlementType": "AUDIENCE",
+        "id": "a26d522f60eb45d6933138643097f14c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PiggyBank_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:20:43.080Z",
+        "description": "drodo_everyweek1_680_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "f22a8fcef98b48e8852f22aa8f699927",
+        "entitlementType": "AUDIENCE",
+        "id": "f22a8fcef98b48e8852f22aa8f699927",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek1_680_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:00:54.188Z",
+        "description": "drodo_everyday2_180_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "091f27da0f224b16aa09024d680afaae",
+        "entitlementType": "AUDIENCE",
+        "id": "091f27da0f224b16aa09024d680afaae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday2_180_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T11:47:23.083Z",
+        "description": "drodo_chocolate_1280_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "d59f6edca1304e039b704d04e05d5c89",
+        "entitlementType": "AUDIENCE",
+        "id": "d59f6edca1304e039b704d04e05d5c89",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_chocolate_1280_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T12:05:12.427Z",
+        "description": "drodo_firstcharge_60_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "8e3e7f002a094731b6b09c8ea57f6181",
+        "entitlementType": "AUDIENCE",
+        "id": "8e3e7f002a094731b6b09c8ea57f6181",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_firstcharge_60_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:17:48.028Z",
+        "description": "drodo_everyweek1_300_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "8be96687db7b459487e06b34092f4aac",
+        "entitlementType": "AUDIENCE",
+        "id": "8be96687db7b459487e06b34092f4aac",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek1_300_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T12:57:38.277Z",
+        "description": "drodo_everyday1_180_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "0117648d82d54dc2a78dbd9651cfc041",
+        "entitlementType": "AUDIENCE",
+        "id": "0117648d82d54dc2a78dbd9651cfc041",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday1_180_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:25:40.755Z",
+        "description": "drodo_everyweek2_3280_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "6973a5e5cc054caeb72f21050f3713d8",
+        "entitlementType": "AUDIENCE",
+        "id": "6973a5e5cc054caeb72f21050f3713d8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek2_3280_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T11:35:14.661Z",
+        "description": "drodo_chocolate_300_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "d38dd724689e4c76a6bf638b691c8450",
+        "entitlementType": "AUDIENCE",
+        "id": "d38dd724689e4c76a6bf638b691c8450",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_chocolate_300_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T12:51:28.411Z",
+        "description": "drodo_everyday2_60_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "d5d862e1e79b4e348931184b8b067b17",
+        "entitlementType": "AUDIENCE",
+        "id": "d5d862e1e79b4e348931184b8b067b17",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday2_60_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T11:26:34.498Z",
+        "description": "drodo_chocolate_60_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "c99fba71dc3c4ff0b31312c1be660abb",
+        "entitlementType": "AUDIENCE",
+        "id": "c99fba71dc3c4ff0b31312c1be660abb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_chocolate_60_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:23:11.505Z",
+        "description": "drodo_everyweek2_680_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "68e5d88c1bbe48a3b8fed21566dbc0a5",
+        "entitlementType": "AUDIENCE",
+        "id": "68e5d88c1bbe48a3b8fed21566dbc0a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek2_680_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:15:29.899Z",
+        "description": "drodo_everyweek2_180_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "b089f93d1b8144dd935640b26d9de1f1",
+        "entitlementType": "AUDIENCE",
+        "id": "b089f93d1b8144dd935640b26d9de1f1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek2_180_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T12:07:26.633Z",
+        "description": "drodo_everyday1_60_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "3f38aea3e823403fafcb87806dad7a5d",
+        "entitlementType": "AUDIENCE",
+        "id": "3f38aea3e823403fafcb87806dad7a5d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday1_60_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T11:56:46.566Z",
+        "description": "drodo_chocolate_3280_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "f882905c37a54f4c8a215158a39a4100",
+        "entitlementType": "AUDIENCE",
+        "id": "f882905c37a54f4c8a215158a39a4100",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:07.046Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_chocolate_3280_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T11:59:17.652Z",
+        "description": "drodo_chocolate_6480_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "802c36bc07cb4d3cb982774feb055b8d",
+        "entitlementType": "AUDIENCE",
+        "id": "802c36bc07cb4d3cb982774feb055b8d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:07.046Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_chocolate_6480_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:04:54.095Z",
+        "description": "drodo_everyday2_300_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "01ec86e87fe349b486b0b7b1752e559e",
+        "entitlementType": "AUDIENCE",
+        "id": "01ec86e87fe349b486b0b7b1752e559e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:07.046Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday2_300_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T12:55:00.590Z",
+        "description": "drodo_everyday3_60_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "76017cdc5e7e470ea1c8571785eaa4ce",
+        "entitlementType": "AUDIENCE",
+        "id": "76017cdc5e7e470ea1c8571785eaa4ce",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday3_60_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:12:31.896Z",
+        "description": "drodo_everyweek1_180_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "213579c6e3a74c959e304e1ffdc6d465",
+        "entitlementType": "AUDIENCE",
+        "id": "213579c6e3a74c959e304e1ffdc6d465",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyweek1_180_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:07:41.547Z",
+        "description": "drodo_everyday1_680_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "37982d2902834948a9a4dba9e1bcac0e",
+        "entitlementType": "AUDIENCE",
+        "id": "37982d2902834948a9a4dba9e1bcac0e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday1_680_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-01-10T13:03:04.128Z",
+        "description": "drodo_everyday1_300_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "9ccf5cc012ec4b3da18e6cc7af4261db",
+        "entitlementType": "AUDIENCE",
+        "id": "9ccf5cc012ec4b3da18e6cc7af4261db",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "drodo_everyday1_300_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T02:53:50.327Z",
+        "description": "paidsign_second_6_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "dff6d8387f5142f783d6a12b4160da23",
+        "entitlementType": "AUDIENCE",
+        "id": "dff6d8387f5142f783d6a12b4160da23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "paidsign_second_6_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T06:45:31.569Z",
+        "description": "BigDipper_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "a8ae97b5396c47af840e7615cc04e386",
+        "entitlementType": "AUDIENCE",
+        "id": "a8ae97b5396c47af840e7615cc04e386",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BigDipper_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T06:59:48.203Z",
+        "description": "FundSign_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "9c1254d4251745bfbe7e23c6fb7a80dc",
+        "entitlementType": "AUDIENCE",
+        "id": "9c1254d4251745bfbe7e23c6fb7a80dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:06.032Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "FundSign_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T06:55:52.732Z",
+        "description": "FundFight_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "cf8b16178ef9423eb57e5e2b4578b4f1",
+        "entitlementType": "AUDIENCE",
+        "id": "cf8b16178ef9423eb57e5e2b4578b4f1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "FundFight_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T06:50:05.974Z",
+        "description": "FundOpenBox_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "babe0a73eba541ecb8bddade1d286a90",
+        "entitlementType": "AUDIENCE",
+        "id": "babe0a73eba541ecb8bddade1d286a90",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:07.046Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "FundOpenBox_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-10T03:38:58.461Z",
+        "description": "Gold Foil Chocolate_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "271600fce5f64f3ea2b98841d52781e8",
+        "entitlementType": "AUDIENCE",
+        "id": "271600fce5f64f3ea2b98841d52781e8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gold Foil Chocolate_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-10T03:46:37.531Z",
+        "description": "Master\u00a0Collector_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "2b4ffed7417542b6ab88651a9754a7e5",
+        "entitlementType": "AUDIENCE",
+        "id": "2b4ffed7417542b6ab88651a9754a7e5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Master\u00a0Collector_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-10T03:42:30.780Z",
+        "description": "Rookie\u00a0Collector_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "5c41312346ae42bc834205ec2d178976",
+        "entitlementType": "AUDIENCE",
+        "id": "5c41312346ae42bc834205ec2d178976",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:05.033Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rookie\u00a0Collector_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-10T03:44:23.613Z",
+        "description": "Senior\u00a0Collector_ConsumableAudience",
+        "developer": "Dragonest Game",
+        "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+        "endOfSupport": false,
+        "entitlementName": "cf45dd7901fd4ac19dfe3c2f67876cd2",
+        "entitlementType": "AUDIENCE",
+        "id": "cf45dd7901fd4ac19dfe3c2f67876cd2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+        "mainGameItem": {
+          "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+          "namespace": "37baf50c268d47779020d73143bb02b0",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+            "namespace": "37baf50c268d47779020d73143bb02b0",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "37baf50c268d47779020d73143bb02b0",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Senior\u00a0Collector_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "fbd21ae74fe24bfa972828c85d43bdd1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fbd21ae74fe24bfa972828c85d43bdd1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4fd2cbe74aaed7a1530449b99212f79c",
+        "size": 1007585,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-27T08:24:22.158Z",
+        "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S1_2560x1440-4fd2cbe74aaed7a1530449b99212f79c",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4e066e6a7d7686cd34025ba1938e2552",
+        "size": 995415,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-27T08:24:28.034Z",
+        "url": "https://cdn1.epicgames.com/item/37baf50c268d47779020d73143bb02b0/EGS_AutoChess_DragonestGames_S2_1200x1600-4e066e6a7d7686cd34025ba1938e2552",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-26T23:00:04.039Z",
+    "mainGameItemList": [],
+    "namespace": "37baf50c268d47779020d73143bb02b0",
+    "releaseInfo": [
+      {
+        "appId": "Chicken",
+        "id": "e467684e123f4a09b97f68ff05d90fce",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Auto Chess",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

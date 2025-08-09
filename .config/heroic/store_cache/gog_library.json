@@ -1,0 +1,589 @@
+{
+	"games": [
+		{
+			"app_name": "gog-redist",
+			"runner": "gog",
+			"title": "Galaxy Common Redistributables",
+			"canRunOffline": true,
+			"install": {
+				"is_dlc": true
+			},
+			"is_installed": true,
+			"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+		},
+		{
+			"runner": "gog",
+			"developer": "Taleworlds",
+			"app_name": "1207666893",
+			"art_cover": "https://images.gog.com/cce12aec9fff3f4b0acc62e5720ddfab06b5f1b34af448f4e5da4dbbaf515c63.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/64f0af56187f138251539309f18054be24bd93e00d2a1ad91cfaf61f0bb562b5.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/88d508c4549a0b2a4d10d85625f12a774d5b8167d33f55fca8ee0d8e0459973c.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/64f0af56187f138251539309f18054be24bd93e00d2a1ad91cfaf61f0bb562b5.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Mount & Blade is an immersive medieval action/tactics game taking place in a fictitious land named Calradia. Enriched with RPG elements, Mount & Blade offers a captivating environment, beautifully detailed with hundreds of castles, towns, and villages to explore.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie",
+					"Shooter",
+					"Simulator"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Mount & Blade",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Squad",
+			"app_name": "1429864849",
+			"art_cover": "https://images.gog.com/fd6c1734e4a8c155bedd3e76fff0c840e80855a26a0e3a8717a7f693e186f000.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/dc68da69d6306d79c23bdddd69290ad585721579107cfb35779bc2219d3a5480.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/4d2680caf0bda7eeb4f90e3d9bccba500629cb0ec267dd1ec15bd38c9edcfec0.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/700ec1ea496cef400cba7c2b7cc701e4ae77448e0961be297320fbcb61c7a7b4.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Indie",
+					"Simulator"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Kerbal Space Program",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "Abstraction Games, Tequila Works",
+			"app_name": "1230412827",
+			"art_cover": "https://images.gog.com/fefacdcd0540b0e6f7171eb62b790fb15995d2afedcf38d97b568039707a1716.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/40d6c32bca770ec02587b6900668efa9023e87233b829be9d885be60b102b00d.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/61da507d2cb536cb4a3e349e5e5449cb5bedeb3e0273a4714260573ed0e4a850.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/40d6c32bca770ec02587b6900668efa9023e87233b829be9d885be60b102b00d.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "A zombie outbreak eradicated all hope of returning life back to normal, now only survival lives on. Run, hide and fight your way through the undead as Randall searches for his family in this gorgeous, gritty, destroyed world.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Deadlight: Director's Cut",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Spiders",
+			"app_name": "1635210189",
+			"art_cover": "https://images.gog.com/fccadf4e5deeeaaf60f7c36029b562981122aab69eb224dfe1b8960a3a9113df.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/fd8c2f0c2b0eca9df7bc54af517775b7fb5946f98738e45a59b553781c4709d1.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/3f4c1de3439c1f2eb2e1cdcce031b0f5463a0529de4cd649e96744a3c5c75d06.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/7321561c7697f23b402e867c1bfb8229b5ae23b6a621409424cfa7c06884bc5b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Explore a fresh new world as you set foot - alongside many other settlers, mercenaries and treasure hunters - on a remote island seeping with magic, rumored to be filled with riches and lost secrets. \r\n \r\nGreedFall aims for a very unique visual identity, inspired by Baroque art from 17th Century Europe, depicting grandiose sceneries in muted warm colors and dark undertones. \r\n \r\nA grand journey filled with mystery follows, as you find yourself in the middle of ever-increasing tensions between the invading settlers and the locals, protected by supernatural beings, manifestation of the island's earthly magic. \r\n \r\nWith a strong focus on its core RPG identity, GreedFall follows Spiders’ experience in building intricate worlds filled with mysteries to discover, weaving deep character interactions, and offering players great freedom to achieve quests and objectives in a multitude of different ways – through combat of course, but also through diplomacy, deception or stealth.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Strategy"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "GreedFall",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Frictional Games",
+			"app_name": "1439487606",
+			"art_cover": "https://images.gog.com/c71a44e5cf426529ece9a1f13019724c7aadaf64daaf129e91f61b3a24b4c5d4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/05c9a5a18249a61c122fe8a3b548d702a20e75e5f021ee9595a4a05f824be239.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/cb5b495d8077a0f35fcb314fe56eba0f3d1083248ea3d7d119612ae432745d45.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/188d635f6682651e7daddb7ce972e6cfb30b047cbf888a98ffe473b154ea0908.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "SOMA is a sci-fi horror game from Frictional Games, the creators of Amnesia: The Dark Descent. It is an unsettling story about identity, consciousness, and what it means to be human.\n\nEnter the world of SOMA and face horrors buried deep beneath the ocean waves. Delve through locked terminals and secret documents to uncover the truth behind the chaos. Seek out the last remaining inhabitants and take part in the events that will ultimately shape the fate of the station. But be careful, danger lurks in every corner: corrupted humans, twisted creatures, insane robots, and even an inscrutable omnipresent A.I. You will need to figure out how to deal with each one of them. Just remember there’s no fighting back, either you outsmart your enemies or you get ready to run.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie",
+					"Puzzle"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "SOMA",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "Microïds Canada",
+			"app_name": "1207658848",
+			"art_cover": "https://images.gog.com/d47d9ea62f4abcc6d9a2a394a38c13c49f900b061d2dc66d18ded8157b5ce3e7.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8899cb2722e5cdee8161b0720cc1cf9944f5623df5dfeb233568b8a6c3a19145.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/856bbbe8e163bbaecfbd383f9e392eee3a368cec4319b5d4d55f17859c3e4370.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/f83d1eebb8644a7ee62a1f641fa0a9d86ec7d2853de3b991f8ace5c88cba415d.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Join Kate Walker as she travels to remote locations and time periods in this timeless voyage to discover her true destiny.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Puzzle",
+					"Point-and-click"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Syberia",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Volition",
+			"app_name": "1430740458",
+			"art_cover": "https://images.gog.com/2ee5973a4f42e54f6911330402bbc9a390f9015075a25ada8a344bcbf5a13a53.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/53808202040f9bcb4d6d171d18837917cf79959b5e606b2fbf76bedf29963b5b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/7c145ebbab453860f0ea02d907f4d964e8fdba5915af074238c6db9f18ddd2a8.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/ac1002791a41acfddcf45da87ebdf861d0e57bbd6f63082e2ca4d318d4404f9b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "After the events of the first game, the protagonist awakens from a coma to find that the Third Street Saints have all but disappeared. Much like Saints Row, you are charged with retaking the city from three rival gangs, only this time as the leader of the saints. While fighting the Sons of Samedi, The Brotherhood, and The Ronin, the Saints also antagonize the Ultor Corporation, which seeks to eradicate gang violence in Stilwater once and for all.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Shooter"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Saints Row 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Double Fine Productions",
+			"app_name": "1325415523",
+			"art_cover": "https://images.gog.com/f3c0f17ba79f6cad58872a47d3674f872fe146b2ec85bb0706a749618ce1d4c5.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/3e1805a90d84b59750892045ff4b0a565394e467d59bcd6f2ab6d24e3f092855.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/dcdfa297d07240932d54886e11977de2d3c419b57e86343cb5f746be9d75eee1.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/ea501638254a132c4d5adb573c9ab2dc5662048535fa59d4827b37254149eac1.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Released by LucasArts in 1995, Full Throttle is a classic graphic adventure game from industry legend Tim Schafer, telling the story of Ben Throttle; butt-kicking leader of biker gang the Polecats, who gets caught up in a tale of Motorcycles, Mayhem and Murder. \r\n \r\nNow over 20 years later, Full Throttle is back in a remastered edition featuring all new hand-drawn and 3D high-resolution artwork with 4k support, and with remastered audio and music.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Point-and-click"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Full Throttle Remastered",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "Milkstone Studios",
+			"app_name": "1437564865",
+			"art_cover": "https://images.gog.com/0245b945fe1411918f6ac07c81298858b98a63e0f080f612b4e8e801ecaff0b1.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/1fb8861137377afc1af32ffa46c64ff2498336a99d20a5c8cea5ac2929464da8.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/ffc092094f5230f81fe93b6d71171aac0214fb6fd0c3e423fffc395d6d2c5266.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/398e33ba5bab11dcb7b636a4976d321d180c8809134fa588c9f150cdf53d52f8.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Dungeon-Crawling First Person Shooting at its finest! Fast-paced combat! Dozens of perks, spells and enemies! Level ups! Random Dungeons! Traps! Badass bosses! Carrots! Ziggurat is the best combination of First Person Shooter and Rogue-LITE you have ever seen.\n\nBecome a neophyte sorcerer, and get ready for your rite of passage: Enter the labyrinth and face dangerous challenges to prove your worth and become a powerful wizard!\n\nThe game focuses on fast-paced first person shooting, with an old-school vibe, and updated handling and game mechanics. Dungeon crawling and RPG/Roguelike elements are added into the mix, resulting in a fun, challenging and varied game, with lots of content to discover.\n\nFight almighty bosses, get through rooms filled with traps, and treasures that may help you in your journey... Each game is a whole new experience!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Indie",
+					"Shooter"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Ziggurat",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "Triplevision Games",
+			"app_name": "1331379816",
+			"art_cover": "https://images.gog.com/f8d415acdff66b10ffbc3dc878dbd13677ac81b44eb9e3dcc0c71c93fa8d794c.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/2ad7c08de558afcbcc7f5a2a325e1088fd4fb88847a9c441f86b6f0858775567.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/1e360ba713ce834d8a6a08cd3cf41231a8396384c897c1a41a9bcd557fabd4ba.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/c986f44ffcfbfa1f18fd0d6cf68b10c7f80b7214e01eac7d30f85b5fb396a539.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Will you banish the darkness from the world, or will you become it? Mable & The Wood is an adventure platformer about a shape-shifting girl whose power might be destroying the world she's trying to save.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie",
+					"Platform"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Mable & The Wood",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "State of Play Games",
+			"app_name": "1787058795",
+			"art_cover": "https://images.gog.com/2eb4d3a57d0f86063b029bb28e49f6ca82a545aff390385d92e76c3509bd3838.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/b99906adf5770060e251a3eb87d7eb93301280341912a5edf90e9b136a11e5bb.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/86366db4f52cc9b8a760fb2974c337340bfa36e7c02b940422feb7f6c4ff95b8.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/ac21a6d32bd49675565ca5e080eb4446fff1c74dddd378b4ae51d5e918a5912b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "South of the Circle is an emotional narrative experience exploring the relationship between Peter and Clara, Cambridge academics caught up in the political conflict of the Cold War. The story focuses on the weight of life choices - between career, true love and the desire to keep our promises.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Point-and-click"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "South of the Circle",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Different Tales",
+			"app_name": "1766556386",
+			"art_cover": "https://images.gog.com/1510a88add59f1ddfe3fc453b1e5f7be302fb90a0808e7e51712cb507df200a3.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/80b09e0d21a98762879345aeb231ad43a9a718a6bd241afe7bb39769d514a054.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/9f544ac918ee9784460a091edfd3ef6cdd51cc0d3d1023872acd8f4967b99eae.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/bf58b0adc8d703f0555229ae1ac90150d9635058aec93d5f2ae2a887dc76f83b.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Board the Trans-Siberian railroad and travel 9,289 km from Moscow to Vladivostok. Clash with a vibrant culture as you meet people as strange to you as you are to them. Journey into a standalone Wanderlust adventure from the makers of The Witcher.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Strategy",
+					"Indie",
+					"Simulator"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Wanderlust: Transsiberian",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Double Fine Productions",
+			"app_name": "1207667183",
+			"art_cover": "https://images.gog.com/9e7b5ce16c0c1c5e6e9bca7e3ddc035e3f6b3799212eadd125131573330fe95f.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/9b7140f800c9da86be7fa106921c4657a89c809189cdd7b4f7c2748fe83c68b9.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/d565660c98b323cb4bd26fa5f5c8e9cb5de5668cb18cba769eb67d3a7d0bea10.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/9b7140f800c9da86be7fa106921c4657a89c809189cdd7b4f7c2748fe83c68b9.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Something's rotten in the land of the dead, and you're being played for a sucker. Meet Manny Calavera, travel agent at the Department of Death. He sells luxury packages to souls on their four-year journey to eternal rest. But there's trouble in paradise. Help Manny untangle himself from a conspiracy that threatens his very salvation. \r\n \r\nOne of the most acclaimed adventure games of all time is now back, better than ever. Grim Fandango's epic story of four years in the life (or death) of Manny Calavera, travel agent to the dead, has been remastered to look, sound, and control even better than when it won GameSpot's Game of the Year award upon its original launch. Grim Fandango still stands as a classic of the genre, with unforgettable characters and unique combination of film noir and Mexican folklore.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Puzzle",
+					"Point-and-click"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Grim Fandango Remastered",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": true
+		},
+		{
+			"runner": "gog",
+			"developer": "CD Projekt RED",
+			"app_name": "1207658924",
+			"art_cover": "https://images.gog.com/3a4d9190f3c0a0a8d63638193ef8c9af2ba58eb0b250295db2a28bccf852a76d.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/fc1c44b2252e3200db66872630f7e21687bba217b6eabb188451556b5941cf63.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/7fbb815727527616881cb45a56f51a19e90ddf21ba00c9e22b4852d9bec6324a.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Now you can experience this fantastic RPG on Mac and PC!",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "The Witcher: Enhanced Edition",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Tango Gameworks",
+			"app_name": "1083619800",
+			"art_cover": "https://images.gog.com/70b7f1756c49e429bc3e533a24716a37baf8ae748e89c1af34cdf28e1d8b5c69.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/97606b5bbebbf3af64f2ef870b32aed20e87e3c8b769e219452a0783f7743b8b.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/2a9ca6560a433d3c0afcb102deb94f444dc74b429151ac2d13f0922a53e8f622.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/c9e46d2ab4d164dd468ae160c7a074b5e95c88ec9d2611bbedc6436422092fd1.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "The Evil Within 2 is the latest evolution of survival horror. Detective Sebastian Castellanos has lost it all. But when given a chance to save his daughter, he must descend once more into the nightmarish world of STEM.\n\nHorrifying threats emerge from every corner as the world twists and warps around him. Will Sebastian face adversity head on with weapons and traps, or sneak through the shadows to survive.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Shooter"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "The Evil Within 2",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "CD Projekt RED",
+			"app_name": "1297352383",
+			"art_cover": "https://images.gog.com/296adfe92b4f0710f94f7ba60ca400d2394673e71a3234439a5be17a79606128.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/c31eab675785d490ac4e3f35014315371765c7bd66284363f8bcf721cbddad4f.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/16843844477c8ea9959094f012dd7fd9c4610735debe447b840a094812223d82.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/9d6defd0a76ba5aa934ab60cec5c5444da4247d6c8725a17dde2e5a3a017376d.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "From the creators of The Witcher 3: Wild Hunt comes a brand new tale set in the brutal and twisted universe of witcher Geralt of Rivia. \r\n \r\nThe world stands on the verge of chaos, as the tensions between the power-hungry Nilfgaardian Empire and proud Northern Realms grow. Facing an imminent invasion, Meve — war-veteran Queen of Lyria and Rivia — is forced to once again enter the warpath, and set out on a dark journey of destruction and revenge.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Thronebreaker: The Witcher Tales",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Traveller's Tales",
+			"app_name": "1753068551",
+			"art_cover": "https://images.gog.com/46ebffd4182b9c2fc9769e67ee9b3f7ba8aa01598500f779b00d81a4fef91da4.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/8a41353f5730cff58274dd0d75c9c3ec62aec257f1f6d6d2038f17076e78656a.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/e00b8bc67fd9edc4e1cbb6f3dfa88e8c59f8c204efd0fff5f371a559f49c1653.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/291216bd5583695220765f2887e1ce9bd29c803c8bcc4aaadc66bd7c7c1fc53e.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "Reclaim the Lost Kingdom brick by brick! Join Bilbo Baggins, Gandalf, Thorin and his company of Dwarves in an epic adventure across Middle-earth to recapture the Lonely Mountain in the most expansive LEGO game to date. Battle ravenous Trolls, dangerous Orcs and many more. Combine the Dwarves' unique abilities to solve puzzles - often with hilarious results! Explore iconic locations in Middle-earth, from the Shire to Goblin-town and beyond.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Puzzle"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "LEGO® The Hobbit™",
+			"canRunOffline": true,
+			"is_mac_native": false,
+			"is_linux_native": false
+		},
+		{
+			"runner": "gog",
+			"developer": "Microïds Canada",
+			"app_name": "1207658849",
+			"art_cover": "https://images.gog.com/0c0899ec2ce503c7f8f0ae88b1f0f2f8aaca31c9aaac0e7a4a9b5404e7394d04.jpg?namespace=gamesdb",
+			"art_square": "https://images.gog.com/880f194d9252e5082abfbb27caba51ab87cc2b6da9798befbd5988fca9ce29d2.jpg?namespace=gamesdb",
+			"art_background": "https://images.gog.com/a0bfd7c4724f4e7da5f541e93867dd8b7fad71524f8549277a9cce18144f18bb.webp?namespace=gamesdb",
+			"cloud_save_enabled": false,
+			"art_icon": "https://images.gog.com/ea5ab5d941be6777821efb2e95870719a8329dee79c6e63a294399210cdadd54.jpg?namespace=gamesdb",
+			"extra": {
+				"about": {
+					"description": "An unlikely pair, young Kate Walker and old, eccentric Hans Voralberg now set off on a journey together: in search of the last of the fabled Syberian mammoths at the heart of a long and forgotten universe. The surreal quest Hans began alone several years ago will come to a final close as he and Kate face obstacles far more dangerous than ever before, testing their courage and determination.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Puzzle",
+					"Point-and-click"
+				]
+			},
+			"folder_name": "",
+			"install": {
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"save_folder": "",
+			"title": "Syberia II",
+			"canRunOffline": true,
+			"is_mac_native": true,
+			"is_linux_native": false
+		}
+	],
+	"__timestamp": {
+		"games": "Tue Aug 05 2025 23:45:07 GMT+0300 (GMT+03:00)"
+	}
+}

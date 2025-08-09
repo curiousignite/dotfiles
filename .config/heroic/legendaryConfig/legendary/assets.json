@@ -1,0 +1,4738 @@
+{
+  "Windows": [
+    {
+      "app_name": "Heron",
+      "asset_id": "Heron",
+      "build_version": "01.07",
+      "catalog_item_id": "503273f691e04f4b8020f9fb4125a14b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4237ffc575c94a0e89ef9ab7dd884ad5",
+      "asset_id": "4237ffc575c94a0e89ef9ab7dd884ad5",
+      "build_version": "v3.0.6.1",
+      "catalog_item_id": "ddcae2cac7f94a5e9f19e8f7a24b4878",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c3fef477eb9b4fc68de2561e947e439d"
+      },
+      "namespace": "040baa2d100d465caf428c688cc3cdba",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Cilantro",
+      "asset_id": "Cilantro",
+      "build_version": "1.1.1e",
+      "catalog_item_id": "460953ba20a246fe9048729648af1b2b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "04467b70295342a79381467353f23955",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "373a4372c20540aca7fdd880d27fa49a",
+      "asset_id": "373a4372c20540aca7fdd880d27fa49a",
+      "build_version": "1.12.7.54973",
+      "catalog_item_id": "ed6e45b770454c37a0c6b7793d19c0a5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "047392e91d5e4cfdb19e2767440ab206",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+      "asset_id": "9d2d0eb64d5c44529cece33fe2a46482",
+      "build_version": "1.0.3586.0",
+      "catalog_item_id": "6e563a2c0f5f46e3b4e88b5f4ed50cca",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0584d2013f0149a791e7b9bad0eec102",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "956ee1dc4d5846648dc0666d7994284f",
+      "asset_id": "956ee1dc4d5846648dc0666d7994284f",
+      "build_version": "1.1.0.439",
+      "catalog_item_id": "759cbe84099f4227bc53e61ec2f6380a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "56d85089f96b496884ddcebc58c5faee"
+      },
+      "namespace": "0693e8391e49492096424712a5595484",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Hoki",
+      "asset_id": "Hoki",
+      "build_version": "1.0a",
+      "catalog_item_id": "8c04901974534bd0818f747952b0a19b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MAJOR"
+      },
+      "namespace": "091d95ea332843498122beee1a786d71",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a7270bff1bad44298091dd61c6c7bc00",
+      "asset_id": "a7270bff1bad44298091dd61c6c7bc00",
+      "build_version": "1.1.32",
+      "catalog_item_id": "22f9ae4d7e9844ed82ace6d125e1ccf9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bcb38c2aa91a4e4da115cf0c35a557ad"
+      },
+      "namespace": "09f00180b25347bdb65ac0b7378756b7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "18fafa2d70d64831ab500a9d65ba9ab8",
+      "asset_id": "18fafa2d70d64831ab500a9d65ba9ab8",
+      "build_version": "3.0.1.20-WIN64",
+      "catalog_item_id": "5039810677ba47b4bf63dec4db6fb6a9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0a4fc789eb0143c29296de79df5387ab",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c38f51843fdf4db0b24fc907b8d78221",
+      "asset_id": "c38f51843fdf4db0b24fc907b8d78221",
+      "build_version": "4027081.179",
+      "catalog_item_id": "202e7a517bac4c278cec2ea3cd4dec05",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4ca24c7224d46bea54f8b360eeff401"
+      },
+      "namespace": "0a9e3c5ab6684506bd624a849ca0cf39",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b040ff628a3346e4944fdf8db265e0d4",
+      "asset_id": "b040ff628a3346e4944fdf8db265e0d4",
+      "build_version": "1.01",
+      "catalog_item_id": "f409d3a5a0f14194bb34ee2ef7498dd5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4ca24c7224d46bea54f8b360eeff401"
+      },
+      "namespace": "0a9e3c5ab6684506bd624a849ca0cf39",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Thrush",
+      "asset_id": "Thrush",
+      "build_version": "1.10.2967-win",
+      "catalog_item_id": "3e3d9fea445042c9bd504afb9b15f184",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "30d3a88d29e24716ac5a4720042289f7",
+      "asset_id": "30d3a88d29e24716ac5a4720042289f7",
+      "build_version": "16363.0",
+      "catalog_item_id": "5266dc333bb44e1f86a53fc11bc0f9e4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "75a4749599f94a85979c3398e26fefb0"
+      },
+      "namespace": "0c321ac6d5fe49139c153253b60702f4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "41470cb5755440b8b55ec3f94351133a",
+      "asset_id": "41470cb5755440b8b55ec3f94351133a",
+      "build_version": "1.0.0",
+      "catalog_item_id": "c8581f13b1b0418e9a7ab712ac6fcd78",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b57caca2771e4329a27de9119cc5b535"
+      },
+      "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a434dcb20f0d439b93aaa31dac9e3210",
+      "asset_id": "a434dcb20f0d439b93aaa31dac9e3210",
+      "build_version": "1.263117",
+      "catalog_item_id": "51ee5fe4709c473696a36376e90845d2",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cb5e906fc2fd4d6cb62b0750f15c5e92",
+        "update_type": "MAJOR"
+      },
+      "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f53c5471fd0e47619e72b6d21a527abe",
+      "asset_id": "f53c5471fd0e47619e72b6d21a527abe",
+      "build_version": "1.0.16.18901",
+      "catalog_item_id": "a3a81029d0a947bfb81055b9eda2c1ff",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4833de0323924b1bb6190ae676eed405",
+        "update_type": "PATCH"
+      },
+      "namespace": "0e548758b82a4be785f435cedf306130",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d68f964c809145b682e1d768aa126f31",
+      "asset_id": "d68f964c809145b682e1d768aa126f31",
+      "build_version": "1.3.4.2",
+      "catalog_item_id": "e7873d67c5f14949978e44306867cfc8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0e76e53e157d416ab598342ed3a9dd5a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "cacao",
+      "asset_id": "cacao",
+      "build_version": "1.2.8-r2121-Windows",
+      "catalog_item_id": "d0f62d60809d4d8f989b7130a169eab6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "61cc250618f94809a3ef6837c8d69445",
+      "asset_id": "61cc250618f94809a3ef6837c8d69445",
+      "build_version": "v1.4.19a3_WIN_STEAMLESS",
+      "catalog_item_id": "6538249d5bc84eb69715c5ab78ca712d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0f3f352865294c3ea5e10454f24fde85",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "50d8518151d0498b83ff5d18a7bdb68b",
+      "asset_id": "50d8518151d0498b83ff5d18a7bdb68b",
+      "build_version": "1.0.92PC",
+      "catalog_item_id": "f536dc7fce56442696263f3ebfe168cb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Emperor",
+      "asset_id": "Emperor",
+      "build_version": "ItsnotGonner2",
+      "catalog_item_id": "dfc6d5a969a148649c237603fc64d2a6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "109273d8719f46b9b89cb912a6649e5c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f6d328ca5be24fd585478d1477e1ea4d",
+      "asset_id": "f6d328ca5be24fd585478d1477e1ea4d",
+      "build_version": "v1.3.e71b9_egs",
+      "catalog_item_id": "d2fb14a0fe4946d4b4dffa2750fce03a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "1109b87f323946e5b7883d724e6a22ba",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c5109bdceb3a453bb38c2fdc964ddee8",
+      "asset_id": "c5109bdceb3a453bb38c2fdc964ddee8",
+      "build_version": "Windows_1.0.7",
+      "catalog_item_id": "f1b123b2f48840b5b2b0322541fcbddb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "1311a5735ed844c0b3c47027cab321f0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ce2a78bf70b646e9b9f57c46dac99184",
+      "asset_id": "ce2a78bf70b646e9b9f57c46dac99184",
+      "build_version": "30",
+      "catalog_item_id": "85846943589049acb5ee1e746a087195",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "131e306949034972959ca401ca27837e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ca0e1d19d3b640b39d8d20e966067872",
+      "asset_id": "ca0e1d19d3b640b39d8d20e966067872",
+      "build_version": "1.25.0Win-f8349ab256a46dbe4dc83f1d0b3ed2f7ce98a86d",
+      "catalog_item_id": "5e7f457a3f1041f79ad82499a1cb69bd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "1368a7f14c3344bbaededbae528fafed",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a96de508ac71471fa05e7c1c695e3b5d",
+      "asset_id": "a96de508ac71471fa05e7c1c695e3b5d",
+      "build_version": "1.03fix",
+      "catalog_item_id": "7cdc2dcd372c4f7599cd8b107a244e26",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "138c9362d8ff4c239076bc556e18cdac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Marigold",
+      "asset_id": "Marigold",
+      "build_version": "1.0.0",
+      "catalog_item_id": "6fdb5feba66846cd8623a6d15ca68080",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e9c18eae78964527853bfa2053d346e2",
+      "asset_id": "e9c18eae78964527853bfa2053d346e2",
+      "build_version": "1.002E",
+      "catalog_item_id": "80ce94350bce414293a62d3cef420b4a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5e9e9c12ced546dfba46268c7926aa01"
+      },
+      "namespace": "13cba1b288ec417badb9a276cbb6d819",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0d35a1d0eade40c5ac0bea5eed8b5338",
+      "asset_id": "0d35a1d0eade40c5ac0bea5eed8b5338",
+      "build_version": "216711",
+      "catalog_item_id": "57c0757a76374077be3a587c58e5b04a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "151e56468b5049628653dedab7c88007",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Morganite",
+      "asset_id": "Morganite",
+      "build_version": "V201003",
+      "catalog_item_id": "2edb842ca4d6404eada94ae182420e4e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "158a0eaa18574bb39347c04286d118c7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "asset_id": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "build_version": "EOS_89108_121_Shipping",
+      "catalog_item_id": "b61305fc1b184d289c6707ef7ee0f72b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "Penguin",
+      "asset_id": "Penguin",
+      "build_version": "1.0-Win",
+      "catalog_item_id": "f1e0564cd6e841679c678cef65594a2b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "afdf59e3dc8f40ec8fd887b5d3fcef23",
+      "asset_id": "afdf59e3dc8f40ec8fd887b5d3fcef23",
+      "build_version": "1.5.139-rc.0-2024.800.0.642",
+      "catalog_item_id": "ac61a543107645e3a086382425bac279",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f976812fbda048fab62b072c44ff2521",
+      "asset_id": "f976812fbda048fab62b072c44ff2521",
+      "build_version": "v1.2.1_eos",
+      "catalog_item_id": "0b484ff8e0864b7d89f7ad7c370baab0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f3600ee4abb54e928290cea179ba39a9",
+        "update_type": "PATCH"
+      },
+      "namespace": "1c0e80ffead94d1f911254d457ebb48b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "70f92598b33d42e290e411f07397aeee",
+      "asset_id": "70f92598b33d42e290e411f07397aeee",
+      "build_version": "1.3.0.1122.190",
+      "catalog_item_id": "748e5691a85a4158b3da33faabb37e43",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "1c943de0163f4f0982f34dc0fc37dce9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8e4f8dc250364e30aef276555bba1734",
+      "asset_id": "8e4f8dc250364e30aef276555bba1734",
+      "build_version": "209110",
+      "catalog_item_id": "b55e326929b44a7b913693ea8ae79d00",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "221e69055bf041448b6bfb4f42e1d743",
+        "update_type": "PATCH"
+      },
+      "namespace": "1d6b5762a1d643a4830481c44d59abfb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+      "asset_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+      "build_version": "1.5_2",
+      "catalog_item_id": "98fccaa4f62145f295203ee8389af8c5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a6765150693049d891cb74f2d87527dc"
+      },
+      "namespace": "2052c58b9f64498386cbbbc85df90bbf",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "36cbf259e631478eaac6ea244e55a709",
+      "asset_id": "36cbf259e631478eaac6ea244e55a709",
+      "build_version": "Win64.26186.0",
+      "catalog_item_id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f512a8e4012243729e4b4d4cedda9b4b"
+      },
+      "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "985373b4b4754b18b2f88ca100040ccc",
+      "asset_id": "985373b4b4754b18b2f88ca100040ccc",
+      "build_version": "1.3.21",
+      "catalog_item_id": "2014cc67b96947ec956fc178a52fa097",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e51f32fab9ca44f3a17d850c05c9dcfa"
+      },
+      "namespace": "22a9bc193ad94ab78155b5c2f9541e6b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0afb9d54dd3743a582b48b506466d3f8",
+      "asset_id": "0afb9d54dd3743a582b48b506466d3f8",
+      "build_version": "76601.1",
+      "catalog_item_id": "96fda52d68f5425baaa9aba68ec59549",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "36b0e40890f147fbb1e3965f87369156",
+      "asset_id": "36b0e40890f147fbb1e3965f87369156",
+      "build_version": "1.0.21",
+      "catalog_item_id": "2574f32ca36846d3a7a304196183b6ed",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c7b5a6fcd83c494caf0cbfd9324f43c4"
+      },
+      "namespace": "2462202651534bf7b4b4e0ea960be8ac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4d374e0805dc42bfb78c0ceb24bd1085",
+      "asset_id": "4d374e0805dc42bfb78c0ceb24bd1085",
+      "build_version": "1.0.0",
+      "catalog_item_id": "f6d6cfa07f174ac6a31878abedc46282",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c7b5a6fcd83c494caf0cbfd9324f43c4"
+      },
+      "namespace": "2462202651534bf7b4b4e0ea960be8ac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5919f2a03ba34e36b8e7de60acc26736",
+      "asset_id": "5919f2a03ba34e36b8e7de60acc26736",
+      "build_version": "5146_MASTER_win",
+      "catalog_item_id": "b5ceb05aec154822a24582c27c4835c9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "92a4c8d5d6ba4f69a67727b42b6ed3c7",
+        "update_type": "PATCH"
+      },
+      "namespace": "2485eccb13d14250a0a5649e8ed63a3b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bb406082b69a47208489d3616b22b5c2",
+      "asset_id": "bb406082b69a47208489d3616b22b5c2",
+      "build_version": "2.0.202311091807",
+      "catalog_item_id": "54ff4322184a4c3086ee6da0a2d20f79",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "253d451b16364a22907dd01b7e928fb6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bcc75c246fe04e45b0c1f1c3fd52503a",
+      "asset_id": "bcc75c246fe04e45b0c1f1c3fd52503a",
+      "build_version": "3.8.0.87535",
+      "catalog_item_id": "bc31288122a7443b818f4e77eed5ce25",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e6404d589e8e4444b662dce78ddd4155"
+      },
+      "namespace": "25e53de2e4ab4da8aa589d881273a11c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8e975c15166a4a1ca28d65fdfa411248",
+      "asset_id": "8e975c15166a4a1ca28d65fdfa411248",
+      "build_version": "1.0.0",
+      "catalog_item_id": "c1b867a82c5641ec9999c3e29cd881cc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e6404d589e8e4444b662dce78ddd4155"
+      },
+      "namespace": "25e53de2e4ab4da8aa589d881273a11c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "asset_id": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "build_version": "1.21",
+      "catalog_item_id": "da3d0706de4b4d39b943abcf96389ce3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4d0ff75b922447649057c237c0bd1545",
+      "asset_id": "4d0ff75b922447649057c237c0bd1545",
+      "build_version": "EGSStarter_v2.14_d6_live_public",
+      "catalog_item_id": "b9e3c7e855044cbb82c82ea939241db7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "27aa2ebdcda14b3bb8a669aab73ca55f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e8964b869b6849bea41eefec766cd665",
+      "asset_id": "e8964b869b6849bea41eefec766cd665",
+      "build_version": "1.0",
+      "catalog_item_id": "76a7d580581c4b06b11b6e185b481f03",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "27d2f156f77b4202b9bc78e40a408b03",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "69911638c74449d2a2651241be1b3ad4",
+      "asset_id": "69911638c74449d2a2651241be1b3ad4",
+      "build_version": "78",
+      "catalog_item_id": "ad9de4b2d5834de1a2d7b7706a144dff",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "473e24df09f843a1acc4aa16b01dae83",
+      "asset_id": "473e24df09f843a1acc4aa16b01dae83",
+      "build_version": "1.0.0.0",
+      "catalog_item_id": "7adafd04e0704601a2279e307b163e97",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2972368dffc24d4ea80ba1aa2bcf56d2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "32dbb6444ce14e9198129b746c0d056f",
+      "asset_id": "32dbb6444ce14e9198129b746c0d056f",
+      "build_version": "1.4.30.0",
+      "catalog_item_id": "758fb8c2460b49a5a0d50ee0eba1a1dd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "29e93200bb53431a961afc53e39fb9c8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "63a665088eb1480298f1e57943b225d8",
+      "asset_id": "63a665088eb1480298f1e57943b225d8",
+      "build_version": "2984448",
+      "catalog_item_id": "88f4bb0bb06e4962a2042d5e20fb6ace",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2e3b648be6ef4de58f764e9cdc9d94dd"
+      },
+      "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9596620d263b40c083ddf1f0c662c8ff",
+      "asset_id": "9596620d263b40c083ddf1f0c662c8ff",
+      "build_version": "2978210",
+      "catalog_item_id": "b2666e211d334d15a0c29188d0abb6c8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2e3b648be6ef4de58f764e9cdc9d94dd"
+      },
+      "namespace": "2a09fb19b47f46dfb11ebd382f132a8f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Hake",
+      "asset_id": "Hake",
+      "build_version": "1.0b",
+      "catalog_item_id": "88b2dcb5ece943eca691a2655b7e1cd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2e26af55c1a146e7a939dcc1014fc9fd",
+      "asset_id": "2e26af55c1a146e7a939dcc1014fc9fd",
+      "build_version": "1.27443.15101.702625635",
+      "catalog_item_id": "52bf29cddef541aeaea4605f5d9f3123",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "71816b992ef04030b1c58af6b9845fe5",
+      "asset_id": "71816b992ef04030b1c58af6b9845fe5",
+      "build_version": "BOZ_1.52.1",
+      "catalog_item_id": "5821c65a103144548f3b55e8ce011292",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "aca275a3c6db4ad2a8027b41436c7119"
+      },
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "04a54ed532ce4fbfbf8fd5833f60def0",
+      "asset_id": "04a54ed532ce4fbfbf8fd5833f60def0",
+      "build_version": "DL_1.52.1",
+      "catalog_item_id": "9421139e63f34d6281c18698b54d1e63",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "aca275a3c6db4ad2a8027b41436c7119"
+      },
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f653266870894ee1acbb5250e3b04bd1",
+      "asset_id": "f653266870894ee1acbb5250e3b04bd1",
+      "build_version": "FOLL_1.52.1",
+      "catalog_item_id": "c7475b5731fb483283651c9d67b86adb",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "aca275a3c6db4ad2a8027b41436c7119"
+      },
+      "namespace": "2c42520d342a46d7a6e0cfa77b4715de",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4dfe86c3ca4541edb53d47f6e2e47d30",
+      "asset_id": "4dfe86c3ca4541edb53d47f6e2e47d30",
+      "build_version": "1.007",
+      "catalog_item_id": "59f230fecf924860854d029ea1fee053",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "083f4a023f934e268805836996aa3f87"
+      },
+      "namespace": "2d2a077b8b7f450299ecd7068256aec4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Potoo",
+      "asset_id": "Potoo",
+      "build_version": "246.807171",
+      "catalog_item_id": "08addee88a7a400c940c9db6263b61db",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f8ef168f3522419caad27d82878e0329",
+      "asset_id": "f8ef168f3522419caad27d82878e0329",
+      "build_version": "1.3",
+      "catalog_item_id": "ad210330aa424a0f843d501ca26f8488",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2e412cfcbd954e7180930e9784a47e18",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fa5aa7e6c28c4c94aeac239eee700d5f",
+      "asset_id": "fa5aa7e6c28c4c94aeac239eee700d5f",
+      "build_version": "DAAC_250331-150243_0264ccd1_Epic",
+      "catalog_item_id": "c067dd3d76c24b5394970c54c7c587e5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "75b73dafba674195994b1d5653530011"
+      },
+      "namespace": "2ef976af17b74478a4b2938d54bb3db4",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "Fangtooth",
+      "asset_id": "Fangtooth",
+      "build_version": "2.2.11.F.Windows_EpicStore.2023_01_17_1555_Windows",
+      "catalog_item_id": "c275c2a3a6564d298db3dd4ca623e1f9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2f215955790d456b80c291bc2feaf7f7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8de4840d52d645119f0a08d1f6ce206d",
+      "asset_id": "8de4840d52d645119f0a08d1f6ce206d",
+      "build_version": "1.32d6_egs",
+      "catalog_item_id": "6675018d71f84b599a59c5bd7bb439ff",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e1da7924b88a44b9ac960ce707dfb821",
+        "update_type": "PATCH"
+      },
+      "namespace": "300ee26a2d6746cdb7dd515ae819f5d4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f00b5acabb0f49a7b49e8350d1cd0de0",
+      "asset_id": "f00b5acabb0f49a7b49e8350d1cd0de0",
+      "build_version": "1.1.4_win",
+      "catalog_item_id": "450d325cc72e4fcbb5999aaf0f672e10",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "301980d060324bb29202677f468c6c44",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6fd5e6a8632c499fa2657cf650c96b14",
+      "asset_id": "6fd5e6a8632c499fa2657cf650c96b14",
+      "build_version": "S1300",
+      "catalog_item_id": "ead90ef7726d403cb8df00b7cd767c63",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f452ea20ae1b43698209998b56c2cc1c",
+      "asset_id": "f452ea20ae1b43698209998b56c2cc1c",
+      "build_version": "1.14.0.0_FarmP_1_1_win_b29250_r86546",
+      "catalog_item_id": "5072135b902d472891107c66d12116b0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "308cbcb523ad4937a8c509d10e9b688a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Parsley",
+      "asset_id": "Parsley",
+      "build_version": "1.3-Live-Windows",
+      "catalog_item_id": "533f31e735a848e6b97ba14de429ccd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "313f3719063340f886d90e70ae503cd4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e87a43f695bc409ca8858206678ac7e7",
+      "asset_id": "e87a43f695bc409ca8858206678ac7e7",
+      "build_version": "1.5.5",
+      "catalog_item_id": "d9a609c6106046eab55014955f31448b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d84e8b8ebb11491189a5885c01606189"
+      },
+      "namespace": "315e6807f6684c279fc286d0fc36a44f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f8b6cc851ab34f5f9f07654426dc2429",
+      "asset_id": "f8b6cc851ab34f5f9f07654426dc2429",
+      "build_version": "Win-1.1.3",
+      "catalog_item_id": "f554c33320e4489880f9c640f487395f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ce1a2ea37f9346b99449c60392aa914e"
+      },
+      "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "dc07b9ead8214591b8df6d2546d2a0e3",
+      "asset_id": "dc07b9ead8214591b8df6d2546d2a0e3",
+      "build_version": "15",
+      "catalog_item_id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7b8fb449c8d3404ba7eda9cd4da1401b",
+      "asset_id": "7b8fb449c8d3404ba7eda9cd4da1401b",
+      "build_version": "1.0rc",
+      "catalog_item_id": "7f65d209277f4c10ac7c5eb4f1ed3ae9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "32ef234417314b65a4f76041b684f4d0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4123bcce398b4b1d8b9ef878f81055d1",
+      "asset_id": "4123bcce398b4b1d8b9ef878f81055d1",
+      "build_version": "TH4_EPIC_1.7.0.5",
+      "catalog_item_id": "2bc4445cab514d02a6cd0cc1ebfa5a4c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c6dcdc61b45240b0bd2bc63a8f5155d7"
+      },
+      "namespace": "3319fe5042ab4392a2b11c6938c0cda1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "963137e4c29d4c79a81323b8fab03a40",
+      "asset_id": "963137e4c29d4c79a81323b8fab03a40",
+      "build_version": "5834",
+      "catalog_item_id": "729a86a5146640a2ace9e8c595414c56",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "33956bcb55d4452d8c47e16b94e294bd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Tern",
+      "asset_id": "Tern",
+      "build_version": "20250701-637700-46",
+      "catalog_item_id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1faa96c705684ca88f82b1f5994af580"
+      },
+      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b5e42b0dc2f544a5bbb4080a433b8b71",
+      "asset_id": "b5e42b0dc2f544a5bbb4080a433b8b71",
+      "build_version": "Ver1.24.08.57450",
+      "catalog_item_id": "3d61e00e299c4c0d914c7e63d81e7f70",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3622b6ddc5c849b1826085d5fe492eae",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Chicken",
+      "asset_id": "Chicken",
+      "build_version": "2.35.2",
+      "catalog_item_id": "fbd21ae74fe24bfa972828c85d43bdd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "37baf50c268d47779020d73143bb02b0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0dac2fd1f95240bda133d1f2fb27c705",
+      "asset_id": "0dac2fd1f95240bda133d1f2fb27c705",
+      "build_version": "1.2.84",
+      "catalog_item_id": "a82b39adf62243d5b3dc67d1a70bd6a5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Almond",
+      "asset_id": "Almond",
+      "build_version": "1.0.0c",
+      "catalog_item_id": "cfc6700550314690b6d174393166a1cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "387bc8d3398a40f7ae14de417b4acefc",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Loon",
+      "asset_id": "Loon",
+      "build_version": "SRTTR_20211028_epic_14th_patch",
+      "catalog_item_id": "50dbf9c41bb34acbb1931ec635093755",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Tanzanite",
+      "asset_id": "Tanzanite",
+      "build_version": "Win_1.5.1",
+      "catalog_item_id": "498a092eaea742029f775779fb850596",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "395be8a9aed24142b30b6abb2778e995",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "998af0ab527c493baefb8049250c9a0e",
+      "asset_id": "998af0ab527c493baefb8049250c9a0e",
+      "build_version": "1.0r31Win",
+      "catalog_item_id": "16d6fbdf1f784345bf6d2e01a3e16e37",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "39697c68e46b48d2b75e17bdc417d859",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f9d7a68aa77a4b30902af341533abe22",
+      "asset_id": "f9d7a68aa77a4b30902af341533abe22",
+      "build_version": "0.1.3611.21444",
+      "catalog_item_id": "3324006765f34f57a408996ad2e592b5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "396a808f269241aba0fe2ad322ebd6d5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a334978574a840d594c31521592925f3",
+      "asset_id": "a334978574a840d594c31521592925f3",
+      "build_version": "3.2.25.F.r4769a",
+      "catalog_item_id": "1589ce110ea941948380ea6bf73ef749",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3712f2f7a6194f8aa85a4fc9f7135025"
+      },
+      "namespace": "39c6dd5409944922a04cac3f59fbbcd4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b9af0845f9d64b0d9e851d9811141f67",
+      "asset_id": "b9af0845f9d64b0d9e851d9811141f67",
+      "build_version": "123",
+      "catalog_item_id": "557f906fd29646569c7ec1df332efb5a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3b550d92911244558770b68c5a812a5d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "028263f54a874e35800d142275254d2c",
+      "asset_id": "028263f54a874e35800d142275254d2c",
+      "build_version": "1.3.5",
+      "catalog_item_id": "333b659134e448ac8c8e8fa47eb85dcc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3bb4afc31dd241c787bad056e9b8dbf9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Barbet",
+      "asset_id": "Barbet",
+      "build_version": "4226454",
+      "catalog_item_id": "92cd8e3c23a6400986db14bef51caa51",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ca8b8123ea074fef89b5c67bf1d89c4c"
+      },
+      "namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5f1c66366b2c4a6496d535d88c56e6cf",
+      "asset_id": "5f1c66366b2c4a6496d535d88c56e6cf",
+      "build_version": "v4.52.368416",
+      "catalog_item_id": "32bee0727be540b39de0ef46bcc7451d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d330c23f560c4493805925186544c331"
+      },
+      "namespace": "3c52fbac843d4375803187739db84801",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8931f79300d04c5889799bffc8ef70bd",
+      "asset_id": "8931f79300d04c5889799bffc8ef70bd",
+      "build_version": "v4.52.368416",
+      "catalog_item_id": "e4a26034afd849728f0afc5aeae85863",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "fa83a9e5e67442549adb40fbb812b160"
+      },
+      "namespace": "3c52fbac843d4375803187739db84801",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9c203b6ed35846e8a4a9ff1e314f6593",
+      "asset_id": "9c203b6ed35846e8a4a9ff1e314f6593",
+      "build_version": "3.8.312425-1.7.6985a",
+      "catalog_item_id": "9b8ee44da2e84b139c7444ab002cbc35",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e73747577005489d8a489b94d3a9206e",
+        "update_type": "PATCH"
+      },
+      "namespace": "3db17abfd650423f993291624b1b2ac1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b9e848fc5e844f4285b0624789476664",
+      "asset_id": "b9e848fc5e844f4285b0624789476664",
+      "build_version": "1.4.3.5",
+      "catalog_item_id": "f0f25a3625ac427794393b3f58cacb3b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9a1030c46c9c417e9a3f4aea059fdc9f"
+      },
+      "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "91bfb663fe7a4b9698ba08bd80549b34",
+      "asset_id": "91bfb663fe7a4b9698ba08bd80549b34",
+      "build_version": "godofwar-12857-20230505",
+      "catalog_item_id": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3ddd6a590da64e3686042d108968a6b2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "82cdbdf05c61474d89c4f9e8a8bf0ea4",
+      "asset_id": "82cdbdf05c61474d89c4f9e8a8bf0ea4",
+      "build_version": "1.8.1-0",
+      "catalog_item_id": "90f6c1b0452f4f839a34c55e09f326d0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "653fb4c28a9c4a6890f69cbc9e0444aa"
+      },
+      "namespace": "3eb832eb6d9f4496818a0b0d667420c0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b979fad811c64939af282f5892049b50",
+      "asset_id": "b979fad811c64939af282f5892049b50",
+      "build_version": "2.0.5.6e8c8ff-a-Windows",
+      "catalog_item_id": "6b74182c39e34bccb214741b5d6b54df",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dc9dd62e565d467ba99f9ce78ae84379"
+      },
+      "namespace": "3f6f54e0f8164224b817d23075cbb2a8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6f5862ba65244cfe86490f253d64feb1",
+      "asset_id": "6f5862ba65244cfe86490f253d64feb1",
+      "build_version": "1540190-win",
+      "catalog_item_id": "5fd33881c1dd44de8235186158d63723",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3fafb94f3f804d6bbe85da723c90e689",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Egret",
+      "asset_id": "Egret",
+      "build_version": "1.7",
+      "catalog_item_id": "fda38b88f1ea454c9e65cba125947d60",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "40c34bea9cd0460589c867f6a7246342",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "68c214c58f694ae88c2dab6f209b43e4",
+      "asset_id": "68c214c58f694ae88c2dab6f209b43e4",
+      "build_version": "1.0.0.10_WW",
+      "catalog_item_id": "5aac304f0e8948268ddfd404334dbdc7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4158b699dd70447a981fee752d970a3e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Bluebird",
+      "asset_id": "Bluebird",
+      "build_version": "1.12.0",
+      "catalog_item_id": "7a70b499513441c792b541d53505e0b2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "592c359fb0e0413fb46dee2d24448eb4",
+      "asset_id": "592c359fb0e0413fb46dee2d24448eb4",
+      "build_version": "10370094",
+      "catalog_item_id": "06bd477f9fbe4259a1421fb3f559aa46",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "dcfccf8d965a4f2281dddf9fead042de",
+      "asset_id": "dcfccf8d965a4f2281dddf9fead042de",
+      "build_version": "3409635",
+      "catalog_item_id": "79c724d2efc4468db6f23655fde6969c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4311a0ee99724086b1a4f261b827d038",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Petrel",
+      "asset_id": "Petrel",
+      "build_version": "0.1-staging-win32",
+      "catalog_item_id": "f1d1779e3b434d429d954b49349bb4bb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "43605e89e49d438485298819a7ef17b4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Discus",
+      "asset_id": "Discus",
+      "build_version": "45",
+      "catalog_item_id": "430f4445291f4566989cc26039f4694c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sage",
+      "asset_id": "Sage",
+      "build_version": "1.0",
+      "catalog_item_id": "7e97838fff4e48e79f892f1e64d42cb0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "818447bb519b46d48d365d5753362796",
+      "asset_id": "818447bb519b46d48d365d5753362796",
+      "build_version": "1.07.0035",
+      "catalog_item_id": "f08663635fd84c33bfc62ea3bac000e6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Falcon",
+      "asset_id": "Falcon",
+      "build_version": "23289.1",
+      "catalog_item_id": "4d3e7e2358e448c381626d326cb9587f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "be0999ba8ff542078aff5c36f6af7606"
+      },
+      "namespace": "4756b80eb0f74d45b77922e54052cfed",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c98c934106994f2d8afc36c3f1872549",
+      "asset_id": "c98c934106994f2d8afc36c3f1872549",
+      "build_version": "1.0.2.41698",
+      "catalog_item_id": "034973e5bc3b4aa8af5247eba80c6f46",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "487df1dfd24b44c381a2a376fbf78946",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "cd98b47155654e1f9a9e84e60d0b49e4",
+      "asset_id": "cd98b47155654e1f9a9e84e60d0b49e4",
+      "build_version": "1.0.0.32",
+      "catalog_item_id": "351343f16d5d4a759cbbee4a62d4f07b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "489c2ca47aaa4190b694184b979d3b23",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f7cc1c999ac146f39b356f53e3489514",
+      "asset_id": "f7cc1c999ac146f39b356f53e3489514",
+      "build_version": "TR2_30112021_1027.0_1224023_303770_132827583431143041_",
+      "catalog_item_id": "460088fc5e5045c0a67876fd10f7310b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "48ffecf4a89f4fd496817b0451384f39",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Stellula",
+      "asset_id": "Stellula",
+      "build_version": "1.7.1.0o Win",
+      "catalog_item_id": "f71268e4d1c144aea3cb30b7ab5a7b0e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7365ec397c1e4bd7b836be6157d94723"
+      },
+      "namespace": "493e9ad801e8487497fe7840cb8404bb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bd35425c9548494082d002f36601ff45",
+      "asset_id": "bd35425c9548494082d002f36601ff45",
+      "build_version": "1.2.2a",
+      "catalog_item_id": "f5d84259a95a4b11ade74a7e4e0bde66",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4966d5da285c4f2c876937844b0e23ee",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "890d9cf396d04922a1559333df419fed",
+      "asset_id": "890d9cf396d04922a1559333df419fed",
+      "build_version": "TR11_10072023_492.0_1227914_740629_133334955480774690_",
+      "catalog_item_id": "a61625d8a2e04a4aaf033312c649616c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "4b5461ca8d1c488787b5200b420de066",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Auk",
+      "asset_id": "Auk",
+      "build_version": "2.0.38",
+      "catalog_item_id": "a86bbe049ef14f519c69fdc27615d7f4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "373badf415504c97ae752441d14fb0cb"
+      },
+      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "be23672deb69402781cd47cc2919caf4",
+      "asset_id": "be23672deb69402781cd47cc2919caf4",
+      "build_version": "Build_20240618.0",
+      "catalog_item_id": "6f39a1e367f2441586f5ab1c170e456b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4bc43145bb8245a5b5cc9ea262ffbe0e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Freesia",
+      "asset_id": "Freesia",
+      "build_version": "1.0",
+      "catalog_item_id": "4107733638294e9397e7d0bbda5b8734",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Quail",
+      "asset_id": "Quail",
+      "build_version": "1.42.13rc1",
+      "catalog_item_id": "017e3132e017486bbb3a9a641c984b3a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4c7117cadb714722950338f02850fd8d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Condor",
+      "asset_id": "Condor",
+      "build_version": "01.03",
+      "catalog_item_id": "a2febf833fed4471a9185c7b80af59c3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4d2a12aff0484d699b1806ab104d259b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a74e41bbacdc4a4798befb4d55b441de",
+      "asset_id": "a74e41bbacdc4a4798befb4d55b441de",
+      "build_version": "v1.8.0w1",
+      "catalog_item_id": "34a286dc541d42adab99ed45e3d3f7fc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5967bf1425fb4f8c85e61a66953787b4"
+      },
+      "namespace": "4d8b727a49144090b103f6b6ba471e71",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "78903903b1f1419bae248467f27ff470",
+      "asset_id": "78903903b1f1419bae248467f27ff470",
+      "build_version": "1.3.2",
+      "catalog_item_id": "6b5b887a83ea49ba9d228410ee90b8e9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "51b1503392e04abab64364092cbfca2b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d50bfa4d5a8c4b0885f846d826df16b8",
+      "asset_id": "d50bfa4d5a8c4b0885f846d826df16b8",
+      "build_version": "WIN-lkYDW-12.06.2",
+      "catalog_item_id": "ede00501bf0b4cc9ac10f3b578f1d074",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4e5d164b2e8044119be0e546d692b5f0",
+        "update_type": "PATCH"
+      },
+      "namespace": "524c3386e7e6470a8d8400cc51d92296",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Statice",
+      "asset_id": "Statice",
+      "build_version": "0.0.9",
+      "catalog_item_id": "4e34799e7e7d4101b25fc274ea68487e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "11e598b192324994abce05bad4f81b50",
+      "asset_id": "11e598b192324994abce05bad4f81b50",
+      "build_version": "16676.3427123",
+      "catalog_item_id": "dc82015622b34172a049514af0c07758",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2794f2755792416399323bc3da17cb02"
+      },
+      "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ecfdc10170eb49b6b61cf16b3aa36d56",
+      "asset_id": "ecfdc10170eb49b6b61cf16b3aa36d56",
+      "build_version": "0.54578_Windows",
+      "catalog_item_id": "07a27e25fdce469fa023695acff0cc88",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "538de058a6d9490ea151c4cd111cc01b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "03c9fe3b2869452ba8433ee7708a3e93",
+      "asset_id": "03c9fe3b2869452ba8433ee7708a3e93",
+      "build_version": "1.11.498643-Shipping-D",
+      "catalog_item_id": "93bae60779234528837028190b8495ff",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4ec23805d385488db1f4dd948a312bad",
+        "update_type": "MAJOR"
+      },
+      "namespace": "53ea1f0a585f4fbc9c8adc6b76af1165",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9d943a160fa841859ac5c1f233789fcb",
+      "asset_id": "9d943a160fa841859ac5c1f233789fcb",
+      "build_version": "2.035387",
+      "catalog_item_id": "0f3db9f169954c40b9899eea64ee1b49",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "3acb0920074446e8baaa4c249200d892",
+      "asset_id": "3acb0920074446e8baaa4c249200d892",
+      "build_version": "2021-09-26_11_01_07",
+      "catalog_item_id": "0e503ad9811147c78d691da77d6746ff",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "54399b3ef40d4c568e5904607470ffe9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "1fe19232c0f7476a8e99fd8752e800c2",
+      "asset_id": "1fe19232c0f7476a8e99fd8752e800c2",
+      "build_version": "Win-1.85.1",
+      "catalog_item_id": "d3a21ecb9c464de7ad2a8d7de14c0363",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5645a537b6a44f6f82d122729f3253ed",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7c566548d24343e48151125ced4b494c",
+      "asset_id": "7c566548d24343e48151125ced4b494c",
+      "build_version": "Epic 1.0",
+      "catalog_item_id": "caa0ec8977854bc89c012109f000ba5d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "56eab841eaab4016b9fedd2350f997b6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6a2cc8b03e684bbd9096a338f96a7ba2",
+      "asset_id": "6a2cc8b03e684bbd9096a338f96a7ba2",
+      "build_version": "1.0.1",
+      "catalog_item_id": "44dc6b5ffd984b32b526c7d6bed73b86",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3ffba89b939b4dcb8e9e77518c477f4a"
+      },
+      "namespace": "58004246d72f474a957ff5f57b9684ca",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "74977fee80de4e5e9f663e62560a0f2f",
+      "asset_id": "74977fee80de4e5e9f663e62560a0f2f",
+      "build_version": "0.0.0.5",
+      "catalog_item_id": "2d77a2b3303349bca51291fcf0e29cd2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5891aa5c4c6f4aabbf555a679e02cfb9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2333810845fd49a286baf29f9b58f9ae",
+      "asset_id": "2333810845fd49a286baf29f9b58f9ae",
+      "build_version": "1.1.713",
+      "catalog_item_id": "8157061d517946f3854f55a7575108e7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "58c35a214bbb4656a536126ad1552d42",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "320ba4df8b36412d983ffcffd3e0e8f0",
+      "asset_id": "320ba4df8b36412d983ffcffd3e0e8f0",
+      "build_version": "1.1.7 Win64",
+      "catalog_item_id": "2b8748cc0626405eac89a425374bb659",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "58dbbafdb5b04b3e9442506354457e3c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ed93b18355a84230938c705121c63661",
+      "asset_id": "ed93b18355a84230938c705121c63661",
+      "build_version": "Windows_157357",
+      "catalog_item_id": "e86621f47cab4711826e440296572cad",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c9403463ad74402080834bb0ac13147c"
+      },
+      "namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "87441b64c6d746b7a7c90017c227dd0c",
+      "asset_id": "87441b64c6d746b7a7c90017c227dd0c",
+      "build_version": "Windows_WM_157355",
+      "catalog_item_id": "f9c1bcff4df545c3a85245d2f09e1cb0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c9403463ad74402080834bb0ac13147c"
+      },
+      "namespace": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Grunt",
+      "asset_id": "Grunt",
+      "build_version": "1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win",
+      "catalog_item_id": "9d60f0d4300a407e817ce5548f12f12d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Blobfish",
+      "asset_id": "Blobfish",
+      "build_version": "1.2.93",
+      "catalog_item_id": "26f79209063d435d8988647a5e2e14c2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5c0d568c71174cff8026db2606771d96",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2eaba703e63e4ed8bd2919ed552021d6",
+      "asset_id": "2eaba703e63e4ed8bd2919ed552021d6",
+      "build_version": "DXMD_EPIC_1.05",
+      "catalog_item_id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af3d55a1d73f485389addfeba1da4678"
+      },
+      "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d26da9e047e4440a80781f13a8b7c062",
+      "asset_id": "d26da9e047e4440a80781f13a8b7c062",
+      "build_version": "1.2.7",
+      "catalog_item_id": "b032c78e9063452c8ff638e7158c1567",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9315671d6ab146d5b7bbc20317dbb134"
+      },
+      "namespace": "5c7501617f3449c5a6eed7590392f9fa",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4a4ffcf1a8354008bcc3b28280dd2419",
+      "asset_id": "4a4ffcf1a8354008bcc3b28280dd2419",
+      "build_version": "Windows.0.1.1_dev_7_Win64",
+      "catalog_item_id": "7cadfcd8bc9845e7a5016d71ffa843e3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3898a8706c954ae88690aa906b198f45"
+      },
+      "namespace": "5c82c05d2978489090d30c05e17e6e12",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+      "asset_id": "25ad72f164b948ab9e05eb18fab2cda8",
+      "build_version": "A0.16",
+      "catalog_item_id": "7dbf6df45b47438197d789e095d7e8c1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c94e87f6d36b42a68a3f234ee8a0a302"
+      },
+      "namespace": "5d9f109e44ec4c8bbc5495f43b601f25",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "7179f095efcc4f92a950a6d9dbd9c602",
+      "asset_id": "7179f095efcc4f92a950a6d9dbd9c602",
+      "build_version": "5.5.0",
+      "catalog_item_id": "1709353a08384d518fe56f25732eb9dd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5db7394e65044dd1bb083ee983e2b3a5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+      "asset_id": "6fbbc765b38c4f2ea3d9a9caa620bae7",
+      "build_version": "1.0.9202.win",
+      "catalog_item_id": "135a58d131b342f4bb1b9ec0c494cc96",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5f3c898b2a3244af99e9900e015717f8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Godwit",
+      "asset_id": "Godwit",
+      "build_version": "1.93",
+      "catalog_item_id": "a3361123cbb5436ab8630caea6e1d39a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5f7c811695f14b8fa3a8e1ea35713d23",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "stargazer",
+      "asset_id": "stargazer",
+      "build_version": "9422.1169759",
+      "catalog_item_id": "3debdea646834df18a900bcbe76b9013",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bcbc03d8812a44c18f41cf7d5f849265",
+      "asset_id": "bcbc03d8812a44c18f41cf7d5f849265",
+      "build_version": "1.19.2-f3-fixed",
+      "catalog_item_id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "042f5718159b487c8649d5dfcb19dea3"
+      },
+      "namespace": "6009be9994c2409099588cde6f3a5ed0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+      "asset_id": "d2d941e5c1ec44ae9e87e9e7cdddf1dd",
+      "build_version": "4.4.0",
+      "catalog_item_id": "65901b94cb2e45c5b667fef73cc2afce",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6453696b8be841649a25cf662ed70ff6"
+      },
+      "namespace": "6098a8c7375c43458a22163a637c0c2f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "08c5c041aa2c4fe08fbd87c08fb37c36",
+      "asset_id": "08c5c041aa2c4fe08fbd87c08fb37c36",
+      "build_version": "3236-win-epic-editor",
+      "catalog_item_id": "16e3d5114c314457b1bdd1659e70bb7c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "da2038ef19e94554898056d79168b3f8",
+      "asset_id": "da2038ef19e94554898056d79168b3f8",
+      "build_version": "2081827-win+denuvo-fix",
+      "catalog_item_id": "594b8acf31114b8f92430e150610e8db",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7e9ca4940ed0427699f687f538d8f72d",
+      "asset_id": "7e9ca4940ed0427699f687f538d8f72d",
+      "build_version": "2935-win-epic-resource_archiver",
+      "catalog_item_id": "a3575fda30c34f1fba24f5f6c7ddb2e1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Turkey",
+      "asset_id": "Turkey",
+      "build_version": "2.0.2_BN160_CL2863302",
+      "catalog_item_id": "7aa957cbc73446d08bbfc234d693001a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f36962e859934e6b8c69a78b6b85cd19"
+      },
+      "namespace": "6110c92696a54f108c8e9002713ea5f9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "61e074e998044594b7bb566fe111687b",
+      "asset_id": "61e074e998044594b7bb566fe111687b",
+      "build_version": "1.0.3.3009a",
+      "catalog_item_id": "144f7dd94c37467dbfaa47a55855d9e1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9d8aa52add194a0bba7af09c70b6c1f6"
+      },
+      "namespace": "615a4dc5c85c4c28a390dda4298acd80",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Parakeet",
+      "asset_id": "Parakeet",
+      "build_version": "1.0.0",
+      "catalog_item_id": "3c8142e2d269463996ba868cc8f26d7e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5ade01bafec54a148024665ce978b2a4",
+      "asset_id": "5ade01bafec54a148024665ce978b2a4",
+      "build_version": "0.0.17-win",
+      "catalog_item_id": "c328481e98e0447cafaf9d3cc60dcbc4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "643a8667d7a940b8b36094020fcd0dcf",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c9a6ab84f1ea48afb2317a9429a0da9a",
+      "asset_id": "c9a6ab84f1ea48afb2317a9429a0da9a",
+      "build_version": "0.1.1",
+      "catalog_item_id": "53b15be31b7a45b1b3f143d8d66687a7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "651d07f1eee8419e80eb2938f8f44cf0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0e07b42c0ffe4cfdb2095568f461f38f",
+      "asset_id": "0e07b42c0ffe4cfdb2095568f461f38f",
+      "build_version": "1.0.2",
+      "catalog_item_id": "63488d912008428aba6244932ac74777",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4635a5d81cb4b7bac86736863e25a3c"
+      },
+      "namespace": "65ebb4f95d5845bba92b300f21235d1a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ee596311b7e14e2d925c75e35ddd2721",
+      "asset_id": "ee596311b7e14e2d925c75e35ddd2721",
+      "build_version": "1.0.1",
+      "catalog_item_id": "cb9c8ea8dd6443d091804f8896cb6de5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4635a5d81cb4b7bac86736863e25a3c"
+      },
+      "namespace": "65ebb4f95d5845bba92b300f21235d1a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "19ef3873bd3e4a0db73bfc5422acf949",
+      "asset_id": "19ef3873bd3e4a0db73bfc5422acf949",
+      "build_version": "1.0.2",
+      "catalog_item_id": "daf33ffe2843429ab7debf5f3aa7e2d3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c4635a5d81cb4b7bac86736863e25a3c"
+      },
+      "namespace": "65ebb4f95d5845bba92b300f21235d1a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b4a0d2d15acb4db894a599b810297543",
+      "asset_id": "b4a0d2d15acb4db894a599b810297543",
+      "build_version": "Remnant_Win64_Shipping_275957",
+      "catalog_item_id": "b0e071ce0bb54cba93ad02011ce40f76",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "663e521f2a444199be58152fd93fa66e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "01f1e8046e9e433db190a611a0411579",
+      "asset_id": "01f1e8046e9e433db190a611a0411579",
+      "build_version": "1.4.1e_0",
+      "catalog_item_id": "a079b2d882af49eeb742859635654c83",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "66ce501aea0a424cb80cfe5f31f80f03",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Flagfin",
+      "asset_id": "Flagfin",
+      "build_version": "1.0",
+      "catalog_item_id": "433a4f6836b34a05b8371f7a51d31d0a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "675f47ac5d5847f59badceea5b0950cf",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f99d3d6da3454662913621222037417d",
+      "asset_id": "f99d3d6da3454662913621222037417d",
+      "build_version": "0005live",
+      "catalog_item_id": "400bdeae771149c9b3fe19d927019f69",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c844ae665b694b6687478ca6a172b950"
+      },
+      "namespace": "6a04125b9d884151868aa2c56e84dc11",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4ec72fd8cbd94aa4acc61624c68fbc4f",
+      "asset_id": "4ec72fd8cbd94aa4acc61624c68fbc4f",
+      "build_version": "0.9",
+      "catalog_item_id": "ecef3d9725b0482fb8bf6736e89c679e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f61fa90b5c76411298ad3bd4b58ab8e0"
+      },
+      "namespace": "6a6d54e5b4ef4fb0b3dad1d02a320376",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7786b355a13b47a6b3915335117cd0b2",
+      "asset_id": "7786b355a13b47a6b3915335117cd0b2",
+      "build_version": "49.3.9414",
+      "catalog_item_id": "49c4bf5c6fd24259b87d0bcc96b6009f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "44a7969a556f4c0184acd4e528bfafe2",
+        "update_type": "PATCH"
+      },
+      "namespace": "6a8dfa6e441e4f2f9048a98776c6077d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Canary",
+      "asset_id": "Canary",
+      "build_version": "1.0.0.6",
+      "catalog_item_id": "4ea6051591b14a37bcc4048081b30dc0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+      "asset_id": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+      "build_version": "1.16.0.0-1.71290.0.712379",
+      "catalog_item_id": "96571224db9a4dae8414e06050230e51",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "639977eecfd2497c941b71af949b5067",
+      "asset_id": "639977eecfd2497c941b71af949b5067",
+      "build_version": "1.12.135040",
+      "catalog_item_id": "8d95f63859cd4d7496b08ee8e503f624",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "595e35287b824902a2f7107139603732",
+      "asset_id": "595e35287b824902a2f7107139603732",
+      "build_version": "2.0.33",
+      "catalog_item_id": "486ccd7673284a02bd62dd6d5fa289e0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6b753bd045604be89d9779e741c604b1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Wigeon",
+      "asset_id": "Wigeon",
+      "build_version": "1.10.2023.2.17.882.59",
+      "catalog_item_id": "2726aec96608451c96c6bfecc0c9edf8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6cec00f8934146508b884b0f139d55d0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ca584681f53d4dedab49340ad598e1b8",
+      "asset_id": "ca584681f53d4dedab49340ad598e1b8",
+      "build_version": "1.2.1.0",
+      "catalog_item_id": "5e2f9d85fe34413788b3f266b924a61b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "8463f0b8d598413896a771012270ae36"
+      },
+      "namespace": "6ef33a285bf5426d852762aecc95c826",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "31f44a022c5642fb918a5318e12e56d7",
+      "asset_id": "31f44a022c5642fb918a5318e12e56d7",
+      "build_version": "Win64.2.02.79202",
+      "catalog_item_id": "2f9d1b84b77548c8bb4840ed4f7d67c6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bf7b3af1fab84c4bbff71e14f204b752"
+      },
+      "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Suka",
+      "asset_id": "Suka",
+      "build_version": "Win64.2.02.79202",
+      "catalog_item_id": "86d5286d1b254e10902d6e2d7fc3bb76",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "69734425edcc4899b4d2bd8704d8d10b"
+      },
+      "namespace": "6ff9efdef6dc45ecb40ed20fcd2c4621",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fe118ed0362040c994b510da064876ca",
+      "asset_id": "fe118ed0362040c994b510da064876ca",
+      "build_version": "1.2.76",
+      "catalog_item_id": "fbca48e4e06c4676bef9a9ad66e4ea99",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7029f6353d7f468eb6940bbe6041474e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "cc3213f280df4b428e85b771c09d1891",
+      "asset_id": "cc3213f280df4b428e85b771c09d1891",
+      "build_version": "42294_57",
+      "catalog_item_id": "d303a92b6c4d4e25808a92a0a9ca3950",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "16cca8c611f24d29bb1f7f2bc97e3b82"
+      },
+      "namespace": "708f57aaa04b42ef885be16c8288f0ac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e0fa47ae79514345823bff209ae29451",
+      "asset_id": "e0fa47ae79514345823bff209ae29451",
+      "build_version": "EGS_1.08.4",
+      "catalog_item_id": "38649a203d904405ab9068e09dc5be91",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "71d19da3678943098859baa9c4c39f95",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c35b9699c4e24c56976b5bd8eceba464",
+      "asset_id": "c35b9699c4e24c56976b5bd8eceba464",
+      "build_version": "1.4.11-pc",
+      "catalog_item_id": "bce91ac157814f2ca5a39d7b86dd18f5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "73b62f4875a248d8acc95966ce94c80f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Turaco",
+      "asset_id": "Turaco",
+      "build_version": "1",
+      "catalog_item_id": "3524134c7a4e4cf2832d8d2a634baef8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "742f165671424189aecdfdadf5ea9755",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5e8da4f19dae455e948e568d8a0272bf",
+      "asset_id": "5e8da4f19dae455e948e568d8a0272bf",
+      "build_version": "1.67",
+      "catalog_item_id": "d8feca711b13448d992d2988e25e784b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dffce08f0a1b4207a81ba50d9873b87e",
+        "update_type": "MINOR"
+      },
+      "namespace": "74b602736d704ed2a5915c31319d99f6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Laridae",
+      "asset_id": "Laridae",
+      "build_version": "1.0.4",
+      "catalog_item_id": "682122e968804007beadd755c79db11b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "74d82b28ab424956ac24407229fe6faa",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Jay",
+      "asset_id": "Jay",
+      "build_version": "2.0.2.4",
+      "catalog_item_id": "adb023dbbb754ec0b88d7912bc747e5d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "836e22516e7641219b20d1b5d5b814d5"
+      },
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sumac",
+      "asset_id": "Sumac",
+      "build_version": "0.0.16",
+      "catalog_item_id": "d4262740659b444e8f19e47a2b28dc48",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7563789523404ae7ba52588adc99963a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "069a60f6b0514a5fbe81b38957c1ddfd",
+      "asset_id": "069a60f6b0514a5fbe81b38957c1ddfd",
+      "build_version": "15",
+      "catalog_item_id": "18a75a50d0ef407d8537f1879dab320d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "75ec0c7498894d1a99a5c8f02f3e4c55",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d2da64bd4c4e422da4b1a88041492a3a",
+      "asset_id": "d2da64bd4c4e422da4b1a88041492a3a",
+      "build_version": "1.6",
+      "catalog_item_id": "19884196ffca4ad0b56486a76773e5f9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "766e1b59c32c447093add5efbc1a4858",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "831cd8c0c25b4615ade419ecb4f50e42",
+      "asset_id": "831cd8c0c25b4615ade419ecb4f50e42",
+      "build_version": "rc-patch-6-row-20250721_022532",
+      "catalog_item_id": "3dff34510c1b4ac89d587a482100ca65",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7713e3fa4b234e0d8f553044205d53b6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Curry",
+      "asset_id": "Curry",
+      "build_version": "1.0",
+      "catalog_item_id": "1e4e727584484401ac62b2b513419a52",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "29d12cc907b148dd957a709f1414843e",
+      "asset_id": "29d12cc907b148dd957a709f1414843e",
+      "build_version": "1.0.0.130_2",
+      "catalog_item_id": "cc82af51ae724ec6bcf291fa940be8fc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9ab431cacb2e4536b5802a55e6957dc2"
+      },
+      "namespace": "7b9cdaaca4f5424e8d6bd7dabe559010",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ee5c6a659d0f478fba0049fa44429a1f",
+      "asset_id": "ee5c6a659d0f478fba0049fa44429a1f",
+      "build_version": "1.0.196",
+      "catalog_item_id": "97f646aa2baa42fa9ca17919bd8a8639",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7dc02eac2fe347368b5f72a02bb5bc5e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "3206dba3f9b14fd3b01c18f9dcbc864a",
+      "asset_id": "3206dba3f9b14fd3b01c18f9dcbc864a",
+      "build_version": "1.820.5.1v5",
+      "catalog_item_id": "b9f16025674b4a4d93c30d666c3c9c9d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7dee3ddeac7d427eb35def472be64d9c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6d564ff21f9c45b7b782b7113ad60be8",
+      "asset_id": "6d564ff21f9c45b7b782b7113ad60be8",
+      "build_version": "Patch 13",
+      "catalog_item_id": "f7a2afa44ab24dcdbf31f36106bc570f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "40cb42e38c0b4a14a1bb133eb3291572",
+      "asset_id": "40cb42e38c0b4a14a1bb133eb3291572",
+      "build_version": "IdleDragons629164Live",
+      "catalog_item_id": "48353a502e72433298f25827e03dbff0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "7e508f543b05465abe3a935960eb70ac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+      "asset_id": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+      "build_version": "1.0.3_CL-870730",
+      "catalog_item_id": "47c6774a15374b5ba04f86d4541410c7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af383afcffa74d9bb14d4f5ee3801994"
+      },
+      "namespace": "7ec453d446194b8f8afe82aaa9561211",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "944181781611403783aada5d99d23858",
+      "asset_id": "944181781611403783aada5d99d23858",
+      "build_version": "1.0.1_DLC_CL-870730",
+      "catalog_item_id": "a28ea2727cc64953a7bebfb796db4222",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af383afcffa74d9bb14d4f5ee3801994"
+      },
+      "namespace": "7ec453d446194b8f8afe82aaa9561211",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5b41454974be4d5883056ba298e53675",
+      "asset_id": "5b41454974be4d5883056ba298e53675",
+      "build_version": "1.0.0",
+      "catalog_item_id": "fd1d31227d1d405eb68a9a3bbdd029d0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "805a1b31b65f4c3db221ab242f894482",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "da0103e959e54d139d0c109ded3b3672",
+      "asset_id": "da0103e959e54d139d0c109ded3b3672",
+      "build_version": "eu4-GitlabCI-Build-release_1.37.5-835bfdf8-windows",
+      "catalog_item_id": "93aba3588eac4dac86a1b578f6e10186",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a9c99f2755ac4568ba2d5663099b5bfe"
+      },
+      "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c195b58b0379438bb31a5b99d365d56c",
+      "asset_id": "c195b58b0379438bb31a5b99d365d56c",
+      "build_version": "V4_1eefef4174016240e005",
+      "catalog_item_id": "bd4fa2bd2a9948608379512b12d1738c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a9c99f2755ac4568ba2d5663099b5bfe"
+      },
+      "namespace": "80d3aeb1d7c3434981e0bcbc47700a83",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "247a0f0f5803429eb3be2c06f3ea77ff",
+      "asset_id": "247a0f0f5803429eb3be2c06f3ea77ff",
+      "build_version": "BLAIR_WIN_SRC_20191209_1642",
+      "catalog_item_id": "978cb3123e074daf963bc8cc15dcfc2a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8101d2b09984401fa28cecce4c867e71",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Gull",
+      "asset_id": "Gull",
+      "build_version": "1.6",
+      "catalog_item_id": "8475c4b405b44a9d855ad1601cb11c21",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "83022e1b4c304addb2aadee1db854f8d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8e425d507bd6473dbb927f0fea8ef4f6",
+      "asset_id": "8e425d507bd6473dbb927f0fea8ef4f6",
+      "build_version": "1.25.9.5",
+      "catalog_item_id": "6e797b10bc2d4bbb808d14655a30afa1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8432511ef63b489b843d21ff486a0355",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Goldeneye",
+      "asset_id": "Goldeneye",
+      "build_version": "1.2",
+      "catalog_item_id": "85c1fcd29dd14ef18c96bd334ee2e10b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "843c8ce683474448bb104a9651e8f325",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Tumeric",
+      "asset_id": "Tumeric",
+      "build_version": "1.0.0d",
+      "catalog_item_id": "4d27dfe4f28147d2aef0ee8a9b2ae7dc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "85398892cc4544088ee87c673f95bb6f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Pelican",
+      "asset_id": "Pelican",
+      "build_version": "1.08",
+      "catalog_item_id": "3526c66b4bf748f5a6284b9b6391c427",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "854ca270c7f04fe483212a35811e9189",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "456afef39a4c4cbbb6b17e92201443d7",
+      "asset_id": "456afef39a4c4cbbb6b17e92201443d7",
+      "build_version": "godofwar-21022-20250321",
+      "catalog_item_id": "634aa3f4ee28452fa9a9a175561d0e67",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2048c3dfa36d4326959703f6dd62425f",
+        "update_type": "PATCH"
+      },
+      "namespace": "862d80a2d1044d88b01104b3ebaed032",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "41869934302e4b8cafac2d3c0e7c293d",
+      "asset_id": "41869934302e4b8cafac2d3c0e7c293d",
+      "build_version": "105",
+      "catalog_item_id": "7d690c122fde4c60bed85405f343ad10",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "879b0d8776ab46a59a129983ba78f0ce",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "2fb8273dcf6f41e4899c0c881e047053",
+      "asset_id": "2fb8273dcf6f41e4899c0c881e047053",
+      "build_version": "0.0.0.4",
+      "catalog_item_id": "341b8e920c0d401d98be61a26b78b08c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "87c84bc5f43d4fe69ad8f3ccde0594b0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a42a95a46dc942318350cd4d0ee3163b",
+      "asset_id": "a42a95a46dc942318350cd4d0ee3163b",
+      "build_version": "1.5_4",
+      "catalog_item_id": "4423ec07f6cc4facade298799967f1e8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "facd99b17d8f4a6d87006a939f80ae56"
+      },
+      "namespace": "87de7c0aad7944899fb6d2b05e13b108",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "91e82f342ebf42309703e9ba363daedf",
+      "asset_id": "91e82f342ebf42309703e9ba363daedf",
+      "build_version": "1.00",
+      "catalog_item_id": "a4a58a236fc544c6b47bf72706946ef1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "da1359b5baaa4ebf98d0cdc1b3245d34"
+      },
+      "namespace": "88c17fed155e43068c338d33d1bcd481",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e25566912b57452b929cf8c333a16ca8",
+      "asset_id": "e25566912b57452b929cf8c333a16ca8",
+      "build_version": "1.0.9b",
+      "catalog_item_id": "12a46af639454dbfb162908aed866b61",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "69e2ecb5ecce4b85aac82b5cfa5ae8bc"
+      },
+      "namespace": "89a30c2a3fdb4281b5df57350e797ca9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "888fabb7d07b430691ae22796f2cb530",
+      "asset_id": "888fabb7d07b430691ae22796f2cb530",
+      "build_version": "1178",
+      "catalog_item_id": "a69da8b6bd194d73af049579b4932f0b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "89b9c510e8d74b9da34c447915b1ffb1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Emu",
+      "asset_id": "Emu",
+      "build_version": "1.62",
+      "catalog_item_id": "2fc6b6a71a3249fca823e9c24a5b7d9c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "65c25644a2e0444d8766967a008b1d69",
+      "asset_id": "65c25644a2e0444d8766967a008b1d69",
+      "build_version": "prod-windows-2994",
+      "catalog_item_id": "eac6533129434f98a6b04a81cbcaf357",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "422cb8171c0249ccad70aab57b0c5d1f",
+        "update_type": "PATCH"
+      },
+      "namespace": "8b454b47f5544fc6829cf0fed42ebae0",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "06621054d7d24f44bf13e3c31c9ec05d",
+      "asset_id": "06621054d7d24f44bf13e3c31c9ec05d",
+      "build_version": "1.4.2",
+      "catalog_item_id": "337333962e364b4bb2ce8f907c7c7d4d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8c7ed85dae4341d385919ee4d832eb1a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d7db33dfe7634d6b8a188c708f2caa3c",
+      "asset_id": "d7db33dfe7634d6b8a188c708f2caa3c",
+      "build_version": "1.2",
+      "catalog_item_id": "3b5f7509b172464ca18def194a12fc3c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8de58df378c34407b6db0388e0470a45",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ac8f20a7931e4d63a1db4dc1267ec3d1",
+      "asset_id": "ac8f20a7931e4d63a1db4dc1267ec3d1",
+      "build_version": "1.0.1",
+      "catalog_item_id": "12629a986ad741588ce5fe7a837e6268",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "845699e71500497785e25ec8594e3c1a"
+      },
+      "namespace": "8e56fc9fc0fb4f18af0592c74ad896ba",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Bichir",
+      "asset_id": "Bichir",
+      "build_version": "1.3.3.1-installer",
+      "catalog_item_id": "62cd2e5126504e07a769993f17694557",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Dory",
+      "asset_id": "Dory",
+      "build_version": "1.0.21_1136",
+      "catalog_item_id": "f23c872b20db4574a79b61f28f6b8fee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "908bed122ba84c4a908ee1e14da401c3",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Cardinal",
+      "asset_id": "Cardinal",
+      "build_version": "6.0.7.3",
+      "catalog_item_id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ece4c58603d04bcb97454be9a7492fa6",
+      "asset_id": "ece4c58603d04bcb97454be9a7492fa6",
+      "build_version": "1.5",
+      "catalog_item_id": "e765100266ac457c827b4b765ab0652c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "917551a8060244469eb4e6ab8a99cf24",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "273854fd9c764c42a8e0f5c59aef343a",
+      "asset_id": "273854fd9c764c42a8e0f5c59aef343a",
+      "build_version": "0.6.2.5554-5805",
+      "catalog_item_id": "94e1585836694fd8ba7be97b03f1d9b3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e70f8a940fab4066ac65de5411806470",
+        "update_type": "PATCH"
+      },
+      "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Hazelnut",
+      "asset_id": "Hazelnut",
+      "build_version": "1.0.1",
+      "catalog_item_id": "9354cd92a21f42a186b73c984290c942",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "92053006068e4aa9b1ad413f72090f5e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Pewee",
+      "asset_id": "Pewee",
+      "build_version": "1787",
+      "catalog_item_id": "4846b408b2e5424baecf1dc29683402e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8cf7c6b964514532ad8284a376a517bf",
+      "asset_id": "8cf7c6b964514532ad8284a376a517bf",
+      "build_version": "1.14.2.27630",
+      "catalog_item_id": "cf1bbc6abcba4eb5a71387f66732a23c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Muscovy",
+      "asset_id": "Muscovy",
+      "build_version": "1.25.0.2775",
+      "catalog_item_id": "6dfe148a5d5f4fa9b265dcc3803dc395",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "024fb138c970409d92c15451e8fa64cd"
+      },
+      "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ea8df71f923649a193ab1c1fded7e1b3",
+      "asset_id": "ea8df71f923649a193ab1c1fded7e1b3",
+      "build_version": "42507",
+      "catalog_item_id": "1044c51716c4423e83da5818d289057e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "95d0b9561be1464cb43bd029e94cf526",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6e42ade33c854ae3ba9aa2d63cf24eba",
+      "asset_id": "6e42ade33c854ae3ba9aa2d63cf24eba",
+      "build_version": "Windows_2.7.0x_Release",
+      "catalog_item_id": "b3a70b0c79294b98899dc3d672a48c2f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f5304fad101a4ab8ad1a99b2511bd13d"
+      },
+      "namespace": "975d251af0384c88a898a996bda4881d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "766655a0e7a44ee5b34ad99b78c7ceaf",
+      "asset_id": "766655a0e7a44ee5b34ad99b78c7ceaf",
+      "build_version": "Windows_2.7.0x_Release",
+      "catalog_item_id": "c56ce8588faa4797a876e159002ed442",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f5304fad101a4ab8ad1a99b2511bd13d"
+      },
+      "namespace": "975d251af0384c88a898a996bda4881d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e8d11bd4cb1f49d0a69a52fc09dbac6f",
+      "asset_id": "e8d11bd4cb1f49d0a69a52fc09dbac6f",
+      "build_version": "Windows_2.7.0x_Release",
+      "catalog_item_id": "c7739522b14343b9b4e1f6fa029aca1f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f5304fad101a4ab8ad1a99b2511bd13d"
+      },
+      "namespace": "975d251af0384c88a898a996bda4881d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sugar",
+      "asset_id": "Sugar",
+      "build_version": "BC2_Update55.1+490872c",
+      "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "19927295d6e3467887d4e830d8c85963",
+      "asset_id": "19927295d6e3467887d4e830d8c85963",
+      "build_version": "Win_202306231055",
+      "catalog_item_id": "9f5250193e914b849201a40d21b30939",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9d2f484bbec64aa8ad234b3199dcaf1c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2c3dd568cada4c229753f550a44dcf2b",
+      "asset_id": "2c3dd568cada4c229753f550a44dcf2b",
+      "build_version": "1.01",
+      "catalog_item_id": "ba2934e0e75a4f9193cac4107d5ea904",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "573b2b742fa04eda83ea73cb17d7abc0",
+      "asset_id": "573b2b742fa04eda83ea73cb17d7abc0",
+      "build_version": "TBC_DRM_1.6.18",
+      "catalog_item_id": "8b82a5255a63451aade45964ccb040f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "86ae9acccf8443e18fca6950e0181288",
+      "asset_id": "86ae9acccf8443e18fca6950e0181288",
+      "build_version": "1.8.0",
+      "catalog_item_id": "101391ece6024e069a7cb8cf22104399",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "a2dcbb9e34204bda9da8415f97b3f4ea",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "73c56a1f38a548b2852ce8608c5e436e",
+      "asset_id": "73c56a1f38a548b2852ce8608c5e436e",
+      "build_version": "1.0.0.11",
+      "catalog_item_id": "60a9e2610ec141e29e3e2f97f1140958",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "20952002cb3b4e45bf4b6fae804f4524"
+      },
+      "namespace": "a3dd9f3da8ec49c7b25dec42cce2ec46",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "asset_id": "2d9d7555ccdd4ceaa1b60e501ba0bacd",
+      "build_version": "1712160892",
+      "catalog_item_id": "d74fb2e8ae09432db115612e1bde5655",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a567c32599bf4d4fb609e424f3691b39",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Barracuda",
+      "asset_id": "Barracuda",
+      "build_version": "1.00",
+      "catalog_item_id": "7592111dd8664fb6aef9a738d71c3c67",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4fec3df59df9406c9a243d40fbd7bdfb",
+      "asset_id": "4fec3df59df9406c9a243d40fbd7bdfb",
+      "build_version": "1.0.3",
+      "catalog_item_id": "3fde4f4763284f4b9917f9291fdae7ac",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "685efdfa4bf34ae1be3751c722a70548"
+      },
+      "namespace": "a64d4c5460384218b17de5bd785085f8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "098b530746fa4cfb8b11484bfdc18a2d",
+      "asset_id": "098b530746fa4cfb8b11484bfdc18a2d",
+      "build_version": "1.0.2",
+      "catalog_item_id": "7a2b089a248942b6814674c0cb531571",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "685efdfa4bf34ae1be3751c722a70548"
+      },
+      "namespace": "a64d4c5460384218b17de5bd785085f8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5d31a6c96b204613b17d690ca88cf9f9",
+      "asset_id": "5d31a6c96b204613b17d690ca88cf9f9",
+      "build_version": "1.0.6",
+      "catalog_item_id": "df0a30f86b43424696e7c1a50c69be6d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "685efdfa4bf34ae1be3751c722a70548"
+      },
+      "namespace": "a64d4c5460384218b17de5bd785085f8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bf4808b3395b43fb80afbe6773e1661f",
+      "asset_id": "bf4808b3395b43fb80afbe6773e1661f",
+      "build_version": "1.200.001",
+      "catalog_item_id": "d712d3b11cab4347b327b65baa4ebb95",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a7e2a2c51b9149c097b771926ed91877",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "dc29cb42f32e4a17af1d68c715fa459c",
+      "asset_id": "dc29cb42f32e4a17af1d68c715fa459c",
+      "build_version": "1.0.0",
+      "catalog_item_id": "3da91f07608342b383374304197c742d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "84219f3072324babaf6b5cf32c92ca17"
+      },
+      "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "007ff8f4e30845a687e66aa77eb3e965",
+      "asset_id": "007ff8f4e30845a687e66aa77eb3e965",
+      "build_version": "CL642509-A",
+      "catalog_item_id": "d0083c0713b140709d92ac02b179cbf2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a93cd6111251461c953776a0c4ea4d80",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Chives",
+      "asset_id": "Chives",
+      "build_version": "2.00.5",
+      "catalog_item_id": "627e807166bf409c8a4a70639a6fe448",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "aa5ef9d2f8394731a034504c562e292c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "85efb11aaeec4239989113f9a598b372",
+      "asset_id": "85efb11aaeec4239989113f9a598b372",
+      "build_version": "Runbow_1.7",
+      "catalog_item_id": "7c288902f9ec455c8816a3111fc3a530",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9e895c583363455586651ed282a0f1a7"
+      },
+      "namespace": "aa7c3e6b5a2a4ca8962270c15bddb861",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "74034e8449f2470d9f45115f3a49f9aa",
+      "asset_id": "74034e8449f2470d9f45115f3a49f9aa",
+      "build_version": "1.3",
+      "catalog_item_id": "87e1c4c8fcbd47fba99e57a8b52defca",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "aae22da1fb884fa395b25bc30dd61faf",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7d5ec41fb5ae49c5beca9360034fd57e",
+      "asset_id": "7d5ec41fb5ae49c5beca9360034fd57e",
+      "build_version": "2.08.1",
+      "catalog_item_id": "3f97c40f183e4673ab85579ef1c3a797",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a9760eb5e8794c55bbcff318b6fef4fe"
+      },
+      "namespace": "ab29925a0a9a49598adba45d108ceb3e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fec1a1199e624a79b6293cef4e1d3505",
+      "asset_id": "fec1a1199e624a79b6293cef4e1d3505",
+      "build_version": "1.5.04_win_live",
+      "catalog_item_id": "bf81790c99634630b7389c5d261f3a11",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "52ce2abbb627464dae82a01e0ec5d5f6",
+        "update_type": "PATCH"
+      },
+      "namespace": "ab9f1f7354a8418388b43132d420524a",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "4aff63ad39cb4fe7a61720d59a4cebc6",
+      "asset_id": "4aff63ad39cb4fe7a61720d59a4cebc6",
+      "build_version": "2.3.420",
+      "catalog_item_id": "fe90738ef51c4da39fb9efc8720b6a5a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b913b292bfb34c45815298f912f25b2d"
+      },
+      "namespace": "ac98aa34584648f2b71152e509191c1c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Goldfish",
+      "asset_id": "Goldfish",
+      "build_version": "0.9.91",
+      "catalog_item_id": "95f1a18780fe4fcb89013cd71753c6ee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ad876f7812c946f6a362bf821b971b48",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Finch",
+      "asset_id": "Finch",
+      "build_version": "537162-2024_01_30_21h15m50s",
+      "catalog_item_id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "3223ccf6ac9b4189bd4e144c047d33fb",
+      "asset_id": "3223ccf6ac9b4189bd4e144c047d33fb",
+      "build_version": "NOVERSION-2022_10_20_16h30m51s",
+      "catalog_item_id": "cfebb3c4f1d84ded8d7cda5350d1f8b8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Angelonia",
+      "asset_id": "Angelonia",
+      "build_version": "1.0",
+      "catalog_item_id": "a5d920b94c1d41a182db6258dc5eea5b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "angelonia",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Pigeon",
+      "asset_id": "Pigeon",
+      "build_version": "1.3",
+      "catalog_item_id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b04882669b2e495e9f747c8560488c93",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8769e24080ea413b8ebca3f1b8c50951",
+      "asset_id": "8769e24080ea413b8ebca3f1b8c50951",
+      "build_version": "1.0.889.19",
+      "catalog_item_id": "122e5e90b7b8424d930be8bc1a7e05fb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "39a0313492c84cf79b119efb09df90e5",
+      "asset_id": "39a0313492c84cf79b119efb09df90e5",
+      "build_version": "1.2.1p",
+      "catalog_item_id": "c2b013f0500a4fa79e09c6d4a35fc76b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b258cb25f6cc4031914256c2d42b2188",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0c6db5941ac8420aabbd8510e94e7d9a",
+      "asset_id": "0c6db5941ac8420aabbd8510e94e7d9a",
+      "build_version": "Build_20250526.0",
+      "catalog_item_id": "685032f3d8c74de5bcf123558c8f6b16",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b2818b59c0bb420e9647983dfd254931",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Towhee",
+      "asset_id": "Towhee",
+      "build_version": "2.7.11-6980-90471d26-win",
+      "catalog_item_id": "de47a99c56b04b3aa8bd7813089a3c77",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Hornbill",
+      "asset_id": "Hornbill",
+      "build_version": "Win_202301311530",
+      "catalog_item_id": "fc308a39a7bf4a92b378af93f81dcdd2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b4e95103463b491ab34b29e616404325",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Salt",
+      "asset_id": "Salt",
+      "build_version": "1.4.0.0-Windows",
+      "catalog_item_id": "38c07a09dc174b69b756aa51890c3dd4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5cd54ad0ead447738bd9552b3d2a105b",
+      "asset_id": "5cd54ad0ead447738bd9552b3d2a105b",
+      "build_version": "4.2.ee16.rls.win",
+      "catalog_item_id": "fdd74180985e480799398d63540dc275",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b6aa6a98bb394a53870bd6b026fefd1d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "eade4f48ab15402aa33eed935d32c2ab",
+      "asset_id": "eade4f48ab15402aa33eed935d32c2ab",
+      "build_version": "1.0-T1512.U806-windows-NoSteam_NoTools-E31",
+      "catalog_item_id": "43778783bbbc4b56a3bc8f32d23fd1ee",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b6faa05b8b594ec39944ff71dbdfdfc1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ef50503adc284a8ba65d4dea1ecce91a",
+      "asset_id": "ef50503adc284a8ba65d4dea1ecce91a",
+      "build_version": "1.0.25523",
+      "catalog_item_id": "e35269408cce4631ba6a69b6a2e4d1a0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "71412b7a56014eb5adbfa29a97097fba"
+      },
+      "namespace": "b79b8b81ba8c4bf9b4b1154670237131",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c98c4cd6d83a4524b4b22f13af95a104",
+      "asset_id": "c98c4cd6d83a4524b4b22f13af95a104",
+      "build_version": "v4.3.2-150625-hf1",
+      "catalog_item_id": "1953c554c23a4af1b2f63b3a67f322aa",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "24349b736ad74d9db72e6cab21933877",
+      "asset_id": "24349b736ad74d9db72e6cab21933877",
+      "build_version": "v4.3.2-150625-hf1",
+      "catalog_item_id": "6ebfa3f0c7a3467d93fe33401d3514e0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "d36336f190094951873ed6138ac208d8",
+      "asset_id": "d36336f190094951873ed6138ac208d8",
+      "build_version": "6770",
+      "catalog_item_id": "c80a76de890145edbe0d41679dbccc66",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "b7b42e2078524ab386a8b2a9856ef557",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9a1aae61129247fb971ce96ab6a959da",
+      "asset_id": "9a1aae61129247fb971ce96ab6a959da",
+      "build_version": "S02_Release_V002_CL16694",
+      "catalog_item_id": "24955da6dc4240d9a1f206aceff2691d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "908f75e7f1624819a70c27f543741dcd",
+      "asset_id": "908f75e7f1624819a70c27f543741dcd",
+      "build_version": "1.4",
+      "catalog_item_id": "025bf6c6f8f54e9ba1853e2a81dfd896",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "130285de16cc429abc603eaf95b8787b",
+      "asset_id": "130285de16cc429abc603eaf95b8787b",
+      "build_version": "1.6.02",
+      "catalog_item_id": "0b9d733bfd0f4e0396b6fed8878ded7f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d4d31e492ea24c0fbcc239c0bb29aed8",
+      "asset_id": "d4d31e492ea24c0fbcc239c0bb29aed8",
+      "build_version": "614800",
+      "catalog_item_id": "b3303e3e422448b8bbcee71138f63a01",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "afe24cb6adc0420c9bfbbec773e4cdf7",
+        "update_type": "PATCH"
+      },
+      "namespace": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Grouse",
+      "asset_id": "Grouse",
+      "build_version": "1.02",
+      "catalog_item_id": "75e740783b2f496ab7f6f8ecf546c702",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ba3149b6d7a7488ab5cc674154458757",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Kakopo",
+      "asset_id": "Kakopo",
+      "build_version": "JC4_2226912_1830540",
+      "catalog_item_id": "11fa5d6106524a3fa600b111ac243f58",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "845c87d11254483991120dc2d952122a"
+      },
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Badger",
+      "asset_id": "Badger",
+      "build_version": "1.1.1",
+      "catalog_item_id": "444c93af141145b3a362e1a0a02f81ce",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "badger",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Basil",
+      "asset_id": "Basil",
+      "build_version": "1.0.1",
+      "catalog_item_id": "26734c6c01984fd882d72a18e81df681",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "basil",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Dill",
+      "asset_id": "Dill",
+      "build_version": "1.50627.2019-06-10-16:14:59-x64",
+      "catalog_item_id": "6ab3fccba1b045a6b77eebefb5b65fc4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4b920bb4aebf4586a4f6d823817fe32d",
+      "asset_id": "4b920bb4aebf4586a4f6d823817fe32d",
+      "build_version": "1.0",
+      "catalog_item_id": "358264a79a7f4723b8226cc8fae4c0a7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bd12fd574df14846ad24703ca7b1a12b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ca02598c9a5c4d5491d6431ce8e8d6e7",
+      "asset_id": "ca02598c9a5c4d5491d6431ce8e8d6e7",
+      "build_version": "250491+4716",
+      "catalog_item_id": "2ebf02003ebc4df0b8b0034e9df0aac4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Peppermint",
+      "asset_id": "Peppermint",
+      "build_version": "261740+4859",
+      "catalog_item_id": "4c4a6c0767304c9d830f3f36f2b29018",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0e70be0cea0446599acb4c26d2e925f9",
+      "asset_id": "0e70be0cea0446599acb4c26d2e925f9",
+      "build_version": "2.1.6-20231123_1713",
+      "catalog_item_id": "154f624fa2b040c4a5821386060d4632",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c40d8cbf50fb4d978339b8bd59f6cdd7"
+      },
+      "namespace": "bd75186521ab40b5840774b78bb287e3",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "23cbdd44de914e9caec216acefc51f9b",
+      "asset_id": "23cbdd44de914e9caec216acefc51f9b",
+      "build_version": "1.0.3-RC1",
+      "catalog_item_id": "ef9ca65efc4f4598921cf13b5e442409",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4b2990a005c445a7b622e7362b47fc57",
+        "update_type": "PATCH"
+      },
+      "namespace": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+      "sidecar_rev": 1
+    },
+    {
+      "app_name": "Garlic",
+      "asset_id": "Garlic",
+      "build_version": "2.1.9a",
+      "catalog_item_id": "25b771db01554b1bb40c5617b663d17e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "266d978cc221471787b597695cbb9a75",
+      "asset_id": "266d978cc221471787b597695cbb9a75",
+      "build_version": "1.03",
+      "catalog_item_id": "486ec10ab5724642a1d6f5525f2b5df6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "be67e141378446cf9399b3db1a22ceb3",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b2e00fc16632475782a7730d1bd7cb60",
+      "asset_id": "b2e00fc16632475782a7730d1bd7cb60",
+      "build_version": "0.0.10",
+      "catalog_item_id": "5729e4a7132e4e078cec459b281dae8e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "be886d9db65047a89b24cd4317695f18",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Eagle",
+      "asset_id": "Eagle",
+      "build_version": "1.14.38",
+      "catalog_item_id": "4255c34fbbb746ca8a982f1245c0e490",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6e6c253ab802451bb10011f98ef7484f"
+      },
+      "namespace": "bec822fb982843c3be794d440728336b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "bf35243e8c3542e082bc7042e0592183",
+      "asset_id": "bf35243e8c3542e082bc7042e0592183",
+      "build_version": "1260-win",
+      "catalog_item_id": "9f38657365ca4f309d08d0cafae6a453",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "cb28095340aa4bb8ace6f42c9a6e5f13",
+      "asset_id": "cb28095340aa4bb8ace6f42c9a6e5f13",
+      "build_version": "1.3.2",
+      "catalog_item_id": "565d6ab483f14997b7ab4b4213c84c96",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c93a6634f9224ccfba863a0d9ccddde8"
+      },
+      "namespace": "c20d98862be8473b896df438004868c5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ec997512b77d4dd5baf30ab5c2f8e8c9",
+      "asset_id": "ec997512b77d4dd5baf30ab5c2f8e8c9",
+      "build_version": "1540115-win",
+      "catalog_item_id": "1cf58977868c4c88a8febefa0804344d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "93ac5fea37774ac6ad06bccbbe3cb470"
+      },
+      "namespace": "c2594740866d4be69d38fcf08ef0176d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "75c4c59461b946028448dd1bf17b64c6",
+      "asset_id": "75c4c59461b946028448dd1bf17b64c6",
+      "build_version": "193-win-epic-resource_archiver",
+      "catalog_item_id": "33f4d1cce8d047f0817d3176e0b97bf8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c2594740866d4be69d38fcf08ef0176d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5d69d0ab27814455ae0ddce0fcfbb86a",
+      "asset_id": "5d69d0ab27814455ae0ddce0fcfbb86a",
+      "build_version": "494-win-epic-editor",
+      "catalog_item_id": "8024ad1154764006921df5f1d8acc217",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c2594740866d4be69d38fcf08ef0176d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e7c0a262d0eb4d2cbc140c441be8cbac",
+      "asset_id": "e7c0a262d0eb4d2cbc140c441be8cbac",
+      "build_version": "2.2.0-cs57555",
+      "catalog_item_id": "d99aa0f183854533a7a5bad71b18558d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "c2890856ddb844f1a7d552fc929838a7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "348930511a4b4694b1c6bfb5f9f76ae0",
+      "asset_id": "348930511a4b4694b1c6bfb5f9f76ae0",
+      "build_version": "1.0.2",
+      "catalog_item_id": "3af18737a3da47dba131efb9767262b1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3a99d85accc24b098a9ee52b573baf6c"
+      },
+      "namespace": "c2e18b972be9485bbc408c021e620cff",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "09c5bee2ad8940d7b923314b60ec8265",
+      "asset_id": "09c5bee2ad8940d7b923314b60ec8265",
+      "build_version": "1.0.1",
+      "catalog_item_id": "8d66515f2aa543b5827ba3a1237aa6be",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3a99d85accc24b098a9ee52b573baf6c"
+      },
+      "namespace": "c2e18b972be9485bbc408c021e620cff",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "909591bfde364a0da9e121df661c8484",
+      "asset_id": "909591bfde364a0da9e121df661c8484",
+      "build_version": "1.0.2",
+      "catalog_item_id": "ddad9ba17bb7486daa46703af4e44076",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3a99d85accc24b098a9ee52b573baf6c"
+      },
+      "namespace": "c2e18b972be9485bbc408c021e620cff",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "eb6ddfb245f647e2bb6902f52f38a535",
+      "asset_id": "eb6ddfb245f647e2bb6902f52f38a535",
+      "build_version": "1.0.8_CL_3059852_Wonderlands",
+      "catalog_item_id": "4742cc98b91541499570c72f3825b893",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a9999cf992d74279b410a0ac9608e153",
+      "asset_id": "a9999cf992d74279b410a0ac9608e153",
+      "build_version": "0.9.6.1.1",
+      "catalog_item_id": "cf7b858799184d94a2920426e728b2ed",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "48619f5656da446abccb727b78cda644",
+      "asset_id": "48619f5656da446abccb727b78cda644",
+      "build_version": "Win64_1",
+      "catalog_item_id": "365689c028b042b680778253724aea2a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c50f4a5c796e4abdbf8025cfbf5cff21",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e66fd21c59f94eda81a19abee9b262e7",
+      "asset_id": "e66fd21c59f94eda81a19abee9b262e7",
+      "build_version": "1.2.10",
+      "catalog_item_id": "f1cc92f259bf43aba96781b44f79ad28",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cd2b4dfc3b984b0d95b2568d149485e5"
+      },
+      "namespace": "c5d6c13e13ae4e4581e9068d8a75eadb",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Speedwell",
+      "asset_id": "Speedwell",
+      "build_version": "0.1.0.0",
+      "catalog_item_id": "7147920c1dcd4c82915c2d48a409a26d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c5e786eddfd041caa9984213e3f9621d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "82a78a4dd6ef4eaa892707791b705073",
+      "asset_id": "82a78a4dd6ef4eaa892707791b705073",
+      "build_version": "1",
+      "catalog_item_id": "ea57c7d9cf304100bf677d18be2fe8e2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c660f57e1a164930a7196f1fd27ae45a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "051eaac0842c46d7a5a62858ad534d5a",
+      "asset_id": "051eaac0842c46d7a5a62858ad534d5a",
+      "build_version": "1.4",
+      "catalog_item_id": "18d3c0e34d85461e90474b3a69afea1e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "22e5d216e0e649f497be38fac472d939"
+      },
+      "namespace": "c986e75258a146fba03a920dba852ca9",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Albacore",
+      "asset_id": "Albacore",
+      "build_version": "1.54",
+      "catalog_item_id": "1a34c013d44e4d00b638dae75c8fed07",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+      "asset_id": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+      "build_version": "1.12.5.17.win64.full",
+      "catalog_item_id": "84686da593b24598803ffbe7f9b1bb5e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "afde0bacb3264a98abd947e25dd04266"
+      },
+      "namespace": "ca0530b485754032be50cb6f27be0c2c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0eeaae41305043f7a465310eb2cbaff9",
+      "asset_id": "0eeaae41305043f7a465310eb2cbaff9",
+      "build_version": "1.0.5",
+      "catalog_item_id": "3ac2d869235f4a2bb93090b95c1dc1c3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3c0639a247754caf8465f820ccd7d8df"
+      },
+      "namespace": "ca05bd340e84436ebea4a0c0ca55befa",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Eel",
+      "asset_id": "Eel",
+      "build_version": "1.9.6-404-504czj3",
+      "catalog_item_id": "8f328dced20e41d29b6f1fceed8f2164",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1109cfa9eb9940ed9020f171e78fc150"
+      },
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d6264d56f5ba434e91d4b0a0b056c83a",
+      "asset_id": "d6264d56f5ba434e91d4b0a0b056c83a",
+      "build_version": "TRAS_15112021_838.0_1224060,275025(132814434654404397)",
+      "catalog_item_id": "ff45e0eabd0c48d6950e369c79c26823",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "caca23a0954f4c1aba1fdd7e277b81e2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8a0173bbe3ac48ac903f5bc7277e7b4e",
+      "asset_id": "8a0173bbe3ac48ac903f5bc7277e7b4e",
+      "build_version": "1.2.4",
+      "catalog_item_id": "3297b71137cf46e0ac5ad35683787eb6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f1429473120944889430a093e8d212a5"
+      },
+      "namespace": "caf357c955344eaeaaaddb3c8357dbdf",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "3da74e4fa1d94eceb950774f76dbfcea",
+      "asset_id": "3da74e4fa1d94eceb950774f76dbfcea",
+      "build_version": "01.12.00_AWE_ENT",
+      "catalog_item_id": "48832223fb834bc5bba847c115691ce2",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3606edd6f53040ebb5965290701778c3"
+      },
+      "namespace": "calluna",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "737e55c2736c43a6b93c9c769e04e112",
+      "asset_id": "737e55c2736c43a6b93c9c769e04e112",
+      "build_version": "01.08.00",
+      "catalog_item_id": "6dc148f7be5c4b2580b987984a3520b5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3606edd6f53040ebb5965290701778c3"
+      },
+      "namespace": "calluna",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Calluna",
+      "asset_id": "Calluna",
+      "build_version": "1.33",
+      "catalog_item_id": "9afb582e90b74bdd9e2146fb79c78589",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3606edd6f53040ebb5965290701778c3"
+      },
+      "namespace": "calluna",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Catnip",
+      "asset_id": "Catnip",
+      "build_version": "1.0.26_CL_3758051_Borderlands_3",
+      "catalog_item_id": "5cf86732e2744fec98a1c8a077d9f3a8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4038efbb2b6d4f43b191cd1782f53076"
+      },
+      "namespace": "catnip",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Grackle",
+      "asset_id": "Grackle",
+      "build_version": "1.6",
+      "catalog_item_id": "c916885297ea4c20a94deb698536bd4a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cb23c857ec0d42d89b4be34d11302959",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletRiseAndFall",
+      "asset_id": "KingletRiseAndFall",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletRiseAndFall",
+      "catalog_item_id": "279c2ab64eb54a8d812b0c78198a382c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletPoland",
+      "asset_id": "KingletPoland",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletPoland",
+      "catalog_item_id": "2b2d819381174b5b8f0d51ff3fab34a5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Kinglet",
+      "asset_id": "Kinglet",
+      "build_version": "1.0.12.951533_nebraska_launcher_removal_Kinglet",
+      "catalog_item_id": "42ac1ee840304cb1807172a9b47dc8e3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletGatheringStorm",
+      "asset_id": "KingletGatheringStorm",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletGatheringStorm",
+      "catalog_item_id": "4736907992b24277b6444f7ad46cba6b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletNubia",
+      "asset_id": "KingletNubia",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletNubia",
+      "catalog_item_id": "5ee819c6403f417b8cc763c0b72e2c45",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletPersiaMacedon",
+      "asset_id": "KingletPersiaMacedon",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletPersiaMacedon",
+      "catalog_item_id": "6efd99a68c87411593bdde83dc559230",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletAustralia",
+      "asset_id": "KingletAustralia",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletAustralia",
+      "catalog_item_id": "95f0590433f54febbb3ca6355dedc070",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletKhmerIndonesia",
+      "asset_id": "KingletKhmerIndonesia",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletKhmerIndonesia",
+      "catalog_item_id": "c107772e143246a3bca7b2a77f4b2d92",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletAztec",
+      "asset_id": "KingletAztec",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletAztec",
+      "catalog_item_id": "cd9e44a9d1b14b8d84923bb985bc1636",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "KingletVikingsScenario",
+      "asset_id": "KingletVikingsScenario",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletVikingsScenario",
+      "catalog_item_id": "f8fd3d710f494c9db50cb6fc35159ab0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Herring",
+      "asset_id": "Herring",
+      "build_version": "1.0",
+      "catalog_item_id": "bba1b26cf8d74559a18416a33c6688ec",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cd88d9edc5a748cfa138e467205adcac",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "819985835fd54090845e3083e28b77bb",
+      "asset_id": "819985835fd54090845e3083e28b77bb",
+      "build_version": "1.2.12950-64Bit",
+      "catalog_item_id": "a1693e20072743c1b5e5e58a56412412",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ce8393adfbf342ceab0a36479ffbc627",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f65978f976a944bcac6a51c5ba0afbec",
+      "asset_id": "f65978f976a944bcac6a51c5ba0afbec",
+      "build_version": "CL_2021_03_12_14_37",
+      "catalog_item_id": "0fbe799e913f454c91a294b47f08c68f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ce9774c9678a4377befaa8fdfc8ef71b",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5e37739a766b4457981d2992f93ac72c",
+      "asset_id": "5e37739a766b4457981d2992f93ac72c",
+      "build_version": "1.03",
+      "catalog_item_id": "022a57293bf040cb9ad97b84861b8846",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "81f7a0617d8b4f508881640e0c41c74e"
+      },
+      "namespace": "cecc5a53aa534e15881fdbd67a1e83b7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Clary",
+      "asset_id": "Clary",
+      "build_version": "1.5.4",
+      "catalog_item_id": "40f78806d35b40baaaa93b83f13daca9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "clary",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Columbine",
+      "asset_id": "Columbine",
+      "build_version": "International_RETAIL_20230908_",
+      "catalog_item_id": "6d2dcb9ed0bd42dea4b2f23cc43ba92f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "columbine",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Terragon",
+      "asset_id": "Terragon",
+      "build_version": "1.15",
+      "catalog_item_id": "8c0bd96a32fb4e1e8955a62a414c84d5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Mint",
+      "asset_id": "Mint",
+      "build_version": "retail10",
+      "catalog_item_id": "d10b9206b14c438e982582ae919775dc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Violetear",
+      "asset_id": "Violetear",
+      "build_version": "1",
+      "catalog_item_id": "00071b7175d04d1d88975d3901002dfc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "daac7fe46e3647cb80530411d7ec1dc5",
+      "asset_id": "daac7fe46e3647cb80530411d7ec1dc5",
+      "build_version": "3.0.05.64nodll",
+      "catalog_item_id": "11b5d7e72d614d928fd2cd3ba656a816",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d16f231f238646e881bb0cd83e1d30c8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "57ad8e72d9a446dea9ef5cac2770a0b8",
+      "asset_id": "57ad8e72d9a446dea9ef5cac2770a0b8",
+      "build_version": "1_0_2",
+      "catalog_item_id": "e5c0d43b05a0405b802234841da67fd1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "807d994c500149a6a9e428a56ac4cd67"
+      },
+      "namespace": "d1a3ff292b2f4ee289a83d7a91ae3458",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "6ffe878bb1ce490ba6d3a359a1f88df2",
+      "asset_id": "6ffe878bb1ce490ba6d3a359a1f88df2",
+      "build_version": "1.5-cbf526615d",
+      "catalog_item_id": "a41a8ab340924001b662078d1fb79273",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sunbird",
+      "asset_id": "Sunbird",
+      "build_version": "Win_2024-04-25_12-21-21",
+      "catalog_item_id": "619e04f4d42c4b65b37d17ea3310f218",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2cd446792405468e9e87f67649d864c2",
+      "asset_id": "2cd446792405468e9e87f67649d864c2",
+      "build_version": "131544",
+      "catalog_item_id": "0085fd876db94b0cbf2b3ac46c2db99d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d66c34349a054c3ea529726a5687520e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Ovenbird",
+      "asset_id": "Ovenbird",
+      "build_version": "1.5_Fuglesang.1011166-Windows",
+      "catalog_item_id": "20729b9176c241f0b617c5723e70ec2d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d759128018124dcabb1fbee9bb28e178",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "dd75b5c168d546cc869582c0389f0a1d",
+      "asset_id": "dd75b5c168d546cc869582c0389f0a1d",
+      "build_version": "1.0.182",
+      "catalog_item_id": "384c9e7b83f0428ebe20571d0fcd272c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c85f8e63852c4043b92e2496de5701de"
+      },
+      "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Flounder",
+      "asset_id": "Flounder",
+      "build_version": "R01_S01_E05_V007_CL16693",
+      "catalog_item_id": "8b349f0ac14b4adcada58adea62bddf7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a7594e61a4f24e6d9495ea959749598e",
+      "asset_id": "a7594e61a4f24e6d9495ea959749598e",
+      "build_version": "1.59.25",
+      "catalog_item_id": "d173657a4a504d9eb5a10c53c4626f29",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b69f60f382a243f3aa2754eb5208c70a"
+      },
+      "namespace": "d923c737f0d243ccab407605ea40d39e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "11ba63f98ce94a38b631104a12c7adab",
+      "asset_id": "11ba63f98ce94a38b631104a12c7adab",
+      "build_version": "Win_2025-02-23_16-08-03",
+      "catalog_item_id": "e34731008ad54f77927bd837e5547a40",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0f2b96fc88994beb9a27d4110a04175b"
+      },
+      "namespace": "d93cf08971eb4920862a95870a051f81",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "cb3bf7ba89574a66ae3b795e039d4dbc",
+      "asset_id": "cb3bf7ba89574a66ae3b795e039d4dbc",
+      "build_version": "0.0.0.6415",
+      "catalog_item_id": "d5726dbbf0e44081bb2b439b1d0dfca0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "dc61166eea95474e912953b163791d42",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "272d51db75be476f9ad60c0e7fc24470",
+      "asset_id": "272d51db75be476f9ad60c0e7fc24470",
+      "build_version": "1.0.0",
+      "catalog_item_id": "16f4b42cedc44c52b3c62b28e7b69bfb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "dcbacb85c17e4d39b885d0ba252dc8a7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "7a2c2b2504844b2c9c96bc08a12da647",
+      "asset_id": "7a2c2b2504844b2c9c96bc08a12da647",
+      "build_version": "1.025",
+      "catalog_item_id": "2572debc5cbc4debab7aa3c3693e56c3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b359f43138f14cd08f312a78fb5b1b9e"
+      },
+      "namespace": "dd9648d29088406e9e2a61ba33fc13f6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8935bb3e1420443a9789fe01758039a5",
+      "asset_id": "8935bb3e1420443a9789fe01758039a5",
+      "build_version": "1.0RC5.284847.51533",
+      "catalog_item_id": "4106b71233fa4b4ba3b04c818fce91d4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f9d0315da5344a59b0c5569154344257"
+      },
+      "namespace": "df37f065c3f14eadbf011177396e2966",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "4c30fe9841264abfb120b581d061a8fd",
+      "asset_id": "4c30fe9841264abfb120b581d061a8fd",
+      "build_version": "sub0624-20220216-1.03g",
+      "catalog_item_id": "e4a02e75905d4d0c982bff50524339ae",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a2e64a16ca3d4fec9ebae46c331333ce"
+      },
+      "namespace": "e1e92771f6774072bb1b8d0a0a6197f7",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8b556e7471ac46eda46445d93fa2e73f",
+      "asset_id": "8b556e7471ac46eda46445d93fa2e73f",
+      "build_version": "2.0.7.3",
+      "catalog_item_id": "0f2cff71f385472bb082829eeef2973b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "762b653d46fa41b98aceba61cb3702ed"
+      },
+      "namespace": "e25eba2210804006a61763a4108322de",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "002b00085aeb49b1a3f3c42e3f918f2f",
+      "asset_id": "002b00085aeb49b1a3f3c42e3f918f2f",
+      "build_version": "1.4.3.5",
+      "catalog_item_id": "6b06cffad08e4f47a8200e06e7fe6101",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7dc3f333f4e34389ac4c2e2fadf7a2e3"
+      },
+      "namespace": "e33138cc2b964d38a42a812b83b6507e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ee41ac4954314d18b18b8e7789c4e4eb",
+      "asset_id": "ee41ac4954314d18b18b8e7789c4e4eb",
+      "build_version": "tls_windows_master_standalone_691",
+      "catalog_item_id": "5d4ff21331934631ab5ddf55d5fafb6d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "38c0129b680e4843b4807b98bad67027",
+      "asset_id": "38c0129b680e4843b4807b98bad67027",
+      "build_version": "0.58080_Windows",
+      "catalog_item_id": "799b21a13e764a8488444b4ada9202b7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "a579a08e71b341e6af106dbd170e2ab2",
+      "asset_id": "a579a08e71b341e6af106dbd170e2ab2",
+      "build_version": "1.0.0-137001-1",
+      "catalog_item_id": "a7f9dc66de224b93af0189853f304956",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "03b7b25a77024cc0adf44777f791ffc4",
+      "asset_id": "03b7b25a77024cc0adf44777f791ffc4",
+      "build_version": "3.3.0156.8",
+      "catalog_item_id": "6edaf97cd546441281d04a185a529524",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e5decf71f325458b92653616ee98682a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Cowbird",
+      "asset_id": "Cowbird",
+      "build_version": "1.999",
+      "catalog_item_id": "281504e8e6e44b5dab3a072f9ee21c21",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Snapper",
+      "asset_id": "Snapper",
+      "build_version": "272",
+      "catalog_item_id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "51617d3aae5144018b8d44e0f5ae9b54"
+      },
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "49550aa9fcd74552ae07c4e9f2c262fe",
+      "asset_id": "49550aa9fcd74552ae07c4e9f2c262fe",
+      "build_version": "1.0.0.930468",
+      "catalog_item_id": "c7397d2fcea94f0babca92475f52bbe3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ea73c08ac633414584e281f838b3a78c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "808f0dfbf3b84c2680793724d7f207bf",
+      "asset_id": "808f0dfbf3b84c2680793724d7f207bf",
+      "build_version": "1.9.91_54131_Win64_Live",
+      "catalog_item_id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Jasper",
+      "asset_id": "Jasper",
+      "build_version": "1.0",
+      "catalog_item_id": "6dc445f656de4e029834b2d32b6a2f77",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "e2e0a0f1e746426f9d8c2f2d1f697351",
+      "asset_id": "e2e0a0f1e746426f9d8c2f2d1f697351",
+      "build_version": "2024-09-23-v17",
+      "catalog_item_id": "bc4e8f6978c640c6908fb0cc7710a693",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a4ebdb1b615c4c538677d723d90f5372"
+      },
+      "namespace": "ee8802651a004c48999169fa32eb4903",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "281a47e363284108b82bf05c1a612145",
+      "asset_id": "281a47e363284108b82bf05c1a612145",
+      "build_version": "3.2.5.13",
+      "catalog_item_id": "df38ad3ac22e45c98182b6830730aedf",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f01b3e0178d448f0b93911e292d8e614",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Dodo",
+      "asset_id": "Dodo",
+      "build_version": "2.0.2_BN347_CL2863302",
+      "catalog_item_id": "445a01ff01344692a69a092595849f03",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0a923f47a17f4303b52c4560364c408a"
+      },
+      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f8bf1e29bbef480a9b28115ad0d644a0",
+      "asset_id": "f8bf1e29bbef480a9b28115ad0d644a0",
+      "build_version": "1.02",
+      "catalog_item_id": "01ced6494f3046e48b9bbb7d2874b703",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2258a0a1cdeb4cda8a74e554db812714"
+      },
+      "namespace": "f4a904fcef2447439c35c4e6457f3027",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "c311b22f878749449886949eeb588999",
+      "asset_id": "c311b22f878749449886949eeb588999",
+      "build_version": "1.01",
+      "catalog_item_id": "0a19424d974643f6ae6227a3ed66af2b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2258a0a1cdeb4cda8a74e554db812714"
+      },
+      "namespace": "f4a904fcef2447439c35c4e6457f3027",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "5bf67f3153364181b54cb9e40ca7fa82",
+      "asset_id": "5bf67f3153364181b54cb9e40ca7fa82",
+      "build_version": "1.01",
+      "catalog_item_id": "678578f8abe84265b0d5f81c1997c6da",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2258a0a1cdeb4cda8a74e554db812714"
+      },
+      "namespace": "f4a904fcef2447439c35c4e6457f3027",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Boga",
+      "asset_id": "Boga",
+      "build_version": "2742586.206.1",
+      "catalog_item_id": "761fe09295aa422e8199cebaacf51675",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f4a904fcef2447439c35c4e6457f3027",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "84067e3ec8f149b2bbf2342d7a136065",
+      "asset_id": "84067e3ec8f149b2bbf2342d7a136065",
+      "build_version": "1.02",
+      "catalog_item_id": "c7bad4fcef1e4188b36732ed4bdf8103",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2258a0a1cdeb4cda8a74e554db812714"
+      },
+      "namespace": "f4a904fcef2447439c35c4e6457f3027",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "18161d3ef68e4166968036626d173f25",
+      "asset_id": "18161d3ef68e4166968036626d173f25",
+      "build_version": "5237",
+      "catalog_item_id": "19e3c0be6d6c4d4b84b1bc2248f94b43",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f57987ad149c43b3a7a66a7f10828f92",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Escolar",
+      "asset_id": "Escolar",
+      "build_version": "test11",
+      "catalog_item_id": "cce9b9e0b5934935992139df25efbe1e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "2420b50453144c07b3b847fff941275d",
+      "asset_id": "2420b50453144c07b3b847fff941275d",
+      "build_version": "2.2.11.3212a-Windows",
+      "catalog_item_id": "dd9cc5214b904e5e92c5fe664ff2cf14",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "43982f3335e3495c9502ac4c03731438"
+      },
+      "namespace": "f672c20984f04f69936e6057feefe3d1",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "9b40e3ffb4074f22a856a521be5ce858",
+      "asset_id": "9b40e3ffb4074f22a856a521be5ce858",
+      "build_version": "1.0.7",
+      "catalog_item_id": "3a081bf54f9f477cad66a1f29cdfaa2a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f697ab7aa6af41f880e1489818e2720d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Blowfish",
+      "asset_id": "Blowfish",
+      "build_version": "1.6.12.Windows",
+      "catalog_item_id": "5df92e81bc7340d58e4c19271d28915d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "8e29583ae4b44a21883038668f7e301e",
+      "asset_id": "8e29583ae4b44a21883038668f7e301e",
+      "build_version": "11",
+      "catalog_item_id": "ad66ba38abed4035917aab1b1a3a3607",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f919a1262081444fb28f0fdef68d6b14",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Vulture",
+      "asset_id": "Vulture",
+      "build_version": "0.20.3(Win)",
+      "catalog_item_id": "989914828a72490c864854c579546222",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Duckbill",
+      "asset_id": "Duckbill",
+      "build_version": "1.0.28131",
+      "catalog_item_id": "fda40f57b2004437ae9be46c58aa8660",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Arrowroot",
+      "asset_id": "Arrowroot",
+      "build_version": "1.6.3.0",
+      "catalog_item_id": "3eb3ed8244724e2eb7a69d1e3007856b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "29ee5d32f328471590b3bd3ac03ed7d0",
+      "asset_id": "29ee5d32f328471590b3bd3ac03ed7d0",
+      "build_version": "1.027",
+      "catalog_item_id": "929a84bff8a34d80b490f71550ec782f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Anchovy",
+      "asset_id": "Anchovy",
+      "build_version": "1.00",
+      "catalog_item_id": "dfa11ab71fc74866b9f27f5d944324e0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fc8d1547232045f6a23257cfd04ef3e8",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "18a85afedeac4ea885b27fee3e0c81db",
+      "asset_id": "18a85afedeac4ea885b27fee3e0c81db",
+      "build_version": "0.0.335",
+      "catalog_item_id": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fcd3387b58864614b66952d0430d2b9a",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "d6407c9e6fd54cb492b8c6635480d792",
+      "asset_id": "d6407c9e6fd54cb492b8c6635480d792",
+      "build_version": "1.9_v3_Windows",
+      "catalog_item_id": "018230f620e34503926e5c76525a8fd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f18fc860e6b4419e89147983bf769723",
+      "asset_id": "f18fc860e6b4419e89147983bf769723",
+      "build_version": "CL_57661_Shipping",
+      "catalog_item_id": "867a67edd7b445899dd8f8060b48e0fd",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "db07a2add9c54db7bf903a2035351c9f",
+        "update_type": "MINOR"
+      },
+      "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "ef063f88bc514433ae28420fb9030ca9",
+      "asset_id": "ef063f88bc514433ae28420fb9030ca9",
+      "build_version": "1.3.1",
+      "catalog_item_id": "20c772d4d19b4f48b5a23d3de7c9bf59",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "be3d7b9bd03b45db9ddfe8f5607100e7",
+      "asset_id": "be3d7b9bd03b45db9ddfe8f5607100e7",
+      "build_version": "1.3.1",
+      "catalog_item_id": "9482eed7de7d467baf093acffbe929d1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "50f33ef1102f48c59858d909a309d1ab"
+      },
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "67973d56e6e449de9b22d6c03c8e9dd6",
+      "asset_id": "67973d56e6e449de9b22d6c03c8e9dd6",
+      "build_version": "1.02",
+      "catalog_item_id": "b9f048409ecb427ebffbe35a4363b747",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "50f33ef1102f48c59858d909a309d1ab"
+      },
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "b8e35233bdf2481995b0519f9feeef5f",
+      "asset_id": "b8e35233bdf2481995b0519f9feeef5f",
+      "build_version": "1.01",
+      "catalog_item_id": "ea05f2ff2c6c464ca538d08a83774865",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "50f33ef1102f48c59858d909a309d1ab"
+      },
+      "namespace": "fd990d1478724f3faa938e519c2835a5",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f7a0ebb44f93430fb1c4388a395eba96",
+      "asset_id": "f7a0ebb44f93430fb1c4388a395eba96",
+      "build_version": "11054",
+      "catalog_item_id": "9c7c10e8e1a648f8a9e35f28a1d45900",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ff50f85ed609454e80ac46d9496da34d",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "0055e45ce7654c55aade646467349e83",
+      "asset_id": "0055e45ce7654c55aade646467349e83",
+      "build_version": "14707",
+      "catalog_item_id": "9b106e9bf35d4a7e8cefa750bd26e759",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "54eab76b2fd0442ca9bb01af6e52c332"
+      },
+      "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "f0ac8218ef7d4b5aabec153e3f193db6",
+      "asset_id": "f0ac8218ef7d4b5aabec153e3f193db6",
+      "build_version": "9674",
+      "catalog_item_id": "f261a461e9224e09a4f888e19a3b633b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-37.00-CL-44501951-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Hibiscus",
+      "asset_id": "Hibiscus",
+      "build_version": "4.1.3f10",
+      "catalog_item_id": "a32b4fc85e2440bd9dae0dace76f5c86",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "hibiscus",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Magnolia",
+      "asset_id": "Magnolia",
+      "build_version": "2019_1_23_fix",
+      "catalog_item_id": "a379f050fa3d47e4a0fa696b0ef744d5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "magnolia",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Newt",
+      "asset_id": "Newt",
+      "build_version": "release.15196-7866",
+      "catalog_item_id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "newt",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Petunia",
+      "asset_id": "Petunia",
+      "build_version": "0.1.0.0",
+      "catalog_item_id": "5b2c145a99284d87b0a46ca79ab75b59",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "petunia",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Silene",
+      "asset_id": "Silene",
+      "build_version": "120",
+      "catalog_item_id": "0a73d7f08ccb42c2ac9053ef6e5b61a2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "silene",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Sundrop",
+      "asset_id": "Sundrop",
+      "build_version": "3402",
+      "catalog_item_id": "edfd412a16f445589ad4a43589d7644b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "sundrop",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "fe6c485736bc4ed48c835290ce48099b",
+      "asset_id": "fe6c485736bc4ed48c835290ce48099b",
+      "build_version": "1.0.89185-win",
+      "catalog_item_id": "6a398fcd7a464ea1a69fea1f0b0281cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "tulip",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.2",
+      "asset_id": "UE",
+      "build_version": "5.2.1-26001984+++UE5+Release-5.2-Windows",
+      "catalog_item_id": "0eac53dcfe8748598f1dbded4daa624a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.5",
+      "asset_id": "UE",
+      "build_version": "5.5.4-40574608+++UE5+Release-5.5-Windows",
+      "catalog_item_id": "1b3c549b6a724e90ad94d9c1f410bc96",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.0",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.0.0-19505902+++UE5+Release-5.0-2022.0.6-21164105-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.1",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.1.0-23058290+++UE5+Release-5.1-2023.3.0-29751885-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.2",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.2.0-25360045+++UE5+Release-5.2-2023.4.0-30079313-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.3",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.3.0-27405482+++UE5+Release-5.3-2023.1.1-38491899-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.4",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.4.0-33043543+++UE5+Release-5.4-2024.0.7-38493693-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.5",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.5.0-37670630+++UE5+Release-5.5-2025.0.3-38491436-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "QuixelBridge_5.6",
+      "asset_id": "QuixelBridge",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-2025.0.1-43139311-Windows",
+      "catalog_item_id": "1ce536b653df463bb2492f529d832b71",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.0",
+      "asset_id": "UE",
+      "build_version": "4.0.2-2034640+++depot+UE4-Releases+4.0-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.1",
+      "asset_id": "UE",
+      "build_version": "4.1.2-2109544+++depot+UE4-Releases+4.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.10",
+      "asset_id": "UE",
+      "build_version": "4.10.4-2872498+++depot+UE4-Releases+4.10-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.11",
+      "asset_id": "UE",
+      "build_version": "4.11.2-2946394+++UE4+Release-4.11-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.12",
+      "asset_id": "UE",
+      "build_version": "4.12.5-3039270+++UE4+Release-4.12-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.13",
+      "asset_id": "UE",
+      "build_version": "4.13.2-3172292+++UE4+Release-4.13-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.14",
+      "asset_id": "UE",
+      "build_version": "4.14.3-3249277+++UE4+Release-4.14-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.15",
+      "asset_id": "UE",
+      "build_version": "4.15.3-3450819+++UE4+Release-4.15-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.16",
+      "asset_id": "UE",
+      "build_version": "4.16.3-3561208+++UE4+Release-4.16-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.17",
+      "asset_id": "UE",
+      "build_version": "4.17.2-3658906+++UE4+Release-4.17-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.18",
+      "asset_id": "UE",
+      "build_version": "4.18.3-3832480+++UE4+Release-4.18-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.19",
+      "asset_id": "UE",
+      "build_version": "4.19.2-4033788+++UE4+Release-4.19-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.2",
+      "asset_id": "UE",
+      "build_version": "4.2.1-2101290+++depot+UE4-Releases+4.2-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.20",
+      "asset_id": "UE",
+      "build_version": "4.20.3-4369336+++UE4+Release-4.20-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.21",
+      "asset_id": "UE",
+      "build_version": "4.21.2-4753647+++UE4+Release-4.21-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.22",
+      "asset_id": "UE",
+      "build_version": "4.22.3-7053642+++UE4+Release-4.22-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.23",
+      "asset_id": "UE",
+      "build_version": "4.23.1-9631420+++UE4+Release-4.23-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.24",
+      "asset_id": "UE",
+      "build_version": "4.24.3-11590370+++UE4+Release-4.24-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.25",
+      "asset_id": "UE",
+      "build_version": "4.25.4-14469661+++UE4+Release-4.25-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.26",
+      "asset_id": "UE",
+      "build_version": "4.26.2-15973114+++UE4+Release-4.26-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.27",
+      "asset_id": "UE",
+      "build_version": "4.27.2-18319896+++UE4+Release-4.27-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.3",
+      "asset_id": "UE",
+      "build_version": "4.3.1-2226335+++depot+UE4-Releases+4.3-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.4",
+      "asset_id": "UE",
+      "build_version": "4.4.3-2296771+++depot+UE4-Releases+4.4-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.5",
+      "asset_id": "UE",
+      "build_version": "4.5.1-2336687+++depot+UE4-Releases+4.5-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.6",
+      "asset_id": "UE",
+      "build_version": "4.6.1-2386410+++depot+UE4-Releases+4.6-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.7",
+      "asset_id": "UE",
+      "build_version": "4.7.6-2513093+++depot+UE4-Releases+4.7-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.8",
+      "asset_id": "UE",
+      "build_version": "4.8.3-2634408+++depot+UE4-Releases+4.8-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.9",
+      "asset_id": "UE",
+      "build_version": "4.9.2-2707645+++depot+UE4-Releases+4.9-2023.1-Windows",
+      "catalog_item_id": "3ddb1bad6e004b99a7192c1a29f2318a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.26Chaos",
+      "asset_id": "UE",
+      "build_version": "4.26.2-15903758+++UE4+Release-4.26-Chaos-2023.1-Windows",
+      "catalog_item_id": "5cba2afac392412a99c6b42d04c816e2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.4",
+      "asset_id": "UE",
+      "build_version": "5.4.4-35576357+++UE5+Release-5.4-Windows",
+      "catalog_item_id": "5e7c497460f64ae19e6c3aaef8b421cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.6",
+      "asset_id": "UE",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-Windows",
+      "catalog_item_id": "73923380f4d944d5bcb6d77a0640d26d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.1",
+      "asset_id": "UE",
+      "build_version": "5.1.1-23901901+++UE5+Release-5.1-2023.1-Windows",
+      "catalog_item_id": "971660b9efb0475f929ccd9770061fe9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.3",
+      "asset_id": "UE",
+      "build_version": "5.3.2-29314046+++UE5+Release-5.3-Windows",
+      "catalog_item_id": "aa3bb95475084190ac97c8cab3c79ab1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "FabPlugin_5.3",
+      "asset_id": "FabPlugin",
+      "build_version": "5.3.0-27405482+++UE5+Release-5.3-0.0.4-39981068-Windows",
+      "catalog_item_id": "c5c30696e4e0482f9c0a170873975230",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "FabPlugin_5.4",
+      "asset_id": "FabPlugin",
+      "build_version": "5.4.0-33043543+++UE5+Release-5.4-0.0.4-39936700-Windows",
+      "catalog_item_id": "c5c30696e4e0482f9c0a170873975230",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "FabPlugin_5.5",
+      "asset_id": "FabPlugin",
+      "build_version": "5.5.0-37670630+++UE5+Release-5.5-0.0.4-39936700-Windows",
+      "catalog_item_id": "c5c30696e4e0482f9c0a170873975230",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "FabPlugin_5.6",
+      "asset_id": "FabPlugin",
+      "build_version": "5.6.0-43139311+++UE5+Release-5.6-0.0.5-43139311-Windows",
+      "catalog_item_id": "c5c30696e4e0482f9c0a170873975230",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_5.0",
+      "asset_id": "UE",
+      "build_version": "5.0.3-20979098+++UE5+Release-5.0-2023.1-Windows",
+      "catalog_item_id": "d33c86e1279b45fc9a889f5e64ed6705",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "UE_4.27Chaos",
+      "asset_id": "UE",
+      "build_version": "4.27.2-18386882+++UE4+Release-4.27-Chaos-2023.1-Windows",
+      "catalog_item_id": "ed2b249a315e4493b084233d5167fea3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ue",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Weaver",
+      "asset_id": "Weaver",
+      "build_version": "1.08f",
+      "catalog_item_id": "5106a8a7bde5423d8c3f1023764cdbe9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "weaver",
+      "sidecar_rev": 0
+    },
+    {
+      "app_name": "Wombat",
+      "asset_id": "Wombat",
+      "build_version": "2.42",
+      "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "wombat",
+      "sidecar_rev": 0
+    }
+  ]
+}

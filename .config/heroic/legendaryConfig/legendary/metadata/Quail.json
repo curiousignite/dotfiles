@@ -1,0 +1,218 @@
+{
+  "app_name": "Quail",
+  "app_title": "20XX",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Quail",
+      "asset_id": "Quail",
+      "build_version": "1.42.13rc1",
+      "catalog_item_id": "017e3132e017486bbb3a9a641c984b3a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4c7117cadb714722950338f02850fd8d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567jmG7kJKZmDtY3KJKm7b6vVzB",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-12T18:15:44.465Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav,*.key,*.opt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/20XX/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TwentyXX"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4c7117cadb714722950338f02850fd8d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "20XX",
+    "developer": "Batterystaple Games",
+    "developerId": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-23T18:20:41.930Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "QuailDracoAudience",
+        "developer": "Batterystaple Games",
+        "developerId": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+        "endOfSupport": false,
+        "entitlementName": "9f5a876783334b588eef182ce12bb7ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9f5a876783334b588eef182ce12bb7ad",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-07-23T18:20:41.930Z",
+        "mainGameItem": {
+          "id": "017e3132e017486bbb3a9a641c984b3a",
+          "namespace": "4c7117cadb714722950338f02850fd8d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "017e3132e017486bbb3a9a641c984b3a",
+            "namespace": "4c7117cadb714722950338f02850fd8d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4c7117cadb714722950338f02850fd8d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "QuailDracoAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-23T18:18:56.889Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "QuailHawkAudience",
+        "developer": "Batterystaple Games",
+        "developerId": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+        "endOfSupport": false,
+        "entitlementName": "be22de5494bb41438c5ea1df1ccb4ff3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "be22de5494bb41438c5ea1df1ccb4ff3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-07-23T18:18:56.889Z",
+        "mainGameItem": {
+          "id": "017e3132e017486bbb3a9a641c984b3a",
+          "namespace": "4c7117cadb714722950338f02850fd8d",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "017e3132e017486bbb3a9a641c984b3a",
+            "namespace": "4c7117cadb714722950338f02850fd8d",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4c7117cadb714722950338f02850fd8d",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "QuailHawkAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "017e3132e017486bbb3a9a641c984b3a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "017e3132e017486bbb3a9a641c984b3a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "32808983df5cca10375c4c2d20aafb7a",
+        "size": 985758,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-28T21:56:03.611Z",
+        "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/item/EGS_20XXHawkCharacterDLC_Batterystaple_AddOn_S1-2560x1440-32808983df5cca10375c4c2d20aafb7a.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+        "size": 698827,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-28T21:56:15.899Z",
+        "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/item/EGS_20XXHawkCharacterDLC_Batterystaple_AddOn_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-07-30T04:12:40.355Z",
+    "mainGameItemList": [],
+    "namespace": "4c7117cadb714722950338f02850fd8d",
+    "releaseInfo": [
+      {
+        "appId": "Quail",
+        "dateAdded": "2019-10-07T00:00:00.000Z",
+        "id": "c3a8900ad619457f9b2526fb2723770f",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "20XX",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

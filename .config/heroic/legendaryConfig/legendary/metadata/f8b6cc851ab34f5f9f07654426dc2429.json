@@ -1,0 +1,912 @@
+{
+  "app_name": "f8b6cc851ab34f5f9f07654426dc2429",
+  "app_title": "Sniper Ghost Warrior Contracts",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f8b6cc851ab34f5f9f07654426dc2429",
+      "asset_id": "f8b6cc851ab34f5f9f07654426dc2429",
+      "build_version": "Win-1.1.3",
+      "catalog_item_id": "f554c33320e4489880f9c640f487395f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ce1a2ea37f9346b99449c60392aa914e"
+      },
+      "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567zCmRxqFJxTO1fnwVwLCLmYlG",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-11T10:00:32.719Z",
+    "customAttributes": {
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "StatsLogs"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Sniper Ghost Warrior Contract/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SniperGhostWarriorCo0uGt6"
+      }
+    },
+    "description": "Become the ultimate assassin in the most realistic modern warfare sniping game available. Engage in an immersive single-player campaign across large, open-ended maps. Tactical thinking, stealth approach and precision in execution of long shots required.",
+    "developer": "CI Games ",
+    "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:39:48.941Z",
+        "customAttributes": {},
+        "description": "Get the Summer's Nostalgia Weapon Skins and expand your weaponry customization even further.",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "164b1d164c874c0f833f815bc3b4f91d",
+        "entitlementType": "EXECUTABLE",
+        "id": "164b1d164c874c0f833f815bc3b4f91d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Summer's Nostalgia Weapon Pack Offer",
+            "height": 1440,
+            "md5": "8064fb1851ce08f3c508d76b58c728c9",
+            "size": 2446275,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:52:01.466Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-19rf0.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Summer's Nostalgia Weapon Pack Offer",
+            "height": 1600,
+            "md5": "7689dd25b1f370f3b43e39f073bb8edd",
+            "size": 1408762,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:52:00.696Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-ky218.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "f4f9e84768b84c8b81060fb628184e83",
+            "id": "1a5fcf19d7ab449e98bc1cbc1cfa713c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Summer's Nostalgia Weapon Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:41:40.818Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - SV - AMUR - sniper rifle",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "24a021db2f3e42ba895470ae88044adc",
+        "entitlementType": "EXECUTABLE",
+        "id": "24a021db2f3e42ba895470ae88044adc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - SV - AMUR - sniper rifle Offer",
+            "height": 1440,
+            "md5": "cf8a72df55859a18dbdb63e88a683c2b",
+            "size": 2856734,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:53:46.704Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1rknf.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - SV - AMUR - sniper rifle Offer",
+            "height": 1600,
+            "md5": "5beb3a76d025e37422be0b0356d81363",
+            "size": 1501244,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:53:46.937Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-yk0z2.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "4dee61d9052f4f52a041d55018ef922c",
+            "id": "b18fd240bd0440cdae60a3267ddccc83",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - SV - AMUR - sniper rifle",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-29T12:12:30.696Z",
+        "description": "Sniper Ghost Warrior Contracts - Arsenal Pack_SeasonPassAudience",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "3312c8bac5a247e0893dedac520dc889",
+        "entitlementType": "AUDIENCE",
+        "id": "3312c8bac5a247e0893dedac520dc889",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-24T12:26:27.843Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Arsenal Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:29:39.521Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - Savage Sniper Weapon Pack",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "91ee468bf8034f9a9e06021599333896",
+        "entitlementType": "EXECUTABLE",
+        "id": "91ee468bf8034f9a9e06021599333896",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Savage Sniper Weapon Pack Offer",
+            "height": 1440,
+            "md5": "59e9a00dcf0a47dfddb386c8e09cf1a3",
+            "size": 2801333,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:55:34.467Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1ynrz.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Savage Sniper Weapon Pack Offer",
+            "height": 1600,
+            "md5": "cf2f58d1338ae9e58523ead2dbd41b9d",
+            "size": 1542452,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:55:33.533Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1o18m.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "16db7c4fdb6f470b8b93600f6fadd030",
+            "id": "06716ce221ac4411b65fbedd8371d4e8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Savage Sniper Weapon Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:34:37.156Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - Merciless Marksman",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "166434d2b1494cc8a1e650af89a0de5d",
+        "entitlementType": "EXECUTABLE",
+        "id": "166434d2b1494cc8a1e650af89a0de5d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Merciless Marksman Offer",
+            "height": 1440,
+            "md5": "8348c2e959719f66713db6aaa3b98658",
+            "size": 2843406,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:56:09.664Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1xndk.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Merciless Marksman Offer",
+            "height": 1600,
+            "md5": "1f9d7456f2f3ec777f2086914d1d02d2",
+            "size": 1572087,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:56:09.226Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1papr.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "9b57cf1f8f2b48ff8a042d08f844cb77",
+            "id": "d70404fb68ac43d3a20d2f059867c391",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Merciless Marksman",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:25:14.434Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - Crossbow Chaos Weapon Pack",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "3f5051431b744b0291789c618f2ac153",
+        "entitlementType": "EXECUTABLE",
+        "id": "3f5051431b744b0291789c618f2ac153",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Crossbow Chaos Weapon Pack Offer",
+            "height": 1440,
+            "md5": "f6b823b902641393c8220ef9145c6f16",
+            "size": 2900163,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:56:40.520Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-fbu0a.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Crossbow Chaos Weapon Pack Offer",
+            "height": 1600,
+            "md5": "352ca18030136a7e34d00ae148d0c5eb",
+            "size": 1567962,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:56:40.936Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-18b1o.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "81f23f66b624445fb35f8487f752c9f5",
+            "id": "39cf572885f2490fab108092ece7e33d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Crossbow Chaos Weapon Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:39:01.997Z",
+        "customAttributes": {},
+        "description": "Get the Positive Vibes Weapon Skins and expand your weaponry customization even further.",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "5df91d48acef42fa9bd6eb66650f6668",
+        "entitlementType": "EXECUTABLE",
+        "id": "5df91d48acef42fa9bd6eb66650f6668",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Positive Vibes Weapon Skin Pack Offer",
+            "height": 1440,
+            "md5": "83982c5840c78cbd858ca5f8f6f3ea6e",
+            "size": 2437160,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:51:29.278Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-145yv.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Positive Vibes Weapon Skin Pack Offer",
+            "height": 1600,
+            "md5": "c260a830d6dbcc084470f8e4b9a140ef",
+            "size": 1403291,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:51:28.584Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-10iz2.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "87d67a8bd93b4b4e99f17c85757006f1",
+            "id": "a1a9d172f6c840e19267ece89f3a5229",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Positive Vibes Weapon Skin Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:40:22.939Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - KELL-T - shotgun",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "f39770d7bfde46ac815ae7573c03896e",
+        "entitlementType": "EXECUTABLE",
+        "id": "f39770d7bfde46ac815ae7573c03896e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - KELL-T - shotgun Offer",
+            "height": 1440,
+            "md5": "8dbb889b56db5542765aeea70f251830",
+            "size": 2833235,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:52:36.093Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-4q857.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - KELL-T - shotgun Offer",
+            "height": 1600,
+            "md5": "74fb122795b0187902ccf09b7e3a7d60",
+            "size": 1620164,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:52:36.347Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-zeggb.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "041af7a5756a411fa838f2f22838af2f",
+            "id": "44f95b4331824f5e8f92d0e8d4c77007",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - KELL-T - shotgun",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:41:12.898Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - Steam Mist Weapon Skin",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "cb137f721fb940828236f6d7bba85868",
+        "entitlementType": "EXECUTABLE",
+        "id": "cb137f721fb940828236f6d7bba85868",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Steam Mist Weapon Skin Offer",
+            "height": 1440,
+            "md5": "965393e6b731b072a35ab1deb116024a",
+            "size": 2400042,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:53:13.350Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1jjri.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Steam Mist Weapon Skin Offer",
+            "height": 1600,
+            "md5": "0a8c82dfde91d75a2a68d802fd6bf168",
+            "size": 1304315,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:53:13.795Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-60ily.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "33acbebd7cac40e8b39d13fa125cdea0",
+            "id": "f3d3c1f0b3db4ab1ba7d52e6e0197f75",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Steam Mist Weapon Skin",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:42:09.770Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - STURM BODYGUARD 9 - gun",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "04a5eb0ab1e947fe90176aa01901b9c6",
+        "entitlementType": "EXECUTABLE",
+        "id": "04a5eb0ab1e947fe90176aa01901b9c6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - STURM BODYGUARD 9 - gun Offer",
+            "height": 1440,
+            "md5": "059c8342edc5ac571277fc28f5b2366d",
+            "size": 2792888,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:54:21.299Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1gou4.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - STURM BODYGUARD 9 - gun Offer",
+            "height": 1600,
+            "md5": "c4c2c415cff669b14e17c4c586fbb279",
+            "size": 1527849,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:54:21.963Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-193ao.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "830ba87bd80b4edb9e7593b81038d0cf",
+            "id": "78bac7e519084f2c9b5a54f456cce93f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - STURM BODYGUARD 9 - gun",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:38:16.449Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - World Flags Skin Pack",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "1849a17bbcc14b56afc9d9d446201b33",
+        "entitlementType": "EXECUTABLE",
+        "id": "1849a17bbcc14b56afc9d9d446201b33",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - World Flags Skin Pack Offer",
+            "height": 1440,
+            "md5": "7f60d9977c3915556aba2cc0feff56fc",
+            "size": 2479944,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-30T08:57:21.619Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-esltn.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - World Flags Skin Pack Offer",
+            "height": 1600,
+            "md5": "0a6c52f312e53d09fd50994d4304f971",
+            "size": 1443074,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:57:22.102Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-sixkv.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "1d239be29b254dcda2b2ab16814663bf",
+            "id": "c91c7532809f471897bd26038c8d6d8d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - World Flags Skin Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-29T12:21:54.144Z",
+        "description": "Sniper Ghost Warrior Contracts - Skins Pack_SeasonPassAudience",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "944c4eb47774449887c90eb4ae31f338",
+        "entitlementType": "AUDIENCE",
+        "id": "944c4eb47774449887c90eb4ae31f338",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-24T12:26:27.843Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Skins Pack_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-18T10:29:13.969Z",
+        "customAttributes": {},
+        "description": "Sniper Ghost Warrior Contracts - Seeker's Selects Weapon Pack",
+        "developer": "CI Games ",
+        "developerId": "o-2w466jcy8qfum5kv5drctwrsft632w",
+        "endOfSupport": false,
+        "entitlementName": "b6eef5bf8c6249f49841bae16f531526",
+        "entitlementType": "EXECUTABLE",
+        "id": "b6eef5bf8c6249f49841bae16f531526",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Seeker's Selects Weapon Pack Offer",
+            "height": 1440,
+            "md5": "150ef7d43c4c5cecb43f438898ebcf3d",
+            "size": 2743728,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-29T15:20:43.039Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-tyv2t.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Sniper Ghost Warrior Contracts Sniper Ghost Warrior Contracts - Seeker's Selects Weapon Pack Offer",
+            "height": 1600,
+            "md5": "6df98f3853f996426716773bf788459b",
+            "size": 1557793,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-30T08:55:01.201Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1sepy.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+        "mainGameItem": {
+          "id": "f554c33320e4489880f9c640f487395f",
+          "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f554c33320e4489880f9c640f487395f",
+            "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+        "releaseInfo": [
+          {
+            "appId": "1e32dc30c3ea4f5c804be3cdaffcb6b4",
+            "id": "644411f9533f4f69a7845c40158c9614",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sniper Ghost Warrior Contracts - Seeker's Selects Weapon Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f554c33320e4489880f9c640f487395f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "f554c33320e4489880f9c640f487395f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Sniper Ghost Warrior Contracts Offer",
+        "height": 1440,
+        "md5": "843e19d70b1509b1de8d2c90b87f3869",
+        "size": 1986688,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-05-29T12:40:08.638Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1h21n.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Sniper Ghost Warrior Contracts Offer",
+        "height": 1600,
+        "md5": "048bf4cdb429df45f2a9facf7288f0ba",
+        "size": 2386153,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-05-29T12:40:08.934Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-1eizu.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-24T12:26:29.188Z",
+    "mainGameItemList": [],
+    "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+    "releaseInfo": [
+      {
+        "appId": "f8b6cc851ab34f5f9f07654426dc2429",
+        "id": "f1c140df6b634614bdaafc29776277fa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sniper Ghost Warrior Contracts",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "b530665840d044b78ac70cf04169944d"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "app_name": "b5e42b0dc2f544a5bbb4080a433b8b71",
+  "app_title": "Nioh: The Complete Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b5e42b0dc2f544a5bbb4080a433b8b71",
+      "asset_id": "b5e42b0dc2f544a5bbb4080a433b8b71",
+      "build_version": "Ver1.24.08.57450",
+      "catalog_item_id": "3d61e00e299c4c0d914c7e63d81e7f70",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3622b6ddc5c849b1826085d5fe492eae",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567lr8flYrhpwCzbeeHiSMpbLAI",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-26T22:17:59.094Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "SAVEDATA.BIN"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/KoeiTecmo/NIOH/Savedata/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Nioh"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3622b6ddc5c849b1826085d5fe492eae"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Nioh: The Complete Edition",
+    "developer": "Koei Tecmo",
+    "developerId": "o-rgggesxx3asqs8jp24x29zl24c789w",
+    "endOfSupport": false,
+    "entitlementName": "3d61e00e299c4c0d914c7e63d81e7f70",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && Nioh)"
+    ],
+    "id": "3d61e00e299c4c0d914c7e63d81e7f70",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "2a6124e6033545b37abd715282f8ba98",
+        "size": 1009930,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-05T21:00:22.401Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_S1_2560x1440-2a6124e6033545b37abd715282f8ba98",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4723c89d30b680dafa5cf9f279a6cfb7",
+        "size": 509228,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-05T21:00:28.433Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NiohTheCompleteEdition_KOEITECMOGAMESCOLTD_S2_1200x1600-4723c89d30b680dafa5cf9f279a6cfb7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-09T14:24:29.347Z",
+    "mainGameItemList": [],
+    "namespace": "3622b6ddc5c849b1826085d5fe492eae",
+    "releaseInfo": [
+      {
+        "appId": "b5e42b0dc2f544a5bbb4080a433b8b71",
+        "id": "3c95d38d9afc4e50acd4893d6126d975",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Nioh: The Complete Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

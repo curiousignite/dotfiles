@@ -1,0 +1,108 @@
+{
+  "app_name": "Parakeet",
+  "app_title": "Hyper Light Drifter",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Parakeet",
+      "asset_id": "Parakeet",
+      "build_version": "1.0.0",
+      "catalog_item_id": "3c8142e2d269463996ba868cc8f26d7e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-06T20:39:38.029Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HyperLightDrifter"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "62d6f15b1bb345f6a42585b4c8c847a0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Hyper Light Drifter",
+    "developer": "Heart Machine",
+    "developerId": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+    "endOfSupport": false,
+    "entitlementName": "3c8142e2d269463996ba868cc8f26d7e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3c8142e2d269463996ba868cc8f26d7e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a3db983778bad2d614db75dbfe5bdd58",
+        "size": 708053,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-10T22:29:34.532Z",
+        "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Landscape_01_2560x1440-a3db983778bad2d614db75dbfe5bdd58",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f023f12c6902b9d9042cc6ea9557a100",
+        "size": 463327,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-10T22:29:31.689Z",
+        "url": "https://cdn1.epicgames.com/item/62d6f15b1bb345f6a42585b4c8c847a0/HLD_EGS_Portrait_01_1200x1600-f023f12c6902b9d9042cc6ea9557a100",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-25T15:36:40.405Z",
+    "mainGameItemList": [],
+    "namespace": "62d6f15b1bb345f6a42585b4c8c847a0",
+    "releaseInfo": [
+      {
+        "appId": "Parakeet",
+        "dateAdded": "2019-08-06T00:00:00.000Z",
+        "id": "1c8c2a148e284106b5cc4ae2a958f226",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Hyper Light Drifter",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

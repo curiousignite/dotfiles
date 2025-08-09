@@ -1,0 +1,119 @@
+{
+  "app_name": "247a0f0f5803429eb3be2c06f3ea77ff",
+  "app_title": "Blair Witch",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "247a0f0f5803429eb3be2c06f3ea77ff",
+      "asset_id": "247a0f0f5803429eb3be2c06f3ea77ff",
+      "build_version": "BLAIR_WIN_SRC_20191209_1642",
+      "catalog_item_id": "978cb3123e074daf963bc8cc15dcfc2a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8101d2b09984401fa28cecce4c867e71",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-08-25T23:22:34.835Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Blairwitch/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlairWitch"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8101d2b09984401fa28cecce4c867e71"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Blair Witch",
+    "developer": "Bloober Team",
+    "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+    "endOfSupport": false,
+    "entitlementName": "978cb3123e074daf963bc8cc15dcfc2a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "978cb3123e074daf963bc8cc15dcfc2a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "53470388ca2f16b4d6a3b018438086b7",
+        "size": 1020334,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-15T17:48:33.483Z",
+        "url": "https://cdn1.epicgames.com/8101d2b09984401fa28cecce4c867e71/item/EGS_BlairWitch_BlooberTeam_S1-2560x1440-53470388ca2f16b4d6a3b018438086b7.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "383829d159e119094323b55804daeb90",
+        "size": 989706,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-15T17:48:39.975Z",
+        "url": "https://cdn1.epicgames.com/8101d2b09984401fa28cecce4c867e71/item/EGS_BlairWitch_BlooberTeam_S2-1200x1600-383829d159e119094323b55804daeb90.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-10-22T14:16:52.487Z",
+    "mainGameItemList": [],
+    "namespace": "8101d2b09984401fa28cecce4c867e71",
+    "releaseInfo": [
+      {
+        "appId": "247a0f0f5803429eb3be2c06f3ea77ff",
+        "dateAdded": "2020-08-27T00:00:00.000Z",
+        "id": "50dda96e1e0a41229843824f8008f757",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Blair Witch",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,407 @@
+{
+  "app_name": "Albacore",
+  "app_title": "Assassins Creed Syndicate",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Albacore",
+      "asset_id": "Albacore",
+      "build_version": "1.54",
+      "catalog_item_id": "1a34c013d44e4d00b638dae75c8fed07",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-11-06T21:37:52.082Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AssassinsCreedSyndicate"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "1875"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\1875"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "e9f9422804f54ef59dcec8e01aba8786"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Assassins Creed Syndicate",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-04T18:28:35.428Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9f9422804f54ef59dcec8e01aba8786"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "f38ecd5b570046f7a1b34bdf60af86b5"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "The Last Maharaja - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "17f6cb8f6daa455ba869035c6f8f9ecc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "17f6cb8f6daa455ba869035c6f8f9ecc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-20T15:15:38.515Z",
+        "mainGameItem": {
+          "id": "1a34c013d44e4d00b638dae75c8fed07",
+          "namespace": "c9be94273fe244c08032ca493ad87434",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a34c013d44e4d00b638dae75c8fed07",
+            "namespace": "c9be94273fe244c08032ca493ad87434",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c9be94273fe244c08032ca493ad87434",
+        "releaseInfo": [
+          {
+            "appId": "AlbacoreTLM",
+            "id": "37871d6a0fc04ba9a4aa7dc6551b7839",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Last Maharaja - DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-04T18:27:15.763Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9f9422804f54ef59dcec8e01aba8786"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2f33a758bae540719062fc722cb77d04"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Assassin's Creed Syndicate Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "b371004a136249f1a9fdd52f5f63e51b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b371004a136249f1a9fdd52f5f63e51b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-20T15:15:45.417Z",
+        "mainGameItem": {
+          "id": "1a34c013d44e4d00b638dae75c8fed07",
+          "namespace": "c9be94273fe244c08032ca493ad87434",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a34c013d44e4d00b638dae75c8fed07",
+            "namespace": "c9be94273fe244c08032ca493ad87434",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c9be94273fe244c08032ca493ad87434",
+        "releaseInfo": [
+          {
+            "appId": "AlbacoreSP",
+            "id": "d3122411f89644a8a2a47efdcb5ba440",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Assassin's Creed Syndicate Season Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-04T18:27:52.901Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9f9422804f54ef59dcec8e01aba8786"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "682e2b3e45f44c54bd903d2d134c6107"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Jack The Ripper - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "ffc8a62575a44a05bc6af59f54a6ed53",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ffc8a62575a44a05bc6af59f54a6ed53",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-20T15:16:13.436Z",
+        "mainGameItem": {
+          "id": "1a34c013d44e4d00b638dae75c8fed07",
+          "namespace": "c9be94273fe244c08032ca493ad87434",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a34c013d44e4d00b638dae75c8fed07",
+            "namespace": "c9be94273fe244c08032ca493ad87434",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c9be94273fe244c08032ca493ad87434",
+        "releaseInfo": [
+          {
+            "appId": "AlbacoreJTR",
+            "id": "d7687dd2a3b14b16863aeedf2f40aaea",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Jack The Ripper - DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-04T18:29:24.846Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9f9422804f54ef59dcec8e01aba8786"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "06c2e16e41774211852194fc1e232383"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "The Dreadful Crimes - DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "20e515a8a14c4ce99daedd5d51293f38",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "20e515a8a14c4ce99daedd5d51293f38",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-02-20T15:16:30.894Z",
+        "mainGameItem": {
+          "id": "1a34c013d44e4d00b638dae75c8fed07",
+          "namespace": "c9be94273fe244c08032ca493ad87434",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1a34c013d44e4d00b638dae75c8fed07",
+            "namespace": "c9be94273fe244c08032ca493ad87434",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c9be94273fe244c08032ca493ad87434",
+        "releaseInfo": [
+          {
+            "appId": "AlbacoreTDC",
+            "id": "2b095fcb1bc34245b07011bdce3c71b7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Dreadful Crimes - DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1a34c013d44e4d00b638dae75c8fed07",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1a34c013d44e4d00b638dae75c8fed07",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d38ba6341ab707a6ec99c4f921d8a9bc",
+        "size": 853469,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-17T15:42:26.866Z",
+        "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/item/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "22c915715dca99edefe87fc9a7470094",
+        "size": 418391,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-18T17:08:23.491Z",
+        "url": "https://cdn1.epicgames.com/item/c9be94273fe244c08032ca493ad87434/ACSyndicateStandardPortrait_1200x1600-22c915715dca99edefe87fc9a7470094",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:34:32.825Z",
+    "longDescription": "Assassins Creed Syndicate",
+    "mainGameItemList": [],
+    "namespace": "c9be94273fe244c08032ca493ad87434",
+    "releaseInfo": [
+      {
+        "appId": "Albacore",
+        "id": "9f4a336c710a4352b285f8d485b08715",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Assassins Creed Syndicate",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

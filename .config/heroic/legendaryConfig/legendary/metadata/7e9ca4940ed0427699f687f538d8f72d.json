@@ -1,0 +1,95 @@
+{
+  "app_name": "7e9ca4940ed0427699f687f538d8f72d",
+  "app_title": "Football Manager 2024 Resource archiver",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7e9ca4940ed0427699f687f538d8f72d",
+      "asset_id": "7e9ca4940ed0427699f687f538d8f72d",
+      "build_version": "2935-win-epic-resource_archiver",
+      "catalog_item_id": "a3575fda30c34f1fba24f5f6c7ddb2e1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-07-27T23:43:27.458Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FM24resourcearchiver"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Football Manager 2024 Resource archiver",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "endOfSupport": false,
+    "entitlementName": "a3575fda30c34f1fba24f5f6c7ddb2e1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a3575fda30c34f1fba24f5f6c7ddb2e1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c21d7b57642ee99366491c641a1fa02a",
+        "size": 477674,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-06T14:09:20.167Z",
+        "url": "https://cdn1.epicgames.com/item/610a546d4e204215a0b9a1c8a382bacb/ProductLandscapeImage2560x1440-ra_2560x1440-c21d7b57642ee99366491c641a1fa02a",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "fb5b0224e70de7ba5c4ac53facfb6b08",
+        "size": 263670,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-06T14:09:23.512Z",
+        "url": "https://cdn1.epicgames.com/item/610a546d4e204215a0b9a1c8a382bacb/ProductPortraitImage1200x1600-ra_1200x1600-fb5b0224e70de7ba5c4ac53facfb6b08",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-06T14:57:24.310Z",
+    "mainGameItemList": [],
+    "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+    "releaseInfo": [
+      {
+        "appId": "7e9ca4940ed0427699f687f538d8f72d",
+        "compatibleApps": [],
+        "dateAdded": "2023-07-31T13:57:29.991Z",
+        "id": "7aac13fa3d6c4d2bb2902eb5ab690c4e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Football Manager 2024 Resource archiver",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,114 @@
+{
+  "app_name": "a9999cf992d74279b410a0ac9608e153",
+  "app_title": "Neko Ghost, Jump!",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a9999cf992d74279b410a0ac9608e153",
+      "asset_id": "a9999cf992d74279b410a0ac9608e153",
+      "build_version": "0.9.6.1.1",
+      "catalog_item_id": "cf7b858799184d94a2920426e728b2ed",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-28T06:02:24.061Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NekoGhostJump"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Neko Ghost, Jump!",
+    "developer": "Burgos Games",
+    "developerId": "o-94sy2ptcstesqlae8luap66hgs8dbb",
+    "endOfSupport": false,
+    "entitlementName": "cf7b858799184d94a2920426e728b2ed",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cf7b858799184d94a2920426e728b2ed",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "BrilliantRose Offer",
+        "height": 1440,
+        "md5": "e78769e60eb056837a5ceb66f7e6fa6d",
+        "size": 1570016,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-28T06:01:37.239Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/f2f1008125d14145a848fe58a6afc56c/brilliantrose-12swc.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "b754b5c67827936697227849596d4829",
+        "size": 342061,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-10T16:17:23.759Z",
+        "url": "https://cdn1.epicgames.com/item/c4c7d3cd0a2f4ea2bf7d4a57e46e8d68/EGS_NekoGhostJump_BurgosGames_S2_1200x1600-b754b5c67827936697227849596d4829",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-28T20:01:37.081Z",
+    "mainGameItemList": [],
+    "namespace": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
+    "releaseInfo": [
+      {
+        "appId": "a9999cf992d74279b410a0ac9608e153",
+        "id": "b0cbb54d2cb04cb9aac678baa3a0d9f2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Neko Ghost, Jump!",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

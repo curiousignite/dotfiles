@@ -1,0 +1,112 @@
+{
+  "app_name": "9b40e3ffb4074f22a856a521be5ce858",
+  "app_title": "Wilmot's Warehouse",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9b40e3ffb4074f22a856a521be5ce858",
+      "asset_id": "9b40e3ffb4074f22a856a521be5ce858",
+      "build_version": "1.0.7",
+      "catalog_item_id": "3a081bf54f9f477cad66a1f29cdfaa2a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f697ab7aa6af41f880e1489818e2720d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567YIqDfdT7iPazx6Vi6Ndyswpn",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-23T19:51:59.036Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WilmotsWarehouse"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f697ab7aa6af41f880e1489818e2720d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Wilmot's Warehouse",
+    "developer": "Finji LLC",
+    "developerId": "o-mlc3sx58k2v33qgucwt7nr9cvwc2y4",
+    "endOfSupport": false,
+    "entitlementName": "3a081bf54f9f477cad66a1f29cdfaa2a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3a081bf54f9f477cad66a1f29cdfaa2a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8db93e787c510b773094aa680dad7a60",
+        "size": 856437,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-22T18:10:08.778Z",
+        "url": "https://cdn1.epicgames.com/f697ab7aa6af41f880e1489818e2720d/item/EGS_WilmotsWarehouse_HollowPondsRichardHogg_S1-2560x1440-8db93e787c510b773094aa680dad7a60.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "dd6a51a112d097dd3033e2118320c56b",
+        "size": 480116,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-22T18:10:17.450Z",
+        "url": "https://cdn1.epicgames.com/f697ab7aa6af41f880e1489818e2720d/item/EGS_WilmotsWarehouse_HollowPondsRichardHogg_S2-1200x1600-dd6a51a112d097dd3033e2118320c56b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-08-03T16:00:08.058Z",
+    "mainGameItemList": [],
+    "namespace": "f697ab7aa6af41f880e1489818e2720d",
+    "releaseInfo": [
+      {
+        "appId": "9b40e3ffb4074f22a856a521be5ce858",
+        "dateAdded": "2020-04-27T00:00:00.000Z",
+        "id": "61a9501fa3f14a76aa43ac1e71909a6e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Wilmot's Warehouse",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,108 @@
+{
+  "app_name": "272d51db75be476f9ad60c0e7fc24470",
+  "app_title": "Stubbs the Zombie in Rebel Without a Pulse",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "272d51db75be476f9ad60c0e7fc24470",
+      "asset_id": "272d51db75be476f9ad60c0e7fc24470",
+      "build_version": "1.0.0",
+      "catalog_item_id": "16f4b42cedc44c52b3c62b28e7b69bfb",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "dcbacb85c17e4d39b885d0ba252dc8a7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-04T22:17:21.636Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "StubbsTheZombie"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "dcbacb85c17e4d39b885d0ba252dc8a7"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Stubbs the Zombie in Rebel Without a Pulse",
+    "developer": "Aspyr Media, Inc.",
+    "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+    "endOfSupport": false,
+    "entitlementName": "16f4b42cedc44c52b3c62b28e7b69bfb",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "16f4b42cedc44c52b3c62b28e7b69bfb",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "84943e5f6ce5f32aeaa690b79efc14e1",
+        "size": 861174,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-05T23:08:39.963Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StubbstheZombieinRebelWithoutaPulse_Aspyr_S1_2560x1440-84943e5f6ce5f32aeaa690b79efc14e1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "359879dde776d9c24789109ec6ce2f4d",
+        "size": 637856,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-05T23:08:31.368Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StubbstheZombieinRebelWithoutaPulse_Aspyr_S2_1200x1600-359879dde776d9c24789109ec6ce2f4d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:39:43.817Z",
+    "mainGameItemList": [],
+    "namespace": "dcbacb85c17e4d39b885d0ba252dc8a7",
+    "releaseInfo": [
+      {
+        "appId": "272d51db75be476f9ad60c0e7fc24470",
+        "id": "a65025299ec24d3fb1b9b213da7bba25",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stubbs the Zombie in Rebel Without a Pulse",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

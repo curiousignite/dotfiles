@@ -1,0 +1,92 @@
+{
+  "app_name": "cb28095340aa4bb8ace6f42c9a6e5f13",
+  "app_title": "Rugrats: Adventures in Gameland",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cb28095340aa4bb8ace6f42c9a6e5f13",
+      "asset_id": "cb28095340aa4bb8ace6f42c9a6e5f13",
+      "build_version": "1.3.2",
+      "catalog_item_id": "565d6ab483f14997b7ab4b4213c84c96",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c93a6634f9224ccfba863a0d9ccddde8"
+      },
+      "namespace": "c20d98862be8473b896df438004868c5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-05-29T17:18:19.492Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "EmulatorSaveDatarugrats.sav,MixNESEmulatorControlBindsrugrats.json,EmulatorPlayerPrefs.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/The MIX Games/Rugrats/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RugratsAdventuresinGwzDDG"
+      }
+    },
+    "description": "Rugrats: Adventures in Gameland",
+    "developer": "The MIX Games Inc.",
+    "developerId": "o-4nt2t5ugd4myf5ju68nbj38sv44cfg",
+    "endOfSupport": false,
+    "entitlementName": "565d6ab483f14997b7ab4b4213c84c96",
+    "entitlementType": "EXECUTABLE",
+    "id": "565d6ab483f14997b7ab4b4213c84c96",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Rugrats: Adventures in Gameland Offer",
+        "height": 1440,
+        "md5": "5f7118b269cdb0f4594c813dc9834517",
+        "size": 3587570,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-21T01:00:52.776Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1251ee32f3b6496e99e170d4dc890d9e/rugrats-adventures-in-gameland-ypvim.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Rugrats: Adventures in Gameland Offer",
+        "height": 1600,
+        "md5": "c1aa2b56dc7787db9edda3dd1bfc3cbd",
+        "size": 324775,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-21T01:00:53.716Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1251ee32f3b6496e99e170d4dc890d9e/rugrats-adventures-in-gameland-1utg9.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-02T18:10:14.617Z",
+    "mainGameItemList": [],
+    "namespace": "c20d98862be8473b896df438004868c5",
+    "releaseInfo": [
+      {
+        "appId": "cb28095340aa4bb8ace6f42c9a6e5f13",
+        "id": "c337b1c911b745e3ab530265780833ce",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Rugrats: Adventures in Gameland",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

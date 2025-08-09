@@ -1,0 +1,112 @@
+{
+  "app_name": "61cc250618f94809a3ef6837c8d69445",
+  "app_title": "Garden Story",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "61cc250618f94809a3ef6837c8d69445",
+      "asset_id": "61cc250618f94809a3ef6837c8d69445",
+      "build_version": "v1.4.19a3_WIN_STEAMLESS",
+      "catalog_item_id": "6538249d5bc84eb69715c5ab78ca712d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0f3f352865294c3ea5e10454f24fde85",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-08T22:24:35.911Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Garden_Story__for_Blue_Build_/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GardenStory"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0f3f352865294c3ea5e10454f24fde85"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Garden Story",
+    "developer": "Rose City Games",
+    "developerId": "o-q33grcu5fnu5f6ywl7st6avfuc3ry4",
+    "endOfSupport": false,
+    "entitlementName": "6538249d5bc84eb69715c5ab78ca712d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6538249d5bc84eb69715c5ab78ca712d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "b1549cf6645f51ab0bacf6d73aa1631d",
+        "size": 984732,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-11T01:20:05.225Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GardenStory_Picogram_S1_2560x1440-b1549cf6645f51ab0bacf6d73aa1631d",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "e2a799a996d78e477b4353cab8b1cf8c",
+        "size": 621860,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-20T17:36:42.468Z",
+        "url": "https://cdn1.epicgames.com/item/0f3f352865294c3ea5e10454f24fde85/EGS_GardenStory_Picogram_S2_1200x1600-e2a799a996d78e477b4353cab8b1cf8c_1200x1600-e2a799a996d78e477b4353cab8b1cf8c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-20T17:36:45.181Z",
+    "mainGameItemList": [],
+    "namespace": "0f3f352865294c3ea5e10454f24fde85",
+    "releaseInfo": [
+      {
+        "appId": "61cc250618f94809a3ef6837c8d69445",
+        "id": "d453c0b6d17f452184ee8536ecc1ee5f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Garden Story",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

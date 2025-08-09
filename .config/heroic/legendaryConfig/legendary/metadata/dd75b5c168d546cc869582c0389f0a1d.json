@@ -1,0 +1,4775 @@
+{
+  "app_name": "dd75b5c168d546cc869582c0389f0a1d",
+  "app_title": "Train Sim World 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "dd75b5c168d546cc869582c0389f0a1d",
+      "asset_id": "dd75b5c168d546cc869582c0389f0a1d",
+      "build_version": "1.0.182",
+      "catalog_item_id": "384c9e7b83f0428ebe20571d0fcd272c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c85f8e63852c4043b92e2496de5701de"
+      },
+      "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567gmcSEJkk0CfFZFcWINRXkUgR",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-16T12:36:45.132Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TrainSimWorld2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d8d8b399f3d14ac2b9b75870329a68dd"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Train Sim World 2",
+    "developer": "Dovetail Games",
+    "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T20:56:53.895Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBG6DieselShunter"
+          }
+        },
+        "description": "DB G6 Diesel Shunter",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "e184c45c270c4cde9a26e6a1dfc69a2b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e184c45c270c4cde9a26e6a1dfc69a2b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "5b9a84d43e07c4588731ffa762f3e4f4",
+            "size": 391638,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:35:31.712Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBG6DieselShunter_TSG_DLC_S1_2560x1440-5b9a84d43e07c4588731ffa762f3e4f4",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "25a634bda8996f84b4cb058c1c9df12d",
+            "size": 214948,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:35:34.862Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBG6DieselShunter_TSG_DLC_S2_1200x1600-25a634bda8996f84b4cb058c1c9df12d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.928Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "d04d8a42e5f84a619e8c6506238b8cb6",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "2050ca63d7a74d51bc76345a1782a071",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB G6 Diesel Shunter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T16:24:05.538Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "GreatWestern"
+          }
+        },
+        "description": "Diesel Legends of the Great Western",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "3f4fa767d77b43fcb081c7c5e46703de",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3f4fa767d77b43fcb081c7c5e46703de",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "bba7f5dfaa33d4df49ed93525169a096",
+            "size": 565333,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-12T16:58:42.062Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DieselLegendsoftheGreatWestern_DovetailGames_DLC_S2_1200x1600-bba7f5dfaa33d4df49ed93525169a096",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "00d26129ad42104a2aa645e59f61fad2",
+            "size": 867905,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-12T16:59:29.376Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DieselLegendsoftheGreatWestern_DovetailGames_DLC_S1_2560x1440-00d26129ad42104a2aa645e59f61fad2",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.897Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "fc58ebe44a494a0aab4562d6906960ff",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "ca826265cf41464d942734dbd1643bba",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Diesel Legends of the Great Western",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:48:51.079Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LiverpoolLimeStreet"
+          }
+        },
+        "description": "Train Sim World\u00ae 2: Spirit of Steam: Liverpool Lime Street - Crewe",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "8d12468996d74f7f8368d8737fd367f3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d12468996d74f7f8368d8737fd367f3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0af45cb2935804fad59a3f8c386114d8",
+            "size": 945573,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-05-13T14:36:33.518Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXTrainSimWorld2SpiritofSteam_DovetailGames_DLC_S1_2560x1440-0af45cb2935804fad59a3f8c386114d8",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "8d8b2c8c4a4cb6a2695af469ff547838",
+            "size": 517919,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-05-13T14:36:36.705Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXTrainSimWorld2SpiritofSteam_DovetailGames_DLC_S2_1200x1600-8d8b2c8c4a4cb6a2695af469ff547838",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.910Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "cde04d3bb112491893f5ef5c6b7c1114",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "8557ed0027dd4ebe837794f6476391d8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Sim World\u00ae 2: Spirit of Steam: Liverpool Lime Street - Crewe",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-01-25T22:23:41.972Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HarlemLine"
+          }
+        },
+        "description": "Harlem Line: Grand Central Terminal - North White Plains",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "015c55ccc8fd4caa9921a465a98598b8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "015c55ccc8fd4caa9921a465a98598b8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f2b62e149408fb52dc15f3e7210c7618",
+            "size": 805763,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-03-03T16:19:20.715Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXHarlemLine_DovetailGames_DLC_S1_2560x1440-f2b62e149408fb52dc15f3e7210c7618",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "66236eaa2fcacfbf5a8c90715b3aae0c",
+            "size": 515412,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2022-03-03T16:19:23.886Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXHarlemLine_DovetailGames_DLC_S2_1200x1600-66236eaa2fcacfbf5a8c90715b3aae0c",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.883Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "8a362d0e9bb546268ed99d145515f057",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:00.000Z",
+            "id": "0fcabe27603942ea9bc887f77cc5e269",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Harlem Line: Grand Central Terminal - North White Plains",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:08:30.296Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EastCoastway"
+          }
+        },
+        "description": "East Coastway: Brighton - Eastbourne & Seaford",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "d1e9f3c209dd41988c342abf194c420d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1e9f3c209dd41988c342abf194c420d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "57ace5e0c815a83db9ec252b56351eba",
+            "size": 425344,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-28T05:52:46.812Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_EastCoastway_DovetailGames_DLC_S2_1200x1600-57ace5e0c815a83db9ec252b56351eba",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "a745088377298605eb3eac0a5603edfd",
+            "size": 534625,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-28T05:52:54.724Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_EastCoastway_DovetailGames_DLC_S1_2560x1440-a745088377298605eb3eac0a5603edfd",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.922Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "7f7fb17b2dd64cc9ab62501a3de644e4",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "590502af9e8444208000b90e5b83298b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "East Coastway: Brighton - Eastbourne & Seaford",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T20:59:52.442Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass50"
+          }
+        },
+        "description": "BR Class 50",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "480984f6c5254bb48dbb43daef442d8c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "480984f6c5254bb48dbb43daef442d8c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-11-19T03:28:20.602Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "9a764613e1aa49a3a28f5ba042a6c6e8",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "66e897aed2c94087b55eede603f6791b",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 50",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:47:16.558Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ArosalinieChur"
+          }
+        },
+        "description": "Arosalinie: Chur - Arosa",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "b933f4dfc9804f2eb63afcbdff7929b3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b933f4dfc9804f2eb63afcbdff7929b3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ef8f0b35b50860aa18f8b00b9500c6d4",
+            "size": 966193,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:11:03.526Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ArosalinieChurArosa_Rivetgames_DLC_S1_2560x1440-ef8f0b35b50860aa18f8b00b9500c6d4",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "00744ac06bf17dbc18f8b333d369aae3",
+            "size": 915444,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:11:00.726Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ArosalinieChurArosa_Rivetgames_DLC_S2_1200x1600-00744ac06bf17dbc18f8b333d369aae3",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.920Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "463bbefe95824f4d9038a8faec7ceedb",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "ad12e6c33738482191348c3134a31a8a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Arosalinie: Chur - Arosa",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:48:59.178Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CathcartCircleLine"
+          }
+        },
+        "description": "Cathcart Circle Line: Glasgow - Newton & Neilston",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "9f16b3a13cc04a958774df6d9ee77fb6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9f16b3a13cc04a958774df6d9ee77fb6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "89676922d636092d38bb94e8d3662844",
+            "size": 981417,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T14:54:53.885Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CathcartCircleLineGlasgowNewtonNeilston_DovetailGames_DLC_S1_2560x1440-89676922d636092d38bb94e8d3662844",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "da3e95e40ee7b44ca1749dbc6b8a79b7",
+            "size": 622654,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T14:55:05.548Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CathcartCircleLineGlasgowNewtonNeilston_DovetailGames_DLC_S2_1200x1600-da3e95e40ee7b44ca1749dbc6b8a79b7",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.914Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "111cacf5c4684db7ac5605bf9ef28c24",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "120a5dae66ff4afca1426b3b9d8adcf0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cathcart Circle Line: Glasgow - Newton & Neilston",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:11:09.133Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CaltrainMP15DC"
+          }
+        },
+        "description": "Caltrain MP15DC Diesel Switcher",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "01387b8143fa4cfbba017bffdd9cd1c4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "01387b8143fa4cfbba017bffdd9cd1c4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e415a334277c5b882f0e212ec9d5d88c",
+            "size": 355843,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:22:26.764Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_CaltrainMP15DCDieselSwitcher_DovetailGames_DLC_S1_2560x1440-e415a334277c5b882f0e212ec9d5d88c_2560x1440-e415a334277c5b882f0e212ec9d5d88c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "fcb7f7142482fea00946eb2a0f165f0b",
+            "size": 226026,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:22:29.699Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_CaltrainMP15DCDieselSwitcher_DovetailGames_DLC_S2_1200x1600-fcb7f7142482fea00946eb2a0f165f0b_1200x1600-fcb7f7142482fea00946eb2a0f165f0b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.883Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "f3b7f84642964b1789e49df01088827d",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "5c5fe1ecb75c45feb71a565a3da2b345",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Caltrain MP15DC Diesel Switcher",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:03:24.025Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR182"
+          }
+        },
+        "description": "DB BR 182",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "5f9542d52c0545839ed74c80644fbc53",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5f9542d52c0545839ed74c80644fbc53",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "dad711c9f7fa1a240e3c76493f8b0bf0",
+            "size": 364060,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:07:47.195Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR182_DovetailGames_DLC_S1_2560x1440-dad711c9f7fa1a240e3c76493f8b0bf0_2560x1440-dad711c9f7fa1a240e3c76493f8b0bf0",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a958df17cf3e3564c2decc92009972ac",
+            "size": 210921,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:07:50.544Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR182_DovetailGames_DLC_S2_1200x1600-a958df17cf3e3564c2decc92009972ac_1200x1600-a958df17cf3e3564c2decc92009972ac",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.903Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "97bde271eb8e481882480173e79497e3",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "1057c725e15a4e818eeab17c8a7daa0f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR 182",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:45:55.970Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LGVMediterranee"
+          }
+        },
+        "description": "LGV M\u00e9diterran\u00e9e: Marseille - Avignon",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "50c23aed692f4b049494a2d9e02bf690",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "50c23aed692f4b049494a2d9e02bf690",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0310b6787ae24560da9e4eb6914bce2a",
+            "size": 795233,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:07:47.393Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LGVMditerraneMarseilleAvignon_Dovetailgames_DLC_S1_2560x1440-0310b6787ae24560da9e4eb6914bce2a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "833895883bf16f3b0f4d42a15fbdc895",
+            "size": 721388,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:07:56.908Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LGVMditerraneMarseilleAvignon_Dovetailgames_DLC_S2_1200x1600-833895883bf16f3b0f4d42a15fbdc895",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.901Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "a44e6ba6c13f4379855cbe1d02ed5969",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "bbb51f76d20140dfad10385724508400",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LGV M\u00e9diterran\u00e9e: Marseille - Avignon",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T21:19:08.487Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Lucerne"
+          }
+        },
+        "description": "S-Bahn Zentralschweiz: Luzern - Sursee",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "9c035d32ee3e4d51a640818d2ca05478",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c035d32ee3e4d51a640818d2ca05478",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f2eaca2966af116cf20c091c6ef73f02",
+            "size": 814777,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-03-22T16:05:38.204Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXLuzernSersee_RivetGames_DLC_S1_2560x1440-f2eaca2966af116cf20c091c6ef73f02",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "67557635b01ab64dc96f02d687a5d221",
+            "size": 572840,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2022-03-22T16:05:41.399Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXLuzernSersee_RivetGames_DLC_S2_1200x1600-67557635b01ab64dc96f02d687a5d221",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.913Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "9c1c513636f345ea9493e0206aa334ad",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "a70b00fe3ff340a88189e03e901edfbd",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "S-Bahn Zentralschweiz: Luzern - Sursee",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:07:57.866Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass31"
+          }
+        },
+        "description": "BR Class 31",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "f97ca83d11754f05ba826505dad38349",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f97ca83d11754f05ba826505dad38349",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f85072fc0bf44cdf48ad91798e931df6",
+            "size": 312999,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:18:21.972Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass31_DovetailGames_DLC_S1_2560x1440-f85072fc0bf44cdf48ad91798e931df6_2560x1440-f85072fc0bf44cdf48ad91798e931df6",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b8981263705378ac2fbd19e889177df8",
+            "size": 186204,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:18:24.881Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass31_DovetailGames_DLC_S2_1200x1600-b8981263705378ac2fbd19e889177df8_1200x1600-b8981263705378ac2fbd19e889177df8",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.933Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "061d7cd5e76a43d291ba1d1847837922",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "55acd39722a94df5be8367d6af207441",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 31",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:15:52.441Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass20Chopper"
+          }
+        },
+        "description": "BR Class 20 'Chopper'",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "aaf549c69a8247688c76a33983626b43",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aaf549c69a8247688c76a33983626b43",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e3774ec7d1c8a849ac72f8f13491ebac",
+            "size": 916307,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:29:57.235Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass20Chopper_DovetailGames_DLC_S1_2560x1440-e3774ec7d1c8a849ac72f8f13491ebac_2560x1440-e3774ec7d1c8a849ac72f8f13491ebac",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d6a464e5e920313752e85942f6d21f34",
+            "size": 687134,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:30:00.541Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass20Chopper_DovetailGames_DLC_S2_1200x1600-d6a464e5e920313752e85942f6d21f34_1200x1600-d6a464e5e920313752e85942f6d21f34",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.917Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "f0d91d1630d0499ea6adc308251c5a3c",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "b12fdcad02fd4a368ea1892647adef3f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 20 'Chopper'",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:46:28.547Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "SoutheasternHighSpeed"
+          }
+        },
+        "description": "Southeastern High Speed London - Faversham",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "ac187169cc4f4f468201ae032b80cec9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ac187169cc4f4f468201ae032b80cec9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f1f141b2980a9e4c6101df79b29741dc",
+            "size": 720016,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T14:59:33.998Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SoutheasternHighSpeedLondonFaversham_DovetailGames_DLC_S1_2560x1440-f1f141b2980a9e4c6101df79b29741dc",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c4a470175327be566b06bde4b35dfe9e",
+            "size": 714467,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T14:59:42.765Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SoutheasternHighSpeedLondonFaversham_DovetailGames_DLC_S2_1200x1600-c4a470175327be566b06bde4b35dfe9e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.918Z",
+        "longDescription": "Southeastern High Speed London - Faversham",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "02d54ddff75d4b8188a15fb935c9a628",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "791e20c1fb164015af61656c3e162144",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Southeastern High Speed London - Faversham",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-04T17:03:32.628Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BostonSprinter"
+          }
+        },
+        "description": "Rush Hour Boston Sprinter",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "4db6bcc30b0a494081e2cbaab27d2c77",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4db6bcc30b0a494081e2cbaab27d2c77",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "272e5bbf78ba9f9160cd47e394f7f3ec",
+            "size": 790433,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-07T15:36:19.228Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RushHourBostonSprinter_DovetailGames_DLC_S1_2560x1440-272e5bbf78ba9f9160cd47e394f7f3ec",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b701d1739dd796b0a52b983a097553f0",
+            "size": 630289,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-07T15:36:25.061Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RushHourBostonSprinter_DovetailGames_DLC_S2_1200x1600-b701d1739dd796b0a52b983a097553f0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.900Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "75aab86e61e44aa9b697c9e826ae4015",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "dcae46f2a8694ccd869314593890df2a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rush Hour Boston Sprinter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:05:13.385Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass52"
+          }
+        },
+        "description": "BR Class 52",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "d9b89c68dcea46949d99945b3ade7d01",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d9b89c68dcea46949d99945b3ade7d01",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a666eb0ef9d2938ed42b4f88d208c86c",
+            "size": 366476,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:10:32.553Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass52Western_DovetailGames_DLC_S1_2560x1440-a666eb0ef9d2938ed42b4f88d208c86c_2560x1440-a666eb0ef9d2938ed42b4f88d208c86c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3ff9902cf15bd8f396efacb99ab9a719",
+            "size": 194689,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:10:35.598Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass52Western_DovetailGames_DLC_S2_1200x1600-3ff9902cf15bd8f396efacb99ab9a719_1200x1600-3ff9902cf15bd8f396efacb99ab9a719",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.923Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "84775e5243424399b2fb7ea999bcd4ea",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "b8bd6615ac9f4b409f247dd294ddcc1d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 52",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T16:23:03.460Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR363"
+          }
+        },
+        "description": "DB BR 363",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "f8ba5f889f924440927a899a3a6ec9e2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8ba5f889f924440927a899a3a6ec9e2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4c8ee7f38c6a02f19b6c931e7e485687",
+            "size": 891816,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:31:24.182Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR363_DovetailGames_DLC_S1_2560x1440-4c8ee7f38c6a02f19b6c931e7e485687_2560x1440-4c8ee7f38c6a02f19b6c931e7e485687",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "f062f72212310d8ebd589cbf2bbed3be",
+            "size": 593065,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:31:28.407Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR363_DovetailGames_DLC_S2_1200x1600-f062f72212310d8ebd589cbf2bbed3be_1200x1600-f062f72212310d8ebd589cbf2bbed3be",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.931Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "773af7f22fdb4ac9a65287f4b446262c",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "1b26845b4db9474ab5ab2e091ae28aeb",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR 363",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:02:54.426Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MainSpessartBahn"
+          }
+        },
+        "description": "Main Spessart Bahn: Aschaffenburg",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "ab7b930ca8ad4a1a8d6658760b3b391a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ab7b930ca8ad4a1a8d6658760b3b391a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0e8b717fb1f297482babe70c02bf13df",
+            "size": 362798,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:04:51.851Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_MainSpessartBahnAschaffenburgGemnden_DovetailGames_DLC_S1_2560x1440-0e8b717fb1f297482babe70c02bf13df_2560x1440-0e8b717fb1f297482babe70c02bf13df",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3dbd5ba2ae0b3731295d2390e1761804",
+            "size": 199204,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:04:48.219Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_MainSpessartBahnAschaffenburgGemnden_DovetailGames_DLC_S2_1200x1600-3dbd5ba2ae0b3731295d2390e1761804_1200x1600-3dbd5ba2ae0b3731295d2390e1761804",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.917Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "cb9b37954af8422fbbc6e59ac09650f7",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "181f0d65983a49eeb8f73489e7e2eb36",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Main Spessart Bahn: Aschaffenburg",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-04T17:07:48.363Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LondonCommuter"
+          }
+        },
+        "description": "Rush Hour London Commuter",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "d86166b806b9492c9ab5b10a32554bd1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d86166b806b9492c9ab5b10a32554bd1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "3fbe3c2bca0737a34aa8d4ec81c64647",
+            "size": 947439,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-07T15:34:52.838Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RushHourLondonCommuter_DovetailGames_DLC_S1_2560x1440-3fbe3c2bca0737a34aa8d4ec81c64647",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "262b0b9611a13b180c7cd3fb2223f51f",
+            "size": 552800,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-07T15:34:59.563Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RushHourLondonCommuter_DovetailGames_DLC_S2_1200x1600-262b0b9611a13b180c7cd3fb2223f51f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.923Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "2c1e6f4ec1344d0eb7cbd8a90c83277a",
+            "compatibleApps": [],
+            "dateAdded": "2021-11-16T18:59:29.157Z",
+            "id": "f96322ba62114411bd8c84aa3722fde5",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rush Hour London Commuter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:00:47.688Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RuhrSiegNord"
+          }
+        },
+        "description": "Ruhr-Sieg Nord: Hagen - Finnentrop",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "f4ef2214aff047cfb82ac56e40d4d044",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f4ef2214aff047cfb82ac56e40d4d044",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "08f86a8bc7097e7b9b2ff386fcf77634",
+            "size": 845358,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-16T19:04:51.974Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RuhrSiegNordHagenFinnentrop_DovetailGames_DLC_S1_2560x1440-08f86a8bc7097e7b9b2ff386fcf77634",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3eace8284abb2c4825625dc55c9bab96",
+            "size": 528298,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-16T19:04:55.948Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RuhrSiegNordHagenFinnentrop_DovetailGames_DLC_S2_1200x1600-3eace8284abb2c4825625dc55c9bab96",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.931Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "74482412f21542debdd70584c6539d9e",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "3c15ef7de99c4d43a29d15649bdba405",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ruhr-Sieg Nord: Hagen - Finnentrop",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:06:15.603Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TeesValleyLine"
+          }
+        },
+        "description": "Tees Valley Line: Darlington - Saltburn-by-the-Sea",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "e4721186a5874c84a5b9302e11af9503",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e4721186a5874c84a5b9302e11af9503",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "36ba38a95367a9c1db613e1dd53e71da",
+            "size": 268727,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:13:40.897Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_TeesValleyLineDarlingtonSaltburnbytheSea_DovetailGames_DLC_S1_2560x1440-36ba38a95367a9c1db613e1dd53e71da_2560x1440-36ba38a95367a9c1db613e1dd53e71da",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "36efea10e7c571564d237a1e6254ae89",
+            "size": 159281,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:13:43.999Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_TeesValleyLineDarlingtonSaltburnbytheSea_DovetailGames_DLC_S2_1200x1600-36efea10e7c571564d237a1e6254ae89_1200x1600-36efea10e7c571564d237a1e6254ae89",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.929Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "93add1d5ff1d41ff8e9eb55d8339a3e2",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "136bfeef73214e83a72dca7a4d8a43d2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tees Valley Line: Darlington - Saltburn-by-the-Sea",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:46:55.490Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "SoutheasternBR"
+          }
+        },
+        "description": "Southeastern BR Class 465",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "0076eb48d42f4787a7a8337ca4118444",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0076eb48d42f4787a7a8337ca4118444",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1b4d447c03a0ff0ccdc348cf6499107f",
+            "size": 1000094,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:16:41.931Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SoutheasternBRClass465_DovetailGames_DLC_S1_2560x1440-1b4d447c03a0ff0ccdc348cf6499107f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "83650a550a7d619a412978476d37e5f1",
+            "size": 680646,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:16:54.436Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SoutheasternBRClass465_DovetailGames_DLC_S2_1200x1600-83650a550a7d619a412978476d37e5f1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-11-12T17:50:12.694Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "493d4859dff74c7189c3f23c12831c6d",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "a7b5dba4c1c740ecaf14f152b8716f79",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Southeastern BR Class 465",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:15:14.851Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LIRRM3EMU"
+          }
+        },
+        "description": "LIRR M3 EMU",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "33e85fad850a47eca45674dbdc7372d5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "33e85fad850a47eca45674dbdc7372d5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "5d7820be383544c936a5c50f9f189263",
+            "size": 963576,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:26:03.923Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_LIRRM3EMU_DovetailGames_DLC_S1_2560x1440-5d7820be383544c936a5c50f9f189263_2560x1440-5d7820be383544c936a5c50f9f189263",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "32913ecaa485780b57dc609d0959e0f0",
+            "size": 568272,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:26:07.804Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_LIRRM3EMU_DovetailGames_DLC_S2_1200x1600-32913ecaa485780b57dc609d0959e0f0_1200x1600-32913ecaa485780b57dc609d0959e0f0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.896Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "d31cb0b3fcab4797b12cb4ee3acc004b",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "5ec631b4d94a444b8f51a2eb2a11950a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LIRR M3 EMU",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T20:57:54.372Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RhBAnniversary"
+          }
+        },
+        "description": "RhB Anniversary Collection",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "e4b1ccfdb4a74f7b8f0bcd74ade8306a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e4b1ccfdb4a74f7b8f0bcd74ade8306a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "659defbba47dda47104cb5341e7d3eec",
+            "size": 787847,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-12-02T18:22:57.950Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RhBAnniversaryCollection_RivetGames_DLC_S1_2560x1440-659defbba47dda47104cb5341e7d3eec",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "fa99679dd82d81def70b860beb835c33",
+            "size": 458111,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-12-02T18:23:01.301Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RhBAnniversaryCollection_RivetGames_DLC_S2_1200x1600-fa99679dd82d81def70b860beb835c33",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.929Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "b42874948f20432b9cc5aaca2abf41eb",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "070d2e4a148543e883a117c499bfd1b2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RhB Anniversary Collection",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:06:52.216Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "PeninsulaValley"
+          }
+        },
+        "description": "Peninsula Valley: San Fransisco - San Jose",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "a8857009807d4c0fa2497138f0e55440",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a8857009807d4c0fa2497138f0e55440",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "effee683467926196e66e97dfb94e87c",
+            "size": 416778,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:16:31.462Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_PeninsulaCorridorSanFranciscoSanJose_DovetailGames_DLC_S1_2560x1440-effee683467926196e66e97dfb94e87c_2560x1440-effee683467926196e66e97dfb94e87c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7f099e42dc94fadb43a657ac98ed6a0f",
+            "size": 257169,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:16:34.861Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_PeninsulaCorridorSanFranciscoSanJose_DovetailGames_DLC_S2_1200x1600-7f099e42dc94fadb43a657ac98ed6a0f_1200x1600-7f099e42dc94fadb43a657ac98ed6a0f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.915Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "462a4c703ffc4e02822151e2616d8463",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "e06fab6804494c6d85ee7d653763225f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Peninsula Valley: San Fransisco - San Jose",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:05:46.325Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRHeavyFreightPack"
+          }
+        },
+        "description": "BR Heavy Freight Pack",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "1562280b23fa4c738532572fb421da2a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1562280b23fa4c738532572fb421da2a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "54e44d21267149eb719d544be6446812",
+            "size": 438261,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:12:14.763Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRHeavyFreightPack_DovetailGames_DLC_S1_2560x1440-54e44d21267149eb719d544be6446812_2560x1440-54e44d21267149eb719d544be6446812",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "c51bbec32d90e45046bacececfd20d73",
+            "size": 230969,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:12:18.296Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRHeavyFreightPack_DovetailGames_DLC_S2_1200x1600-c51bbec32d90e45046bacececfd20d73_1200x1600-c51bbec32d90e45046bacececfd20d73",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.890Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "434c9497494743d0a2af686e4511449f",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "4600c6303ae74f4389b16312f0f01176",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Heavy Freight Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:09:19.044Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CaltrainMP36PH3C"
+          }
+        },
+        "description": "Caltrain MP36PH-3C 'Baby Bullet'",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "1f6fcf6ec1ed405682149782e375a20e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f6fcf6ec1ed405682149782e375a20e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "872c1dd8413ec615c224c8151ef95532",
+            "size": 300177,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:19:21.808Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_CaltrainMP36PH3CBabyBullet_DovetailGames_DLC_S1_2560x1440-872c1dd8413ec615c224c8151ef95532_2560x1440-872c1dd8413ec615c224c8151ef95532",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "bd26d26eee9643890e4d34fb95ec9628",
+            "size": 172281,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:19:24.698Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_CaltrainMP36PH3CBabyBullet_DovetailGames_DLC_S2_1200x1600-bd26d26eee9643890e4d34fb95ec9628_1200x1600-bd26d26eee9643890e4d34fb95ec9628",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.893Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "fd4923d122a9458088d99743c4c8113b",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "55215e5606c948d78f56758a13734e03",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Caltrain MP36PH-3C 'Baby Bullet'",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T16:24:28.579Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR101"
+          }
+        },
+        "description": "DB BR 101",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "2159e9678ee344d78f39c1d8b53c5ca3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2159e9678ee344d78f39c1d8b53c5ca3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "7a4908f8f318b78c0434872adb6db4f6",
+            "size": 842321,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-15T16:32:21.662Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR101_DovetailGames_DLC_S1_2560x1440-7a4908f8f318b78c0434872adb6db4f6",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "8a4537d67471d4aa1489930286d43722",
+            "size": 557387,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-15T16:32:30.388Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR101_DovetailGames_DLC_S2_1200x1600-8a4537d67471d4aa1489930286d43722",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.894Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "582bab006de34ac48464bd4904b6cd17",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "c04a28aeb41c4d43a0e03519d8fb5110",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR 101",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:01:20.042Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LongIslandRailRoad"
+          }
+        },
+        "description": "Long Island Rail Road: New York - Hicksville",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "2e3791927c634ef3bfb760b161d06896",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2e3791927c634ef3bfb760b161d06896",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "061ca2190b8193b5fcd68dba4c81409f",
+            "size": 421836,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T14:50:26.177Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_LongIslandRailRoadNewYorkHicksville_DovetailGames_DLC_S2_1200x1600-061ca2190b8193b5fcd68dba4c81409f_1200x1600-061ca2190b8193b5fcd68dba4c81409f",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "e376085c0711cace1bd978b0573e8f46",
+            "size": 788059,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T14:50:22.093Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_LongIslandRailRoadNewYorkHicksville_DovetailGames_DLC_S1_2560x1440-e376085c0711cace1bd978b0573e8f46_2560x1440-e376085c0711cace1bd978b0573e8f46",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.895Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "3cbfb0e9e6124f0ebd7afaab09df3aba",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "a039ec1b142b496eb6de057659f2b464",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Long Island Rail Road: New York - Hicksville",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:55:17.716Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ShermanHill"
+          }
+        },
+        "description": "Sherman Hill: Cheyenne - Laramie",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "1f23c0fa832e4f77ad728e745bb3e6cd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f23c0fa832e4f77ad728e745bb3e6cd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "652d33a7d71fb1fa1b1b2dfefbc9a42d",
+            "size": 928615,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T14:26:02.574Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_ShermanHillCheyenneLaramie_DovetailGames_DLC_S1_2560x1440-652d33a7d71fb1fa1b1b2dfefbc9a42d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "628fc53483d2f3050946aeef8b80d981",
+            "size": 794642,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T14:26:05.147Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_ShermanHillCheyenneLaramie_DovetailGames_DLC_S2_1200x1600-628fc53483d2f3050946aeef8b80d981",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.893Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "6f89d8f5eb2d4bae8135e4e831491013",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "b0a2a9503d7e4fdbafd8c93cb97e10a8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sherman Hill: Cheyenne - Laramie",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-10-20T20:58:47.501Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TharandterRampe"
+          }
+        },
+        "description": "Tharandter Rampe: Dresden - Chemnitz",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "79562b960e1247619086c110d361c8e8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79562b960e1247619086c110d361c8e8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "5212afc46fa2d41e45044764843870e3",
+            "size": 451848,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-12-02T17:49:47.393Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_TharandterRampeDresdenChemnitz_DovetailGames_DLC_S1_2560x1440-5212afc46fa2d41e45044764843870e3",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "be043f5af1e8e1c8250ab479b8312e5f",
+            "size": 244784,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-12-02T17:49:52.016Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_TharandterRampeDresdenChemnitz_DovetailGames_DLC_S2_1200x1600-be043f5af1e8e1c8250ab479b8312e5f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.908Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "af581bf790954d2eb849cc2ca7f44c36",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "9d71f5c786a346d789668e9c07971670",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tharandter Rampe: Dresden - Chemnitz",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:32:53.163Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass313EMU"
+          }
+        },
+        "description": "BR Class 313 EMU",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "914f8861bcad47cd924a899bbc0547ba",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "914f8861bcad47cd924a899bbc0547ba",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "dad36c2d232c5163f5ac36422882f0a1",
+            "size": 124202,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-28T05:53:45.957Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass313EMU_DovetailGames_DLC_S2_1200x1600-dad36c2d232c5163f5ac36422882f0a1",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "f9d412cfb47da56fea1cfaddf34d96e8",
+            "size": 216899,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-28T05:53:53.347Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass313EMU_DovetailGames_DLC_S1_2560x1440-f9d412cfb47da56fea1cfaddf34d96e8",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.911Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "8941cdc41efe42b1bfd2844312d06ea0",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "6445b3f4356d4c4ea0f5065682d694e8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 313 EMU",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:56:04.481Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "GWExpress"
+          }
+        },
+        "description": "Great Western Express",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "5dfd35b70b4b4c2880c137160f2173aa",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5dfd35b70b4b4c2880c137160f2173aa",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4a40aa2e0c7db6ee1b4a82035779b8ae",
+            "size": 414779,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-12T17:02:32.434Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_GreatWesternExpress_DovetailGames_DLC_S1_2560x1440-4a40aa2e0c7db6ee1b4a82035779b8ae",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a4e8c2fe8c2067d06f10d1cfce3bcc9a",
+            "size": 426156,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-12T17:02:43.205Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_GreatWesternExpress_DovetailGames_DLC_S2_1200x1600-a4e8c2fe8c2067d06f10d1cfce3bcc9a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.903Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "c537cdc4f3ef462fb86eae5f19c6ae2e",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "e0bd8118dcb94a20a25d67dbbe7bf3e0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Great Western Express",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:32:34.906Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "WestCornwall"
+          }
+        },
+        "description": "West Cornwall Local: Penzance - St. Austell & St. Ives",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "aabb2b634d9449ffb571523dcc19652c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aabb2b634d9449ffb571523dcc19652c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "98453327bc4edf75aec16788fa8f6972",
+            "size": 727735,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-05T14:53:12.277Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXWestCornwallLocalPenzanceStAustell_RivetGames_DLC_S2_1200x1600-98453327bc4edf75aec16788fa8f6972",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "2bcee6a3e0a3d0b133e8b147c6f45f04",
+            "size": 806935,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-05T14:53:20.011Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXWestCornwallLocalPenzanceStAustell_RivetGames_DLC_S1_2560x1440-2bcee6a3e0a3d0b133e8b147c6f45f04",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.917Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "01a648d7b06a4de8b2fee76ca494c125",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "34395cdae1c44bf59247c316f4469dc9",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "West Cornwall Local: Penzance - St. Austell & St. Ives",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:13:26.062Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR204"
+          }
+        },
+        "description": "DB BR 204",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "a85328fe59aa40c28ad0d9955320b660",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a85328fe59aa40c28ad0d9955320b660",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1f7294f42044263f7eb717981315490f",
+            "size": 1022564,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:23:45.983Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR204_RivetGames_DLC_S1_2560x1440-1f7294f42044263f7eb717981315490f_2560x1440-1f7294f42044263f7eb717981315490f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a8b492887e3624f210f019e113f17401",
+            "size": 630528,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:23:49.807Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR204_RivetGames_DLC_S2_1200x1600-a8b492887e3624f210f019e113f17401_1200x1600-a8b492887e3624f210f019e113f17401",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.915Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "dfc8afea28c943b79f7566effceac6a0",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "cd8179cc679847aaa39832c5300882b6",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR 204",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:37:38.746Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HauptstreckeMunchen"
+          }
+        },
+        "description": "Hauptstrecke M\u00fcnchen - Augsburg",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "607b6363ccb6471ebff9770985643bda",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "607b6363ccb6471ebff9770985643bda",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "44d5ad29ba8021467355b5879d1af99c",
+            "size": 759767,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T14:56:21.919Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HauptstreckeMnchenAugsburg_DovetailGames_DLC_S2_1200x1600-44d5ad29ba8021467355b5879d1af99c",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "8a897704087dc74933bb6e2d45d28f7e",
+            "size": 917516,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T14:56:35.680Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HauptstreckeMnchenAugsburg_DovetailGames_DLC_S1_2560x1440-8a897704087dc74933bb6e2d45d28f7e",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.904Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "f359008a3d254d029065cc733ed6b81c",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "2fa88ab6b5db4063883d63997a472a49",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hauptstrecke M\u00fcnchen - Augsburg",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:49:48.585Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LondonUnderground"
+          }
+        },
+        "description": "London Underground 1938 Stock EMU",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "dce9b16066624e48b4160f6b95765b2e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dce9b16066624e48b4160f6b95765b2e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "7894297fbb4902e86ec5858635a0c0c8",
+            "size": 635236,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-14T14:45:11.632Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LondonUnderground1938StockEMU_RivetGames_DLC_S2_1200x1600-7894297fbb4902e86ec5858635a0c0c8",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "97c30db9297989899af1305ae9a8f4b9",
+            "size": 894379,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-14T14:45:19.785Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LondonUnderground1938StockEMU_RivetGames_DLC_S1_2560x1440-97c30db9297989899af1305ae9a8f4b9",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.927Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "ac541ab706d04cf9b21c2db97f4cb5df",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "0d2529750cb24aab954efd818d3fb77e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "London Underground 1938 Stock EMU",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:00:16.562Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "WestSomersetRailway"
+          }
+        },
+        "description": "West Somerset Railway",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "df5ea15b19bb417aab167f37f6d95182",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "df5ea15b19bb417aab167f37f6d95182",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "14430d4a31a1f0e829152ed369a1cc5f",
+            "size": 900893,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T14:37:30.360Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_WestSomersetRailway_DovetailGames_DLC_S1_2560x1440-14430d4a31a1f0e829152ed369a1cc5f",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "18ab66d4fa553609835523ebed0639ac",
+            "size": 470317,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T14:37:33.816Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_WestSomersetRailway_DovetailGames_DLC_S2_1200x1600-18ab66d4fa553609835523ebed0639ac",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-20T14:47:13.086Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "e91a16bce53940d7b9352dca83bda707",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "9b58cb777bb34ca9a3ccf8cfedc813f6",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "West Somerset Railway",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:31:58.630Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR187"
+          }
+        },
+        "description": "DB BR 187",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "dae7bde16a48420298cc2070ac82e918",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dae7bde16a48420298cc2070ac82e918",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1d8d9df3e190cf7de80d7ae93ed8b87d",
+            "size": 926168,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-10-14T14:47:42.667Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DBBR187_SkyhookGames_DLC_S1_2560x1440-1d8d9df3e190cf7de80d7ae93ed8b87d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e57fec35764abb665eebb3907879e493",
+            "size": 933930,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-10-14T14:47:51.436Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DBBR187_SkyhookGames_DLC_S2_1200x1600-e57fec35764abb665eebb3907879e493",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.925Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "068823ad13524a48a42d3a801e879534",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "c0d3d94b7bcf42cdbc9c109aeb84d2e8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR 187",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:10:34.073Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CanadianNational"
+          }
+        },
+        "description": "Canadian National Oakville Subdivision: Hamilton - Oakville",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "709910f4ae19485ba4ac764ea4bf4969",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "709910f4ae19485ba4ac764ea4bf4969",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "561b9f58c52e1f4bc0753bbc0fdaa8db",
+            "size": 967349,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:20:52.401Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXCanadianNationalOakvilleSubdivision_DovetailGames_DLC_S1_2560x1440-561b9f58c52e1f4bc0753bbc0fdaa8db_2560x1440-561b9f58c52e1f4bc0753bbc0fdaa8db",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "1c4c6df3364b9cf1ff1b051b2c391c20",
+            "size": 590939,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:20:55.269Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_FIXCanadianNationalOakvilleSubdivision_DovetailGames_DLC_S2_1200x1600-1c4c6df3364b9cf1ff1b051b2c391c20_1200x1600-1c4c6df3364b9cf1ff1b051b2c391c20",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.906Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "c5b2607e9ab14f108999fd4f3ac08b63",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "fa0ee020766b4456ade70bb1709c81a7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Canadian National Oakville Subdivision: Hamilton - Oakville",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:49:23.986Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HorseshoeCurve"
+          }
+        },
+        "description": "Horseshoe Curve: Altoona - Johnstown & South Fork",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "2b5b8a6b8f0649509dc3b3c0efa1fd9b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2b5b8a6b8f0649509dc3b3c0efa1fd9b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "523300a0919642ea75ff414e934e4f16",
+            "size": 376607,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-08T17:06:37.263Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_HorseshoeCurveAltoonaJohnstownSouthFork_SkyhookGames_DLC_S1_2560x1440-523300a0919642ea75ff414e934e4f16",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "0cac38cda16455cd390b73ab161443c1",
+            "size": 552466,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2022-04-08T17:06:40.439Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_HorseshoeCurveAltoonaJohnstownSouthFork_SkyhookGames_DLC_S2_1200x1600-0cac38cda16455cd390b73ab161443c1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.894Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "5e9b3670f6184452bad474ad7ec28757",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "6109b09b6cc44a8d9c0db9bab7e912ad",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horseshoe Curve: Altoona - Johnstown & South Fork",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-08-04T17:05:56.286Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "NahverkehrDresden"
+          }
+        },
+        "description": "Rush Hour - Nahverkehr Dresden",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "fde7fbc5573f43d881740eacc845163c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fde7fbc5573f43d881740eacc845163c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0bc89f2c71c91b711b22eb7d634834bd",
+            "size": 935789,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-09-08T20:14:51.130Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/home_2560x1440-0bc89f2c71c91b711b22eb7d634834bd",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "51d687111b28dabec4b4706e35f22dd6",
+            "size": 1023577,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-09-08T20:14:59.790Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/home_1200x1600-51d687111b28dabec4b4706e35f22dd6",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.933Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "0fd5f53677ce44338700a99cb9ca09bf",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "7b49a8fa9d474255aec18858b372c9a2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rush Hour - Nahverkehr Dresden",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:07:24.669Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RheinRiuhrOsten"
+          }
+        },
+        "description": "Rhein-Ruhr Osten: Wuppertal - Hagen",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "62e7322d5eaa4a509f9d228fcf1ad0d5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "62e7322d5eaa4a509f9d228fcf1ad0d5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "12ed30a721cdcf5d6a6777531d36c4e7",
+            "size": 917618,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-16T19:07:44.746Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RheinRuhrOstenWuppertalHagenRoute_DovetailGames_DLC_S1_2560x1440-12ed30a721cdcf5d6a6777531d36c4e7",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "6fa120320f59c564d169479d2b566b90",
+            "size": 500619,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-16T19:07:52.644Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RheinRuhrOstenWuppertalHagenRoute_DovetailGames_DLC_S2_1200x1600-6fa120320f59c564d169479d2b566b90",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.904Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "dd3e1496c5184e68be1307d0868a460b",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "6e953e0101bb41c3b92a846e3b9b6f94",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rhein-Ruhr Osten: Wuppertal - Hagen",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:49:27.045Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CaneCreekThompson"
+          }
+        },
+        "description": "Cane Creek Thompson - Potash",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "342ebe7c4ab94bb6acde18065bd6b177",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "342ebe7c4ab94bb6acde18065bd6b177",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1765611138b60dc7651e387794fef1fb",
+            "size": 978105,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:08:56.420Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CaneCreekThompsonPotash_SkyhookGames_DLC_S1_2560x1440-1765611138b60dc7651e387794fef1fb",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "6dc52fb1828fd18f6084485ca5278503",
+            "size": 533408,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:09:04.222Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CaneCreekThompsonPotash_SkyhookGames_DLC_S2_1200x1600-6dc52fb1828fd18f6084485ca5278503",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.896Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "e4f3edce95724a0e9525ac4dc7b3998f",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "39c8a57a20ff480a9e63bee07fcc0ac9",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Cane Creek Thompson - Potash",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:04:23.123Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DBBR155"
+          }
+        },
+        "description": "DB BR155",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "1e1b98eb82a145a697af6428e12f8eb9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1e1b98eb82a145a697af6428e12f8eb9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0827542b08545d9fc704be2b7b1362e1",
+            "size": 435606,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T15:09:08.452Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR155_DovetailGames_DLC_S1_2560x1440-0827542b08545d9fc704be2b7b1362e1_2560x1440-0827542b08545d9fc704be2b7b1362e1",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3651a1e3b7c46c0d034ef193d5e3cba9",
+            "size": 271451,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T15:09:11.551Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_DBBR155_DovetailGames_DLC_S2_1200x1600-3651a1e3b7c46c0d034ef193d5e3cba9_1200x1600-3651a1e3b7c46c0d034ef193d5e3cba9",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.893Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "8fcfcfc66ca648c793465caf31a9d0bb",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "80533f0743e8468cacff9071b31dab80",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DB BR155",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:35:43.043Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "IsleofWightRyde"
+          }
+        },
+        "description": "Isle of Wight: Ryde - Shanklin",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "78c819297de841889b804291cedd70a2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "78c819297de841889b804291cedd70a2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "640e5ef6618066a7f1e26f93f551d146",
+            "size": 589530,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T14:57:59.159Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsleofWightRydeShanklin_RivetGames_DLC_S2_1200x1600-640e5ef6618066a7f1e26f93f551d146",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "592499cc8d03f49e65c70aa085f7bc9c",
+            "size": 731505,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T14:58:08.833Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_IsleofWightRydeShanklin_RivetGames_DLC_S1_2560x1440-592499cc8d03f49e65c70aa085f7bc9c",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.907Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "2a8e3a7bac1b4b6bbfd463211f2d0341",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "fcd777b538f742459f192ebf9b7ee3c0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Isle of Wight: Ryde - Shanklin",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:47:57.365Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ClinchfieldRailroad"
+          }
+        },
+        "description": "Clinchfield Railroad: Elkhorn - Dante",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "d327fd5d95724fb9a46cbdf58abfd184",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d327fd5d95724fb9a46cbdf58abfd184",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9eebf3a52d5f9b6e8c03c51b8764edae",
+            "size": 742703,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:13:24.119Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ClinchfieldRailroadElkhornDante_Dovetailgames_DLC_S1_2560x1440-9eebf3a52d5f9b6e8c03c51b8764edae",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "2876ff7a67337064d468864b1f46bab1",
+            "size": 698795,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:13:32.127Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ClinchfieldRailroadElkhornDante_Dovetailgames_DLC_S2_1200x1600-2876ff7a67337064d468864b1f46bab1",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.922Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "7f58d2fdc6be4f5288a8ef2d1127fce6",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "c4c337a7937e404889bb1383663b3558",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Clinchfield Railroad: Elkhorn - Dante",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T20:59:51.088Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RapidTransit"
+          }
+        },
+        "description": "Rapid Transit",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "b8db716d042243babd7e0e7b34585bea",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b8db716d042243babd7e0e7b34585bea",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "788ee363214ebe531831879e5d2a2da8",
+            "size": 717927,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-16T19:05:27.317Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RapidTransit_DovetailGames_DLC_S1_2560x1440-788ee363214ebe531831879e5d2a2da8",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "1ef74ca7ddd18230a3c1a8ffa5ec4f1d",
+            "size": 417946,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-16T19:05:41.859Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_RapidTransit_DovetailGames_DLC_S2_1200x1600-1ef74ca7ddd18230a3c1a8ffa5ec4f1d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.920Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "6d298d57797e4d4a9c9d8ef6f01399d9",
+            "compatibleApps": [],
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "59665bbbdb464a0eb5fb7d845e2f41d7",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rapid Transit",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:01:53.609Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "NTPManchesterLeeds"
+          }
+        },
+        "description": "Northern Trans-Pennine: Manchester - Leeds",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "6e0b14d3bbde423282dc0003dd6d0768",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6e0b14d3bbde423282dc0003dd6d0768",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "f7ca8759458d5da9ba73c45ee2de11e1",
+            "size": 865062,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-12T17:08:17.316Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_NorthernTransPennineManchesterLeeds_DovetailGames_DLC_S1_2560x1440-f7ca8759458d5da9ba73c45ee2de11e1",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "1c34d6808238082945a34f95ca23cc3a",
+            "size": 538100,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-12T17:08:28.046Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_NorthernTransPennineManchesterLeeds_DovetailGames_DLC_S2_1200x1600-1c34d6808238082945a34f95ca23cc3a",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.905Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "d056a0426c754508bd119c177fa2e7ab",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "7d7b4675194b475e9b4cec80ad74c393",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Northern Trans-Pennine: Manchester - Leeds",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:02:20.981Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BRClass33"
+          }
+        },
+        "description": "BR Class 33",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "0b5e14ae2ffc4a4ab690055102ab470a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b5e14ae2ffc4a4ab690055102ab470a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "4503dd863c0a2eac244a7c211820d675",
+            "size": 482094,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-23T14:52:22.703Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass33_DovetailGames_DLC_S1_2560x1440-4503dd863c0a2eac244a7c211820d675_2560x1440-4503dd863c0a2eac244a7c211820d675",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "6ad542bb4a70fe05a1dc1d940cf6db98",
+            "size": 850476,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-23T14:52:26.185Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_BRClass33_DovetailGames_DLC_S2_1200x1600-6ad542bb4a70fe05a1dc1d940cf6db98_1200x1600-6ad542bb4a70fe05a1dc1d940cf6db98",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.887Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "9453f76d810b4eb7abf47e1ba6170365",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "b076b32d551b4de9b690b264cfa8e715",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BR Class 33",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-16T14:36:58.522Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "IslandLine2022"
+          }
+        },
+        "description": "Island Line 2022: BR Class 484",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "97d938d6d0ca401bb37af4459702763a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97d938d6d0ca401bb37af4459702763a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "da47c5bb596b33e59d92e183624c29ba",
+            "size": 918343,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-07-06T16:19:34.370Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_IslandLine2022BRClass484_RivetGames_DLC_S1_2560x1440-da47c5bb596b33e59d92e183624c29ba",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "3c735297f13f9e5077e32864d1796702",
+            "size": 505194,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-07-06T16:19:37.231Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_IslandLine2022BRClass484_RivetGames_DLC_S2_1200x1600-3c735297f13f9e5077e32864d1796702",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.912Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "ae3c788a931042e0b826c5cc6b7c6db9",
+            "id": "3cdf8fd8f0f74521a3f7b4277a187621",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Island Line 2022: BR Class 484",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:38:36.877Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CSXC408W"
+          }
+        },
+        "description": "CSX C40-8W",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "ee9d7c896f85416eb16aa9a8982779f8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ee9d7c896f85416eb16aa9a8982779f8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0fa0bee9f3262ae9f6ff8898e6fcec41",
+            "size": 630043,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:05:53.255Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CSXC408W_DovetailGames_DLC_S1_2560x1440-0fa0bee9f3262ae9f6ff8898e6fcec41",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "a9bb348e11ea463c3a7f9c44f3663996",
+            "size": 525110,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:06:02.511Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CSXC408W_DovetailGames_DLC_S2_1200x1600-a9bb348e11ea463c3a7f9c44f3663996",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.930Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "e510ffa902d8490d97dba1786d4c030f",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "0341ca4b60c64fc599b1f6508bdf86be",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "CSX C40-8W",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-06-09T17:48:29.599Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HauptstreckeHamburg"
+          }
+        },
+        "description": "Hauptstrecke Hamburg - L\u00fcbeck",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "1be3bf397a904764b029f733dd5fd4ef",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1be3bf397a904764b029f733dd5fd4ef",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "7f5d8749fd84c1b33d80f352f8f49645",
+            "size": 669002,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-07-22T15:15:34.603Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HauptstreckeHamburgLbeck_DovetailGames_DLC_S2_1200x1600-7f5d8749fd84c1b33d80f352f8f49645",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "8a926f66826a90ee74f261d48311dfcf",
+            "size": 806233,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-07-22T15:15:43.849Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HauptstreckeHamburgLbeck_DovetailGames_DLC_S1_2560x1440-8a926f66826a90ee74f261d48311dfcf",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.892Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "e1da8cb7ef124053b3529ffbc00529d9",
+            "dateAdded": "2021-03-22T04:00:00.000Z",
+            "id": "f2fad582dd5344d28ae87872a901bbf9",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hauptstrecke Hamburg - L\u00fcbeck",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-09-28T21:12:43.647Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HauptstreckeRhineRuhr"
+          }
+        },
+        "description": "Hauptstrecke Rhine-Ruhr: Duisberg - Bochum",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "dc8dd4afbdd2460384431091ad5f3b46",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc8dd4afbdd2460384431091ad5f3b46",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b8d4d34fd3afe072e3e9443274a4ce01",
+            "size": 515252,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-16T19:06:57.790Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_HauptstreckeRheinRuhrDuisburgBochum_DovetailGames_DLC_S2_1200x1600-b8d4d34fd3afe072e3e9443274a4ce01",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "3f79d9606b172c1a0bb703772f5bdf16",
+            "size": 816736,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-11-16T19:06:52.971Z",
+            "url": "https://cdn1.epicgames.com/offer/d8d8b399f3d14ac2b9b75870329a68dd/EGS_HauptstreckeRheinRuhrDuisburgBochum_DovetailGames_DLC_S1_2560x1440-3f79d9606b172c1a0bb703772f5bdf16",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2024-09-13T16:24:07.926Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "eaecb7a7120849718e3ed2cc4b1461b5",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:15.357Z",
+            "id": "f230df9c49584e549f06166be2a848b2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hauptstrecke Rhine-Ruhr: Duisberg - Bochum",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567gmcSEJkk0CfFZFcWINRXkUgR",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-01-25T22:20:44.367Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "NewJourneysExpansion"
+          }
+        },
+        "description": "New Journeys Expansion",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "9ccf5e4cb16c46a898765289e9eeb94d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9ccf5e4cb16c46a898765289e9eeb94d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "32c8629bf6edbcdd4ad7689c8138935d",
+            "size": 322821,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-16T15:47:00.223Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_NewJourneysExpansion_DovetailGames_DLC_S1_2560x1440-32c8629bf6edbcdd4ad7689c8138935d",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "0f3f67e371d8585419f2061d6308f89e",
+            "size": 165083,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-16T15:47:03.390Z",
+            "url": "https://cdn1.epicgames.com/item/d8d8b399f3d14ac2b9b75870329a68dd/EGS_NewJourneysExpansion_DovetailGames_DLC_S2_1200x1600-0f3f67e371d8585419f2061d6308f89e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-10-05T12:45:57.767Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [
+          {
+            "appId": "6fdfdb9f2d9944948ec7445d4cc4476d",
+            "compatibleApps": [],
+            "dateAdded": "2021-09-28T21:01:00.000Z",
+            "id": "0406c30a90fc4b0cb94c38427593d0c6",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "New Journeys Expansion",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-21T12:39:25.835Z",
+        "customAttributes": {},
+        "description": "Dependency Marker",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "67e544afb7c641198c8f59028f4dc484",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "67e544afb7c641198c8f59028f4dc484",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-05-21T17:50:28.615Z",
+        "mainGameItem": {
+          "id": "384c9e7b83f0428ebe20571d0fcd272c",
+          "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "384c9e7b83f0428ebe20571d0fcd272c",
+            "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dependency Marker",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "384c9e7b83f0428ebe20571d0fcd272c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "384c9e7b83f0428ebe20571d0fcd272c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "51d687111b28dabec4b4706e35f22dd6",
+        "size": 1023577,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-22T14:03:36.853Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/home_1200x1600-51d687111b28dabec4b4706e35f22dd6",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "0bc89f2c71c91b711b22eb7d634834bd",
+        "size": 935789,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-22T14:03:46.164Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/home_2560x1440-0bc89f2c71c91b711b22eb7d634834bd",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T17:50:28.685Z",
+    "mainGameItemList": [],
+    "namespace": "d8d8b399f3d14ac2b9b75870329a68dd",
+    "releaseInfo": [
+      {
+        "appId": "dd75b5c168d546cc869582c0389f0a1d",
+        "dateAdded": "2021-03-22T00:00:00.000Z",
+        "id": "ffe4646ba60445178c5c107fc94ff3d3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Train Sim World 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

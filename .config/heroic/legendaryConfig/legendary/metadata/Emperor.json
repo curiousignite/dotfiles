@@ -1,0 +1,119 @@
+{
+  "app_name": "Emperor",
+  "app_title": "GoNNER",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Emperor",
+      "asset_id": "Emperor",
+      "build_version": "ItsnotGonner2",
+      "catalog_item_id": "dfc6d5a969a148649c237603fc64d2a6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "109273d8719f46b9b89cb912a6649e5c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-18T15:32:41.008Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GoNNER"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "109273d8719f46b9b89cb912a6649e5c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "GoNNER",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "dfc6d5a969a148649c237603fc64d2a6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "dfc6d5a969a148649c237603fc64d2a6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "27d8b7fa65e5b130cbcf759a6c1204a9",
+        "size": 1233722,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-04T16:04:09.493Z",
+        "url": "https://cdn1.epicgames.com/109273d8719f46b9b89cb912a6649e5c/item/EGS_ART_IN_HEART_GONNER_S2_DESCRIPTION-1280x1440-27d8b7fa65e5b130cbcf759a6c1204a9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 500,
+        "md5": "1e41f75b20f643158b9f78a80b3ffc2c",
+        "size": 264887,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2020-03-04T16:06:26.563Z",
+        "url": "https://cdn1.epicgames.com/109273d8719f46b9b89cb912a6649e5c/item/EGS_ART_IN_HEART_GONNER_IC1_DESCRIPTION-1500x500-1e41f75b20f643158b9f78a80b3ffc2c.png",
+        "width": 1500
+      },
+      {
+        "height": 1440,
+        "md5": "46b73db1f6be68054c6d40a373dcdb13",
+        "size": 2850035,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-04T16:06:49.670Z",
+        "url": "https://cdn1.epicgames.com/109273d8719f46b9b89cb912a6649e5c/item/EGS_ART_IN_HEART_GONNER_L1_DESCRIPTION-2560x1440-46b73db1f6be68054c6d40a373dcdb13.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-05-15T00:52:34.316Z",
+    "mainGameItemList": [],
+    "namespace": "109273d8719f46b9b89cb912a6649e5c",
+    "releaseInfo": [
+      {
+        "appId": "Emperor",
+        "id": "bc607a8352fb459fb1136337a9223749",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "GoNNER",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

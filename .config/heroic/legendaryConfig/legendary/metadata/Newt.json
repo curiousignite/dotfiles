@@ -1,0 +1,855 @@
+{
+  "app_name": "Newt",
+  "app_title": "Spellbreak",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Newt",
+      "asset_id": "Newt",
+      "build_version": "release.15196-7866",
+      "catalog_item_id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "newt",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2018-12-13T21:44:29.162Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Spellbreak"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Proletariat Inc"
+      }
+    },
+    "description": "Spellbreak",
+    "developer": "Proletariat, Inc.",
+    "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-10T16:54:08.031Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Priestess Pack Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "d4ca030e6c7c4e8180f3c67e87d8d071",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d4ca030e6c7c4e8180f3c67e87d8d071",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-04-08T13:57:26.192Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Priestess Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-28T19:12:25.774Z",
+        "description": "Battlemage DLC Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "2b12af18007c41b3a55bbb13443de1b7",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2b12af18007c41b3a55bbb13443de1b7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:42.731Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T18:41:08.467Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Battlemage DLC Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T15:38:15.650Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Warlock Pack Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "789dbbcd39c84e88931e4122db2ea4e6",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "789dbbcd39c84e88931e4122db2ea4e6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-12-15T13:47:50.228Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Warlock Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-10T16:53:21.345Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Trickster Pack Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "ee3a672b4bbc4a8382fb0c2f04c71089",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ee3a672b4bbc4a8382fb0c2f04c71089",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-04-08T13:57:26.192Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Trickster Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-09T13:58:06.656Z",
+        "description": "Chest of Gold Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "a0ea8d9df28f4d05a99477f9a7a96817",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0ea8d9df28f4d05a99477f9a7a96817",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-27T18:41:08.477Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Chest of Gold Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-09T13:58:14.472Z",
+        "description": "Mountain of Gold Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "12954d29568e412da4912347f6a02997",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12954d29568e412da4912347f6a02997",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-27T18:41:08.474Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Mountain of Gold Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-28T19:12:32.409Z",
+        "description": "Master DLC Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "7320b3add496465aa273bc00b5c62085",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7320b3add496465aa273bc00b5c62085",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 216,
+            "md5": "7db0693ecf5f1d8991f3b6117197c119",
+            "size": 3976,
+            "type": "ESRB",
+            "uploadedDate": "2020-09-03T14:23:30.253Z",
+            "url": "https://cdn1.epicgames.com/newt/item/esrb-t-160x216-7db0693ecf5f1d8991f3b6117197c119.png",
+            "width": 160
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T18:41:08.468Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Master DLC Audience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-28T19:12:20.854Z",
+        "description": "Mage DLC Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "67dd64772e7a41b28662ce4e38e1a722",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "67dd64772e7a41b28662ce4e38e1a722",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:42.731Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T18:41:08.466Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Mage DLC Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-09T13:57:46.394Z",
+        "description": "Bag of Gold Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "5dcba59842cc437bb302a08f89af5ee4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5dcba59842cc437bb302a08f89af5ee4",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-27T18:41:08.475Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Bag of Gold Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T15:37:59.131Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Spellslinger Pack",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "80c4a23f319e43b9a39fd3c4cf093a08",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "80c4a23f319e43b9a39fd3c4cf093a08",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-12-15T13:47:50.229Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spellslinger Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-17T13:14:30.795Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Rogue Pack Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "1232cf3e3d82481eb95e6b61c8ff01e3",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1232cf3e3d82481eb95e6b61c8ff01e3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T18:41:08.484Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rogue Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-09T13:57:39.638Z",
+        "description": "Pouch of Gold Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "fc4cbd8add2447418f70b25e3dca69d9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fc4cbd8add2447418f70b25e3dca69d9",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-06-27T18:41:08.476Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Pouch of Gold Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-09T13:57:42.472Z",
+        "description": "Battlemage DLC Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "e688714b0cfe402b93c1799d86bae8fc",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e688714b0cfe402b93c1799d86bae8fc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:42.731Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2020-08-05T15:36:45.030Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Battlemage DLC Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-17T13:14:35.614Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Aerialist Pack Audience",
+        "developer": "Proletariat, Inc.",
+        "developerId": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+        "endOfSupport": false,
+        "entitlementName": "a8096867487f4577a6fc0642d0a0921e",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a8096867487f4577a6fc0642d0a0921e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+            "size": 51194,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T19:23:19.054Z",
+            "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2022-06-27T18:41:08.485Z",
+        "mainGameItem": {
+          "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+          "namespace": "newt",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+            "namespace": "newt",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "newt",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Aerialist Pack Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7bfcf6db8dba4f0dbf2a67c3872ffc41",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 128,
+        "md5": "f2d69ef550d3718937e61621a70d9a35",
+        "size": 13506,
+        "type": "Thumbnail",
+        "uploadedDate": "2020-02-28T20:37:30.401Z",
+        "url": "https://cdn1.epicgames.com/newt/item/EGS_ProletariatInc_Spellbreak_IC2-128x128-f2d69ef550d3718937e61621a70d9a35.png",
+        "width": 128
+      },
+      {
+        "height": 1440,
+        "md5": "d13a8f18f9eca744e911eb9891a62feb",
+        "size": 1020648,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-22T18:49:09.010Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/c74b31cd-8f4e-4a54-85b0-6603e0782429_2560x1440-d13a8f18f9eca744e911eb9891a62feb",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "eb640310bbedc2e3d7ddfb90b40020ee",
+        "size": 971251,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-22T18:49:20.246Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/14cfd60d-7423-4326-82f3-5dc699e88776_1200x1600-eb640310bbedc2e3d7ddfb90b40020ee",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-08-25T13:56:04.984Z",
+    "mainGameItemList": [],
+    "namespace": "newt",
+    "releaseInfo": [
+      {
+        "appId": "Newt",
+        "compatibleApps": [],
+        "dateAdded": "2018-12-13T00:00:00.000Z",
+        "id": "834a4b3c8da94c98b323dd597da817ef",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Spellbreak",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

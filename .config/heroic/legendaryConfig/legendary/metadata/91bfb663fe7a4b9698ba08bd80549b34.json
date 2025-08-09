@@ -1,0 +1,116 @@
+{
+  "app_name": "91bfb663fe7a4b9698ba08bd80549b34",
+  "app_title": "God of War",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "91bfb663fe7a4b9698ba08bd80549b34",
+      "asset_id": "91bfb663fe7a4b9698ba08bd80549b34",
+      "build_version": "godofwar-12857-20230505",
+      "catalog_item_id": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3ddd6a590da64e3686042d108968a6b2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567W7KoS5D9os4aeRGcxsUnya37",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-19T22:47:07.085Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/God of War/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GodofWar"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3ddd6a590da64e3686042d108968a6b2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "God of War",
+    "developer": "Sony Interactive Entertainment",
+    "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "endOfSupport": false,
+    "entitlementName": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "89ac959bb33c4e9387fba4ef3ca2ffc3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5d74d9b240bba8f2c40920dcde7c5c67",
+        "size": 966490,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-19T22:37:17.454Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodofWar_SantaMonicaStudio_S1_2560x1440-5d74d9b240bba8f2c40920dcde7c5c67",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "fbdf3cbc2980749091d52751ffabb7b7",
+        "size": 559202,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-19T22:37:20.264Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-01-14T01:21:28.964Z",
+    "mainGameItemList": [],
+    "namespace": "3ddd6a590da64e3686042d108968a6b2",
+    "releaseInfo": [
+      {
+        "appId": "91bfb663fe7a4b9698ba08bd80549b34",
+        "id": "a158df7459564ac9a081b2f3d492a123",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "God of War",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

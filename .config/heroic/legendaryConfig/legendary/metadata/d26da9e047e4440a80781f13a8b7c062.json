@@ -1,0 +1,88 @@
+{
+  "app_name": "d26da9e047e4440a80781f13a8b7c062",
+  "app_title": "Botanicula",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d26da9e047e4440a80781f13a8b7c062",
+      "asset_id": "d26da9e047e4440a80781f13a8b7c062",
+      "build_version": "1.2.7",
+      "catalog_item_id": "b032c78e9063452c8ff638e7158c1567",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9315671d6ab146d5b7bbc20317dbb134"
+      },
+      "namespace": "5c7501617f3449c5a6eed7590392f9fa",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567pwuwTF6y2cZMcvYjqVx2EmWr",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-12T16:16:53.151Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Amanita-Design.Botanicula/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Botanicula"
+      }
+    },
+    "description": "Five friends, little tree creatures, set out on a journey to save the last seed from their home tree which is infested by evil parasites.",
+    "developer": "Amanita Design s.r.o.",
+    "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+    "endOfSupport": false,
+    "entitlementName": "b032c78e9063452c8ff638e7158c1567",
+    "entitlementType": "EXECUTABLE",
+    "id": "b032c78e9063452c8ff638e7158c1567",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Botanicula Offer",
+        "height": 1440,
+        "md5": "82131669f17f9496a966f11d69d88b5d",
+        "size": 737583,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-12T09:44:04.000Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ffe4df6e32664927a3423e4bde3b4051/botanicula-1wpga.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Botanicula Offer",
+        "height": 1600,
+        "md5": "0cceb8fd626bc55b3f5a8e573373cebb",
+        "size": 767930,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-12T09:44:03.874Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ffe4df6e32664927a3423e4bde3b4051/botanicula-1vkcp.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-17T14:53:23.731Z",
+    "mainGameItemList": [],
+    "namespace": "5c7501617f3449c5a6eed7590392f9fa",
+    "releaseInfo": [
+      {
+        "appId": "d26da9e047e4440a80781f13a8b7c062",
+        "id": "32cd8c02335a43f39a89ee8aca9fee8b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Botanicula",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

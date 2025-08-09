@@ -1,0 +1,110 @@
+{
+  "app_name": "Hornbill",
+  "app_title": "The Alto Collection",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hornbill",
+      "asset_id": "Hornbill",
+      "build_version": "Win_202301311530",
+      "catalog_item_id": "fc308a39a7bf4a92b378af93f81dcdd2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b4e95103463b491ab34b29e616404325",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-12T21:29:00.911Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheAltoCollection"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b4e95103463b491ab34b29e616404325"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Alto Collection",
+    "developer": "Snowman",
+    "developerId": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
+    "endOfSupport": false,
+    "entitlementName": "fc308a39a7bf4a92b378af93f81dcdd2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fc308a39a7bf4a92b378af93f81dcdd2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1c4fd72f79235c3fc4f49754e73d81da",
+        "size": 997073,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-27T14:09:30.217Z",
+        "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/item/EGS_TheAltoCollection_TeamAlto_S1-2560x1440-1c4fd72f79235c3fc4f49754e73d81da.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "82ee011b09e3e9f191366d2cdc6575f0",
+        "size": 470429,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-27T14:09:40.600Z",
+        "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/item/EGS_TheAltoCollection_TeamAlto_S2-1200x1600-82ee011b09e3e9f191366d2cdc6575f0.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-08-12T20:31:01.215Z",
+    "mainGameItemList": [],
+    "namespace": "b4e95103463b491ab34b29e616404325",
+    "releaseInfo": [
+      {
+        "appId": "Hornbill",
+        "dateAdded": "2019-07-12T00:00:00.000Z",
+        "id": "b5a8787c754f41b2b868619d15b36c6c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "The Alto Collection",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

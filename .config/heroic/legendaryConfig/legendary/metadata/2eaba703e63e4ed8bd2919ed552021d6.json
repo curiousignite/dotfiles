@@ -1,0 +1,815 @@
+{
+  "app_name": "2eaba703e63e4ed8bd2919ed552021d6",
+  "app_title": "Deus Ex - Mankind Divided",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2eaba703e63e4ed8bd2919ed552021d6",
+      "asset_id": "2eaba703e63e4ed8bd2919ed552021d6",
+      "build_version": "DXMD_EPIC_1.05",
+      "catalog_item_id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af3d55a1d73f485389addfeba1da4678"
+      },
+      "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567MdrEBdzKsiNxYAGSMfYQNjrT",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-12-12T15:57:03.168Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Eidos Montreal/DXNG/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeusExMankindDividedGkfxK"
+      }
+    },
+    "description": "Now an experienced covert operative, Adam Jensen is forced to operate in a world that has grown to despise his kind. Armed with new state-of-the-art weapons and augmentations, he must choose the right approach, along with who to trust, to unravel a vast worldwide conspiracy.",
+    "developer": "Eidos Interactive Corporation",
+    "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.562Z",
+        "description": "Deus Ex: Mankind Divided - 5000 Credits Pack_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "125536be8b05451681637110c311e1ed",
+        "entitlementType": "AUDIENCE",
+        "id": "125536be8b05451681637110c311e1ed",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.562Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - 5000 Credits Pack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:03.165Z",
+        "customAttributes": {},
+        "description": "Close the gap quickly, and get to your objective without stirring the hornets nest.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "77898ad1bf5b49009abb2cebe31a8e8f",
+        "entitlementType": "EXECUTABLE",
+        "id": "77898ad1bf5b49009abb2cebe31a8e8f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Deus Ex - Mankind Divided Deus Ex: Mankind Divided\u2122 DLC - Tactical Pack Offer",
+            "height": 1440,
+            "md5": "708f0b9aabaf6774919e2b016abb3da3",
+            "size": 1473678,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-18T19:00:34.852Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-17h2b.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Deus Ex - Mankind Divided Deus Ex: Mankind Divided\u2122 DLC - Tactical Pack Offer",
+            "height": 1600,
+            "md5": "ced3dfbaa52a86cfcb6880629a694a8e",
+            "size": 728278,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-18T19:00:35.300Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-xp29i.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-12T15:57:03.165Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "releaseInfo": [
+          {
+            "appId": "fe3d5659f61d42d3a6519d10e9c540a0",
+            "id": "59926462cebb4943bf8065f581c44e18",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided\u2122 DLC - Tactical Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.571Z",
+        "description": "Deus Ex: Mankind Divided - 15000 Credits Pack_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "ca58206b2875457aa81d3d1c38c9a2a0",
+        "entitlementType": "AUDIENCE",
+        "id": "ca58206b2875457aa81d3d1c38c9a2a0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.571Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - 15000 Credits Pack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.563Z",
+        "description": "Deus Ex: Mankind Divided - Praxis Kit Pack (x5)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "49e68a1dcb5441a4bdfd04de35ac0dda",
+        "entitlementType": "AUDIENCE",
+        "id": "49e68a1dcb5441a4bdfd04de35ac0dda",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.563Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Praxis Kit Pack (x5)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-26T13:27:06.254Z",
+        "customAttributes": {},
+        "description": "Posing as a convicted criminal, Jensen is transferred deep into a hostile, high-security prison for augmented felons, with his mission being to track down a fellow undercover agent who has gone dark. Jensen will need to confront a darker side to his role before the day is done.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "8f3e8e6dd53c476abe6f47c3f7623234",
+        "entitlementType": "EXECUTABLE",
+        "id": "8f3e8e6dd53c476abe6f47c3f7623234",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Deus Ex - Mankind Divided Deus Ex: Mankind Divided - A Criminal Past Offer",
+            "height": 1440,
+            "md5": "f0843121ac174fbb814564e8bfe82f3f",
+            "size": 1731788,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-18T19:23:37.366Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-zyvka.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Deus Ex - Mankind Divided Deus Ex: Mankind Divided - A Criminal Past Offer",
+            "height": 1600,
+            "md5": "800c95bf8e47d14fced15bff9a86f8e6",
+            "size": 1036783,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-18T19:23:37.935Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-1fi3v.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-17T17:04:32.169Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "releaseInfo": [
+          {
+            "appId": "425385fcb6a443e5843d911eb10ea4f0",
+            "id": "89f562d22da24670b1f66813057a6bb4",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - A Criminal Past",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:03.167Z",
+        "customAttributes": {},
+        "description": "Strike quickly and with aplomb, eliminating the enemy before they even know what hit them.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "a4474914bb0f4ea7b131ccceab8c6dc8",
+        "entitlementType": "EXECUTABLE",
+        "id": "a4474914bb0f4ea7b131ccceab8c6dc8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Deus Ex - Mankind Divided Deus Ex: Mankind Divided\u2122 DLC - Assault Pack Offer",
+            "height": 1440,
+            "md5": "7795708f07edf87631720ca050e9226f",
+            "size": 1457026,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-18T19:21:11.960Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-lfrwh.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Deus Ex - Mankind Divided Deus Ex: Mankind Divided\u2122 DLC - Assault Pack Offer",
+            "height": 1600,
+            "md5": "69a57203d98523e31508afdb3676dfa0",
+            "size": 706346,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-18T19:21:12.670Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-1ciuo.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-12T15:57:03.167Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "releaseInfo": [
+          {
+            "appId": "46cf51dbf19a4e3f9248d51f6e0aa4e5",
+            "id": "49023e1ab3f942f688e2dc1201dcc3a4",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided\u2122 DLC - Assault Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:03.170Z",
+        "description": "Deus Ex: Mankind Divided - 1000 Credits Pack_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "f478ed0a861344bdb06927562fa51c1f",
+        "entitlementType": "AUDIENCE",
+        "id": "f478ed0a861344bdb06927562fa51c1f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:03.170Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - 1000 Credits Pack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.560Z",
+        "description": "Deus Ex: Mankind Divided - Breach Chipset Pack (x50)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "1186113da4864fbcb8b656961fa0bd5b",
+        "entitlementType": "AUDIENCE",
+        "id": "1186113da4864fbcb8b656961fa0bd5b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.560Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Breach Chipset Pack (x50)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.569Z",
+        "description": "Deus Ex: Mankind Divided - Breach Chipset Pack (x10)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "ad97475a86f844f19320b3a43254eb07",
+        "entitlementType": "AUDIENCE",
+        "id": "ad97475a86f844f19320b3a43254eb07",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.569Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Breach Chipset Pack (x10)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.573Z",
+        "description": "Deus Ex: Mankind Divided - Praxis Kit Pack (x1)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "e459b798b12e45288cfe55e5e8cf1171",
+        "entitlementType": "AUDIENCE",
+        "id": "e459b798b12e45288cfe55e5e8cf1171",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.573Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Praxis Kit Pack (x1)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.564Z",
+        "description": "Deus Ex: Mankind Divided - 1000 Credits Pack_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "7768f7079248481b88c24984fefcade1",
+        "entitlementType": "AUDIENCE",
+        "id": "7768f7079248481b88c24984fefcade1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.564Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - 1000 Credits Pack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.567Z",
+        "description": "Deus Ex: Mankind Divided - Praxis Kit Pack (x10)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "839aeed1df554e9a95fd7d1b5363eab1",
+        "entitlementType": "AUDIENCE",
+        "id": "839aeed1df554e9a95fd7d1b5363eab1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.567Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Praxis Kit Pack (x10)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-09-26T13:32:42.348Z",
+        "description": "Deus Ex: Mankind Divided\u2122 DLC - Season Pass_SeasonPassAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "5a52c67865d74725bb6dfb894946154e",
+        "entitlementType": "AUDIENCE",
+        "id": "5a52c67865d74725bb6dfb894946154e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-17T17:04:32.169Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided\u2122 DLC - Season Pass_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-26T13:19:11.723Z",
+        "customAttributes": {},
+        "description": "Discover the secrets hidden within the Palisade Blade in Deus Ex: Mankind Divided\u2019s first story DLC.",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "d9ed3034a66e4820aa937c454aa31610",
+        "entitlementType": "EXECUTABLE",
+        "id": "d9ed3034a66e4820aa937c454aa31610",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Deus Ex - Mankind Divided Deus Ex: Mankind Divided - System Rift Offer",
+            "height": 1440,
+            "md5": "7b7e170a2c0fdf7f8de15a81cc62510e",
+            "size": 1299072,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-18T19:22:53.968Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-15gej.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Deus Ex - Mankind Divided Deus Ex: Mankind Divided - System Rift Offer",
+            "height": 1600,
+            "md5": "985102a62e3afe24e3160aff1a485e27",
+            "size": 805044,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-18T19:22:54.335Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-1k66n.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-12-17T17:04:32.169Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "releaseInfo": [
+          {
+            "appId": "260441d31dcc49c09fdba80cc4bb9d0a",
+            "id": "c8209e7d28834d2b99d113f339346d15",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - System Rift",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.570Z",
+        "description": "Deus Ex: Mankind Divided - Breach Chipset Pack (x500)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "af90c5477ff542d489fa03c7aa18b490",
+        "entitlementType": "AUDIENCE",
+        "id": "af90c5477ff542d489fa03c7aa18b490",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.570Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Breach Chipset Pack (x500)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-12T15:57:02.566Z",
+        "description": "Deus Ex: Mankind Divided - Breach Chipset Pack (x100)_ConsumableAudience",
+        "developer": "Eidos Interactive Corporation",
+        "developerId": "o-6e9jt6yt8fym4t52q6pcfeke4rxv5l",
+        "endOfSupport": false,
+        "entitlementName": "7b05396f4a79456a84efba636ae696cb",
+        "entitlementType": "AUDIENCE",
+        "id": "7b05396f4a79456a84efba636ae696cb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-12-12T15:57:02.566Z",
+        "mainGameItem": {
+          "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+          "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+            "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Deus Ex: Mankind Divided - Breach Chipset Pack (x100)_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "d08fae14b2a24a7ca9d70994a8a0ea9c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Deus Ex - Mankind Divided Offer",
+        "height": 1440,
+        "md5": "2ebfb59c2ac1e0802cddc68843114f5e",
+        "size": 974068,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-24T19:02:03.010Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-29w5i.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Deus Ex - Mankind Divided Offer",
+        "height": 1600,
+        "md5": "adb9b8bb7864340022f0c0218128974b",
+        "size": 1066115,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-24T19:02:02.559Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c47ffdc5b1cb42fc83bd9ea42861b800/deus-ex--mankind-divided-16ms5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-07T17:19:19.057Z",
+    "mainGameItemList": [],
+    "namespace": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+    "releaseInfo": [
+      {
+        "appId": "2eaba703e63e4ed8bd2919ed552021d6",
+        "id": "88650c46ab844fbb842a8a237afcdec9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deus Ex - Mankind Divided",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

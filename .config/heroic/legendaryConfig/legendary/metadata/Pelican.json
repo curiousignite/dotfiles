@@ -1,0 +1,120 @@
+{
+  "app_name": "Pelican",
+  "app_title": "Everything",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Pelican",
+      "asset_id": "Pelican",
+      "build_version": "1.08",
+      "catalog_item_id": "3526c66b4bf748f5a6284b9b6391c427",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "854ca270c7f04fe483212a35811e9189",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-01T19:10:34.809Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Everything"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "854ca270c7f04fe483212a35811e9189"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Everything",
+    "developer": "David OReilly",
+    "developerId": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+    "endOfSupport": false,
+    "entitlementName": "3526c66b4bf748f5a6284b9b6391c427",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3526c66b4bf748f5a6284b9b6391c427",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7e1f936d40753516eef1a11391268911",
+        "size": 302087,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-09-24T19:37:09.460Z",
+        "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg",
+        "width": 2560
+      },
+      {
+        "height": 882,
+        "md5": "4e901d30c848f1fa0a9d3f4464e2d563",
+        "size": 196588,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-09-24T19:37:30.253Z",
+        "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-2253x882-4e901d30c848f1fa0a9d3f4464e2d563.png",
+        "width": 2253
+      },
+      {
+        "height": 1440,
+        "md5": "b72cb823838a1b5127278ba2dc139b05",
+        "size": 1391445,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/854ca270c7f04fe483212a35811e9189/item/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:02:39.659Z",
+    "mainGameItemList": [],
+    "namespace": "854ca270c7f04fe483212a35811e9189",
+    "releaseInfo": [
+      {
+        "appId": "Pelican",
+        "dateAdded": "2019-08-01T00:00:00.000Z",
+        "id": "c3928a3fd0f84d64bfadf47b9c8a3724",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Everything",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,105 @@
+{
+  "app_name": "0c6db5941ac8420aabbd8510e94e7d9a",
+  "app_title": "Marvel\u2019s Spider-Man 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0c6db5941ac8420aabbd8510e94e7d9a",
+      "asset_id": "0c6db5941ac8420aabbd8510e94e7d9a",
+      "build_version": "Build_20250526.0",
+      "catalog_item_id": "685032f3d8c74de5bcf123558c8f6b16",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b2818b59c0bb420e9647983dfd254931",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/88a16a3422424c0db5a2166ea692b291/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/88a16a3422424c0db5a2166ea692b291/default",
+    "https://download.epicgames.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/88a16a3422424c0db5a2166ea692b291/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5/88a16a3422424c0db5a2166ea692b291/default"
+  ],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567JYEf1kpBk1lgB6yePYxkhFK6",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-09-11T18:36:06.640Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Marvel's Spider-Man 2/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "marvelsspiderman2"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b2818b59c0bb420e9647983dfd254931"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Marvel\u2019s Spider-Man 2",
+    "developer": "Sony Interactive Entertainment",
+    "developerId": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "endOfSupport": false,
+    "entitlementName": "685032f3d8c74de5bcf123558c8f6b16",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "685032f3d8c74de5bcf123558c8f6b16",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f27da78f484626718d1e22e7d6950ca5",
+        "size": 694040,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-07T21:23:53.987Z",
+        "url": "https://cdn1.epicgames.com/item/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S1_2560x1440-f27da78f484626718d1e22e7d6950ca5",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5831c61378872a1fe233b295fbf3140f",
+        "size": 870935,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-07T21:23:50.476Z",
+        "url": "https://cdn1.epicgames.com/item/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S2_1200x1600-5831c61378872a1fe233b295fbf3140f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-01-31T22:11:53.381Z",
+    "mainGameItemList": [],
+    "namespace": "b2818b59c0bb420e9647983dfd254931",
+    "releaseInfo": [
+      {
+        "appId": "0c6db5941ac8420aabbd8510e94e7d9a",
+        "id": "1e314779421c4f3994d68a85121a0c97",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Marvel\u2019s Spider-Man 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

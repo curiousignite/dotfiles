@@ -1,0 +1,419 @@
+{
+  "app_name": "eb6ddfb245f647e2bb6902f52f38a535",
+  "app_title": "Tiny Tina's Wonderlands",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "eb6ddfb245f647e2bb6902f52f38a535",
+      "asset_id": "eb6ddfb245f647e2bb6902f52f38a535",
+      "build_version": "1.0.8_CL_3059852_Wonderlands",
+      "catalog_item_id": "4742cc98b91541499570c72f3825b893",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567m8VayxPLlfaU2DOGG5u5CE1v",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-04T23:20:16.657Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Tiny Tina's Wonderlands/Saved/SaveGames/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TinyTinasWonderlands"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c37115918ccc4969a57b6b1bdc28af4a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tiny Tina's Wonderlands",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T17:14:08.191Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthGoldenHeroArmorPackAudience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "dad248a3a2ea453f89a8413f1588cf26",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dad248a3a2ea453f89a8413f1588cf26",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-28T22:14:34.780Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthGoldenHeroArmorPackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-29T17:53:31.665Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthDLC04Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "64e0410bf14548b992edf5702543e89f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "64e0410bf14548b992edf5702543e89f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-11T15:55:36.235Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthDLC04Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T17:11:22.969Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthSeasonPassAudience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "04a602b23a0b46ceba5ac5880f073b93",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "04a602b23a0b46ceba5ac5880f073b93",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T16:05:29.427Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthSeasonPassAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-29T17:52:49.083Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthDLC02Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "96814af0e3974dc6b841cd69914603d5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "96814af0e3974dc6b841cd69914603d5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T16:01:42.190Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthDLC02Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-29T17:52:27.289Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthDLC01Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "97f93a0ac38648d792dbaa13a4290c74",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97f93a0ac38648d792dbaa13a4290c74",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-03T19:36:57.273Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthDLC01Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-29T17:53:09.223Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "EarthDLC03Audience",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "19f961798fe44cb18d65da82816aea9b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "19f961798fe44cb18d65da82816aea9b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-23T15:28:16.223Z",
+        "mainGameItem": {
+          "id": "4742cc98b91541499570c72f3825b893",
+          "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4742cc98b91541499570c72f3825b893",
+            "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "EarthDLC03Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4742cc98b91541499570c72f3825b893",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "4742cc98b91541499570c72f3825b893",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "698fba08f2bcd7cb08fc6cf1829b02d1",
+        "size": 951114,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-18T16:32:00.822Z",
+        "url": "https://cdn1.epicgames.com/item/c37115918ccc4969a57b6b1bdc28af4a/TTW_wide_2560x1440-698fba08f2bcd7cb08fc6cf1829b02d1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8881f33c487317d490f33085edec1100",
+        "size": 896610,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-18T16:32:06.027Z",
+        "url": "https://cdn1.epicgames.com/item/c37115918ccc4969a57b6b1bdc28af4a/TTWL_Tall_1200x1600-8881f33c487317d490f33085edec1100",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-02T17:58:36.630Z",
+    "mainGameItemList": [],
+    "namespace": "c37115918ccc4969a57b6b1bdc28af4a",
+    "releaseInfo": [
+      {
+        "appId": "eb6ddfb245f647e2bb6902f52f38a535",
+        "dateAdded": "2020-05-04T23:34:28.364Z",
+        "id": "adf91e3ff3ec419f9d3fce9d27189283",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Tiny Tina's Wonderlands",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

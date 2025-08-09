@@ -1,0 +1,213 @@
+{
+  "app_name": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+  "app_title": "XCOM 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+      "asset_id": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+      "build_version": "1.0.3_CL-870730",
+      "catalog_item_id": "47c6774a15374b5ba04f86d4541410c7",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "af383afcffa74d9bb14d4f5ee3801994"
+      },
+      "namespace": "7ec453d446194b8f8afe82aaa9561211",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567tEb2uQAiXOi5mybCJ3cg2Fm3",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-02T09:44:09.346Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "LauncherPatcher.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/XCOM2 Epic/{EpicId}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "XCOM2"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "3000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7ec453d446194b8f8afe82aaa9561211"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "XCOM 2",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567tEb2uQAiXOi5mybCJ3cg2Fm3",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-10-14T21:44:47.134Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "XCOM2CollectionUpgrade"
+          }
+        },
+        "description": "XCOM 2  Collection Upgrade",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "a28ea2727cc64953a7bebfb796db4222",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a28ea2727cc64953a7bebfb796db4222",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a043d5690b2324cde0a99ffa04c8ce6a",
+            "size": 2896221,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-03-31T22:49:49.281Z",
+            "url": "https://cdn1.epicgames.com/item/7ec453d446194b8f8afe82aaa9561211/XCOM2_Collection_Upgrade_Set_Up_Assets_2560x1440_PLI_2560x1440-a043d5690b2324cde0a99ffa04c8ce6a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "2f2ebd67b9e692c0ab2bd2fd2d170739",
+            "size": 1677092,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-03-31T22:49:57.967Z",
+            "url": "https://cdn1.epicgames.com/item/7ec453d446194b8f8afe82aaa9561211/XCOM2_Collection_Upgrade_Set_Up_Assets_1200x1600_PPI_1200x1600-2f2ebd67b9e692c0ab2bd2fd2d170739",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-04-14T14:31:30.559Z",
+        "mainGameItem": {
+          "id": "47c6774a15374b5ba04f86d4541410c7",
+          "namespace": "7ec453d446194b8f8afe82aaa9561211",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "47c6774a15374b5ba04f86d4541410c7",
+            "namespace": "7ec453d446194b8f8afe82aaa9561211",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7ec453d446194b8f8afe82aaa9561211",
+        "releaseInfo": [
+          {
+            "appId": "944181781611403783aada5d99d23858",
+            "dateAdded": "2020-10-02T00:00:00.000Z",
+            "id": "f1c26b35d1594e5bb5f3acda7512bb1e",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "XCOM 2  Collection Upgrade",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "47c6774a15374b5ba04f86d4541410c7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "47c6774a15374b5ba04f86d4541410c7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "24cabf9f3c4eedd602a340a4658b2278",
+        "size": 2033947,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-31T22:35:07.162Z",
+        "url": "https://cdn1.epicgames.com/item/7ec453d446194b8f8afe82aaa9561211/XCOM2_Set_Up_Assets_2560x1440_2560x1440-24cabf9f3c4eedd602a340a4658b2278",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4b0c6e42af847235877992095e154563",
+        "size": 1506348,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-31T22:35:12.704Z",
+        "url": "https://cdn1.epicgames.com/item/7ec453d446194b8f8afe82aaa9561211/XCOM2_Set_Up_Assets_1200x1600_1200x1600-4b0c6e42af847235877992095e154563",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-06-26T20:43:55.455Z",
+    "mainGameItemList": [],
+    "namespace": "7ec453d446194b8f8afe82aaa9561211",
+    "releaseInfo": [
+      {
+        "appId": "3be3c4d681bc46b3b8b26c5df3ae0a18",
+        "dateAdded": "2020-10-02T00:00:00.000Z",
+        "id": "9e68e86226cc4677a0d7f1dd58cf2e60",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "XCOM 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

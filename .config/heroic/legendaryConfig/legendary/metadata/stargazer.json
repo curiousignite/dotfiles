@@ -1,0 +1,96 @@
+{
+  "app_name": "stargazer",
+  "app_title": "Magic The Gathering Arena",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "stargazer",
+      "asset_id": "stargazer",
+      "build_version": "9422.1169759",
+      "catalog_item_id": "3debdea646834df18a900bcbe76b9013",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-20T18:23:14.550Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MagicTheGathering"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Magic The Gathering Arena",
+    "developer": "Wizards of the Coast",
+    "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+    "endOfSupport": false,
+    "entitlementName": "3debdea646834df18a900bcbe76b9013",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3debdea646834df18a900bcbe76b9013",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "eafef8f5f6b5e645510c9afc37d1ea93",
+        "size": 898879,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-06-10T15:12:22.001Z",
+        "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/EGS_MagicTheGatheringArena_WizardsoftheCoast_S2_1200x1600-eafef8f5f6b5e645510c9afc37d1ea93",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-10T15:19:28.593Z",
+    "mainGameItemList": [],
+    "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+    "releaseInfo": [
+      {
+        "appId": "stargazer",
+        "dateAdded": "2019-08-15T00:00:00.000Z",
+        "id": "281de43179d84854802776d0a732efad",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Magic The Gathering Arena",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

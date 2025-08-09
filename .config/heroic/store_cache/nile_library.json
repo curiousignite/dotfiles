@@ -1,0 +1,3806 @@
+{
+	"library": [
+		{
+			"app_name": "e6fe2ec9-719f-443c-be30-61e3992401c9",
+			"art_cover": "https://m.media-amazon.com/images/I/51xKSfGzIWL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/418SyTO667L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51XcrSksVML.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81KiQY3q0QL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Overload",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Overload",
+			"description": "New game each week with Prime",
+			"developer": "Revival Productions, LLC",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Simulator"
+				],
+				"releaseDate": "2018-05-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "f41d91c5-83b4-40e1-869e-01a0d6056f97",
+			"art_cover": "https://m.media-amazon.com/images/I/61C-lU7PwRL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/611IktYLcfL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61WqIHr9ZaL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91B19tiYQLL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Gone Home",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Gone Home",
+			"description": "New game each week with Prime",
+			"developer": "The Fullbright Company",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2013-08-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "ec16febb-a04e-44d0-8134-27c894f0f985",
+			"art_cover": "https://m.media-amazon.com/images/I/61Hk4okCMtL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61rX3ctKAjL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61OmpdLlw2L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91mKNH8kZ4L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Baseball Stars 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Baseball Stars 2",
+			"description": "New game each week with Prime",
+			"developer": "Eikichi Kawaaki",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Sport",
+					"Arcade"
+				],
+				"releaseDate": "1992-01-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "4f847c19-70db-4f81-b89c-471d686344e4",
+			"art_cover": "https://m.media-amazon.com/images/I/91RLW+rUjYL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/5167e09v8-L.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1KS8O-8g6L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1RWzaLO1cL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Last Blade",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Last Blade",
+			"description": "Relive a classic SNK masterpiece!",
+			"developer": "Dotemu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting",
+					"Arcade"
+				],
+				"releaseDate": "2016-08-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b",
+			"art_cover": "https://m.media-amazon.com/images/I/61lh9+JSxaL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61GwEGqUk4L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61nNqVMnVQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91UFx21voEL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales from the Borderlands",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales from the Borderlands",
+			"description": "New game each week with Prime",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				],
+				"releaseDate": "2014-11-25T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "3f195563-44e3-4e66-b733-efff6347d274",
+			"art_cover": "https://m.media-amazon.com/images/I/51Y+fGlGVML.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51LbFTCrmSL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51V6zEP1YnL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/817fFLcX9cL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Kingsway",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Kingsway",
+			"description": "New game each week with Prime",
+			"developer": "Andrew Morrish",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Simulator",
+					"Adventure"
+				],
+				"releaseDate": "2017-07-18T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8530321b-a8dd-4a74-baa3-24a247454c36",
+			"art_cover": "https://m.media-amazon.com/images/I/718Htawg2aL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61Bauh5JqfL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71DjwO6i8oL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91aUQUJGcgL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Banner Saga 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Banner Saga 2",
+			"description": "New game each week with Prime",
+			"developer": "Stoic",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "2016-09-14T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "4efecef5-149b-4f34-b54e-6e026c5cfcc5",
+			"art_cover": "https://m.media-amazon.com/images/I/51Xh06HLG-L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61SAHkNN60L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51TWYi9UHtL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91gTYKtz3FL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Majesty Gold HD",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Majesty Gold HD",
+			"description": "New game each week with Prime",
+			"developer": "Paradox Interactive",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Real Time Strategy (RTS)",
+					"Simulator",
+					"Strategy"
+				],
+				"releaseDate": "2009-09-04T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "add77e2e-2f4e-4d12-bcfb-17765929ea78",
+			"art_cover": "https://m.media-amazon.com/images/I/61VPctvz6-L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31hWwQAgsIL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61wrn4WvmdL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/811tZSEAraL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Gunpoint",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Gunpoint",
+			"description": "New game each week with Prime",
+			"developer": "Suspicious Developments",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Strategy",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2013-06-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "f4725ac2-ed63-4432-b528-cb5feb2f84e9",
+			"art_cover": "https://m.media-amazon.com/images/I/61el8kzELkL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/511mB4kdZjL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61qQwTeFtNL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/814ohmd91dL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Bridge July 13 – 26",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Bridge: July 13 – 26",
+			"developer": "The Quantum Astrophysicists Guild",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Strategy",
+					"Adventure",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2018-06-01T20:14:22Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "99d11652-3f58-42f6-8a57-34fb56419dd5",
+			"art_cover": "https://m.media-amazon.com/images/I/510yDt+2snL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41KI9uH-qHL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51F1LbzWt0L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81dUwuBCMXL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "System Shock Enhanced Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "System Shock: Enhanced Edition",
+			"description": "New game each week with Prime",
+			"developer": "Nightdive Studios, Looking Glass Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Role-playing (RPG)",
+					"Adventure"
+				],
+				"releaseDate": "2015-09-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "70ec0894-2707-4822-8f6d-b133eff339dd",
+			"art_cover": "https://m.media-amazon.com/images/I/31wWkUS8FeL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61Al9Iz32JL.png",
+			"art_background": "https://m.media-amazon.com/images/I/31QJm7nRdfL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81jX+GDATdL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Stealth Bastard Deluxe",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Stealth Bastard Deluxe",
+			"description": "New game each week with Prime",
+			"developer": "Curve Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Indie"
+				],
+				"releaseDate": "2012-11-28T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "23fc052e-6972-4e66-9103-a15a523832b9",
+			"art_cover": "https://m.media-amazon.com/images/I/61PlbXql7mL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41Jh9dLnw6L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71yy23+8QIL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81DJGXBgCCL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Treadnauts (WIN)",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Treadnauts (WIN)",
+			"developer": "Topstitch Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting",
+					"Platform",
+					"Indie"
+				],
+				"releaseDate": "2018-08-17T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "35390bab-dd81-42d4-93a3-f74b62caf848",
+			"art_cover": "https://m.media-amazon.com/images/I/61DK4ADCIML.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31dSI9lLuLL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61g7YUqgWJL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81IJEPzPKQL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Sanitarium",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Sanitarium",
+			"description": "New game each week with Prime",
+			"developer": "Dotemu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "1998-04-30T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "c18c39a9-ff36-44d5-9e2e-05d5efb7abfb",
+			"art_cover": "https://m.media-amazon.com/images/I/71drBVSAl6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/514KCAzcCLL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71+DK1QVl2L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/911ZbC0XfTL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Strafe",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Strafe",
+			"description": "New game each week with Prime",
+			"developer": "Pixel Titans",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2017-05-09T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "560c53c4-0751-4b4f-8792-0fd943e3b24a",
+			"art_cover": "https://m.media-amazon.com/images/I/61cF9Z4fzdL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41KHSmHYDwL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61QxtUHvOXL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81Fk32ENY8L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Orwell Ignorance Is Strength",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Orwell: Ignorance Is Strength",
+			"description": "New game each week with Prime",
+			"developer": "Surprise Attack",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Simulator",
+					"Adventure",
+					"Indie",
+					"Visual Novel"
+				],
+				"releaseDate": "2018-02-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8d842248-54ae-4aa2-b4bf-362cb533982e",
+			"art_cover": "https://m.media-amazon.com/images/I/51xgmgAvHzL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51h9P14O77L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51Jh+cFYJ+L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81ONKdgo+bL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Titan Souls",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Titan Souls",
+			"description": "New game each week with Prime",
+			"developer": "Acid Nerve",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-09-14T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a9b25161-bc1e-48ef-bf69-a4beffb1e529",
+			"art_cover": "https://m.media-amazon.com/images/I/61mZXYLu32L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51HyS5uS8dL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61KjckvgxbL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91ryJ7L9sdL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Adventure Pals",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Adventure Pals",
+			"description": "New game each week with Prime",
+			"developer": "Massive Monster",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-04-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "c619a4f5-37a3-4314-aeea-f63d599ce3b4",
+			"art_cover": "https://m.media-amazon.com/images/I/41Lc+17pAwL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61-XV-X2HgL.png",
+			"art_background": "https://m.media-amazon.com/images/I/41lQUiKcjML.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91o4KuVPp6L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Red Strings Club",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Red Strings Club",
+			"description": "New game each week with Prime",
+			"developer": "Decontructeam",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-01-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "dcece97c-dedf-4090-affd-58f3f0ae839a",
+			"art_cover": "https://m.media-amazon.com/images/I/71bBbtQ31pL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51g2C+L5V1L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71XESfWp4fL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81yzwnmvWSL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Pulstar",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Pulstar",
+			"description": "New game each week with Prime",
+			"developer": "SNK CORPORATION",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter"
+				],
+				"releaseDate": "1995-01-28T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "cf14c339-f4fd-4ace-b066-9803987be077",
+			"art_cover": "https://m.media-amazon.com/images/I/51CSomvoLfL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/610rlqJiXaL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51NN8nHxjoL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91xvfmpgXsL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "DubWars",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "DubWars",
+			"description": "New game each week with Prime",
+			"developer": "WOBBL3 Entertainment LLC",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Music",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2016-07-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "bb09e395-9405-44ca-a17c-98df998cf216",
+			"art_cover": "https://m.media-amazon.com/images/I/71wgqhoq5ZL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51fZAs0gZ8L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71grFU7iYXL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91xD6OaKhpL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Clustertruck",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Clustertruck",
+			"description": "New game each week with Prime",
+			"developer": "Landfall Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Indie"
+				],
+				"releaseDate": "2016-09-27T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b4b640be-1f76-45c9-b425-ac74594b6918",
+			"art_cover": "https://m.media-amazon.com/images/I/71dZZoqIZ4L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/4186tTAMJXL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71WCEDYMlaL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/9157FDEsbxL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Darksiders Warmastered Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Darksiders Warmastered Edition",
+			"description": "New game each week with Prime",
+			"developer": "KAIKO , Vigil Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Hack and slash/Beat 'em up",
+					"Adventure"
+				],
+				"releaseDate": "2016-11-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b515a0c1-b73d-4201-aae3-1ef8fb1faf5e",
+			"art_cover": "https://m.media-amazon.com/images/I/61hwgr+rppL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51Nt7KGw2SL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61I2XzjTKRL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81rqqyBUrYL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Hyper Light Drifter",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Hyper Light Drifter",
+			"description": "New game each week with Prime",
+			"developer": "Heart Machine",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-03-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8c105008-09cb-4049-a10f-f4a6c55aa4c7",
+			"art_cover": "https://m.media-amazon.com/images/I/61sHp3VVzRL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51ZgA7cQZ1L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61y-itROueL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81kU7gfyoQL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Bomber Crew",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Bomber Crew",
+			"description": "New game each week with Prime",
+			"developer": "Runner Duck",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy"
+				],
+				"releaseDate": "2017-10-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "66cea04c-bedf-4b41-b484-743ba3424657",
+			"art_cover": "https://m.media-amazon.com/images/I/81iFcSK7vTL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51LdEuJUgQL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1sGuwjumhL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1dcfaLhlmL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Twinkle Star Sprites",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Twinkle Star Sprites",
+			"description": "Relive a classic SNK masterpiece!",
+			"developer": "Dotemu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Arcade"
+				],
+				"releaseDate": "2016-05-26T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "3ea9dd41-009a-4944-b23b-30d0450d3b90",
+			"art_cover": "https://m.media-amazon.com/images/I/71lgj70uAVL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/613aCD2Sd-L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71EQbWhbByL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91OpYl4ykaL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Brütal Legend",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Brütal Legend",
+			"description": "New game each week with Prime",
+			"developer": "Double Fine Productions",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "2018-06-02T04:28:49Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "556a4404-a3f6-4ac4-8e0a-c1b4e9787255",
+			"art_cover": "https://m.media-amazon.com/images/I/61IcFiIWdpL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31mvHQPE1UL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61gpxSmWNpL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81s9kseCKOL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "I, Hope",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "I, Hope",
+			"description": "New game each week with Prime",
+			"developer": "Kenny Roy",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-02-21T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "c35253a1-89bf-46f4-8add-2813d5862eb3",
+			"art_cover": "https://m.media-amazon.com/images/I/71Q1sGW3CQL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51bFIiV7T6L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71q6R13-NHL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/918vQ-nw6RL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Swords of Ditto",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Swords of Ditto",
+			"description": "New game each week with Prime",
+			"developer": "onebitbeyond",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Hack and slash/Beat 'em up",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-04-24T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "516feae8-f1e6-4f68-a964-e5d55f92cf8f",
+			"art_cover": "https://m.media-amazon.com/images/I/615SECP9GKL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/5180bvlY3dL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61FrLDHKq+L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81zjfppK80L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "GoNNER",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "GoNNER",
+			"description": "New game each week with Prime",
+			"developer": "Art in Heart",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Platform",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-10-12T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b6dae532-9785-4db3-9364-2da90271cbf8",
+			"art_cover": "https://m.media-amazon.com/images/I/51N+H5vROSL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/21hxkyu1eBL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51JQR0S2zPL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81HhjvnR24L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Q.U.B.E. 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Q.U.B.E. 2",
+			"description": "New game each week with Prime",
+			"developer": "Toxic Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-03-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "be2b02e7-5901-4c2a-aa90-77314ee9a0d8",
+			"art_cover": "https://m.media-amazon.com/images/I/61pDopp5qKL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61wa0KJGaOL.png",
+			"art_background": "https://m.media-amazon.com/images/I/610GlUv3u0L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91mdO9jiJFL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Guild of Dungeoneering",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Guild of Dungeoneering",
+			"description": "New game each week with Prime",
+			"developer": "Gambrinous",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Strategy",
+					"Turn-based strategy (TBS)",
+					"Indie"
+				],
+				"releaseDate": "2015-07-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "99446e03-f117-42da-84ad-61ea088bae52",
+			"art_cover": "https://m.media-amazon.com/images/I/51IeM0txOZL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/618FvkbdnjL.png",
+			"art_background": "https://m.media-amazon.com/images/I/515F23PKEhL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81Chdy+oCLL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Original Strife Veteran Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Original Strife: Veteran Edition",
+			"description": "New game each week with Prime",
+			"developer": "Sir-Tech Canada",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Role-playing (RPG)"
+				],
+				"releaseDate": "2014-12-12T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "4d4aa4d3-cc66-4067-b959-446e4d34512f",
+			"art_cover": "https://m.media-amazon.com/images/I/61zqkrjJqSL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31506OcFFzL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61PJpTlTtKL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81e1H73xjwL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "SOMA",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "SOMA",
+			"description": "New game each week with Prime",
+			"developer": "Frictional Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-09-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "0e577bb9-8144-4535-95c5-171f49b0f7f1",
+			"art_cover": "https://m.media-amazon.com/images/I/61z-D0CyqfL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41KHSmHYDwL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61T0dI8rOtL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81JFI-mRlfL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Orwell",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Orwell",
+			"description": "New game each week with Prime",
+			"developer": "Osmotic Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-09-14T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "34cb556f-0855-4866-bcc0-3a12275d1247",
+			"art_cover": "https://m.media-amazon.com/images/I/41E8hYBNiTL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51nx1Tc+-kL.png",
+			"art_background": "https://m.media-amazon.com/images/I/419VTFM-xPL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91EH0PcSVkL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tumblestone",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tumblestone",
+			"description": "New game each week with Prime",
+			"developer": "The Quantum Astrophysicists Guild",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Strategy",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2016-07-12T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "2dc4575e-3ea3-481d-9004-27dbc468a06e",
+			"art_cover": "https://m.media-amazon.com/images/I/5124hA58JeL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51cUTE2QvKL.png",
+			"art_background": "https://m.media-amazon.com/images/I/517RbzMhDjL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91H7mOfpH3L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Next Up Hero",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Next Up Hero",
+			"description": "New game each week with Prime",
+			"developer": "Digital Continue",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Hack and slash/Beat 'em up"
+				],
+				"releaseDate": "2018-01-11T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a1597314-37f8-4ed9-a31c-767bdcf6436e",
+			"art_cover": "https://m.media-amazon.com/images/I/614K8e8ZfwL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61xZhcRp2wL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71KdYiCy-kL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81wiXa8xIyL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Smoke and Sacrifice",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Smoke and Sacrifice",
+			"description": "New game each week with Prime",
+			"developer": "Solar Sail Games Ltd",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-05-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "939d5b72-b8b5-46ed-be07-b469c8dcad8a",
+			"art_cover": "https://m.media-amazon.com/images/I/71r+DRgm1GL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41rRl9LvZ+L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71VDPXgzVkL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91Lkn9HwKfL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Battle Chef Brigade Deluxe",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Battle Chef Brigade Deluxe",
+			"description": "New game each week with Prime",
+			"developer": "Trinket Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Role-playing (RPG)",
+					"Simulator",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2017-11-20T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "1bad64df-146c-496e-84a9-2e102ca30f0a",
+			"art_cover": "https://m.media-amazon.com/images/I/51Qpxp85RuL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51OJW7sh4yL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51GN0-Ji8DL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91P0-AK9obL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "FRAMED Collection",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "FRAMED Collection",
+			"description": "New game each week with Prime",
+			"developer": "Loveshack Entertainment",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Music",
+					"Platform",
+					"Puzzle",
+					"Strategy",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-05-17T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "9875182a-e2d1-4124-ab59-39e463076896",
+			"art_cover": "https://m.media-amazon.com/images/I/71aAsfhucNL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/612gSot8gPL.png",
+			"art_background": "https://m.media-amazon.com/images/I/7150aG-9WzL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1z8roZc7BL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Hotline Miami 2 Wrong Number",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Hotline Miami 2: Wrong Number",
+			"description": "New game each week with Prime",
+			"developer": "Dennaton",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie"
+				],
+				"releaseDate": "2015-03-10T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "192f4336-2417-43da-b35c-d32c65f8fa65",
+			"art_cover": "https://m.media-amazon.com/images/I/71wgl91az9L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/5102q7eOtTL.png",
+			"art_background": "https://m.media-amazon.com/images/I/714ELf06G0L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91gfIFpkMkL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Psychonauts",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Psychonauts",
+			"description": "New game each week with Prime",
+			"developer": "Double Fine Productions",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Adventure"
+				],
+				"releaseDate": "2005-04-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "f6e3da4d-62fd-475f-845a-6e708723de00",
+			"art_cover": "https://m.media-amazon.com/images/I/41BrLlpPe1L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51+INrfe89L.png",
+			"art_background": "https://m.media-amazon.com/images/I/41oX+gsNqmL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91+W49cvH9L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Hacknet",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Hacknet",
+			"description": "New game each week with Prime",
+			"developer": "Team Fractal Alligator",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Simulator",
+					"Indie"
+				],
+				"releaseDate": "2015-08-12T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a3f5ee11-7f45-4cf2-9dd9-642fb2597124",
+			"art_cover": "https://m.media-amazon.com/images/I/51b3tPNTXBL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51fNsMuGTKL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51k5o9SWttL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81CH2Wa3NdL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Overcooked",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Overcooked!",
+			"description": "New game each week with Prime",
+			"developer": "Team17 Digital Limited",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Indie"
+				],
+				"releaseDate": "2016-08-02T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8120272b-11d8-47e8-9b89-2f3ff2155507",
+			"art_cover": "https://m.media-amazon.com/images/I/71jSSgEEqeL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61-x7DgUAIL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71HJxelPjWL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91DOSDnnIhL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Pillars of Eternity July 2 – 4",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Pillars of Eternity: July 2 – 4",
+			"developer": "Obsidian Entertainment",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Strategy",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-03-26T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "69008e07-590b-4ea1-9aa4-f033ef8b9d2c",
+			"art_cover": "https://m.media-amazon.com/images/I/61MV0inH9LL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/21BpV7Fcw8L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61fS6QiRGaL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/810ZD9mnyKL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Observer July 11 – 17",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Observer: July 11 – 17",
+			"developer": "Bloober Team",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				],
+				"releaseDate": "3000-01-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "c2bfad1a-cd3c-49ec-9d7b-9cfb4952753e",
+			"art_cover": "https://m.media-amazon.com/images/I/61yKxPgm2xL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41rjKrGI-NL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61whIzrl4dL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91xegaGcOnL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Ken Folletts The Pillars of the Earth",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Ken Follett's The Pillars of the Earth",
+			"description": "New game each week with Prime",
+			"developer": "Daedalic Entertainment",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure",
+					"Indie",
+					"Visual Novel"
+				],
+				"releaseDate": "2017-08-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "dceac06b-afa9-441c-bcd1-35783bcf87e8",
+			"art_cover": "https://m.media-amazon.com/images/I/61h9ddQPXJL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61c6KGQ08gL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61oY0pkhhQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81iBxaxyl5L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Manual Samuel",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Manual Samuel",
+			"description": "New game each week with Prime",
+			"developer": "Perfectly Paranormal",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-10-11T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a505a548-6544-4468-8bc3-9c174299b155",
+			"art_cover": "https://m.media-amazon.com/images/I/51bsEw1tMML.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/510jLrJJ7YL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51dc4sJaDML.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/810nlwHc0YL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Poi",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Poi",
+			"description": "New game each week with Prime",
+			"developer": "PolyKid",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-11-06T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "05996bea-0bdf-42a9-970b-02c76b663ca9",
+			"art_cover": "https://m.media-amazon.com/images/I/71UeklJPIVL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51KsWKL0iYL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71kjG6DB6zL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/816oHf5BhCL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Samurai Shodown II",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Samurai Shodown II",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "1994-01-02T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a99efc99-c9a5-46ad-84b9-ef55e1871d01",
+			"art_cover": "https://m.media-amazon.com/images/I/61DQL+oBMJL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61Q6X2KF9NL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61JnIEwhPrL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91IaNyTq5uL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Deponia Doomsday",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Deponia Doomsday",
+			"description": "New game each week with Prime",
+			"developer": "Daedalic Entertainment",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-03-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "fbcc4aaa-a6f1-469c-b34e-dc65756f7141",
+			"art_cover": "https://m.media-amazon.com/images/I/81dhalU8zEL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/618ddjx457L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71g7H72AHfL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91z99RjD35L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Metal Slug 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Metal Slug 2",
+			"description": "New game each week with Prime",
+			"developer": "Dotemu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Platform",
+					"Adventure"
+				],
+				"releaseDate": "1998-01-02T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "498bb66a-c291-41f4-a3ef-35a544cdb7eb",
+			"art_cover": "https://m.media-amazon.com/images/I/11y3nv2wpuL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41i+8Ay4qrL.png",
+			"art_background": "https://m.media-amazon.com/images/I/21m77vXikUL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91d2HHzqSGL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "High Hell (WIN)",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "High Hell (WIN)",
+			"developer": "Terri Vellmann & Doseone",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie"
+				],
+				"releaseDate": "2017-10-23T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "2f7d571e-0c1f-4b68-bbb4-8fa519800c4d",
+			"art_cover": "https://m.media-amazon.com/images/I/611QyWBeAiL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/218itso7nLL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61gPnLzKzCL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/913lJadrZQL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Republique",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Republique",
+			"description": "New game each week with Prime",
+			"developer": "Camouflaj Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-01-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "4eb1ffc1-a9a8-417b-b867-d83e07a6dfc8",
+			"art_cover": "https://m.media-amazon.com/images/I/71TAcTKq1nL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61BnZqyNTfL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71I2W8pLe0L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81+m38K1ewL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Broforce",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Broforce",
+			"description": "New game each week with Prime",
+			"developer": "Free Lives",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Platform",
+					"Adventure",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2015-10-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "2ebae692-5e13-4ee1-a4bd-1f901bac77c6",
+			"art_cover": "https://m.media-amazon.com/images/I/6173A+J2I8L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31zDGoc0m4L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61xaUrgWi7L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/71SAFeL4TvL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "HUE",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "HUE",
+			"description": "New game each week with Prime",
+			"developer": "Fiddlesticks",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2016-08-30T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "67b7a89f-69e8-4b4d-a0a6-80a5bb6f1f75",
+			"art_cover": "https://m.media-amazon.com/images/I/81BJhk5E2RL.jpg",
+			"art_logo": "https://images-na.ssl-images-amazon.com/images/I/41pbNBKY7xL.png",
+			"art_background": "https://m.media-amazon.com/images/I/816nlJcL7qL.jpg",
+			"art_square": "https://images-na.ssl-images-amazon.com/images/I/61H4IHHH1CL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Fatal Fury Special",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Fatal Fury Special",
+			"developer": "Hudson Soft",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "1993-01-16T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "6e99c309-1eae-42c5-834a-eceb0b1b5166",
+			"art_cover": "https://m.media-amazon.com/images/I/61wy2Wl3tHL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61q+sJiSb5L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61Bbs+4VaTL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81Puw33gQ3L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Serial Cleaner",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Serial Cleaner",
+			"description": "New game each week with Prime",
+			"developer": "iFun4All",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Simulator",
+					"Adventure"
+				],
+				"releaseDate": "2017-07-11T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "0c0126bf-8d56-46c0-ac10-fa07a4f2ad70",
+			"art_cover": "https://m.media-amazon.com/images/I/61EBhkUHsbL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71Kgq53ryqL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61ZYPfx6MZL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81tbhWa1TIL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Banner Saga",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Banner Saga",
+			"description": "New game each week with Prime",
+			"developer": "Stoic",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "2016-09-14T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "e94696a4-61ce-4930-80ba-138c0da0b433",
+			"art_cover": "https://m.media-amazon.com/images/I/51YMJqVXNJL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51p-llSU0UL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51AreF3gIBL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91cs1G+UO-L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Uurnog Uurnlimited",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Uurnog Uurnlimited",
+			"description": "New game each week with Prime",
+			"developer": "Nifflas Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Indie"
+				],
+				"releaseDate": "2017-11-16T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "f8ff5767-bbb1-4ab8-9b34-d617ec534339",
+			"art_cover": "https://m.media-amazon.com/images/I/51UIv+FMwcL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41SHD-SzLcL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51QMtPDoL5L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81xwnyNEPqL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Pumped BMX",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Pumped BMX",
+			"description": "New game each week with Prime",
+			"developer": "Yeah Us!",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Sport"
+				],
+				"releaseDate": "2015-09-18T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "87c79d53-6693-4de1-8973-2122da60603e",
+			"art_cover": "https://m.media-amazon.com/images/I/51+GxBAk-+L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51hlEOg4jRL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51qxbDBav+L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/815WYwumZ9L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Little Acre",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Little Acre",
+			"description": "New game each week with Prime",
+			"developer": "Pewter Games Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2016-12-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b3420df5-00d4-4884-96b6-1345637fd7d8",
+			"art_cover": "https://m.media-amazon.com/images/I/61robzzVv6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31TFix-W6PL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61bxfA-ogpL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81AsQXpip-L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "AER Memories of Old",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "AER Memories of Old",
+			"description": "New game each week with Prime",
+			"developer": "Daedalic Entertainment",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2017-10-25T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "9504afc3-c0e2-478a-8dd7-03761f536363",
+			"art_cover": "https://m.media-amazon.com/images/I/71+clb9suEL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61CjH0agd3L.png",
+			"art_background": "https://m.media-amazon.com/images/I/613bGbhEZdL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81XQF-RvexL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Broken Age",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Broken Age",
+			"description": "New game each week with Prime",
+			"developer": "Double Fine Productions",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "2016-09-14T07:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "bf8a5cc7-9776-455c-b49a-d00756b14b28",
+			"art_cover": "https://m.media-amazon.com/images/I/71mPRWCg3AL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/618dvLHRRqL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71M58zI6J4L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91WdvkSGSDL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "ToeJam  Earl Back in the Groove",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "ToeJam & Earl: Back in the Groove!",
+			"description": "New game each week with Prime",
+			"developer": "HumaNature Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Music",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2019-03-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "2ad346bf-d6b0-4f34-b462-7e1389727805",
+			"art_cover": "https://m.media-amazon.com/images/I/71ko2aAdIcL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61LODGQKLYL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71cGnr7puoL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/818SuAQ037L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "When Ski Lifts Go Wrong",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "When Ski Lifts Go Wrong",
+			"description": "New game each week with Prime",
+			"developer": "Curve Digital",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Sport",
+					"Indie"
+				],
+				"releaseDate": "2019-01-23T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "66d610ba-d613-4607-8593-206a5fca2d61",
+			"art_cover": "https://m.media-amazon.com/images/I/51HKZuAVj1L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41xS6KLRsPL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51w-lK12OSL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91q6GyOFT9L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Hover",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Hover",
+			"description": "New game each week with Prime",
+			"developer": "Midgar Studio",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				],
+				"releaseDate": "2017-05-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "6119ce91-31d4-48dc-9084-e94c8d4c4c26",
+			"art_cover": "https://m.media-amazon.com/images/I/71R8PFk-MOL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51JmGuS17PL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71u4uOSxYML.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/9161bozkLsL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Sherlock Holmes The Devils Daughter",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Sherlock Holmes: The Devil's Daughter",
+			"description": "New game each week with Prime",
+			"developer": "Frogwares",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2016-06-10T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "61f2a18e-6fbd-4449-8b19-956aef8514c5",
+			"art_cover": "https://m.media-amazon.com/images/I/71FnfOT9Z6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51DzBkK3ahL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61fWI79wH6L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81g3LB9ZYkL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Crossing Souls",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Crossing Souls",
+			"description": "New game each week with Prime",
+			"developer": "Fourattic",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2018-02-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "5cb459d0-69b1-41eb-94bf-7d3c4edc74ce",
+			"art_cover": "https://m.media-amazon.com/images/I/51Tyik1PKmL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51vOpYmuNDL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51KeSAlGgsL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91+ft+IUhoL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Hotline Miami",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Hotline Miami",
+			"description": "New game each week with Prime",
+			"developer": "Dennaton",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie"
+				],
+				"releaseDate": "2012-10-23T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "b2dfa643-b116-4e3c-afe0-e73ae98a32ad",
+			"art_cover": "https://m.media-amazon.com/images/I/418gXF0CioL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/610Ng-yW5UL.png",
+			"art_background": "https://m.media-amazon.com/images/I/41cbLDne4yL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91PZPKHJJ9L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Majesty 2 Collection",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Majesty 2 Collection",
+			"description": "New game each week with Prime",
+			"developer": "Paradox Interactive",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy"
+				],
+				"releaseDate": "2011-04-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "1cb34067-6b1b-4610-9dd2-e06988f69a3b",
+			"art_cover": "https://m.media-amazon.com/images/I/61q7s18p1AL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51DVgWkd0VL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61KapfUtfsL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91MuPbKWCnL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Messenger",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Messenger",
+			"description": "New game each week with Prime",
+			"developer": "Sabotage",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2000-12-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "340e2d64-ef20-48dc-842d-f85ad1e06d2a",
+			"art_cover": "https://m.media-amazon.com/images/I/61sqhexHt1L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61rCPGVZ11L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61SMk1EhJ+L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91cWmEvYhkL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Blasphemous",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Blasphemous",
+			"description": "New game each week with Prime",
+			"developer": "The Game Kitchen",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Role-playing (RPG)",
+					"Hack and slash/Beat 'em up",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2019-09-10T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "285ee9a5-0bc8-4a6f-8415-aed4cf830e76",
+			"art_cover": "https://m.media-amazon.com/images/I/71MPR7-E0hL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/614x39YLi3L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71IIqncWWfL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91wARQMdh0L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tengami",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tengami",
+			"description": "New game each week with Prime",
+			"developer": "Nyamyam",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-01-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "81394511-4f48-4c64-9833-8e12ef1bb088",
+			"art_cover": "https://m.media-amazon.com/images/I/61jhLbSji7L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51T4ffoApHL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61ds1qCD2yL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81UjBozSqRL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Boomerang Fu",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Boomerang Fu",
+			"description": "New game each week with Prime",
+			"developer": "Cranky Watermelon",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2020-08-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "64c8296f-cbea-416b-8947-a89e97a3e97a",
+			"art_cover": "https://m.media-amazon.com/images/I/61hAIaNnaAL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/21+RY1j+FsL.png",
+			"art_background": "https://m.media-amazon.com/images/I/615uQyddLiL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/916OWrMnQAL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Optica",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Optica",
+			"description": "New game each week with Prime",
+			"developer": "Graveck",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Strategy",
+					"Indie"
+				],
+				"releaseDate": "2018-08-28T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "2d05b80a-41fe-4da5-9e4d-db7ecfc7dae7",
+			"art_cover": "https://m.media-amazon.com/images/I/61S+DB02ztL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51DnjWF+q6L.png",
+			"art_background": "https://m.media-amazon.com/images/I/612cuKPbX8L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/913HCE0a-LL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "SkyDrift",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "SkyDrift",
+			"description": "New game each week with Prime",
+			"developer": "Digital Reality",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2011-09-06T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "22c10eeb-6b68-4b49-a025-e36af43f0bbf",
+			"art_cover": "https://m.media-amazon.com/images/I/A1SzfLrAPaL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/514+1a78YIL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71QxttYIMLL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/914dD-zbqML.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Sine Mora EX",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Sine Mora EX",
+			"description": "A side-scrolling shoot 'em up where time is the ultimate factor.",
+			"developer": "Digital Reality",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie"
+				],
+				"releaseDate": "2017-07-31T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8bfd8b43-faa3-49f7-aa87-42598dad2dda",
+			"art_cover": "https://m.media-amazon.com/images/I/61ZuKSZb6SL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61Nolhe6+VL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61v9CvFhcCL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91CyJrHvroL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Bomber Crew Deluxe",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Bomber Crew Deluxe",
+			"description": "New game each week with Prime",
+			"developer": "Runner Duck",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy"
+				],
+				"releaseDate": "2017-10-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "1caba129-321f-4cd6-b69f-9947cc673d7f",
+			"art_cover": "https://m.media-amazon.com/images/I/71kkgwrwKDL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51EpR6PiT3L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71OuIWdQGNL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91vE0lBW6HL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Swimsanity",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Swimsanity",
+			"description": "New game each week with Prime",
+			"developer": "Decoy Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2020-08-07T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "7f279a69-296c-4ab4-b82f-e4c0129c1b70",
+			"art_cover": "https://m.media-amazon.com/images/I/71JY2A6v8iL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/411swvsWMqL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71BvoMOiyXL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81YR0I0KjaL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Academy The First Riddle",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Academy: The First Riddle",
+			"description": "They say that behind every corner of the Academy lies a riddle waiting to be solved.",
+			"developer": "Pine Studio",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2020-06-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "82d8ca92-26ed-4d0a-9ed8-b990c67727d6",
+			"art_cover": "https://m.media-amazon.com/images/I/81FVEHvgeTL.jpg",
+			"art_logo": "https://images-na.ssl-images-amazon.com/images/I/41Ul80ujjDL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71QSrxLYuDL.jpg",
+			"art_square": "https://images-na.ssl-images-amazon.com/images/I/518mzlyacDL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The King Of Fighters 2000",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The King Of Fighters 2000",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting",
+					"Arcade"
+				],
+				"releaseDate": "2000-01-21T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "a9670805-c3fc-4c06-a949-afc0b410756c",
+			"art_cover": "https://m.media-amazon.com/images/I/51E2Kbp3FOL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61BHqNT-bHL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51KNLfx7RyL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91Nq4ZjufmL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Art of Fighting 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Art of Fighting 2",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "1994-01-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "30af9c0e-6dfa-457a-a8af-eab5f243ea80",
+			"art_cover": "https://m.media-amazon.com/images/I/61VKSM7U0xL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51J30dPe-ZL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61vzcwqUabL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91MSFqnfZgL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Blazing Star",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Blazing Star",
+			"description": "New game each week with Prime",
+			"developer": "Yumekobo",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Arcade"
+				],
+				"releaseDate": "1998-01-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "e9144f0f-a84c-43fd-9280-02b572609706",
+			"art_cover": "https://m.media-amazon.com/images/I/71rrCUrfJXL.jpg",
+			"art_logo": "https://images-na.ssl-images-amazon.com/images/I/41lM-ZftNcL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61Xyea-f3hL.jpg",
+			"art_square": "https://images-na.ssl-images-amazon.com/images/I/51TTiHVe22L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The King Of Fighters 2002",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The King Of Fighters 2002",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2002-01-10T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "6350f1e0-29e9-4186-af20-d9c6d95e6032",
+			"art_cover": "https://m.media-amazon.com/images/I/71XsvNV8dxL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71kgU5ky6VL.png",
+			"art_background": "https://m.media-amazon.com/images/I/711vMsjWdlL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91mbGsD4efL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Shock Troopers 2nd Squad",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Shock Troopers: 2nd Squad",
+			"description": "New game each week with Prime",
+			"developer": "DotEmu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Arcade"
+				],
+				"releaseDate": "2016-09-28T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "fa610758-0d0f-4af2-a17c-caf61177cfe7",
+			"art_cover": "https://m.media-amazon.com/images/I/51l13cl7THL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71UjWwtbDXL.png",
+			"art_background": "https://m.media-amazon.com/images/I/516AoumvJoL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91M9kRsLINL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Ironclad",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Ironclad",
+			"description": "New game each week with Prime",
+			"developer": "Saurus",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "1996-09-20T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8f4bf0e4-4bda-42ca-851c-8523badc979c",
+			"art_cover": "https://m.media-amazon.com/images/I/714ia1gC3oL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31RTwwjRW4L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71xj6iu5AcL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91qco0HM76L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "King of the Monsters",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "King of the Monsters",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting",
+					"Sport",
+					"Hack and slash/Beat 'em up"
+				],
+				"releaseDate": "1991-01-25T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "cfe75f9c-4583-4efd-842a-a927958ae86e",
+			"art_cover": "https://m.media-amazon.com/images/I/71x+iXFeq9L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51Z6yGXzrzL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71SbWiQU38L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91lmUHlYWGL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Sengoku 3",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Sengoku 3",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Hack and slash/Beat 'em up",
+					"Arcade"
+				],
+				"releaseDate": "2001-01-18T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "9ebdf97d-7f3e-4235-9412-4ea3c8d133f5",
+			"art_cover": "https://m.media-amazon.com/images/I/61UiPgbGSyL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51yvEi9gx+L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61t8AYLAqyL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91yf0sRPWUL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Garou",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Garou",
+			"description": "New game each week with Prime",
+			"developer": "SNK Corporation",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2017-05-11T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "756758e1-80ec-4564-a100-b9417d1aed0a",
+			"art_cover": "https://m.media-amazon.com/images/I/6179yQJ1TxL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61QXwlhbKjL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61jtub7xydL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81YHsF4usNL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The King of Fighters 98 Ultimate Match",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The King of Fighters '98 Ultimate Match",
+			"description": "New game each week with Prime",
+			"developer": "Code Mystics",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2014-12-16T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "09c9b422-1e05-4da7-8307-42dcb2a9877e",
+			"art_cover": "https://m.media-amazon.com/images/I/71mkZZMBHCL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/610qjN0uy1L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71eA1NoZwQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/916-w0iUamL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Shock Troopers",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Shock Troopers",
+			"description": "New game each week with Prime",
+			"developer": "DotEmu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter"
+				],
+				"releaseDate": "2012-05-22T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "704bc6ca-518d-4284-8604-9bd8fa94599e",
+			"art_cover": "https://m.media-amazon.com/images/I/713SVoS1ULL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51WIcdGOIaL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71ssR8U9vUL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91HucprtFVL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The King of Fighters 97 Global Match",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The King of Fighters '97 Global Match",
+			"description": "New game each week with Prime",
+			"developer": "SNK Playmore",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2018-04-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "cd488e76-7247-4087-b418-06faaac5e958",
+			"art_cover": "https://m.media-amazon.com/images/I/51QhWt7MsXL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/618mU7PE22L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51sOBqG8c8L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91cKCZm+nZL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The King of Fighters 2002 Unlimited Match",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The King of Fighters 2002 Unlimited Match",
+			"description": "New game each week with Prime",
+			"developer": "Code Mystics",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2015-02-27T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "c7827e1e-8182-4d9e-bfe1-c625e7b2603b",
+			"art_cover": "https://m.media-amazon.com/images/I/61loSNCPf1L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61Ld+0CS1ML.png",
+			"art_background": "https://m.media-amazon.com/images/I/61DJyU-z-jL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91Q5lMSUo0L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Samurai Shodown V Special",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Samurai Shodown V Special",
+			"description": "New game each week with Prime",
+			"developer": "Yuki Enterprise",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "2004-01-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8c5a6e9c-c20b-4942-9013-26b4926ce37a",
+			"art_cover": "https://m.media-amazon.com/images/I/71y61-1O1vL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51fhith2L-L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71z9Y8OMZiL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91q9FqGJTlL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Aces of the Luftwaffe – Squadron",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Aces of the Luftwaffe – Squadron",
+			"description": "New game each week with Prime",
+			"developer": "Handy Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Indie"
+				],
+				"releaseDate": "2018-07-24T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "45468b40-7274-424c-b4c4-6b8a08901272",
+			"art_cover": "https://m.media-amazon.com/images/I/61PfOdZ0XoL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51bUi0AvECL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61Z8LMGliQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81FAMJWXwiL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Figment",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Figment",
+			"description": "New game each week with Prime",
+			"developer": "Bedtime Digital Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2017-09-17T21:35:11Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "3d938a83-ec98-4cfb-a11f-a0fbfee934ef",
+			"art_cover": "https://m.media-amazon.com/images/I/71Tr-9pMMlL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51oipdNa+yL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71qOcHFVJfL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91WL0hUBl3L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Do Not Feed the Monkeys",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Do Not Feed the Monkeys",
+			"description": "New game each week with Prime",
+			"developer": "Fictiorama Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy",
+					"Indie"
+				],
+				"releaseDate": "2018-10-23T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "4f603926-ada0-4d8a-9551-0f8185b78710",
+			"art_cover": "https://m.media-amazon.com/images/I/51ExDljFZkL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/311cN3gYOHL.png",
+			"art_background": "https://m.media-amazon.com/images/I/51APLMy8qZL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81C5SbuQ4vL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Before I Forget",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Before I Forget",
+			"description": "New game each week with Prime",
+			"developer": "3-Fold Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2020-07-16T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "ee44bb82-a70f-4f6d-a502-737f1bfef431",
+			"art_cover": "https://m.media-amazon.com/images/I/61sRwDivOBL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51HVuIufMgL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61P+G0GE9NL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91bEDrMKXSL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Move or Die - Couch Party Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Move or Die - Couch Party Edition",
+			"description": "New game each week with Prime",
+			"developer": "Those Awesome Guys",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2016-01-21T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "551a2cd1-9688-41fa-9a07-6af2df90b6e5",
+			"art_cover": "https://m.media-amazon.com/images/I/51mj7dO1y9L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41YzK+nwA9L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51xoN7-3UOL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/914-+H7qrOL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Escapists",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Escapists",
+			"description": "New game each week with Prime",
+			"developer": "Mouldy Toof Studios",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Role-playing (RPG)",
+					"Simulator",
+					"Strategy",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2015-02-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "cb1ee645-30be-4887-a612-a081687eec47",
+			"art_cover": "https://m.media-amazon.com/images/I/41wWDIS8iML.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31ynIVVf2yL.png",
+			"art_background": "https://m.media-amazon.com/images/I/41PU1hPcUML.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/713VhVAAAUL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Iris and the Giant",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Iris and the Giant",
+			"description": "New game each week with Prime",
+			"developer": "Louis Rigaud",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Strategy",
+					"Tactical",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2021-03-03T17:22:49Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "fa070ce3-b0f8-40f5-aa53-aef28e822093",
+			"art_cover": "https://m.media-amazon.com/images/I/61CYp4QDPwL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41MzRVC89WL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61Kf8GulIKL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81afTEJ6M1L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Batman The Telltale Series",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Batman: The Telltale Series",
+			"description": "New game each week with Prime",
+			"developer": "Telltale",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Role-playing (RPG)",
+					"Adventure"
+				],
+				"releaseDate": "2016-08-02T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "e74afea8-3411-4274-a6b5-d940c9515db0",
+			"art_cover": "https://m.media-amazon.com/images/I/71UxtRiUsEL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51CdiIcQ4NL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71zNrvvROjL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91YT3lUF0IL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Lost in Harmony",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Lost in Harmony",
+			"description": "New game each week with Prime",
+			"developer": "DigixArt",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Music",
+					"Adventure",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2018-06-21T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "670651a7-1fb1-4e8f-ab17-caee6bd2f5a9",
+			"art_cover": "https://m.media-amazon.com/images/I/61lknPmeGwL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51gK0wtACJL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61utbNoKuQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81drfMz1Z4L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Newfound Courage",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Newfound Courage",
+			"description": "New game each week with Prime",
+			"developer": "Cafe Empty",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2019-03-22T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "5b857b61-570b-4b08-b37b-7455610de1f7",
+			"art_cover": "https://m.media-amazon.com/images/I/61eVo11tt6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/518b7W69MsL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61Kf5jVQMEL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81E0+EqlyML.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "BFF or Die",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "BFF or Die",
+			"description": "New game each week with Prime",
+			"developer": "ASA Studio",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2018-09-13T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "ea502fa9-4b6e-4676-aaee-432e46807ec1",
+			"art_cover": "https://m.media-amazon.com/images/I/61tY6H3wC9L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51SJmhKN8VL.png",
+			"art_background": "https://m.media-amazon.com/images/I/616T3FiHrXL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/815lRHeti0L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Mugsters",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Mugsters",
+			"description": "New game each week with Prime",
+			"developer": "Reinkout Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-07-17T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "d06adfe4-1579-4285-b742-d94533f4f341",
+			"art_cover": "https://m.media-amazon.com/images/I/614fjJgs4nL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61jLxOEPBXL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61dLnov5h7L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91XHvgbsf0L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Spitkiss",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Spitkiss",
+			"description": "New game each week with Prime",
+			"developer": "Triple Topping",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2018-11-06T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "cdb1066a-11db-42db-a050-3358cd248ae7",
+			"art_cover": "https://m.media-amazon.com/images/I/71vjBEIIXLL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41BV+xsCiLL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71VqM0OjRdL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91gXSPhk1TL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of the Neon Sea",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of the Neon Sea",
+			"description": "New game each week with Prime",
+			"developer": "Palm Pioneer",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2019-04-30T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "335c61ef-7760-4bf1-89c8-c5f7552d086f",
+			"art_cover": "https://m.media-amazon.com/images/I/61AcjMvre6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41EJf92hx5L.png",
+			"art_background": "https://m.media-amazon.com/images/I/61EEqPGaiQL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91vv3TzutQL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Wanderer Frankensteins Creature",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Wanderer: Frankenstein's Creature",
+			"description": "New game each week with Prime",
+			"developer": "La Belle Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2019-10-30T17:11:52Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "12b2a663-73da-46cd-938a-5e4fdcac7d38",
+			"art_cover": "https://m.media-amazon.com/images/I/61T8WToVmML.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51mynnRRqyL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61QWd74Q0uL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91GDkIIfZTL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Batman TellTale Series Season 2  Enemy Within",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Batman TellTale Series Season 2 : Enemy Within",
+			"description": "New game each week with Prime",
+			"developer": "Telltale",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				],
+				"releaseDate": "2017-08-08T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "e75792f0-a9ab-4b40-b1e7-7e10d30b5645",
+			"art_cover": "https://m.media-amazon.com/images/I/61FK9s5jwPL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/515lWzHa1XL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61s0CfnGfVL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91kbHD6WqKL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Automachef",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Automachef",
+			"description": "New game each week with Prime",
+			"developer": "Rhombico Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Indie"
+				],
+				"releaseDate": "2019-07-23T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "6ea8a67f-b21c-425b-9d1b-ce207e30ae2f",
+			"art_cover": "https://m.media-amazon.com/images/I/61pe3FdAqyL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61zFlSyrrKL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61uTGIeoK6L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/918LxcGDyGL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Secret of Monkey Island Special Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Secret of Monkey Island: Special Edition",
+			"description": "New game each week with Prime",
+			"developer": "LucasArts",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Adventure"
+				],
+				"releaseDate": "2009-07-15T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "8f45e476-67d8-4743-9d3c-9004251d70ba",
+			"art_cover": "https://m.media-amazon.com/images/I/71RZV7TaDnL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61EILpLQn-L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71vuFq7mYpL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81iCOyt+ZXL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "RAD",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "RAD",
+			"description": "New game each week with Prime",
+			"developer": "Double Fine Productions",
+			"extra": {
+				"reqs": [],
+				"genres": [],
+				"releaseDate": "2019-08-20T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "27cdbe8e-58ff-4d0b-be92-a971d882643c",
+			"art_cover": "https://m.media-amazon.com/images/I/61Hm7ugDZmL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51tzK8fY6dL.png",
+			"art_background": "https://m.media-amazon.com/images/I/514VaZHJUUL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81TzyNgWsXL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Portal Dogs",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Portal Dogs",
+			"description": "New game each week with Prime",
+			"developer": "Brain Connected",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie"
+				],
+				"releaseDate": "2020-02-25T12:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.13a55926-e6b6-497d-b3af-9d932744d408",
+			"art_cover": "https://m.media-amazon.com/images/I/813jdwqUEbL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71m1gUmjDvL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91PpJr4yZiL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/813A1fNqYQL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of Monkey Island Chapter 5",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of Monkey Island: Chapter 5",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2010-01-31T16:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.5dacffa6-c9ff-4c8e-abae-e51e1bbafc80",
+			"art_cover": "https://m.media-amazon.com/images/I/81TIaanO0FL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71rPcL5zMaL.png",
+			"art_background": "https://m.media-amazon.com/images/I/911WzkotMuL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/815XzGnVaML.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of Monkey Island Chapter 4",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of Monkey Island: Chapter 4",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2009-11-29T16:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.a0b96333-d610-40d7-9658-2e754c1615ec",
+			"art_cover": "https://m.media-amazon.com/images/I/81iq2qs2JzL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71PgfpDG5zL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91K3BAwsW2L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81K6mQSdv7L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of Monkey Island Chapter 3",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of Monkey Island: Chapter 3",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2009-09-28T17:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.5efc992e-6086-4367-b521-c77f877eb396",
+			"art_cover": "https://m.media-amazon.com/images/I/81wCJV11IyL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/714i8lVfmtL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91grHrvAbEL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81h48nR+nKL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of Monkey Island Chapter 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of Monkey Island: Chapter 2",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2009-08-30T17:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.71a2ec7f-719c-4278-92ea-9b74a99be7a6",
+			"art_cover": "https://m.media-amazon.com/images/I/81RsxoyT80L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/71qLeYtgGNL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A12ViW58MbL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/912XoMPvRgL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tales of Monkey Island Chapter 1",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tales of Monkey Island: Chapter 1",
+			"developer": "Telltale Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Adventure"
+				],
+				"releaseDate": "2009-07-06T17:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.6ed13be7-1d52-42b0-af03-9f487492ae93",
+			"art_cover": "https://m.media-amazon.com/images/I/8199xZUXqLL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51KA7t2t7ZL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1g8gEHyEAL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81JT0OM1onL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Fahrenheit Indigo Prophecy Remastered",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Fahrenheit: Indigo Prophecy Remastered",
+			"developer": "Quantic Dream",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure"
+				],
+				"releaseDate": "2015-01-29T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.fe83dbda-6966-4ba6-b252-33faa24034e4",
+			"art_cover": "https://m.media-amazon.com/images/I/81sTPx-p49L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/518D45wYw0L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71dDs5cc9FL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81gGrN3d1YL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Curse of Monkey Island",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Curse of Monkey Island",
+			"developer": "LucasArts",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "1997-10-30T16:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.90683494-2e3f-45c8-91cb-c35d659fad55",
+			"art_cover": "https://m.media-amazon.com/images/I/712LXCPSrWL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61hLFsnXgDL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71zWUmMToSL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81avy6S+cnL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Gone Viral",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Gone Viral",
+			"developer": "Skullbot Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2020-09-24T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.8d752461-4a70-4f1c-9bd5-d320afa9c9f1",
+			"art_cover": "https://m.media-amazon.com/images/I/81I4XKNmf-L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41uMusU5EsL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71C4huHvX1L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81kjvxfVRBL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Darkside Detective A Fumble in the Dark",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Darkside Detective: A Fumble in the Dark",
+			"developer": "Spooky Doorway",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2021-04-15T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.8320bb7e-a254-4a71-82e2-d5c29cd6a687",
+			"art_cover": "https://m.media-amazon.com/images/I/818BhH7bw7L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51OJsiB5KsL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71NF7sHsm5L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/71XY3vBo2tL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "STAR WARS Jedi Knight II - Jedi Outcast",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "STAR WARS Jedi Knight II - Jedi Outcast",
+			"developer": "Vicarious Visions",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Adventure"
+				],
+				"releaseDate": "2002-03-26T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.0127edd7-4a35-4991-ab79-ff7601a699da",
+			"art_cover": "https://m.media-amazon.com/images/I/71HRfMHI4XL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51WuqB5qemL.png",
+			"art_background": "https://m.media-amazon.com/images/I/713+t3GZppL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81Wmf+PsvfL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "STAR WARS Jedi Knight - Jedi Academy",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "STAR WARS Jedi Knight - Jedi Academy",
+			"developer": "Raven Software",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Adventure"
+				],
+				"releaseDate": "2003-09-17T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.334f1d96-0646-4e9b-9613-8747be0c7505",
+			"art_cover": "https://m.media-amazon.com/images/I/81TjiCS6QPL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61vBkSvYnYL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71+5-o0wQgL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/919RTJtSDmL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "STAR WARS Republic Commando",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "STAR WARS Republic Commando",
+			"developer": "LucasArts",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Tactical",
+					"Adventure"
+				],
+				"releaseDate": "2005-03-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.db747599-4934-4e6a-8817-ea405ef03e0e",
+			"art_cover": "https://m.media-amazon.com/images/I/51zJWJf7fTL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41gBCP9tp5L.png",
+			"art_background": "https://m.media-amazon.com/images/I/51q8eaBtHyL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81yoTmOKaNL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Whispering Willows",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Whispering Willows",
+			"description": "New game each week with Prime",
+			"developer": "Night Light Interactive",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2014-05-17T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.3a91e2f7-a434-4ca1-b1f5-6f25a1b2138d",
+			"art_cover": "https://m.media-amazon.com/images/I/61YgOlnLI6L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61X1PC1ppsL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61luCgipOTL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91DXEGY10PL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "The Last Blade 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "The Last Blade 2",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Fighting"
+				],
+				"releaseDate": "1998-11-25T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.f6ba026c-693e-4833-9c83-318b569ef454",
+			"art_cover": "https://m.media-amazon.com/images/I/71qxAhXkWCL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51bTQtu+jSL.png",
+			"art_background": "https://m.media-amazon.com/images/I/81I4bfxeLvL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91EhBGT5gJL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "METAL SLUG 3",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "METAL SLUG 3",
+			"description": "New game each week with Prime",
+			"developer": "SNK",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Platform",
+					"Arcade"
+				],
+				"releaseDate": "2000-01-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.3a202794-d9d0-47e7-8d0c-c7d5f05f5fda",
+			"art_cover": "https://m.media-amazon.com/images/I/71BB1wz4l2L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41jIK696PUL.png",
+			"art_background": "https://m.media-amazon.com/images/I/71PhJ3QmHlL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91u6EnKfCjL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "SNK 40th Anniversary Collection",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "SNK 40th Anniversary Collection",
+			"description": "New game each week with Prime",
+			"developer": "SNK Playmore",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Arcade"
+				],
+				"releaseDate": "2018-11-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.21ead428-3fd5-4e96-a48d-416ba2200318",
+			"art_cover": "https://m.media-amazon.com/images/I/81Vn-edI58L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61N3oqZcF4L.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1pD5fRFbqL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91Kx2f2GHIL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Metal Slug X",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Metal Slug X",
+			"description": "Relive a classic SNK masterpiece!",
+			"developer": "Dotemu",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Arcade"
+				],
+				"releaseDate": "2001-01-25T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.5f9857c2-1f63-41ac-aea1-179056a5d5d5",
+			"art_cover": "https://m.media-amazon.com/images/I/91CFZlLD1zL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51TKCJviiBL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91SR+HHogoL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91KB4Tm6K8L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Peaky Blinders Mastermind",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Peaky Blinders: Mastermind",
+			"developer": "FuturLab",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Strategy",
+					"Adventure"
+				],
+				"releaseDate": "2020-08-20T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.69c637c2-fa19-4993-b37c-9b66e7f87beb",
+			"art_cover": "https://m.media-amazon.com/images/I/A1V7v-8kS+L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61bo1dQpakL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A10wqEsOW1L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91l-a3cShcL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Book of Demons",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Book of Demons",
+			"developer": "Thing Trunk",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2018-12-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.c87cc6c3-cb97-4ca9-802e-6ea58470b973",
+			"art_cover": "https://m.media-amazon.com/images/I/81EiYwv1ZhL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61aX2ck1FpL.png",
+			"art_background": "https://m.media-amazon.com/images/I/81UjnwMS37L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1Q8EYb5JNL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Metal Slug 4",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Metal Slug 4",
+			"description": "Relive a classic SNK masterpiece!",
+			"developer": "Noise Factory",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Shooter",
+					"Adventure"
+				],
+				"releaseDate": "2002-01-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.484268fa-d1e7-4754-ad8d-a5181f12f8b0",
+			"art_cover": "https://m.media-amazon.com/images/I/A1c-u6VrReL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51UlH-Yk6UL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A14iDkObjWL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91PParCkQ3L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Icewind Dale Enhanced Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Icewind Dale: Enhanced Edition",
+			"developer": "Overhaul Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Strategy",
+					"Adventure"
+				],
+				"releaseDate": "2014-10-30T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.9dd36368-4002-4772-a680-96af41405383",
+			"art_cover": "https://m.media-amazon.com/images/I/A1-TQgzQ+YL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61fKwMmM8tL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1m2d9VUKrL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1GK4Eahl3L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Magician Lord",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Magician Lord",
+			"description": "Relive a classic SNK masterpiece!",
+			"developer": "Alpha Denshi",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Adventure",
+					"Arcade"
+				],
+				"releaseDate": "1990-04-26T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.a533b569-f163-4ad9-b0dc-e6c069695a72",
+			"art_cover": "https://m.media-amazon.com/images/I/812JRpztLNL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51VvcV1gg6L.png",
+			"art_background": "https://m.media-amazon.com/images/I/81tD7oNc6yL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1ns11l8jbL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Grime Definitive Edition",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Grime: Definitive Edition",
+			"description": "Explore the world of Grime in this dark and gloomy metroidvania.",
+			"developer": "Clover Bite",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Role-playing (RPG)",
+					"Adventure"
+				],
+				"releaseDate": "2021-08-02T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.ffe01392-25f2-458c-9115-c0629903818e",
+			"art_cover": "https://m.media-amazon.com/images/I/61oxF+5nXqL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51fw9yvhMCL.png",
+			"art_background": "https://m.media-amazon.com/images/I/61fCi-w0oxL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91RexJOe-EL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "SteamWorld Dig 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "SteamWorld Dig 2",
+			"description": "New game each week with Prime",
+			"developer": "Image & Form International AB",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2017-12-12T11:46:59Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.8a584db6-f8e5-4bfa-87a8-256a9d3506c4",
+			"art_cover": "https://m.media-amazon.com/images/I/A1vDGi6nRaL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51ZGoVnt76L.png",
+			"art_background": "https://m.media-amazon.com/images/I/915LZMZ27KL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1JfV4e7gdL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "LEGO Indiana Jones The Original Adventures",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "LEGO Indiana Jones: The Original Adventures",
+			"description": "Play through all three classic Indiana Jones movies in the tongue-in-cheek worlds of LEGO.",
+			"developer": "Traveller's Tales",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2008-06-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.f148257f-8cd4-4608-8671-265ff2bfaaaf",
+			"art_cover": "https://m.media-amazon.com/images/I/71OWEanr4qL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51g284reinL.png",
+			"art_background": "https://m.media-amazon.com/images/I/7102hEYu-8L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/81tHFGhbr+L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Ynglet",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Ynglet",
+			"description": "Jump between bubbles that float in the sky.",
+			"developer": "Nifflas",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Music",
+					"Platform",
+					"Adventure"
+				],
+				"releaseDate": "2021-06-05T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.10bd39ec-9d7a-4ecf-9242-eafcad66533d",
+			"art_cover": "https://m.media-amazon.com/images/I/81Jqim205TL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/516PVp8El8L.png",
+			"art_background": "https://m.media-amazon.com/images/I/71yC0eQQRzL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91uvTwPzCGL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Gravity Circuit",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Gravity Circuit",
+			"description": "A spectacular 2D platform game filled with action in the spirit of classic console games.",
+			"developer": "Domesticated Ant Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Indie",
+					"Arcade"
+				],
+				"releaseDate": "2023-07-13T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.fc36e6d2-9ee9-4ff8-a5f5-1600eb62bb9d",
+			"art_cover": "https://m.media-amazon.com/images/I/91kkVZRmtRL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61TfPhT3C+L.png",
+			"art_background": "https://m.media-amazon.com/images/I/81zT7oGc9KL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91Wuji5ELhL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Youtubers Life 2",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Youtubers Life 2",
+			"description": "Start from humble beginnings and take charge of the daily life of a wannabe influencer.",
+			"developer": "UPLAY Online",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy",
+					"Adventure"
+				],
+				"releaseDate": "2021-10-19T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.90a0091c-8db1-4188-9f27-ed6046379aec",
+			"art_cover": "https://m.media-amazon.com/images/I/91g1B8TIToL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/410X77ON8lL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91Iku19j23L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91z9+rHC48L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Masterplan Tycoon",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Masterplan Tycoon",
+			"description": "Welcome to the resource management game where your creativity and logistics skills are put to the test.",
+			"developer": "Bureau Bravin",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Simulator",
+					"Strategy",
+					"Indie",
+					"Puzzle"
+				],
+				"releaseDate": "2023-03-09T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.bcb2c9bd-b7ef-4d2b-acb0-f6b544269f69",
+			"art_cover": "https://m.media-amazon.com/images/I/A15x80Ty6rL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/51jQHuurlmL.png",
+			"art_background": "https://m.media-amazon.com/images/I/A1-s8yg+DNL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1CTAtOr3TL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Samurai Bringer",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Samurai Bringer",
+			"description": "Samurai Bringer is a roguelite action game with levels that change with every playthrough.",
+			"developer": "ALPHAWING Inc.",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Role-playing (RPG)",
+					"Hack and slash/Beat 'em up",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2022-04-21T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.c25c2ac3-b318-4192-96b7-bafef73060b9",
+			"art_cover": "https://m.media-amazon.com/images/I/91WUts7j9mL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/61wwLdzpxnL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91pfJsdp+TL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/A1ZOsT1iZwL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Wall World",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Wall World",
+			"description": "Welcome to the Wall World, a mining rogue-lite with tower defense elements.",
+			"developer": "Alawar",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Platform",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2023-04-05T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.20b87aa4-24b1-444b-80d0-8a5cbc277c56",
+			"art_cover": "https://m.media-amazon.com/images/I/81uBKUrp9XL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/31CxdNyqqNL.png",
+			"art_background": "https://m.media-amazon.com/images/I/81Vyc7H6dcL.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91SKNies00L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Tiny Robots Recharged",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Tiny Robots Recharged",
+			"description": "Solve a legion of puzzles and riddles in this novel adventure escape game!",
+			"developer": "Snapbreak Games",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure",
+					"Indie"
+				],
+				"releaseDate": "2021-09-09T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.0d9fd292-f386-406f-895b-a9385d3dfcb5",
+			"art_cover": "https://m.media-amazon.com/images/I/81gkUl1Jz8L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41JLcQiER8L.png",
+			"art_background": "https://m.media-amazon.com/images/I/81ME2xLSI7L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91PKnw48jyL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Dexter Stardust Adventures in Outer Space",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Dexter Stardust: Adventures in Outer Space",
+			"description": "A spacey classic point and click adventure for All!",
+			"developer": "Sea Monster Media",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Point-and-click",
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2022-03-03T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.2acb36df-2414-4f0d-8fa4-cdfe9fe604fe",
+			"art_cover": "https://m.media-amazon.com/images/I/81STvQ0yk0L.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41m54+GJe7L.png",
+			"art_background": "https://m.media-amazon.com/images/I/81zUAbur72L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91AMZEuLbsL.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Faraway Arctic Escape",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Faraway: Arctic Escape",
+			"description": "Observe the arctic environment and solve puzzles to escape frosty temple labyrinths.",
+			"developer": "Pine Studio",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2023-03-09T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		},
+		{
+			"app_name": "amzn1.adg.product.a1ff60e3-ad99-4f3e-a284-2ca407c3f35a",
+			"art_cover": "https://m.media-amazon.com/images/I/71u7jIhSiwL.jpg",
+			"art_logo": "https://m.media-amazon.com/images/I/41eIh2LKvHL.png",
+			"art_background": "https://m.media-amazon.com/images/I/91gfS79Ml+L.jpg",
+			"art_square": "https://m.media-amazon.com/images/I/91PUdEnft-L.jpg",
+			"canRunOffline": true,
+			"install": {},
+			"folder_name": "Faraway 2 Jungle Escape",
+			"is_installed": false,
+			"runner": "nile",
+			"title": "Faraway 2: Jungle Escape",
+			"description": "Explore ruins of ancient temples full of challenges and mysterious riddles",
+			"developer": "Pine Studio",
+			"extra": {
+				"reqs": [],
+				"genres": [
+					"Puzzle",
+					"Adventure"
+				],
+				"releaseDate": "2018-05-01T00:00:00Z"
+			},
+			"is_linux_native": false,
+			"is_mac_native": false
+		}
+	],
+	"__timestamp": {
+		"library": "Fri Aug 08 2025 01:35:37 GMT+0300 (GMT+03:00)"
+	}
+}

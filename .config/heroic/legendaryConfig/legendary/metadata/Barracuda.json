@@ -1,0 +1,547 @@
+{
+  "app_name": "Barracuda",
+  "app_title": "Steep",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Barracuda",
+      "asset_id": "Barracuda",
+      "build_version": "1.00",
+      "catalog_item_id": "7592111dd8664fb6aef9a738d71c3c67",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-09T19:08:56.237Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Steep"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "3279"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a646020cb93b4ea995cda70647bbe001"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\3279"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Steep",
+    "developer": "Epic Dev Test Account",
+    "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-09T19:33:23.348Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "036d47c2fa4940bfb0bd41a69c2dc186"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep 90s DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "fc78e8a1e8d3489b8a58cf46400bd972",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "fc78e8a1e8d3489b8a58cf46400bd972",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:33:35.900Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "Barracuda90DLCDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "1e0b08edc7b84cb389ac7eabeb21cd87",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep 90s DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-17T17:01:09.142Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "e44ffdb5f4fc411481f7f9c430fa8d82"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep RTTO DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "e806b2c982684ea0ac61556a82a817f0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "e806b2c982684ea0ac61556a82a817f0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:32:27.377Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "BarracudaRTTODLCDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "a8ea0913324b4a1fbefe6f82b1913987",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep RTTO DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-17T16:55:02.381Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "67cdf7dbfe9b4843951de7525466ec55"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep XG Season Pass",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "35bdffdeac65450a8e04dbdee8f46f0c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "35bdffdeac65450a8e04dbdee8f46f0c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:32:09.930Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "BarracudaXGSeasonPassDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "12a6f3dbaa2445a29acf93cfdfc7e387",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep XG Season Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-09T19:33:39.931Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2022d1de48c840c29d2810119b3cf183"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep RW DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "c21faaebed224851acab881b17ecc088",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "c21faaebed224851acab881b17ecc088",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:33:22.238Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "BarracudaRWDLCDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "f0d7dec7dc2e454fad316d49f414dc57",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep RW DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-09T19:33:20.339Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "6ca86dc6719f435fbf4fe1f1874bd496"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep X DLC",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "22a46468af5a4d369411797f8ebe85d3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "22a46468af5a4d369411797f8ebe85d3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:32:42.977Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "BarracudaXDLCDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "fc5aad2469dd42ab991db08bfeb4227c",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep X DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-12-09T19:31:43.649Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "e9c436b4e1474e6daa4a4ec5bd19fba2"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "291ffe77f5844bfeb9e1ddc692e7f825"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Steep Season Pass",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "b54ae4b99a2b40d5adca8f35f027e3ae",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "b54ae4b99a2b40d5adca8f35f027e3ae",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-01-01T15:31:53.094Z",
+        "mainGameItem": {
+          "id": "7592111dd8664fb6aef9a738d71c3c67",
+          "namespace": "a646020cb93b4ea995cda70647bbe001",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7592111dd8664fb6aef9a738d71c3c67",
+            "namespace": "a646020cb93b4ea995cda70647bbe001",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "a646020cb93b4ea995cda70647bbe001",
+        "releaseInfo": [
+          {
+            "appId": "BarracudaSeasonPassDummy",
+            "compatibleApps": [],
+            "dateAdded": "2019-12-09T00:00:00.000Z",
+            "id": "0fd19e8433c04930b73cae858abb99ca",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Steep Season Pass",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7592111dd8664fb6aef9a738d71c3c67",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7592111dd8664fb6aef9a738d71c3c67",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 854,
+        "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+        "size": 663789,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-01-01T16:38:05.343Z",
+        "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+        "width": 640
+      },
+      {
+        "height": 2160,
+        "md5": "17bf432e286a80db2d6bbf769b83ac66",
+        "size": 802906,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-01-01T16:41:19.846Z",
+        "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/item/Diesel_productv2_steep_home_KEY_ART_LOGO_3840x2160-3840x2160-06904d279c608d6a87f80c5de3154272073831aa-3840x2160-17bf432e286a80db2d6bbf769b83ac66.jpg",
+        "width": 3840
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:34:29.403Z",
+    "mainGameItemList": [],
+    "namespace": "a646020cb93b4ea995cda70647bbe001",
+    "releaseInfo": [
+      {
+        "appId": "Barracuda",
+        "id": "86bdbfe994864ba3896f5bc64be0c89f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Steep",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

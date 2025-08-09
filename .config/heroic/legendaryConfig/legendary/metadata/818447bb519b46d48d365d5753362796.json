@@ -1,0 +1,161 @@
+{
+  "app_name": "818447bb519b46d48d365d5753362796",
+  "app_title": "Sonic Mania",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "818447bb519b46d48d365d5753362796",
+      "asset_id": "818447bb519b46d48d365d5753362796",
+      "build_version": "1.07.0035",
+      "catalog_item_id": "f08663635fd84c33bfc62ea3bac000e6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567FiiDJHPBza6terCIuWDkANuy",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-26T01:32:51.186Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SonicMania"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "45e7cf3c49054f2fb20b673d9b0ae69e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Sonic Mania",
+    "developer": "Sega of America",
+    "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-12T14:41:40.484Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Encore DLC",
+        "developer": "Sega of America",
+        "developerId": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+        "endOfSupport": false,
+        "entitlementName": "7eaa38542bd24986baedac7d2cfcef93",
+        "entitlementStartDate": "2050-03-01T00:00:00.000Z",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "7eaa38542bd24986baedac7d2cfcef93",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-06-17T14:24:45.206Z",
+        "mainGameItem": {
+          "id": "f08663635fd84c33bfc62ea3bac000e6",
+          "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f08663635fd84c33bfc62ea3bac000e6",
+            "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Encore DLC Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f08663635fd84c33bfc62ea3bac000e6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && soa)"
+    ],
+    "id": "f08663635fd84c33bfc62ea3bac000e6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 765,
+        "md5": "31b5379f91e2451e57e0273339bf68b8",
+        "size": 352113,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-16T18:36:13.263Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S5-1360x765-31b5379f91e2451e57e0273339bf68b8_1360x765-31b5379f91e2451e57e0273339bf68b8",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "b83646998d6a711b6997e076e091c015",
+        "size": 333330,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-16T18:36:20.982Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SonicMania_Lab42_S6-510x680-b83646998d6a711b6997e076e091c015_510x680-b83646998d6a711b6997e076e091c015",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2021-06-24T17:03:50.462Z",
+    "mainGameItemList": [],
+    "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+    "releaseInfo": [
+      {
+        "appId": "818447bb519b46d48d365d5753362796",
+        "dateAdded": "2020-02-26T00:00:00.000Z",
+        "id": "fafa7f19fb00431b8d0fcee74012a7c2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Sonic Mania",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

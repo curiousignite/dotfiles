@@ -1,0 +1,938 @@
+{
+  "app_name": "Snapper",
+  "app_title": "Offworld Trading Company",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Snapper",
+      "asset_id": "Snapper",
+      "build_version": "272",
+      "catalog_item_id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "51617d3aae5144018b8d44e0f5ae9b54"
+      },
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-23T07:07:21.001Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "OffworldTradingCompany"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e8882546f28e4832af823c646aed232e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Offworld Trading Company",
+    "developer": "Stardock Entertainment, Inc",
+    "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T22:06:09.783Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "LimitedSupply"
+          }
+        },
+        "description": "Limited Supply",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "ed2392df7f154358895dc37908b5aaf7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ed2392df7f154358895dc37908b5aaf7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "8be0096e5d7b66a58ff889f42a1e00fa",
+            "size": 68342,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:52:22.621Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-05T15:52:33.962Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.913Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperSupply",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "ec73f8b3af6c4c60a8cc0497e8dbf3a8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Limited Supply",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:42.797Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "RealMarsMapPack"
+          }
+        },
+        "description": "Real Mars Map Pack",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "59afb48bfaed46cdaad320083dc88d7e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "59afb48bfaed46cdaad320083dc88d7e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "c5e620ae3740ba780a962e4c1f9e8c08",
+            "size": 75139,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:53:15.246Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyRealMarsMapPack_MohawkGames_DLC_IC1_A-320x180-c5e620ae3740ba780a962e4c1f9e8c08.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-05T15:53:26.586Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.904Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperMap",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "f43b6e49890445af86c14eba9962f321",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Real Mars Map Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:44.987Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ScenarioTool"
+          }
+        },
+        "description": "Scenario Toolkit",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "e3532491b0af4c4988b389bb30285ace",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e3532491b0af4c4988b389bb30285ace",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "70a625ba92dcd999242e8d1ef5fb441a",
+            "size": 67783,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:54:13.101Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyScenarioToolkit_MohawkGames_DLC_IC1_A-320x180-70a625ba92dcd999242e8d1ef5fb441a.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-05T15:54:55.370Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.911Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperTool",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "bbfd816ee33c42d0b9c2f5d5b183f32d",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Scenario Toolkit",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-17T22:09:21.381Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Ceres Initiative",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "917daeae46bf45f2b86543840ef2bb73",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "917daeae46bf45f2b86543840ef2bb73",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-12-13T18:52:53.894Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "DLCSnapperCeresAudience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-11-18T21:26:41.389Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Interdimensional"
+          }
+        },
+        "description": "Offworld Trading Company: Interdimensional DLC",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "70d5eb3add994cbc93e97947a25caf3e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "70d5eb3add994cbc93e97947a25caf3e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "8ff350b3ffc2a92fd76f77cebe23fb72",
+            "size": 863151,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-03-17T20:35:55.590Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyInterdimensional_MohawkGames_DLC_S1-2560x1440-8ff350b3ffc2a92fd76f77cebe23fb72.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "5174f7575e2fa03d9a9e12028eaa98dd",
+            "size": 507118,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-03-17T20:36:05.497Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyInterdimensional_MohawkGames_DLC_S2-1200x1600-5174f7575e2fa03d9a9e12028eaa98dd.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.918Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "4aa39896dac5414780e875f0e3a51a6c",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "6c4ab57be45c4718a65af091445a0593",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Offworld Trading Company: Interdimensional DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:36.493Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BlueChipVentures"
+          }
+        },
+        "description": "Blue Chip Ventures",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "298f3d5d723745d98b26f72c69d2530d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "298f3d5d723745d98b26f72c69d2530d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "e40fec507eb5f1807bf41cec2248df16",
+            "size": 75894,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:48:38.886Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyBlueChipVentures_MohawkGames_DLC_IC1_A-320x180-e40fec507eb5f1807bf41cec2248df16.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-05T15:56:55.129Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.900Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperBlue",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "6954d06232834ddbadccc639251c223c",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Blue Chip Ventures",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:49.078Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "EuropaWager"
+          }
+        },
+        "description": "The Europa Wager",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "715d404ce91b4809ab18a8fba82e4590",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "715d404ce91b4809ab18a8fba82e4590",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "812f0f9ba81cd2f7edc6183e9dd01504",
+            "size": 66181,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:48:13.789Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyTheEuropaWager_MohawkGames_Expansion_IC1_A-320x180-812f0f9ba81cd2f7edc6183e9dd01504.jpg",
+            "width": 320
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.906Z",
+        "longDescription": "The Europa Wager",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperEuropa",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "52b4a8219c714e6a902c269b50ee96f8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Europa Wager",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:47.563Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "JupitersForge"
+          }
+        },
+        "description": "Jupiter\u2019s Forge",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "401edd09a6ba4805892ef820da6adfd7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "401edd09a6ba4805892ef820da6adfd7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "28b7a9d792c0f292effafd2743fc0605",
+            "size": 31776,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:57:33.108Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyJupitersForge_MohawkGames_Expansion_IC1_A-320x180-28b7a9d792c0f292effafd2743fc0605.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-03-05T15:57:44.685Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.902Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperJupiter",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "255ef5e381f146c58251de68e97e4071",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Jupiter\u2019s Forge",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-17T22:09:14.640Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Patron and the Patriot",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "9decaf63022a4c72bd9897f7f8713f3e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9decaf63022a4c72bd9897f7f8713f3e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "973f006d22750fd314267fc44bb13cb0",
+            "size": 777418,
+            "type": "OfferImageTall",
+            "uploadedDate": "2020-08-05T15:46:50.073Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1600,
+            "md5": "973f006d22750fd314267fc44bb13cb0",
+            "size": 777418,
+            "type": "Thumbnail",
+            "uploadedDate": "2020-08-05T15:47:01.933Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-portrait-img-1200x1600-1200x1600-973f006d22750fd314267fc44bb13cb0.jpg",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "9329d26f8633066de37fda7d5adffe98",
+            "size": 1007612,
+            "type": "OfferImageWide",
+            "uploadedDate": "2020-08-05T15:47:11.437Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-thepandpdlc-landscape-img-2560x1440-9329d26f8633066de37fda7d5adffe98.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.896Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Offworld Trading Company: The Patron and the Patriot DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-17T22:09:05.668Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Conspicuous Consumption",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "a43bd1b21cce43bca9dda988d8899db8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a43bd1b21cce43bca9dda988d8899db8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-12-13T18:52:53.898Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "DLCSnapperConsumptionAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-02-17T21:43:38.884Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "MarketCorrections"
+          }
+        },
+        "description": "Market Corrections",
+        "developer": "Stardock Entertainment, Inc",
+        "developerId": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+        "endOfSupport": false,
+        "entitlementName": "a1e376217ed044ada28158bcd00c1845",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a1e376217ed044ada28158bcd00c1845",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "493ed4c4e4def942230c44af5f5b021e",
+            "size": 78608,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-03-05T15:58:17.633Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyMarketCorrections_MohawkGames_DLC_IC1_A-320x180-493ed4c4e4def942230c44af5f5b021e.jpg",
+            "width": 320
+          },
+          {
+            "height": 680,
+            "md5": "7a9909ce27ac1d94813f6f49f6632871",
+            "size": 60952,
+            "type": "Thumbnail",
+            "uploadedDate": "2020-03-05T15:58:32.275Z",
+            "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Offworld_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+            "width": 510
+          }
+        ],
+        "lastModifiedDate": "2022-12-13T18:52:53.909Z",
+        "mainGameItem": {
+          "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+          "namespace": "e8882546f28e4832af823c646aed232e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+            "namespace": "e8882546f28e4832af823c646aed232e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e8882546f28e4832af823c646aed232e",
+        "releaseInfo": [
+          {
+            "appId": "SnapperMarket",
+            "dateAdded": "2020-02-17T00:00:00.000Z",
+            "id": "af4deab3bc3e45369eed029166ae7e0f",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Market Corrections",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "10eeeb5bec7e442ba1ced3717a9c25bf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 680,
+        "md5": "7a9909ce27ac1d94813f6f49f6632871",
+        "size": 60952,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-05T03:05:30.780Z",
+        "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_MohawkGames_OffworldTradingCompany_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+        "width": 510
+      },
+      {
+        "height": 1440,
+        "md5": "836395b78496a58a1e2b2ce21f9084a0",
+        "size": 143942,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-10T23:45:13.583Z",
+        "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Diesel_productv2_offworld-trading-company_home_EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-12-13T18:52:53.879Z",
+    "mainGameItemList": [],
+    "namespace": "e8882546f28e4832af823c646aed232e",
+    "releaseInfo": [
+      {
+        "appId": "Snapper",
+        "dateAdded": "2020-03-09T00:00:00.000Z",
+        "id": "0b4f52d76dda4daeb8b1208265b91df3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Offworld Trading Company",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

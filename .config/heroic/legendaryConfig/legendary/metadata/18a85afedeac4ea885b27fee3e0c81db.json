@@ -1,0 +1,158 @@
+{
+  "app_name": "18a85afedeac4ea885b27fee3e0c81db",
+  "app_title": "Second Extinction\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "18a85afedeac4ea885b27fee3e0c81db",
+      "asset_id": "18a85afedeac4ea885b27fee3e0c81db",
+      "build_version": "0.0.335",
+      "catalog_item_id": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fcd3387b58864614b66952d0430d2b9a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567tTXiain1JRyrt2wmsiYUindQ",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-08-21T16:36:24.114Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SecondExtinction"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fcd3387b58864614b66952d0430d2b9a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Second Extinction\u2122",
+    "developer": "Systemic Reaction",
+    "developerId": "o-4gvyc6bwfz49sqpgk6ylt9g5ddexuy",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-24T20:25:05.825Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Extinction Elite Pack",
+        "developer": "Systemic Reaction",
+        "developerId": "o-4gvyc6bwfz49sqpgk6ylt9g5ddexuy",
+        "endOfSupport": false,
+        "entitlementName": "c15dc14853bf44dda5cf0e2d9c64d02a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c15dc14853bf44dda5cf0e2d9c64d02a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-24T20:25:05.825Z",
+        "mainGameItem": {
+          "id": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+          "namespace": "fcd3387b58864614b66952d0430d2b9a",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+            "namespace": "fcd3387b58864614b66952d0430d2b9a",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fcd3387b58864614b66952d0430d2b9a",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Extinction Elite Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9c48bdf0c65b45cc9e64aa43e7e740b0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4a9d265c505b45c75b65916c366f5fca",
+        "size": 949839,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-08-25T19:30:17.284Z",
+        "url": "https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/EGS_SecondExtinction_SystemicReaction_S1_2560x1440-4a9d265c505b45c75b65916c366f5fca",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "8a67e373e3462b41f38e61142c103d03",
+        "size": 924804,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-14T18:28:53.970Z",
+        "url": "https://cdn1.epicgames.com/item/fcd3387b58864614b66952d0430d2b9a/SE_Epic_Portrait_Product_S2_1200x1600_1200x1600-8a67e373e3462b41f38e61142c103d03",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-10-14T18:29:03.520Z",
+    "mainGameItemList": [],
+    "namespace": "fcd3387b58864614b66952d0430d2b9a",
+    "releaseInfo": [
+      {
+        "appId": "18a85afedeac4ea885b27fee3e0c81db",
+        "dateAdded": "2020-08-24T16:23:01.784Z",
+        "id": "6c939002664440fca76d93b0da0ce5cb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Second Extinction\u2122",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

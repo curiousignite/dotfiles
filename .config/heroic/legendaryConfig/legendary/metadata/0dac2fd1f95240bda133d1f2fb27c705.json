@@ -1,0 +1,115 @@
+{
+  "app_name": "0dac2fd1f95240bda133d1f2fb27c705",
+  "app_title": "Tales of the Neon Sea",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0dac2fd1f95240bda133d1f2fb27c705",
+      "asset_id": "0dac2fd1f95240bda133d1f2fb27c705",
+      "build_version": "1.2.84",
+      "catalog_item_id": "a82b39adf62243d5b3dc67d1a70bd6a5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-20T23:07:55.704Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/palmpioneer/TalesoftheNeonSea/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TalesOfTheNeonSea"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "37e6d41ce91e44988190c2f10108d4e9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tales of the Neon Sea",
+    "developer": "Thermite Games",
+    "developerId": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+    "endOfSupport": false,
+    "entitlementName": "a82b39adf62243d5b3dc67d1a70bd6a5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a82b39adf62243d5b3dc67d1a70bd6a5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "d794e2e82ea70067704178ce9b632b52",
+        "size": 449686,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-18T01:20:13.721Z",
+        "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/item/EGS_TalesoftheNeonSea_PalmPioneer_S2-1200x1600-d794e2e82ea70067704178ce9b632b52.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1080,
+        "md5": "3386e5a6eebd354045f16499840d1271",
+        "size": 1389148,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-24T20:09:29.726Z",
+        "url": "https://cdn1.epicgames.com/37e6d41ce91e44988190c2f10108d4e9/item/Hero Art_TotNS_031821-1920x1080-3386e5a6eebd354045f16499840d1271.jpg",
+        "width": 1920
+      }
+    ],
+    "lastModifiedDate": "2021-03-25T14:06:21.727Z",
+    "mainGameItemList": [],
+    "namespace": "37e6d41ce91e44988190c2f10108d4e9",
+    "releaseInfo": [
+      {
+        "appId": "0dac2fd1f95240bda133d1f2fb27c705",
+        "dateAdded": "2021-01-20T00:00:00.000Z",
+        "id": "56ddfaffa0df40cc8789606008570eb6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tales of the Neon Sea",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

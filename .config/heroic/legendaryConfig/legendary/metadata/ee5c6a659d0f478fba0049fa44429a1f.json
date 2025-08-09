@@ -1,0 +1,116 @@
+{
+  "app_name": "ee5c6a659d0f478fba0049fa44429a1f",
+  "app_title": "Mothergunship",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ee5c6a659d0f478fba0049fa44429a1f",
+      "asset_id": "ee5c6a659d0f478fba0049fa44429a1f",
+      "build_version": "1.0.196",
+      "catalog_item_id": "97f646aa2baa42fa9ca17919bd8a8639",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7dc02eac2fe347368b5f72a02bb5bc5e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567GHVU9KtWSGCRrpylKHIyb9Q7",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-04T18:09:15.255Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "PlayerProfile.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TowerOfGuns2/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Mothergunship"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7dc02eac2fe347368b5f72a02bb5bc5e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Mothergunship",
+    "developer": "Versus Evil",
+    "developerId": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "endOfSupport": false,
+    "entitlementName": "97f646aa2baa42fa9ca17919bd8a8639",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "97f646aa2baa42fa9ca17919bd8a8639",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "0202fbd2d45da63b7f072a3076e62e3a",
+        "size": 375191,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-19T21:46:48.039Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-mothergunship-terribleposturegames-s1-2560x1440-fa17afd9d70b_2560x1440-0202fbd2d45da63b7f072a3076e62e3a",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d82d6b4b6e386be047528702221c5909",
+        "size": 269702,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-19T21:46:41.136Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-mothergunship-terribleposturegames-s2-1200x1600-b3309afa0ea1_1200x1600-d82d6b4b6e386be047528702221c5909",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-08-05T04:38:33.673Z",
+    "mainGameItemList": [],
+    "namespace": "7dc02eac2fe347368b5f72a02bb5bc5e",
+    "releaseInfo": [
+      {
+        "appId": "ee5c6a659d0f478fba0049fa44429a1f",
+        "id": "40e749bac9bb49e0badb33f7ca655403",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Mothergunship",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

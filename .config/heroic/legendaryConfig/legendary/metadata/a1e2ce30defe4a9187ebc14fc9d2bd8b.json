@@ -1,0 +1,273 @@
+{
+  "app_name": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+  "app_title": "Kerbal Space Program",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+      "asset_id": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+      "build_version": "1.12.5.17.win64.full",
+      "catalog_item_id": "84686da593b24598803ffbe7f9b1bb5e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "afde0bacb3264a98abd947e25dd04266"
+      },
+      "namespace": "ca0530b485754032be50cb6f27be0c2c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-08-31T17:32:52.208Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KerbalSpaceProgram"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ca0530b485754032be50cb6f27be0c2c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Kerbal Space Program",
+    "developer": "Private Division",
+    "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T22:25:45.452Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "KSPHistory"
+          }
+        },
+        "description": "Kerbal Space Program: Making History Expansion",
+        "developer": "Private Division",
+        "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+        "endOfSupport": false,
+        "entitlementName": "9856699bf4cd47b5941bd1271a904c77",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9856699bf4cd47b5941bd1271a904c77",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "525aa44576076978e0d339ede29e1e0a",
+            "size": 423872,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-09T14:06:35.913Z",
+            "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgramMakingHistoryExpansion_Squad_DLC_S1_2560x1440-525aa44576076978e0d339ede29e1e0a",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "14908e166e9bc70bb4a84b4a84787a9e",
+            "size": 274237,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-09T14:06:39.416Z",
+            "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgramMakingHistoryExpansion_Squad_DLC_S2_1200x1600-14908e166e9bc70bb4a84b4a84787a9e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-05T15:15:36.799Z",
+        "mainGameItem": {
+          "id": "84686da593b24598803ffbe7f9b1bb5e",
+          "namespace": "ca0530b485754032be50cb6f27be0c2c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "84686da593b24598803ffbe7f9b1bb5e",
+            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca0530b485754032be50cb6f27be0c2c",
+        "releaseInfo": [
+          {
+            "appId": "dfa8e9ab9b7a42a4b316a8446e60fd63",
+            "compatibleApps": [],
+            "dateAdded": "2022-11-17T04:51:25.116Z",
+            "id": "8af6665e988b446d88488f2b0f428592",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Kerbal Space Program: Making History Expansion",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-19T22:26:30.836Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BreakingGround"
+          }
+        },
+        "description": "Kerbal Space Program: Breaking Ground Expansion",
+        "developer": "Private Division",
+        "developerId": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+        "endOfSupport": false,
+        "entitlementName": "5b12420d488f4a938fc755efd9fd1e5e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b12420d488f4a938fc755efd9fd1e5e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a7d50d1f6f8c7c2880f44dd4a03fc70c",
+            "size": 563974,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-09T13:58:58.207Z",
+            "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgramBreakingGroundExpansion_Squad_DLC_S1_2560x1440-a7d50d1f6f8c7c2880f44dd4a03fc70c",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "7951b2c847fa6391e6aee1561f06e019",
+            "size": 337325,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-09T13:59:00.899Z",
+            "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgramBreakingGroundExpansion_Squad_DLC_S2_1200x1600-7951b2c847fa6391e6aee1561f06e019",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-05T15:15:36.795Z",
+        "mainGameItem": {
+          "id": "84686da593b24598803ffbe7f9b1bb5e",
+          "namespace": "ca0530b485754032be50cb6f27be0c2c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "84686da593b24598803ffbe7f9b1bb5e",
+            "namespace": "ca0530b485754032be50cb6f27be0c2c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ca0530b485754032be50cb6f27be0c2c",
+        "releaseInfo": [
+          {
+            "appId": "3cbcdb40d8dc4913a6906be244442a34",
+            "compatibleApps": [],
+            "dateAdded": "2022-11-17T04:51:34.882Z",
+            "id": "01d6f3c7cead460c9c322d545e16552a",
+            "platform": [
+              "Windows",
+              "Mac"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Kerbal Space Program: Breaking Ground Expansion",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "84686da593b24598803ffbe7f9b1bb5e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && ksp)"
+    ],
+    "id": "84686da593b24598803ffbe7f9b1bb5e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "380681e19358cb3d1e1162ce755e5e01",
+        "size": 481692,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-06T12:04:09.811Z",
+        "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7442f5c8047e6ef3d062ea731b60f443",
+        "size": 297622,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-12-06T12:04:13.432Z",
+        "url": "https://cdn1.epicgames.com/item/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S2_1200x1600-7442f5c8047e6ef3d062ea731b60f443",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-02-09T17:26:20.704Z",
+    "mainGameItemList": [],
+    "namespace": "ca0530b485754032be50cb6f27be0c2c",
+    "releaseInfo": [
+      {
+        "appId": "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+        "compatibleApps": [],
+        "dateAdded": "2022-11-17T04:51:12.030Z",
+        "id": "d35a15b3d9654c92b137fd88e02a3f9d",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Kerbal Space Program",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

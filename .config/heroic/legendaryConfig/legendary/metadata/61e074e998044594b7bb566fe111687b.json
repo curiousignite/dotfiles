@@ -1,0 +1,83 @@
+{
+  "app_name": "61e074e998044594b7bb566fe111687b",
+  "app_title": "Recipe for Disaster",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "61e074e998044594b7bb566fe111687b",
+      "asset_id": "61e074e998044594b7bb566fe111687b",
+      "build_version": "1.0.3.3009a",
+      "catalog_item_id": "144f7dd94c37467dbfaa47a55855d9e1",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9d8aa52add194a0bba7af09c70b6c1f6"
+      },
+      "namespace": "615a4dc5c85c4c28a390dda4298acd80",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T10:35:24.336Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RecipeforDisaster0s8oN"
+      }
+    },
+    "description": "Recipe for Disaster is a management sim that captures the fast-paced, drama-filled environment of a professional kitchen and dining room. Build your dream restaurant, create recipes, design menus and manage your staff, all while contending with disastrous situations!",
+    "developer": "Kasedo Games Ltd",
+    "developerId": "o-fnqgc5v2xczx9fgawvcejwj88z2mnx",
+    "endOfSupport": false,
+    "entitlementName": "144f7dd94c37467dbfaa47a55855d9e1",
+    "entitlementType": "EXECUTABLE",
+    "id": "144f7dd94c37467dbfaa47a55855d9e1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Recipe for Disaster Offer",
+        "height": 1440,
+        "md5": "e185557f1d0c3e0aad9e2ed8734747b7",
+        "size": 1120204,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-05-16T13:21:13.412Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/83ddef361d0c45c2bef72e07c2a5f567/recipe-for-disaster-offer-35txi.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Recipe for Disaster Offer",
+        "height": 1600,
+        "md5": "634d02a4e81ef4a46c6a54696b43722b",
+        "size": 640477,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-05-16T13:21:12.911Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/83ddef361d0c45c2bef72e07c2a5f567/download-recipe-for-disaster-offer-2bnr1.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-08-12T16:07:03.490Z",
+    "mainGameItemList": [],
+    "namespace": "615a4dc5c85c4c28a390dda4298acd80",
+    "releaseInfo": [
+      {
+        "appId": "61e074e998044594b7bb566fe111687b",
+        "id": "08dc32caafbf4701b25faba6a3c193ff",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Recipe for Disaster",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

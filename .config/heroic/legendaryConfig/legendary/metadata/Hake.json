@@ -1,0 +1,110 @@
+{
+  "app_name": "Hake",
+  "app_title": "Darksiders Warmastered Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hake",
+      "asset_id": "Hake",
+      "build_version": "1.0b",
+      "catalog_item_id": "88b2dcb5ece943eca691a2655b7e1cd1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-04T08:42:12.951Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Darksiders"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2bc23fc2438c47ec8acb0641980f50c1"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Darksiders Warmastered Edition",
+    "developer": "THQ Nordic GmbH",
+    "developerId": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "endOfSupport": false,
+    "entitlementName": "88b2dcb5ece943eca691a2655b7e1cd1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "88b2dcb5ece943eca691a2655b7e1cd1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d00d7d72944358be970a6d9e8c8f1776",
+        "size": 818158,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-19T20:25:27.005Z",
+        "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/item/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "ae09bb4142d0725a27f21b3199b82cb2",
+        "size": 351127,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-19T20:25:36.694Z",
+        "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/item/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-03-06T07:37:26.380Z",
+    "mainGameItemList": [],
+    "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+    "releaseInfo": [
+      {
+        "appId": "Hake",
+        "id": "867845f3e1e246128f8766d7fda8eaac",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Darksiders Warmastered Edition",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

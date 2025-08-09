@@ -1,0 +1,110 @@
+{
+  "app_name": "Flounder",
+  "app_title": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Flounder",
+      "asset_id": "Flounder",
+      "build_version": "R01_S01_E05_V007_CL16693",
+      "catalog_item_id": "8b349f0ac14b4adcada58adea62bddf7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-07T20:11:27.216Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "threeoutof10Ep1"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d9090f3f39f64d5bb827c6e44b95cff0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
+    "developer": "Terrible Posture Games, Inc.",
+    "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "endOfSupport": false,
+    "entitlementName": "8b349f0ac14b4adcada58adea62bddf7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8b349f0ac14b4adcada58adea62bddf7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "82ce419df8719fc5a3ddc7c5ea166f38",
+        "size": 1038754,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-06T04:07:05.599Z",
+        "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/item/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S1-2560x1440-82ce419df8719fc5a3ddc7c5ea166f38.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d5637e28fee4033bda8efa62bee5dc3b",
+        "size": 513475,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-06T15:16:39.139Z",
+        "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/item/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-08-24T14:14:53.204Z",
+    "longDescription": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
+    "mainGameItemList": [],
+    "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
+    "releaseInfo": [
+      {
+        "appId": "Flounder",
+        "id": "84fc89cf866a4127b61f115da74f2d29",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

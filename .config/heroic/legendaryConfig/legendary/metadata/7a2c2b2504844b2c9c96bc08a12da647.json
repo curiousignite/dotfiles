@@ -1,0 +1,83 @@
+{
+  "app_name": "7a2c2b2504844b2c9c96bc08a12da647",
+  "app_title": "Paradigm",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7a2c2b2504844b2c9c96bc08a12da647",
+      "asset_id": "7a2c2b2504844b2c9c96bc08a12da647",
+      "build_version": "1.025",
+      "catalog_item_id": "2572debc5cbc4debab7aa3c3693e56c3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b359f43138f14cd08f312a78fb5b1b9e"
+      },
+      "namespace": "dd9648d29088406e9e2a61ba33fc13f6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-04-21T14:05:57.455Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ParadigmNvkXi"
+      }
+    },
+    "description": "Paradigm",
+    "developer": "Janerka Productions ",
+    "developerId": "o-xu3fdycmcw9kugwedq7zpgccezlmbn",
+    "endOfSupport": false,
+    "entitlementName": "2572debc5cbc4debab7aa3c3693e56c3",
+    "entitlementType": "EXECUTABLE",
+    "id": "2572debc5cbc4debab7aa3c3693e56c3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Paradigm Offer",
+        "height": 1440,
+        "md5": "ea821f16249e6248acce3e5e10d2548e",
+        "size": 1274011,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-21T03:06:52.726Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8e9d84a3fd2b4a3cbe4ac6b89ce9789d/paradigm-offer-eka1w.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Paradigm Offer",
+        "height": 1600,
+        "md5": "60d36f29e40072d84aed05202156a4ff",
+        "size": 704204,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-21T03:06:44.855Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8e9d84a3fd2b4a3cbe4ac6b89ce9789d/download-paradigm-offer-4kluh.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-21T14:05:57.455Z",
+    "mainGameItemList": [],
+    "namespace": "dd9648d29088406e9e2a61ba33fc13f6",
+    "releaseInfo": [
+      {
+        "appId": "7a2c2b2504844b2c9c96bc08a12da647",
+        "id": "1c530fa7b8d443899ee15ae447a4c828",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Paradigm",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

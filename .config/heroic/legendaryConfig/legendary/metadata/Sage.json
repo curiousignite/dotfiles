@@ -1,0 +1,119 @@
+{
+  "app_name": "Sage",
+  "app_title": "Overcooked",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Sage",
+      "asset_id": "Sage",
+      "build_version": "1.0",
+      "catalog_item_id": "7e97838fff4e48e79f892f1e64d42cb0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-30T21:59:51.141Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/Ghost Town Games/Overcooked/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Overcooked"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4561b40e52584ac2bcf34bbd5c401480"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Overcooked",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "endOfSupport": false,
+    "entitlementName": "7e97838fff4e48e79f892f1e64d42cb0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7e97838fff4e48e79f892f1e64d42cb0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "71b09e2be137632b45871b92f6e13ed9",
+        "size": 142326,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-07-04T12:51:02.749Z",
+        "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/item/PDPPromo-2560x1440-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Overcooked Offer",
+        "height": 1600,
+        "md5": "e3a3bb40a8442c7d90ff8178062618ae",
+        "size": 1414305,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-28T04:09:31.446Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4b3ecffc16b14b5aa968abe906ba457d/overcooked-1ssn0.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-22T15:30:05.597Z",
+    "mainGameItemList": [],
+    "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+    "releaseInfo": [
+      {
+        "appId": "Sage",
+        "id": "dc7400e67d1c489cb463d6bf2ff1fa72",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Overcooked",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

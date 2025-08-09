@@ -1,0 +1,420 @@
+{
+  "app_name": "639977eecfd2497c941b71af949b5067",
+  "app_title": "NBA 2K21",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "639977eecfd2497c941b71af949b5067",
+      "asset_id": "639977eecfd2497c941b71af949b5067",
+      "build_version": "1.12.135040",
+      "catalog_item_id": "8d95f63859cd4d7496b08ee8e503f624",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567o0L0uKrR3cfyyS3RJnBMUMEi",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-25T16:29:04.894Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NBA2K21"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "6b3b9698082c43cd9dcd7f68e3365e79"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "NBA 2K21",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:06:49.621Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium75000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "bea0634d33704f62b90321a91cf76edf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bea0634d33704f62b90321a91cf76edf",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.322Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium75000VC",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:04:26.974Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium5000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "e281760138444f89ac031688edae7f36",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e281760138444f89ac031688edae7f36",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.324Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium5000VC",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:06:14.802Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium35000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "4de7fe67a0d9416591ca0491a20d01af",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4de7fe67a0d9416591ca0491a20d01af",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.316Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium35000VC",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:07:28.445Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium200000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "1f7faaf81710418cbf4b357d5563e2ee",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f7faaf81710418cbf4b357d5563e2ee",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.314Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium200000VC",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:07:58.867Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium450000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "e34ed6a843794e99b2bfcc5da78a5261",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e34ed6a843794e99b2bfcc5da78a5261",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.328Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium450000VC",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-01T18:05:47.760Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Terbium15000VC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "ffd4c2430673417baa08ae7276929209",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ffd4c2430673417baa08ae7276929209",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-01T00:00:15.329Z",
+        "mainGameItem": {
+          "id": "8d95f63859cd4d7496b08ee8e503f624",
+          "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8d95f63859cd4d7496b08ee8e503f624",
+            "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Terbium15000VC",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "8d95f63859cd4d7496b08ee8e503f624",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8d95f63859cd4d7496b08ee8e503f624",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "82b12f8e006bdfe848ed548fa9d51a4a",
+        "size": 939604,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-20T13:50:48.191Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S1_2560x1440-82b12f8e006bdfe848ed548fa9d51a4a",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "2fed3198782328f4f59194ebd5e54680",
+        "size": 625182,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-20T13:51:00.991Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NBA2K21_VisualConcepts_S2_1200x1600-2fed3198782328f4f59194ebd5e54680",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-20T14:00:19.851Z",
+    "mainGameItemList": [],
+    "namespace": "6b3b9698082c43cd9dcd7f68e3365e79",
+    "releaseInfo": [
+      {
+        "appId": "639977eecfd2497c941b71af949b5067",
+        "dateAdded": "2021-01-25T16:57:07.516Z",
+        "id": "494dd2f9c5cc48e1b3c7cb4734bf6158",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "NBA 2K21",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,88 @@
+{
+  "app_name": "4dfe86c3ca4541edb53d47f6e2e47d30",
+  "app_title": "Trek to Yomi",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4dfe86c3ca4541edb53d47f6e2e47d30",
+      "asset_id": "4dfe86c3ca4541edb53d47f6e2e47d30",
+      "build_version": "1.007",
+      "catalog_item_id": "59f230fecf924860854d029ea1fee053",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "083f4a023f934e268805836996aa3f87"
+      },
+      "namespace": "2d2a077b8b7f450299ecd7068256aec4",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-04T23:19:48.214Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Trek to Yomi/Ronin/Saved/SaveGames/EGS/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TrektoYomi"
+      }
+    },
+    "description": "As a vow to his dying Master, the young swordsman Hiroki is sworn to protect his town and the people he loves against all threats. Faced with tragedy and bound to duty, the lone samurai must voyage beyond life and death to confront himself and decide his path forward.",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "59f230fecf924860854d029ea1fee053",
+    "entitlementType": "EXECUTABLE",
+    "id": "59f230fecf924860854d029ea1fee053",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Trek to Yomi Offer",
+        "height": 1440,
+        "md5": "678ab1ba46754a0b50c164749137b3d2",
+        "size": 2369881,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-04-30T14:28:33.168Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fe8ac5534afd4a68b86dc4f3edb98fe3/trek-to-yomi-offer-1qkv4.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Trek to Yomi Offer",
+        "height": 1600,
+        "md5": "36a0500b4237d413614b22799b5629e9",
+        "size": 1219121,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-04-30T14:28:37.271Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fe8ac5534afd4a68b86dc4f3edb98fe3/download-trek-to-yomi-offer-1qmzd.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-31T21:15:33.449Z",
+    "mainGameItemList": [],
+    "namespace": "2d2a077b8b7f450299ecd7068256aec4",
+    "releaseInfo": [
+      {
+        "appId": "4dfe86c3ca4541edb53d47f6e2e47d30",
+        "id": "eedec23c923347ae8e978edcdf14cdeb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Trek to Yomi",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

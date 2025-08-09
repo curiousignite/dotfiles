@@ -1,0 +1,111 @@
+{
+  "app_name": "ee41ac4954314d18b18b8e7789c4e4eb",
+  "app_title": "The Lion's Song",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ee41ac4954314d18b18b8e7789c4e4eb",
+      "asset_id": "ee41ac4954314d18b18b8e7789c4e4eb",
+      "build_version": "tls_windows_master_standalone_691",
+      "catalog_item_id": "5d4ff21331934631ab5ddf55d5fafb6d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-16T22:13:15.243Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheLionsSong"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e35a5826457c4c98aada2ffad7b5ea5d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Lion's Song",
+    "developer": "Mi'pu'mi Games GmbH",
+    "developerId": "o-3e6wy7snyw5hqy5mdmkjcq7zbx65yf",
+    "endOfSupport": false,
+    "entitlementName": "5d4ff21331934631ab5ddf55d5fafb6d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5d4ff21331934631ab5ddf55d5fafb6d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "441c8edff25381e76f958ec5cd4644fe",
+        "size": 234576,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-04T03:07:44.785Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSong_MipumiGames_S1_2560x1440-441c8edff25381e76f958ec5cd4644fe",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7f75126e11b9d6f4265053ad128e8a3a",
+        "size": 116611,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-04T03:07:50.674Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheLionsSong_MipumiGames_S2_1200x1600-7f75126e11b9d6f4265053ad128e8a3a",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:41:51.403Z",
+    "mainGameItemList": [],
+    "namespace": "e35a5826457c4c98aada2ffad7b5ea5d",
+    "releaseInfo": [
+      {
+        "appId": "ee41ac4954314d18b18b8e7789c4e4eb",
+        "id": "c92fcb3d54da429297ff2a7a327f754c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Lion's Song",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

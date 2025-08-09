@@ -1,0 +1,118 @@
+{
+  "app_name": "e8964b869b6849bea41eefec766cd665",
+  "app_title": "Where The Water Tastes Like Wine",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e8964b869b6849bea41eefec766cd665",
+      "asset_id": "e8964b869b6849bea41eefec766cd665",
+      "build_version": "1.0",
+      "catalog_item_id": "76a7d580581c4b06b11b6e185b481f03",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "27d2f156f77b4202b9bc78e40a408b03",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-05-28T16:30:06.331Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.wtwtlw,*.options"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Dim Bulb Games/WheretheWaterTastesLikeWine/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WaterTastesLikeWine"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "27d2f156f77b4202b9bc78e40a408b03"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Where The Water Tastes Like Wine",
+    "developer": "Good Shepherd Entertainment",
+    "developerId": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+    "endOfSupport": false,
+    "entitlementName": "76a7d580581c4b06b11b6e185b481f03",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "76a7d580581c4b06b11b6e185b481f03",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "75b8bde822ddf61974fe34cc0fb6f26c",
+        "size": 1010653,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-09T13:45:25.234Z",
+        "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S1-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c-2560x1440-75b8bde822ddf61974fe34cc0fb6f26c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "b14d1a4d99a370f387e5e63e53d53a30",
+        "size": 1022216,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-01T18:57:07.359Z",
+        "url": "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/item/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-29T18:52:39.546Z",
+    "mainGameItemList": [],
+    "namespace": "27d2f156f77b4202b9bc78e40a408b03",
+    "releaseInfo": [
+      {
+        "appId": "e8964b869b6849bea41eefec766cd665",
+        "id": "5d6d4d950bcd4ec795385b9fb64d3b23",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Where The Water Tastes Like Wine",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

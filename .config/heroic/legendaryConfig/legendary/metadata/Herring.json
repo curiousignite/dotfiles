@@ -1,0 +1,111 @@
+{
+  "app_name": "Herring",
+  "app_title": "Hue",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Herring",
+      "asset_id": "Herring",
+      "build_version": "1.0",
+      "catalog_item_id": "bba1b26cf8d74559a18416a33c6688ec",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cd88d9edc5a748cfa138e467205adcac",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-28T07:08:54.526Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Hue"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "cd88d9edc5a748cfa138e467205adcac"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hue",
+    "developer": "Curve Digital",
+    "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "endOfSupport": false,
+    "entitlementName": "bba1b26cf8d74559a18416a33c6688ec",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "bba1b26cf8d74559a18416a33c6688ec",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "2da72302af40c17b0405c392bf160b88",
+        "size": 133268,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-30T23:56:28.223Z",
+        "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/item/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "b9fcf99f08b9fa00a3837798f68f3922",
+        "size": 63155,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-30T23:56:47.256Z",
+        "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/item/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2020-10-12T17:00:02.322Z",
+    "mainGameItemList": [],
+    "namespace": "cd88d9edc5a748cfa138e467205adcac",
+    "releaseInfo": [
+      {
+        "appId": "Herring",
+        "dateAdded": "2020-10-12T17:00:00.356Z",
+        "id": "ca5c09317b0c497b88d2f51247d7ab05",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Hue",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

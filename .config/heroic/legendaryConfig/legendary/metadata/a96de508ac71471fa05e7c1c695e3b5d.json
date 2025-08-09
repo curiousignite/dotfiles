@@ -1,0 +1,108 @@
+{
+  "app_name": "a96de508ac71471fa05e7c1c695e3b5d",
+  "app_title": "Ancient Enemy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a96de508ac71471fa05e7c1c695e3b5d",
+      "asset_id": "a96de508ac71471fa05e7c1c695e3b5d",
+      "build_version": "1.03fix",
+      "catalog_item_id": "7cdc2dcd372c4f7599cd8b107a244e26",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "138c9362d8ff4c239076bc556e18cdac",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-02-29T20:07:20.532Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AncientEnemy"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "138c9362d8ff4c239076bc556e18cdac"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ancient Enemy is an RPG card battler set in a crumbling world where the forces of evil have already won. Blast distorted enemies with a satisfying range of spells and abilities. Journey into a scarred wilderness and defeat the deadliest foe of all!",
+    "developer": "Grey Alien Games",
+    "developerId": "o-6kqztcrvfs2kjbsfbs9hgmcgsu6brr",
+    "endOfSupport": false,
+    "entitlementName": "7cdc2dcd372c4f7599cd8b107a244e26",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7cdc2dcd372c4f7599cd8b107a244e26",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5611384ea3fab5cf1deb1ca1003578e6",
+        "size": 579522,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-16T23:28:43.946Z",
+        "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/item/EGS_AncientEnemy_GreyAlienGames_S1-2560x1440-5611384ea3fab5cf1deb1ca1003578e6.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9921cef6b2c9a854cd8c31165e2dbe8a",
+        "size": 751329,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-16T23:28:50.493Z",
+        "url": "https://cdn1.epicgames.com/138c9362d8ff4c239076bc556e18cdac/item/EGS_AncientEnemy_GreyAlienGames_S2-1200x1600-9921cef6b2c9a854cd8c31165e2dbe8a.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-05T20:02:56.250Z",
+    "mainGameItemList": [],
+    "namespace": "138c9362d8ff4c239076bc556e18cdac",
+    "releaseInfo": [
+      {
+        "appId": "a96de508ac71471fa05e7c1c695e3b5d",
+        "id": "26bd5dfa91b643c581eb3912b256076b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ancient Enemy",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

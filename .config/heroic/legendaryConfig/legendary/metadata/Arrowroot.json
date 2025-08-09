@@ -1,0 +1,127 @@
+{
+  "app_name": "Arrowroot",
+  "app_title": "City of Brass",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Arrowroot",
+      "asset_id": "Arrowroot",
+      "build_version": "1.6.3.0",
+      "catalog_item_id": "3eb3ed8244724e2eb7a69d1e3007856b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-04-08T19:18:18.989Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/COB/Saved_EGS/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CityOfBrass"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fa234e40c4d44dfa84fbcb302fef0233"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "City of Brass",
+    "developer": "Uppercut Games",
+    "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+    "endOfSupport": false,
+    "entitlementName": "3eb3ed8244724e2eb7a69d1e3007856b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3eb3ed8244724e2eb7a69d1e3007856b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "10a228823a6be8c175ccbc1d34249a90",
+        "size": 194028,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-05-23T14:48:10.848Z",
+        "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS-2560x1440-10a228823a6be8c175ccbc1d34249a90.jpg",
+        "width": 2560
+      },
+      {
+        "height": 632,
+        "md5": "b84ac18cc6710a2341e6cb9fe9273505",
+        "size": 440326,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-05-23T14:48:18.787Z",
+        "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/DEVELOPER_CITYOFBRASS_IC1_LOGO-2000x632-b84ac18cc6710a2341e6cb9fe9273505.png",
+        "width": 2000
+      },
+      {
+        "height": 1440,
+        "md5": "b700c2cc1193dd2ef3906ca918c9d627",
+        "size": 119214,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/item/EGS_DEVELOPER_CITYOFBRASS_S3_DESCRIPTION-1280x1440-b700c2cc1193dd2ef3906ca918c9d627.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:02:29.587Z",
+    "mainGameItemList": [],
+    "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+    "releaseInfo": [
+      {
+        "appId": "Arrowroot",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-08T00:00:00.000Z",
+        "id": "67418aff51364c27aa9c91cce5d2b136",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "City of Brass",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

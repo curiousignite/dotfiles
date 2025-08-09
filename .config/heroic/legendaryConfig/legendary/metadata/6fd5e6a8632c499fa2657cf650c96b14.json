@@ -1,0 +1,600 @@
+{
+  "app_name": "6fd5e6a8632c499fa2657cf650c96b14",
+  "app_title": "Wild Card Football",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6fd5e6a8632c499fa2657cf650c96b14",
+      "asset_id": "6fd5e6a8632c499fa2657cf650c96b14",
+      "build_version": "S1300",
+      "catalog_item_id": "ead90ef7726d403cb8df00b7cd767c63",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567WLJatpCoF0TaP1EQoQT7Nmvh",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-04T15:23:06.063Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Daisy/Saved/SaveGames/EOS/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WildCardFootball"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3072dbe471f84dac8b2e9ba8af253ee2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Wild Card Football",
+    "developer": "Saber Interactive",
+    "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-12-07T05:34:49.220Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dayze - Kaepernick",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "fad1d85dce9c44c8bb46eb8d3f897e01",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fad1d85dce9c44c8bb46eb8d3f897e01",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.044Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dayze - Kaepernick",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:04:46.570Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze Kickoff Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "70a067ef8f0f45b89fc9dda2997e16a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "70a067ef8f0f45b89fc9dda2997e16a9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.021Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze Kickoff Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:05:41.119Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze Gold Bundle audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "615c74dd4a614c3eb87d69c1ba921110",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "615c74dd4a614c3eb87d69c1ba921110",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.019Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze Gold Bundle audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:06:31.046Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze Ultimate Outfit Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "b108eab24f1642989a0197931ec28db7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b108eab24f1642989a0197931ec28db7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.032Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze Ultimate Outfit Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:08:02.158Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze Blazing Bones audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "dc9e0a19622c43d8b0e3bf082297f2cf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc9e0a19622c43d8b0e3bf082297f2cf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.036Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze Blazing Bones audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:07:20.245Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze Season Pass audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "f887877c4ceb4fda9311d98322bff9b7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f887877c4ceb4fda9311d98322bff9b7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-23T12:39:46.578Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze Season Pass audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:10:16.980Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "dayze DLC 2 audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "3b587fb50ba94d08b117643a34df992a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3b587fb50ba94d08b117643a34df992a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.017Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "dayze DLC 2 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:11:00.081Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Legacy RB Pack audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "4e1e456f9a3f4567bd676129bd8fbbf3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4e1e456f9a3f4567bd676129bd8fbbf3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:58.162Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Legacy RB Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-19T20:11:26.755Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Legacy WR Pack DLC 4 audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "a6c1fe0392114e9385764c16e4e53a7b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a6c1fe0392114e9385764c16e4e53a7b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-23T12:39:46.518Z",
+        "longDescription": "Legacy WR Pack DLC 4 audience",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Legacy WR Pack DLC 4 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-07T05:34:49.154Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dayze - Kaepernick audience",
+        "developer": "Saber Interactive",
+        "developerId": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+        "endOfSupport": false,
+        "entitlementName": "eccfc74f20ae49149cd03ed70168def7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eccfc74f20ae49149cd03ed70168def7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-03-14T07:02:50.038Z",
+        "mainGameItem": {
+          "id": "ead90ef7726d403cb8df00b7cd767c63",
+          "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ead90ef7726d403cb8df00b7cd767c63",
+            "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dayze - Kaepernick audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ead90ef7726d403cb8df00b7cd767c63",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ead90ef7726d403cb8df00b7cd767c63",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8a226b013b7731e5b5d905d82747a1f8",
+        "size": 268500,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-03T11:51:35.868Z",
+        "url": "https://cdn1.epicgames.com/item/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a5e01b328b18fd5a5c54704b0c47a983",
+        "size": 969344,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-03T11:51:38.667Z",
+        "url": "https://cdn1.epicgames.com/item/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S2_1200x1600-a5e01b328b18fd5a5c54704b0c47a983",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-12T19:03:53.937Z",
+    "mainGameItemList": [],
+    "namespace": "3072dbe471f84dac8b2e9ba8af253ee2",
+    "releaseInfo": [
+      {
+        "appId": "6fd5e6a8632c499fa2657cf650c96b14",
+        "id": "67998ebc6969498a8056470758193492",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Wild Card Football",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

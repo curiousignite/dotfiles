@@ -1,0 +1,546 @@
+{
+  "app_name": "8cf7c6b964514532ad8284a376a517bf",
+  "app_title": "Railway Empire",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8cf7c6b964514532ad8284a376a517bf",
+      "asset_id": "8cf7c6b964514532ad8284a376a517bf",
+      "build_version": "1.14.2.27630",
+      "catalog_item_id": "cf1bbc6abcba4eb5a71387f66732a23c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567IlbWDAaC63FygrTw1xIzO6qL",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-18T21:00:55.118Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Temp/EpicRailwayEmpire/datastorage/93b333eb973b45b582f3bdf68dfc1dc9/00025c02e97f4f9ab1e2b7b648e6a1bd/savegame/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RailwayEmpire"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "4000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "93b333eb973b45b582f3bdf68dfc1dc9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Railway Empire",
+    "developer": "Kalypso Media Group GmbH",
+    "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:08:41.241Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Down Under Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "8d924b151532482991f4f966e3dd071f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d924b151532482991f4f966e3dd071f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.863Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Down Under Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:06:54.068Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Germany Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "1b6f8fc33995487a98c0524f51c8bd6c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1b6f8fc33995487a98c0524f51c8bd6c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.861Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Germany Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:08:04.344Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Northern Europe Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "169d5056c7834d2c8c75dea90db50906",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "169d5056c7834d2c8c75dea90db50906",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.860Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Northern Europe Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:05:07.261Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Great Lakes Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "25f58434252e4a9fb1294fdc5b1d2dfc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "25f58434252e4a9fb1294fdc5b1d2dfc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.862Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Great Lakes Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:06:13.679Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Great Britain & Ireland Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "6467061be52f4765a24670daeed71884",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6467061be52f4765a24670daeed71884",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.863Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Great Britain & Ireland Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:02:57.850Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Mexico Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "afc448bfca37435faf3fe4cae83475b8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "afc448bfca37435faf3fe4cae83475b8",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.863Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Mexico Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:05:45.472Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Crossing the Andes Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "25abab16fc274721b983f513d49b5896",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "25abab16fc274721b983f513d49b5896",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.861Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Railway Empire Crossing the Andes Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-18T21:07:24.091Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire France Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "04fcea3158b6465a816431f105b1198c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "04fcea3158b6465a816431f105b1198c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-02-25T10:33:17.860Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire France Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-18T15:08:35.294Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Railway Empire Japan Audience",
+        "developer": "Kalypso Media Group GmbH",
+        "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+        "endOfSupport": false,
+        "entitlementName": "b0d9bcc82f15440fb7be09824c10c7e2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b0d9bcc82f15440fb7be09824c10c7e2",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-05-07T15:03:04.071Z",
+        "mainGameItem": {
+          "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+          "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+            "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+        "status": "ACTIVE",
+        "title": "Railway Empire Japan Audience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "cf1bbc6abcba4eb5a71387f66732a23c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cf1bbc6abcba4eb5a71387f66732a23c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "917cc700b5437febee4981a1d40ebefc",
+        "size": 999464,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-31T14:56:58.973Z",
+        "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/item/EGS_RailwayEmpire_GamingMindsStudios_S1-2560x1440-917cc700b5437febee4981a1d40ebefc-2560x1440-917cc700b5437febee4981a1d40ebefc.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "aa3f6d77c91bd7801de2f530ca7faca6",
+        "size": 684481,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-31T14:57:17.260Z",
+        "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/item/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-07T15:02:53.254Z",
+    "mainGameItemList": [],
+    "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+    "releaseInfo": [
+      {
+        "appId": "8cf7c6b964514532ad8284a376a517bf",
+        "dateAdded": "2020-08-31T00:00:00.000Z",
+        "id": "df9dd2eea153456fa4de7ee19b8fa33b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Railway Empire",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

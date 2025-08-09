@@ -1,0 +1,113 @@
+{
+  "app_name": "Statice",
+  "app_title": "The End is Nigh",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Statice",
+      "asset_id": "Statice",
+      "build_version": "0.0.9",
+      "catalog_item_id": "4e34799e7e7d4101b25fc274ea68487e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-24T06:23:20.946Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEndIsNigh"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "530eeeaffca14275a451d7cff61ee6bb"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The End is Nigh",
+    "developer": "Edmund McMillen, Tyler Glaiel",
+    "developerId": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+    "endOfSupport": false,
+    "entitlementName": "4e34799e7e7d4101b25fc274ea68487e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4e34799e7e7d4101b25fc274ea68487e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f1875f631fc6870253c48d26a7175c86",
+        "size": 724915,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-08-27T20:02:58.886Z",
+        "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/item/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "aebf9322c8af6442afbcf7205eebe186",
+        "size": 1084734,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-08T15:37:42.020Z",
+        "url": "https://cdn1.epicgames.com/item/530eeeaffca14275a451d7cff61ee6bb/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b1_1200x1600-aebf9322c8af6442afbcf7205eebe186",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-09-08T15:37:50.103Z",
+    "mainGameItemList": [],
+    "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+    "releaseInfo": [
+      {
+        "appId": "Statice",
+        "dateAdded": "2019-08-24T00:00:00.000Z",
+        "id": "8f080e5c17924322b989dab183811f84",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The End is Nigh",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

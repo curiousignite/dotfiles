@@ -1,0 +1,117 @@
+{
+  "app_name": "266d978cc221471787b597695cbb9a75",
+  "app_title": "Tharsis",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "266d978cc221471787b597695cbb9a75",
+      "asset_id": "266d978cc221471787b597695cbb9a75",
+      "build_version": "1.03",
+      "catalog_item_id": "486ec10ab5724642a1d6f5525f2b5df6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "be67e141378446cf9399b3db1a22ceb3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567H6CBRZBsk27fyisSz5Hw0JTO",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-09T23:36:26.984Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "savedata.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/Tharsis_Data/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Tharsis"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "be67e141378446cf9399b3db1a22ceb3"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tharsis",
+    "developer": "Choice Provisions, Inc",
+    "developerId": "o-ec6d787ft4ctrcyve22qqtgmkdpsr4",
+    "endOfSupport": false,
+    "entitlementName": "486ec10ab5724642a1d6f5525f2b5df6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "486ec10ab5724642a1d6f5525f2b5df6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f2bafbbf1629a48af6e394261b2dc3e7",
+        "size": 558719,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-15T21:24:19.364Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S1_2560x1440-f2bafbbf1629a48af6e394261b2dc3e7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "964435f30c36b3f9d4bdcd0d90fcfca2",
+        "size": 276352,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-15T21:24:21.532Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tharsis_ChoiceProvisions_S2_1200x1600-964435f30c36b3f9d4bdcd0d90fcfca2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-09-15T22:55:33.949Z",
+    "mainGameItemList": [],
+    "namespace": "be67e141378446cf9399b3db1a22ceb3",
+    "releaseInfo": [
+      {
+        "appId": "266d978cc221471787b597695cbb9a75",
+        "compatibleApps": [],
+        "dateAdded": "2021-03-09T23:58:20.048Z",
+        "id": "283b650b5f0a4b038ba2133914b2388b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Tharsis",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

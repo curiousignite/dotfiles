@@ -1,0 +1,615 @@
+Mono path[0] = '/mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Managed'
+Mono config path = '/mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/MonoBleedingEdge/etc'
+Preloaded 'FreeImage.so'
+Preloaded 'discord_game_sdk.so'
+Preloaded 'libAudioPluginDissonance.so'
+Preloaded 'libEGL.so'
+Preloaded 'libFileBrowser.so'
+Preloaded 'libGLESv2.so'
+Preloaded 'libMouseLib64.so'
+Preloaded 'libTTSMasterNativePlugin.so'
+Preloaded 'libZFProxyWeb.so'
+Preloaded 'libopenvr_api.so'
+Preloaded 'libopus.so'
+Preloaded 'libpdfrenderer.so'
+Preloaded 'libsteam_api.so'
+Preloaded 'libturbojpeg.so.0'
+Preloaded 'zf_cef.so'
+Unable to preload the following plugins:
+	libMouseLib.so
+	libwidevinecdmadapter.so
+Display 0 'HDMI-A-1 23"': 1920x1080 (primary device).
+Display 1 'DP-2 27"': 2560x1440 (secondary device).
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 2019.4.40f1 (ffc62b691db5)
+[Subsystems] Discovering subsystems at path /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: NVIDIA GeForce RTX 3070/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 575.64.05
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced
+_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap GL_NV_conservative_raster_pre_snap_triangles GL_NV_conservative_raster_underestimation GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_barycentric GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_g
+pu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_program_multiview GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_mesh_shader GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_primitive_shading_rate GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_representative_fragment_test GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_scissor_exclusive GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgrou
+p_partitioned GL_NV_shader_texture_footprint GL_NV_shading_rate_image GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_dirty_tile_map GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_uniform_buffer_std430_layout GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced 
+GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 742872664
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.232 seconds
+Default vsync count 1
+requesting resize 2560 x 1440
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+The referenced script on this Behaviour (Game Object 'fiBackupSceneStorage') is missing! 
+(Filename:  Line: 334)
+
+UnloadTime: 0.535730 ms
+Changing real window size to 1632 x 972
+Serialization depth limit 10 exceeded at 'GridButton.Thumbnail'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: GridButton.Thumbnail
+ 
+(Filename:  Line: 128)
+
+Serialization depth limit 10 exceeded at 'GridButton.Thumbnail'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: GridButton.Thumbnail
+ 
+(Filename:  Line: 128)
+
+Serialization depth limit 10 exceeded at 'GridButton.Thumbnail'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+11: GridButton.Thumbnail
+ 
+(Filename:  Line: 128)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.211512 ms
+[S_API] SteamAPI_Init(): Loaded '/home/berke/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 286160
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198096180540 [API loaded no]
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects. 
+(Filename:  Line: 606)
+
+Changing real window size to 2560 x 1440
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 60108.
+Total: 69.443625 ms (FindLiveObjects: 2.187841 ms CreateObjectMapping: 0.549010 ms MarkObjects: 66.299224 ms  DeleteObjects: 0.407150 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 60682.
+Total: 68.339824 ms (FindLiveObjects: 1.795701 ms CreateObjectMapping: 0.309650 ms MarkObjects: 66.192433 ms  DeleteObjects: 0.041670 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 60682.
+Total: 64.228733 ms (FindLiveObjects: 2.156750 ms CreateObjectMapping: 0.494221 ms MarkObjects: 61.546532 ms  DeleteObjects: 0.030830 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+[Physics.PhysX] cleaning the mesh failed 
+(Filename: ./physx/source/physxcooking/src/mesh/TriangleMeshBuilder.cpp Line: 1043)
+
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/libKernel32
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/libKernel32.so
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/Kernel32
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/libKernel32
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/libKernel32.so
+Fallback handler could not load library /mnt/Games/SteamLibrary/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mono/libKernel32
+Changing real window size to 1632 x 972
+Can not play a disabled audio source 
+(Filename:  Line: 2316)
+
+Changing real window size to 2560 x 1440
+Unloading 3 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 760 unused Assets to reduce memory usage. Loaded Objects now: 67507.
+Total: 73.801407 ms (FindLiveObjects: 2.364601 ms CreateObjectMapping: 0.441730 ms MarkObjects: 69.994605 ms  DeleteObjects: 0.999731 ms)
+
+Changing real window size to 1632 x 972
+Changing real window size to 1632 x 973
+Changing real window size to 1632 x 984
+Changing real window size to 1633 x 991
+Changing real window size to 1634 x 1005
+Changing real window size to 1635 x 1011
+Changing real window size to 1636 x 1021
+Changing real window size to 1636 x 1025
+Changing real window size to 1638 x 1028
+Changing real window size to 1639 x 1031
+Changing real window size to 1641 x 1033
+Changing real window size to 1643 x 1036
+Changing real window size to 1646 x 1040
+Changing real window size to 1647 x 1042
+Changing real window size to 1648 x 1044
+Changing real window size to 1642 x 1045
+Changing real window size to 1627 x 1047
+Changing real window size to 1600 x 1048
+Changing real window size to 1570 x 1048
+Changing real window size to 1554 x 1048
+Changing real window size to 1522 x 1048
+Changing real window size to 1494 x 1047
+Changing real window size to 1475 x 1046
+Changing real window size to 1465 x 1046
+Changing real window size to 1457 x 1046
+Changing real window size to 1434 x 1047
+Changing real window size to 1434 x 1048
+Changing real window size to 1406 x 1052
+Changing real window size to 1391 x 1055
+Changing real window size to 1363 x 1061
+Changing real window size to 1347 x 1066
+Changing real window size to 1331 x 1070
+Changing real window size to 1302 x 1081
+Changing real window size to 1289 x 1085
+Changing real window size to 1262 x 1095
+Changing real window size to 1247 x 1099
+Changing real window size to 1230 x 1103
+Changing real window size to 1186 x 1110
+Changing real window size to 1175 x 1111
+Changing real window size to 1155 x 1111
+Changing real window size to 1146 x 1110
+Changing real window size to 1134 x 1110
+Changing real window size to 1125 x 1110
+Changing real window size to 1116 x 1109
+Changing real window size to 1101 x 1107
+Changing real window size to 1095 x 1106
+Changing real window size to 1091 x 1106
+Changing real window size to 1089 x 1105
+Changing real window size to 1090 x 1105
+Changing real window size to 1092 x 1104
+Changing real window size to 1096 x 1102
+Changing real window size to 1112 x 1097
+Changing real window size to 1126 x 1094
+Changing real window size to 1141 x 1091
+Changing real window size to 1159 x 1089
+Changing real window size to 1200 x 1086
+Changing real window size to 1218 x 1086
+Changing real window size to 1237 x 1086
+Changing real window size to 1251 x 1086
+Changing real window size to 1265 x 1088
+Changing real window size to 1275 x 1089
+Changing real window size to 1283 x 1090
+Changing real window size to 1292 x 1092
+Changing real window size to 1294 x 1093
+Changing real window size to 1296 x 1094
+Changing real window size to 2560 x 1440
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 448 unused Assets to reduce memory usage. Loaded Objects now: 67502.
+Total: 74.451177 ms (FindLiveObjects: 2.297391 ms CreateObjectMapping: 0.424480 ms MarkObjects: 70.635895 ms  DeleteObjects: 1.092881 ms)
+
+Changing real window size to 2592 x 2188
+Changing real window size to 1296 x 1094
+Changing real window size to 2560 x 1440
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 356 unused Assets to reduce memory usage. Loaded Objects now: 67565.
+Total: 75.994137 ms (FindLiveObjects: 2.498691 ms CreateObjectMapping: 0.514050 ms MarkObjects: 72.111356 ms  DeleteObjects: 0.869590 ms)
+
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 1920 x 1080 @ 60 Hz
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+requesting resize 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Setting up downscaled viewport at 1920 x 1080
+Desktop is 2560 x 1440 @ 144 Hz
+Unloading 3 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 198 unused Assets to reduce memory usage. Loaded Objects now: 67572.
+Total: 74.781997 ms (FindLiveObjects: 2.555221 ms CreateObjectMapping: 0.612961 ms MarkObjects: 71.076195 ms  DeleteObjects: 0.537020 ms)
+
+Changing real window size to 1920 x 1080
+Ignoring window size change to 1920x1080 : waiting for fullscreen at 1920x1080
+Changing real window size to 2560 x 1440
+Setting up downscaled viewport at 1920 x 1080
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 256 unused Assets to reduce memory usage. Loaded Objects now: 69497.
+Total: 76.665347 ms (FindLiveObjects: 2.448991 ms CreateObjectMapping: 0.461960 ms MarkObjects: 73.108006 ms  DeleteObjects: 0.645940 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 407 unused Assets to reduce memory usage. Loaded Objects now: 69836.
+Total: 78.504778 ms (FindLiveObjects: 2.444621 ms CreateObjectMapping: 0.635610 ms MarkObjects: 74.458556 ms  DeleteObjects: 0.965551 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 873 unused Assets to reduce memory usage. Loaded Objects now: 68758.
+Total: 78.682688 ms (FindLiveObjects: 2.733941 ms CreateObjectMapping: 0.659160 ms MarkObjects: 73.934266 ms  DeleteObjects: 1.354891 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+[Physics.PhysX] cleaning the mesh failed 
+(Filename: ./physx/source/physxcooking/src/mesh/TriangleMeshBuilder.cpp Line: 1043)
+
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+Can not play a disabled audio source 
+(Filename:  Line: 2316)
+
+Can not play a disabled audio source 
+(Filename:  Line: 2316)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 250 unused Assets to reduce memory usage. Loaded Objects now: 69260.
+Total: 78.920538 ms (FindLiveObjects: 2.733291 ms CreateObjectMapping: 0.658650 ms MarkObjects: 74.941247 ms  DeleteObjects: 0.586920 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 294 unused Assets to reduce memory usage. Loaded Objects now: 69276.
+Total: 79.083718 ms (FindLiveObjects: 2.783261 ms CreateObjectMapping: 0.693140 ms MarkObjects: 74.789047 ms  DeleteObjects: 0.817840 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 501 unused Assets to reduce memory usage. Loaded Objects now: 69267.
+Total: 79.788699 ms (FindLiveObjects: 2.792201 ms CreateObjectMapping: 0.458470 ms MarkObjects: 75.175947 ms  DeleteObjects: 1.361521 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 69264.
+Total: 77.039998 ms (FindLiveObjects: 2.736291 ms CreateObjectMapping: 0.450600 ms MarkObjects: 72.796806 ms  DeleteObjects: 1.055881 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 307 unused Assets to reduce memory usage. Loaded Objects now: 69201.
+Total: 76.254468 ms (FindLiveObjects: 2.701851 ms CreateObjectMapping: 0.539401 ms MarkObjects: 72.190895 ms  DeleteObjects: 0.821801 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 459 unused Assets to reduce memory usage. Loaded Objects now: 69159.
+Total: 78.079468 ms (FindLiveObjects: 2.737091 ms CreateObjectMapping: 0.438860 ms MarkObjects: 73.634546 ms  DeleteObjects: 1.268591 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 368 unused Assets to reduce memory usage. Loaded Objects now: 69117.
+Total: 77.557668 ms (FindLiveObjects: 2.769831 ms CreateObjectMapping: 0.578750 ms MarkObjects: 73.198106 ms  DeleteObjects: 1.010551 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 246 unused Assets to reduce memory usage. Loaded Objects now: 69153.
+Total: 76.309127 ms (FindLiveObjects: 2.687571 ms CreateObjectMapping: 0.447690 ms MarkObjects: 72.476946 ms  DeleteObjects: 0.696160 ms)
+
+Can not play a disabled audio source 
+(Filename:  Line: 2316)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 307 unused Assets to reduce memory usage. Loaded Objects now: 69347.
+Total: 74.916097 ms (FindLiveObjects: 2.680051 ms CreateObjectMapping: 0.568340 ms MarkObjects: 71.073096 ms  DeleteObjects: 0.593740 ms)
+
+Can not play a disabled audio source 
+(Filename:  Line: 2316)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 982 unused Assets to reduce memory usage. Loaded Objects now: 64657.
+Total: 71.726515 ms (FindLiveObjects: 2.504311 ms CreateObjectMapping: 0.607060 ms MarkObjects: 65.658713 ms  DeleteObjects: 2.955921 ms)
+
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Specular IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Bumped Specular IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UI Root 3D/3DText(Clone)/Click Trigger" 
+(Filename:  Line: 0)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+[Physics.PhysX] cleaning the mesh failed 
+(Filename: ./physx/source/physxcooking/src/mesh/TriangleMeshBuilder.cpp Line: 1043)
+
+WARNING: Shader Unsupported: 'Marmoset/Transparent/Cutout/Diffuse IBL' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 647 unused Assets to reduce memory usage. Loaded Objects now: 69130.
+Total: 75.450837 ms (FindLiveObjects: 2.707691 ms CreateObjectMapping: 0.446910 ms MarkObjects: 71.686366 ms  DeleteObjects: 0.609430 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 69198.
+Total: 76.479288 ms (FindLiveObjects: 2.670711 ms CreateObjectMapping: 0.637840 ms MarkObjects: 72.905066 ms  DeleteObjects: 0.265281 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 331 unused Assets to reduce memory usage. Loaded Objects now: 69331.
+Total: 78.306088 ms (FindLiveObjects: 2.731831 ms CreateObjectMapping: 0.530011 ms MarkObjects: 74.255026 ms  DeleteObjects: 0.788740 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 407 unused Assets to reduce memory usage. Loaded Objects now: 69319.
+Total: 78.444898 ms (FindLiveObjects: 2.711971 ms CreateObjectMapping: 0.545480 ms MarkObjects: 74.193896 ms  DeleteObjects: 0.993081 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 425 unused Assets to reduce memory usage. Loaded Objects now: 69277.
+Total: 78.411318 ms (FindLiveObjects: 2.988641 ms CreateObjectMapping: 0.692200 ms MarkObjects: 73.682146 ms  DeleteObjects: 1.047921 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 409 unused Assets to reduce memory usage. Loaded Objects now: 69347.
+Total: 77.590078 ms (FindLiveObjects: 2.654791 ms CreateObjectMapping: 0.461000 ms MarkObjects: 73.493706 ms  DeleteObjects: 0.980131 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 298 unused Assets to reduce memory usage. Loaded Objects now: 69326.
+Total: 81.860909 ms (FindLiveObjects: 2.678291 ms CreateObjectMapping: 0.628300 ms MarkObjects: 77.770118 ms  DeleteObjects: 0.783660 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 344 unused Assets to reduce memory usage. Loaded Objects now: 69327.
+Total: 76.414728 ms (FindLiveObjects: 2.776511 ms CreateObjectMapping: 0.603770 ms MarkObjects: 72.235656 ms  DeleteObjects: 0.798361 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 58.667221 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects. 
+(Filename:  Line: 606)
+
+
+Unloading 3783 unused Assets to reduce memory usage. Loaded Objects now: 60663.
+Total: 79.398548 ms (FindLiveObjects: 2.756891 ms CreateObjectMapping: 0.673950 ms MarkObjects: 61.480092 ms  DeleteObjects: 14.487195 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 60663.
+Total: 63.161303 ms (FindLiveObjects: 2.168821 ms CreateObjectMapping: 0.383590 ms MarkObjects: 60.573392 ms  DeleteObjects: 0.035030 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 60663.
+Total: 64.168263 ms (FindLiveObjects: 2.280941 ms CreateObjectMapping: 0.392040 ms MarkObjects: 61.465662 ms  DeleteObjects: 0.029070 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 60326.
+Total: 64.380853 ms (FindLiveObjects: 1.729100 ms CreateObjectMapping: 0.291050 ms MarkObjects: 62.326913 ms  DeleteObjects: 0.033400 ms)
+
+Can't add component to object that is being destroyed. 
+(Filename:  Line: 98)
+
+UnloadTime: 22.201038 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects. 
+(Filename:  Line: 606)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 7f56d1ff36c0 -> priority: 1 
+  Thread -> id: 7f55bcffb6c0 -> priority: 1 
+  Thread -> id: 7f57e67ff6c0 -> priority: 1 
+  Thread -> id: 7f57e5ffe6c0 -> priority: 1 
+  Thread -> id: 7f57e17e46c0 -> priority: 1 
+  Thread -> id: 7f5717fff6c0 -> priority: 1 
+Can't add component to object that is being destroyed. 
+(Filename:  Line: 98)
+
+Curl error 42: Callback aborted
+ 
+(Filename:  Line: 867)
+

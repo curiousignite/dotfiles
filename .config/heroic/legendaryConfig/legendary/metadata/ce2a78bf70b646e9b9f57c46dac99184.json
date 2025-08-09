@@ -1,0 +1,108 @@
+{
+  "app_name": "ce2a78bf70b646e9b9f57c46dac99184",
+  "app_title": "Yooka-Laylee",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ce2a78bf70b646e9b9f57c46dac99184",
+      "asset_id": "ce2a78bf70b646e9b9f57c46dac99184",
+      "build_version": "30",
+      "catalog_item_id": "85846943589049acb5ee1e746a087195",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "131e306949034972959ca401ca27837e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-06T21:22:48.687Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Playtonic Ltd/Yooka-Laylee/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Yooka_Laylee"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Yooka-Laylee",
+    "developer": "Playtonic Ltd",
+    "developerId": "o-qg5pfv55aq3xfvsvgyqhkdasezmsyn",
+    "endOfSupport": false,
+    "entitlementName": "85846943589049acb5ee1e746a087195",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "85846943589049acb5ee1e746a087195",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "779ed9403879e74fe1992fefeec9b0d5",
+        "size": 964582,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-10T22:25:14.065Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S3_2560x1440-779ed9403879e74fe1992fefeec9b0d5",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3641c6b4798aef32998929ba887a4dba",
+        "size": 787568,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-10T22:25:22.410Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_YookaLaylee_Playtonic_S4_1200x1600-3641c6b4798aef32998929ba887a4dba",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-01T16:25:22.591Z",
+    "mainGameItemList": [],
+    "namespace": "131e306949034972959ca401ca27837e",
+    "releaseInfo": [
+      {
+        "appId": "ce2a78bf70b646e9b9f57c46dac99184",
+        "dateAdded": "2020-10-06T00:00:00.000Z",
+        "id": "0c410adece7e412c8504a154bf7535ce",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Yooka-Laylee",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

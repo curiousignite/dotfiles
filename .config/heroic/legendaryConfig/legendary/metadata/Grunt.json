@@ -1,0 +1,111 @@
+{
+  "app_name": "Grunt",
+  "app_title": "Aztez",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Grunt",
+      "asset_id": "Grunt",
+      "build_version": "1.2-aeeb6200374fc01a6a51c3006846a350febeb243.21-Win",
+      "catalog_item_id": "9d60f0d4300a407e817ce5548f12f12d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-05T20:51:43.793Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Aztez"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5b325322a4c04b9e9e780b9a1e9b2d70"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Aztez",
+    "developer": "Team Colorblind",
+    "developerId": "o-ndzqj36dmhqmfklcq44yywpgfnbmbd",
+    "endOfSupport": false,
+    "entitlementName": "9d60f0d4300a407e817ce5548f12f12d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9d60f0d4300a407e817ce5548f12f12d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "0669c902194e64ef9c59ba1349ff1927",
+        "size": 221001,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-05T17:35:07.942Z",
+        "url": "https://cdn1.epicgames.com/5b325322a4c04b9e9e780b9a1e9b2d70/item/EGS_TeamColorblind_Aztez_S3-1360x766-0669c902194e64ef9c59ba1349ff1927.jpg",
+        "width": 1360
+      },
+      {
+        "height": 1148,
+        "md5": "0d2b32f59c7ce18bdb7f2c538c4cb3fa",
+        "size": 192699,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-02-05T17:35:34.847Z",
+        "url": "https://cdn1.epicgames.com/5b325322a4c04b9e9e780b9a1e9b2d70/item/EGS_TeamColorblind_Aztez_S2-860x1148-0d2b32f59c7ce18bdb7f2c538c4cb3fa.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-02-06T15:11:50.571Z",
+    "mainGameItemList": [],
+    "namespace": "5b325322a4c04b9e9e780b9a1e9b2d70",
+    "releaseInfo": [
+      {
+        "appId": "Grunt",
+        "dateAdded": "2020-02-05T17:36:36.008Z",
+        "id": "f729c3179f6743c4b1924c46bad6e050",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Aztez",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

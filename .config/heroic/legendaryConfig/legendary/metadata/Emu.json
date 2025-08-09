@@ -1,0 +1,112 @@
+{
+  "app_name": "Emu",
+  "app_title": "SOMA",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Emu",
+      "asset_id": "Emu",
+      "build_version": "1.62",
+      "catalog_item_id": "2fc6b6a71a3249fca823e9c24a5b7d9c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-18T10:38:56.179Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SOMA"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8a6a94901c8248fca1f5c78931c85cbd"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "SOMA",
+    "developer": "Frictional Games",
+    "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "endOfSupport": false,
+    "entitlementName": "2fc6b6a71a3249fca823e9c24a5b7d9c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2fc6b6a71a3249fca823e9c24a5b7d9c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e92be1297f6234f9171ae88de27b92f0",
+        "size": 306190,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-22T18:45:38.138Z",
+        "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/item/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "db37622eb525f124d94b79778b697f53",
+        "size": 1460496,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-24T16:03:08.796Z",
+        "url": "https://cdn1.epicgames.com/item/8a6a94901c8248fca1f5c78931c85cbd/SOMA_1200x1600-db37622eb525f124d94b79778b697f53",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-24T10:39:11.428Z",
+    "mainGameItemList": [],
+    "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+    "releaseInfo": [
+      {
+        "appId": "Emu",
+        "id": "92f02c672081406dbc60c22707987cef",
+        "platform": [
+          "Mac",
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "SOMA",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

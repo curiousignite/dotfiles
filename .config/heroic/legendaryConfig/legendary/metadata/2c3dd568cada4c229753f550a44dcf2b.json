@@ -1,0 +1,116 @@
+{
+  "app_name": "2c3dd568cada4c229753f550a44dcf2b",
+  "app_title": "Murder by Numbers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2c3dd568cada4c229753f550a44dcf2b",
+      "asset_id": "2c3dd568cada4c229753f550a44dcf2b",
+      "build_version": "1.01",
+      "catalog_item_id": "ba2934e0e75a4f9193cac4107d5ea904",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-12T15:13:29.321Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "Unity/"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Mediatonic/Murder by Numbers/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MurderByNumbers"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a0c5d9d8a9a940e8a8f63118c7323210"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Murder by Numbers",
+    "developer": "The Irregular Corporation",
+    "developerId": "o-h3rhw2ntexmcgx44cv2pdje5bz3nqh",
+    "endOfSupport": false,
+    "entitlementName": "ba2934e0e75a4f9193cac4107d5ea904",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ba2934e0e75a4f9193cac4107d5ea904",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c20572a6efa8b71deac98ce598f1fc6c",
+        "size": 982344,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-19T16:41:46.831Z",
+        "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/item/EGS_MurderbyNumbers_Mediatonic_S1-2560x1440-c20572a6efa8b71deac98ce598f1fc6c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d51cf08c93c51c9d4e9b3d140ddca9ec",
+        "size": 963704,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-19T16:41:52.173Z",
+        "url": "https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/item/EGS_MurderbyNumbers_Mediatonic_S2-1200x1600-d51cf08c93c51c9d4e9b3d140ddca9ec.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-03-23T15:55:18.383Z",
+    "mainGameItemList": [],
+    "namespace": "a0c5d9d8a9a940e8a8f63118c7323210",
+    "releaseInfo": [
+      {
+        "appId": "2c3dd568cada4c229753f550a44dcf2b",
+        "dateAdded": "2021-03-12T00:00:00.000Z",
+        "id": "427073f8f99847e995a69afca458b902",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Murder by Numbers",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

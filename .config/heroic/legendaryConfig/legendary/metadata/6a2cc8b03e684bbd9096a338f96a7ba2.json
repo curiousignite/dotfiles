@@ -1,0 +1,96 @@
+{
+  "app_name": "6a2cc8b03e684bbd9096a338f96a7ba2",
+  "app_title": "Cat Quest II",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6a2cc8b03e684bbd9096a338f96a7ba2",
+      "asset_id": "6a2cc8b03e684bbd9096a338f96a7ba2",
+      "build_version": "1.0.1",
+      "catalog_item_id": "44dc6b5ffd984b32b526c7d6bed73b86",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3ffba89b939b4dcb8e9e77518c477f4a"
+      },
+      "namespace": "58004246d72f474a957ff5f57b9684ca",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-21T13:00:31.276Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserProfile}/Documents/Cat Quest II/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Cat Quest II/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CatQuestII"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "2000"
+      }
+    },
+    "description": "Open-world action-RPG in a fantasy realm of cats and dogs. CAT QUEST II lets you play solo or with a friend, as both a cat and dog! Quest in a world filled with magic, defeat monsters and collect loot in a catventure like never before!",
+    "developer": "Kepler Interactive",
+    "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+    "endOfSupport": false,
+    "entitlementName": "44dc6b5ffd984b32b526c7d6bed73b86",
+    "entitlementType": "EXECUTABLE",
+    "id": "44dc6b5ffd984b32b526c7d6bed73b86",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Cat Quest II Offer",
+        "height": 1440,
+        "md5": "5cd51737e8fa5be0c4a84d8b881e462d",
+        "size": 859452,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-10-06T13:02:32.262Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-th2uk.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Cat Quest II Offer",
+        "height": 1600,
+        "md5": "19155962849457baa73eece3e8000061",
+        "size": 734682,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-10-06T13:02:32.100Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-1o2qk.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-28T14:52:56.366Z",
+    "mainGameItemList": [],
+    "namespace": "58004246d72f474a957ff5f57b9684ca",
+    "releaseInfo": [
+      {
+        "appId": "6a2cc8b03e684bbd9096a338f96a7ba2",
+        "id": "a011b926dacf49cfaed1279bc2bb8d79",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cat Quest II",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

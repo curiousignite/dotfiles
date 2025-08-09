@@ -1,0 +1,147 @@
+{
+  "app_name": "f18fc860e6b4419e89147983bf769723",
+  "app_title": "Clair Obscur: Expedition 33",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f18fc860e6b4419e89147983bf769723",
+      "asset_id": "f18fc860e6b4419e89147983bf769723",
+      "build_version": "CL_57661_Shipping",
+      "catalog_item_id": "867a67edd7b445899dd8f8060b48e0fd",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "db07a2add9c54db7bf903a2035351c9f",
+        "update_type": "MINOR"
+      },
+      "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-22T15:15:56.523Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Sandfall/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Expedition33"
+      }
+    },
+    "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress - so she can never paint death again. Explore a world of wonders inspired by Belle \u00c9poque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+    "developer": "Kepler Interactive",
+    "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-10-15T08:36:32.266Z",
+        "description": "Lead the Expedition in style with the Deluxe Edition Upgrade.",
+        "developer": "Kepler Interactive",
+        "developerId": "o-yrjx9sk66ym9ktjnjml6qzsyjhczdz",
+        "endOfSupport": false,
+        "entitlementName": "6430a63856b6490c84f7ac05220c067d",
+        "entitlementType": "EXECUTABLE",
+        "id": "6430a63856b6490c84f7ac05220c067d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Project W Clair Obscur: Expedition 33 \u2013 Deluxe Edition Upgrade Offer",
+            "height": 1440,
+            "md5": "7c41c183496e7791ba9ea57efe5e5571",
+            "size": 2499251,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-01-20T12:24:15.231Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-jx37i.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Project W Clair Obscur: Expedition 33 \u2013 Deluxe Edition Upgrade Offer",
+            "height": 1600,
+            "md5": "23e23ba4405230b203d8f791361c2fce",
+            "size": 1979935,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-01-20T12:14:30.930Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1klau.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-18T13:41:36.906Z",
+        "mainGameItem": {
+          "id": "867a67edd7b445899dd8f8060b48e0fd",
+          "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "867a67edd7b445899dd8f8060b48e0fd",
+            "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Clair Obscur: Expedition 33 \u2013 Deluxe Edition Upgrade",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "867a67edd7b445899dd8f8060b48e0fd",
+    "entitlementType": "EXECUTABLE",
+    "id": "867a67edd7b445899dd8f8060b48e0fd",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Project W Offer",
+        "height": 1440,
+        "md5": "483490505c27f285d266c104e79ee9a1",
+        "size": 944444,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-02-18T13:50:43.165Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1gl6e.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Project W Offer",
+        "height": 1600,
+        "md5": "271347fc977949a409278164d1a54b36",
+        "size": 664596,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-02-18T13:05:16.791Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1a2er.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-18T13:41:36.906Z",
+    "mainGameItemList": [],
+    "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+    "releaseInfo": [
+      {
+        "appId": "f18fc860e6b4419e89147983bf769723",
+        "id": "1c644195ee7e4d1ebffa6484f2d37bb5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Clair Obscur: Expedition 33",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,392 @@
+{
+  "app_name": "273854fd9c764c42a8e0f5c59aef343a",
+  "app_title": "Dark and Darker",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "273854fd9c764c42a8e0f5c59aef343a",
+      "asset_id": "273854fd9c764c42a8e0f5c59aef343a",
+      "build_version": "0.6.2.5554-5805",
+      "catalog_item_id": "94e1585836694fd8ba7be97b03f1d9b3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e70f8a940fab4066ac65de5411806470",
+        "update_type": "PATCH"
+      },
+      "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567yDRlxXBO7bWiXsFarHFmHTEC",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-28T07:25:43.123Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "DarkandDarker"
+      }
+    },
+    "description": "Dark and Darker",
+    "developer": "IRONMACE",
+    "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T08:06:06.841Z",
+        "description": "Redstone Shard 10_ConsumableAudience",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "c682bd128dcf40359c07c30de30a7b9b",
+        "entitlementType": "AUDIENCE",
+        "id": "c682bd128dcf40359c07c30de30a7b9b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstone Shard 10_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T08:04:34.353Z",
+        "description": "Redstone Shard 5_ConsumableAudience",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "06ae4f0ad3cf468da8f55299ff0b8282",
+        "entitlementType": "AUDIENCE",
+        "id": "06ae4f0ad3cf468da8f55299ff0b8282",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstone Shard 5_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T08:02:24.983Z",
+        "description": "Redstone Shard 2_ConsumableAudience",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "e16278cd2a8146a69a11c69b19cec20b",
+        "entitlementType": "AUDIENCE",
+        "id": "e16278cd2a8146a69a11c69b19cec20b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstone Shard 2_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T07:52:31.996Z",
+        "description": "Redstone Shard 1_ConsumableAudience",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "4143784acfd9465d935d8998564f3487",
+        "entitlementType": "AUDIENCE",
+        "id": "4143784acfd9465d935d8998564f3487",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstone Shard 1_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T08:07:46.162Z",
+        "description": "Redstone Shard 15_ConsumableAudience",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "912fe17a0c484605a5b3187cedc2c5d4",
+        "entitlementType": "AUDIENCE",
+        "id": "912fe17a0c484605a5b3187cedc2c5d4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redstone Shard 15_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-01T19:03:36.681Z",
+        "customAttributes": {},
+        "description": "Old - Dark and Darker - Legendary Status",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "38269d20d31248c1ba9b4decbad7d6b0",
+        "entitlementType": "EXECUTABLE",
+        "id": "38269d20d31248c1ba9b4decbad7d6b0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Dark and Darker Dark and Darker - Legendary Status Offer",
+            "height": 1440,
+            "md5": "8955431e383dac1fcf3768d5491bc0d9",
+            "size": 1889130,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-03T10:46:35.118Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-1uasr.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Dark and Darker Dark and Darker - Legendary Status Offer",
+            "height": 1600,
+            "md5": "491d63434d98fcac62cae109aeb7b520",
+            "size": 927139,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-03T09:55:06.412Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-y39sk.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Old - Dark and Darker - Legendary Status",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-11-19T02:26:17.589Z",
+        "description": "Upgrades a free \u2018Squire\u2019 account to \u2018Legendary\u2019 status. Legendary accounts get access to the High Roller Dungeons, extra trading privileges, +9 characters slots, unlocks 1 shared stash, and more! Please be careful not to make duplicate purchases.",
+        "developer": "IRONMACE",
+        "developerId": "o-f63alxkwu8qdltfg5dp9qwjwztz6kw",
+        "endOfSupport": false,
+        "entitlementName": "c8d00ea375094f7b889aa0c93f157f58",
+        "entitlementType": "EXECUTABLE",
+        "id": "c8d00ea375094f7b889aa0c93f157f58",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Dark and Darker Dark and Darker - Legendary Status Offer",
+            "height": 1440,
+            "md5": "8955431e383dac1fcf3768d5491bc0d9",
+            "size": 1889130,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-11-19T02:43:47.137Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-jnv20.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Dark and Darker Dark and Darker - Legendary Status Offer",
+            "height": 1600,
+            "md5": "491d63434d98fcac62cae109aeb7b520",
+            "size": 927139,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-11-19T02:43:49.660Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-1a34k.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-12-16T01:24:40.961Z",
+        "mainGameItem": {
+          "id": "94e1585836694fd8ba7be97b03f1d9b3",
+          "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "94e1585836694fd8ba7be97b03f1d9b3",
+            "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dark and Darker - Legendary Status",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "94e1585836694fd8ba7be97b03f1d9b3",
+    "entitlementType": "EXECUTABLE",
+    "id": "94e1585836694fd8ba7be97b03f1d9b3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Dark and Darker Offer",
+        "height": 1440,
+        "md5": "a84c196cc9793af621146ff57a71c1bf",
+        "size": 595086,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-04-05T06:20:22.635Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-2ufsk.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Dark and Darker Offer",
+        "height": 1600,
+        "md5": "7732edd0d327adec09cd4e7cc4e5782c",
+        "size": 302171,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-04-05T06:20:24.765Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dc77f1f941e14360b61093b761cb34ba/dark-and-darker-miwuf.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-14T23:09:31.633Z",
+    "mainGameItemList": [],
+    "namespace": "91b15e9ef6c94b1694d87639beb8cbad",
+    "releaseInfo": [
+      {
+        "appId": "273854fd9c764c42a8e0f5c59aef343a",
+        "id": "f5205fb3bc5d4a4cbd78ade758ca19f5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dark and Darker",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

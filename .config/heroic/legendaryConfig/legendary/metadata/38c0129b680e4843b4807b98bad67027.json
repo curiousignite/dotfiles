@@ -1,0 +1,117 @@
+{
+  "app_name": "38c0129b680e4843b4807b98bad67027",
+  "app_title": "Verdun",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "38c0129b680e4843b4807b98bad67027",
+      "asset_id": "38c0129b680e4843b4807b98bad67027",
+      "build_version": "0.58080_Windows",
+      "catalog_item_id": "799b21a13e764a8488444b4ada9202b7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-04-22T05:13:11.641Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/WW1 Game Series/WW1 Game Series/Epic/Verdun/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/WW1 Game Series/WW1 Game Series/Epic/Verdun/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Verdun"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e4a2a414d46849f49a35c0f80df2903a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Verdun",
+    "developer": "BlackMill Games B.V.",
+    "developerId": "o-pqh887lztbpbmnnzvlmm79bps4an8w",
+    "endOfSupport": false,
+    "entitlementName": "799b21a13e764a8488444b4ada9202b7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "799b21a13e764a8488444b4ada9202b7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1519c10619790e4094cbbc62faa50fcb",
+        "size": 876178,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-09-21T19:58:40.208Z",
+        "url": "https://cdn1.epicgames.com/item/e4a2a414d46849f49a35c0f80df2903a/EGS_Verdun_BlackmillGamesM2H_S1_2560x1440-1519c10619790e4094cbbc62faa50fcb",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "87b0a1a746d4e990c318a6e71ecae744",
+        "size": 948435,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-21T19:58:43.388Z",
+        "url": "https://cdn1.epicgames.com/item/e4a2a414d46849f49a35c0f80df2903a/EGS_Verdun_BlackmillGamesM2H_S2_1200x1600-87b0a1a746d4e990c318a6e71ecae744",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-08T16:30:26.932Z",
+    "mainGameItemList": [],
+    "namespace": "e4a2a414d46849f49a35c0f80df2903a",
+    "releaseInfo": [
+      {
+        "appId": "38c0129b680e4843b4807b98bad67027",
+        "id": "4d2471f0b9904dd0b207400fcd6cd083",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Verdun",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

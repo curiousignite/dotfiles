@@ -1,0 +1,114 @@
+{
+  "app_name": "5d69d0ab27814455ae0ddce0fcfbb86a",
+  "app_title": "FM21 Editor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5d69d0ab27814455ae0ddce0fcfbb86a",
+      "asset_id": "5d69d0ab27814455ae0ddce0fcfbb86a",
+      "build_version": "494-win-epic-editor",
+      "catalog_item_id": "8024ad1154764006921df5f1d8acc217",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c2594740866d4be69d38fcf08ef0176d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567UKBeGSyltb1mZTeHWMqRu9Zv",
+    "categories": [
+      {
+        "path": "engines"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-19T14:42:11.333Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FM21Editor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c2594740866d4be69d38fcf08ef0176d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2021 Editor",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "endOfSupport": false,
+    "entitlementName": "8024ad1154764006921df5f1d8acc217",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8024ad1154764006921df5f1d8acc217",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "21f4343c45a407dc4093b911ddc4d792",
+        "size": 943795,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-23T20:24:55.342Z",
+        "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/item/EGS_FootballManager2021_SportsInteractive_S1-2560x1440-21f4343c45a407dc4093b911ddc4d792.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "cec283ebf8ed01e535606201721115d5",
+        "size": 681646,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-23T20:25:02.837Z",
+        "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/item/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-11-30T14:57:33.913Z",
+    "longDescription": "Football Manager 2021 Editor",
+    "mainGameItemList": [],
+    "namespace": "c2594740866d4be69d38fcf08ef0176d",
+    "releaseInfo": [
+      {
+        "appId": "5d69d0ab27814455ae0ddce0fcfbb86a",
+        "dateAdded": "2020-05-04T00:00:00.000Z",
+        "id": "6bf11d641d274d63b6dc5ddf1834b530",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "FM21 Editor",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

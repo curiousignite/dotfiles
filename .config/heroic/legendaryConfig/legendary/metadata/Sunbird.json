@@ -1,0 +1,113 @@
+{
+  "app_name": "Sunbird",
+  "app_title": "The Bridge",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Sunbird",
+      "asset_id": "Sunbird",
+      "build_version": "Win_2024-04-25_12-21-21",
+      "catalog_item_id": "619e04f4d42c4b65b37d17ea3310f218",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-11T03:44:06.786Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/The Quantum Astrophysicists Guild/The Bridge/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheBridge"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d5ee752640ef4cee8b7f5364410ba41f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Bridge",
+    "developer": "The Quantum Astrophysicists Guild",
+    "developerId": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+    "endOfSupport": false,
+    "entitlementName": "619e04f4d42c4b65b37d17ea3310f218",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "619e04f4d42c4b65b37d17ea3310f218",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 680,
+        "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+        "size": 215071,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-01-15T17:25:48.106Z",
+        "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+        "width": 510
+      },
+      {
+        "height": 766,
+        "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+        "size": 500647,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-01-15T17:30:22.008Z",
+        "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/item/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+        "width": 1360
+      }
+    ],
+    "lastModifiedDate": "2024-03-13T17:00:04.015Z",
+    "mainGameItemList": [],
+    "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+    "releaseInfo": [
+      {
+        "appId": "Sunbird",
+        "id": "2f2bb86067fa4afda3d8743c4125da8d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Bridge",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

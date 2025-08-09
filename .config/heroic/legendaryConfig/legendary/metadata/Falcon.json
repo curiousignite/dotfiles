@@ -1,0 +1,225 @@
+{
+  "app_name": "Falcon",
+  "app_title": "Mutant Year Zero Road to Eden",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Falcon",
+      "asset_id": "Falcon",
+      "build_version": "23289.1",
+      "catalog_item_id": "4d3e7e2358e448c381626d326cb9587f",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "be0999ba8ff542078aff5c36f6af7606"
+      },
+      "namespace": "4756b80eb0f74d45b77922e54052cfed",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-29T21:14:33.219Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/ZoneUE4/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MutantYearZeroRTE"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4756b80eb0f74d45b77922e54052cfed"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Mutant Year Zero Road to Eden",
+    "developer": "Funcom Oslo AS",
+    "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "dlc"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-08-08T14:28:09.696Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Mutant Year Zero Seed of Evil",
+        "developer": "Funcom Oslo AS",
+        "developerId": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+        "endOfSupport": false,
+        "entitlementName": "ffcb62ae06414583b0fb41d95db65cae",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ffcb62ae06414583b0fb41d95db65cae",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1b424da6ffeca94871cb48614f22ab6e",
+            "size": 128648,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-08-14T18:10:09.928Z",
+            "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S1_DLC_KEYART-2560x1440-1b424da6ffeca94871cb48614f22ab6e.jpg",
+            "width": 2560
+          },
+          {
+            "height": 500,
+            "md5": "57c85a68061636540dde5739e94144ae",
+            "size": 113595,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-08-14T18:10:26.224Z",
+            "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_DLCLOGO-920x500-57c85a68061636540dde5739e94144ae.png",
+            "width": 920
+          }
+        ],
+        "lastModifiedDate": "2023-08-18T09:54:41.638Z",
+        "longDescription": "DLC 1",
+        "mainGameItem": {
+          "id": "4d3e7e2358e448c381626d326cb9587f",
+          "namespace": "4756b80eb0f74d45b77922e54052cfed",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4d3e7e2358e448c381626d326cb9587f",
+            "namespace": "4756b80eb0f74d45b77922e54052cfed",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4756b80eb0f74d45b77922e54052cfed",
+        "releaseInfo": [
+          {
+            "appId": "FalconDLC1",
+            "compatibleApps": [],
+            "dateAdded": "2019-08-09T00:00:00.000Z",
+            "id": "8ad714af0c4242668a12a15d1933f1b3",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Mutant Year Zero Seed of Evil",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4d3e7e2358e448c381626d326cb9587f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4d3e7e2358e448c381626d326cb9587f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "efe7c4f177baa455d8161d7de4426b20",
+        "size": 506857,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-08-14T18:07:14.785Z",
+        "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-efe7c4f177baa455d8161d7de4426b20.jpg",
+        "width": 2560
+      },
+      {
+        "height": 500,
+        "md5": "544312cae3244e33ea7c8d8a6e51b6b7",
+        "size": 182906,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-08-14T18:08:50.052Z",
+        "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png",
+        "width": 989
+      },
+      {
+        "height": 404,
+        "md5": "9c34d9c8130a9bed9d2c71fc8a03846e",
+        "size": 25855,
+        "type": "ESRB",
+        "uploadedDate": "2019-08-14T18:26:21.351Z",
+        "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/ESRB_MutantYearZero_M-842x404-9c34d9c8130a9bed9d2c71fc8a03846e.jpg",
+        "width": 842
+      },
+      {
+        "height": 1440,
+        "md5": "78da0159ae1cff2af0b286dcfa5bf30a",
+        "size": 339839,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/item/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:41.561Z",
+    "mainGameItemList": [],
+    "namespace": "4756b80eb0f74d45b77922e54052cfed",
+    "releaseInfo": [
+      {
+        "appId": "Falcon",
+        "dateAdded": "2019-07-30T00:00:00.000Z",
+        "id": "c9d2922f5ef34e53ab7fcacf1f4b168d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Mutant Year Zero Road to Eden",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

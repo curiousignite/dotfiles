@@ -1,0 +1,270 @@
+{
+  "app_name": "098b530746fa4cfb8b11484bfdc18a2d",
+  "app_title": "Sand Patch Grade",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "098b530746fa4cfb8b11484bfdc18a2d",
+      "asset_id": "098b530746fa4cfb8b11484bfdc18a2d",
+      "build_version": "1.0.2",
+      "catalog_item_id": "7a2b089a248942b6814674c0cb531571",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "685efdfa4bf34ae1be3751c722a70548"
+      },
+      "namespace": "a64d4c5460384218b17de5bd785085f8",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2022-06-23T13:47:56.737Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TSW3SandPatchGrade"
+      }
+    },
+    "description": "Sand Patch Grade",
+    "developer": "Dovetail Games",
+    "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+    "endOfSupport": false,
+    "entitlementName": "7a2b089a248942b6814674c0cb531571",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7a2b089a248942b6814674c0cb531571",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "1a7cfbff7349fc994bea27843503ea0c",
+        "size": 956753,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-07T16:48:52.276Z",
+        "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/EGS_SandPatchGrade_DovetailGames_DLC_S2_1200x1600-1a7cfbff7349fc994bea27843503ea0c",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "b1d1acd1f308416417fb787fa14883b5",
+        "size": 633320,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-09-07T16:48:55.648Z",
+        "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/EGS_SandPatchGrade_DovetailGames_DLC_S1_2560x1440-b1d1acd1f308416417fb787fa14883b5",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-09-13T16:24:07.849Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "public"
+        },
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2022-06-23T08:08:15.335Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "TrainSimWorld3"
+        },
+        "OwnershipToken": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Train Sim World 3",
+      "developer": "Dovetail Games",
+      "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+      "endOfSupport": false,
+      "entitlementName": "16268e7a56184fada899a673ab14260a",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "16268e7a56184fada899a673ab14260a",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1440,
+          "md5": "cd4682759f9c18199fb2660a1527cb52",
+          "size": 603063,
+          "type": "DieselGameBox",
+          "uploadedDate": "2022-08-31T16:24:07.060Z",
+          "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/TSW3_Epic_Store_Assets_Landscape_Image_2560x1440_2560x1440-cd4682759f9c18199fb2660a1527cb52",
+          "width": 2560
+        },
+        {
+          "height": 1600,
+          "md5": "eb5e7622ddf8d9d64c234c1bb197785f",
+          "size": 354579,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2022-08-31T16:24:13.779Z",
+          "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/TSW3_Epic_Store_Assets_Portrait_Image_1200x1600_1200x1600-eb5e7622ddf8d9d64c234c1bb197785f",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2023-10-05T13:13:32.255Z",
+      "mainGameItemList": [],
+      "namespace": "a64d4c5460384218b17de5bd785085f8",
+      "releaseInfo": [
+        {
+          "appId": "45e0536c956a401ab1010194fd1ab504",
+          "compatibleApps": [],
+          "dateAdded": "2022-07-22T18:37:49.527Z",
+          "id": "729e0664e8f549c5945cbab2621dcd0a",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "requiresSecureAccount": false,
+      "status": "ACTIVE",
+      "title": "Train Sim World 3",
+      "unsearchable": true
+    },
+    "mainGameItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-06-23T08:08:15.335Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TrainSimWorld3"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Train Sim World 3",
+        "developer": "Dovetail Games",
+        "developerId": "o-hsu3hatj83tj7fpcykxyf7tn6ypg3e",
+        "endOfSupport": false,
+        "entitlementName": "16268e7a56184fada899a673ab14260a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "16268e7a56184fada899a673ab14260a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "cd4682759f9c18199fb2660a1527cb52",
+            "size": 603063,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-08-31T16:24:07.060Z",
+            "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/TSW3_Epic_Store_Assets_Landscape_Image_2560x1440_2560x1440-cd4682759f9c18199fb2660a1527cb52",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "eb5e7622ddf8d9d64c234c1bb197785f",
+            "size": 354579,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-08-31T16:24:13.779Z",
+            "url": "https://cdn1.epicgames.com/item/a64d4c5460384218b17de5bd785085f8/TSW3_Epic_Store_Assets_Portrait_Image_1200x1600_1200x1600-eb5e7622ddf8d9d64c234c1bb197785f",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-10-05T13:13:32.255Z",
+        "mainGameItemList": [],
+        "namespace": "a64d4c5460384218b17de5bd785085f8",
+        "releaseInfo": [
+          {
+            "appId": "45e0536c956a401ab1010194fd1ab504",
+            "compatibleApps": [],
+            "dateAdded": "2022-07-22T18:37:49.527Z",
+            "id": "729e0664e8f549c5945cbab2621dcd0a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Train Sim World 3",
+        "unsearchable": true
+      }
+    ],
+    "namespace": "a64d4c5460384218b17de5bd785085f8",
+    "releaseInfo": [
+      {
+        "appId": "098b530746fa4cfb8b11484bfdc18a2d",
+        "id": "ecf2ca7218554fcf94a2910e3496c229",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Sand Patch Grade",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

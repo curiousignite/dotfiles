@@ -1,0 +1,113 @@
+{
+  "app_name": "3206dba3f9b14fd3b01c18f9dcbc864a",
+  "app_title": "DEATHLOOP",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3206dba3f9b14fd3b01c18f9dcbc864a",
+      "asset_id": "3206dba3f9b14fd3b01c18f9dcbc864a",
+      "build_version": "1.820.5.1v5",
+      "catalog_item_id": "b9f16025674b4a4d93c30d666c3c9c9d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7dee3ddeac7d427eb35def472be64d9c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567cW4jlaueDbz1mTsxPETFG8iM",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-08T18:24:30.610Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Arkane Studios/Deathloop/base/savegame/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DEATHLOOP"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "DEATHLOOP",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "endOfSupport": false,
+    "entitlementName": "b9f16025674b4a4d93c30d666c3c9c9d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && deathloop)"
+    ],
+    "id": "b9f16025674b4a4d93c30d666c3c9c9d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "bf6d342edbd2411ccf24e326852fca93",
+        "size": 539500,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-12T15:38:34.324Z",
+        "url": "https://cdn1.epicgames.com/item/7dee3ddeac7d427eb35def472be64d9c/EGS_DEATHLOOP_ArkaneStudios_S1_2560x1440-bf6d342edbd2411ccf24e326852fca93",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d062aa01760072626d27af24af05db77",
+        "size": 319276,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-12T15:38:28.111Z",
+        "url": "https://cdn1.epicgames.com/item/7dee3ddeac7d427eb35def472be64d9c/EGS_DEATHLOOP_ArkaneStudios_S4_1200x1600-d062aa01760072626d27af24af05db77",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-10-17T15:56:41.632Z",
+    "mainGameItemList": [],
+    "namespace": "7dee3ddeac7d427eb35def472be64d9c",
+    "releaseInfo": [
+      {
+        "appId": "3206dba3f9b14fd3b01c18f9dcbc864a",
+        "compatibleApps": [],
+        "dateAdded": "2021-09-08T18:42:08.113Z",
+        "id": "6417800c26ee43dd9004c863cbc84e39",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "DEATHLOOP",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

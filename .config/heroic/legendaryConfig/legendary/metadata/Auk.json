@@ -1,0 +1,369 @@
+{
+  "app_name": "Auk",
+  "app_title": "Q.U.B.E. 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Auk",
+      "asset_id": "Auk",
+      "build_version": "2.0.38",
+      "catalog_item_id": "a86bbe049ef14f519c69fdc27615d7f4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "373badf415504c97ae752441d14fb0cb"
+      },
+      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T21:05:47.637Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "QUBE2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4b5f1eb366dc45f0920d397c01b291ba"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Q.U.B.E. 2",
+    "developer": "Ten Hut Games",
+    "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-10-24T13:09:34.331Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "QUBE2PuzzlePack1"
+          }
+        },
+        "description": "Puzzle Pack 1",
+        "developer": "Ten Hut Games",
+        "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+        "endOfSupport": false,
+        "entitlementName": "ade772fcce3a41cf97279032c10b0041",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ade772fcce3a41cf97279032c10b0041",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d2b89622979482c7b0a632306800b950",
+            "size": 312776,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-10-16T23:30:42.197Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1080,
+            "md5": "891789d632a30ac0fd0a9c46069c53fe",
+            "size": 26596,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-10-16T23:30:52.540Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2019-10-24T13:39:27.123Z",
+        "mainGameItem": {
+          "id": "a86bbe049ef14f519c69fdc27615d7f4",
+          "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a86bbe049ef14f519c69fdc27615d7f4",
+            "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+        "releaseInfo": [
+          {
+            "appId": "AukPuzzle1",
+            "dateAdded": "2019-09-10T00:00:00.000Z",
+            "id": "8199a4db8a804eab921986f974197893",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Puzzle Pack 1",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-10-24T13:16:14.851Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "QUBE2Glove"
+          }
+        },
+        "description": "Glove Skin",
+        "developer": "Ten Hut Games",
+        "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+        "endOfSupport": false,
+        "entitlementName": "8d644d777e5042c187c03530b965dc17",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d644d777e5042c187c03530b965dc17",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d2b89622979482c7b0a632306800b950",
+            "size": 312776,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-10-16T23:30:42.197Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1080,
+            "md5": "891789d632a30ac0fd0a9c46069c53fe",
+            "size": 26596,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-10-16T23:30:52.540Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2019-10-24T13:39:43.855Z",
+        "mainGameItem": {
+          "id": "a86bbe049ef14f519c69fdc27615d7f4",
+          "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a86bbe049ef14f519c69fdc27615d7f4",
+            "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+        "releaseInfo": [
+          {
+            "appId": "AukGlove",
+            "dateAdded": "2019-09-10T00:00:00.000Z",
+            "id": "5fb58a56a1f04a32945698b7027b1342",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Glove Skin",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-10-24T13:11:44.713Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "QUBE2PuzzlePack2"
+          }
+        },
+        "description": "Puzzle Pack 2",
+        "developer": "Ten Hut Games",
+        "developerId": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+        "endOfSupport": false,
+        "entitlementName": "b36ab3b81c844ee2a908c7d28451337a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b36ab3b81c844ee2a908c7d28451337a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "d2b89622979482c7b0a632306800b950",
+            "size": 312776,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-10-16T23:30:42.197Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1080,
+            "md5": "891789d632a30ac0fd0a9c46069c53fe",
+            "size": 26596,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-10-16T23:30:52.540Z",
+            "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+            "width": 1920
+          }
+        ],
+        "lastModifiedDate": "2019-10-24T13:34:28.795Z",
+        "mainGameItem": {
+          "id": "a86bbe049ef14f519c69fdc27615d7f4",
+          "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a86bbe049ef14f519c69fdc27615d7f4",
+            "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+        "releaseInfo": [
+          {
+            "appId": "AukPuzzle2",
+            "dateAdded": "2019-09-10T00:00:00.000Z",
+            "id": "11391bc5aed5479e8f3e60d179351339",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Puzzle Pack 2",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a86bbe049ef14f519c69fdc27615d7f4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a86bbe049ef14f519c69fdc27615d7f4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d2b89622979482c7b0a632306800b950",
+        "size": 312776,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-10-16T23:29:44.519Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1080,
+        "md5": "891789d632a30ac0fd0a9c46069c53fe",
+        "size": 26596,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-10-16T23:29:57.895Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "md5": "46972907facb08bd09cf75ec31c27168",
+        "size": 156131,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/item/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:32.367Z",
+    "mainGameItemList": [],
+    "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+    "releaseInfo": [
+      {
+        "appId": "Auk",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "8b9759151c374812a3e423adb413353c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Q.U.B.E. 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

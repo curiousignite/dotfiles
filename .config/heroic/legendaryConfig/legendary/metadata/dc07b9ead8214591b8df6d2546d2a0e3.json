@@ -1,0 +1,163 @@
+{
+  "app_name": "dc07b9ead8214591b8df6d2546d2a0e3",
+  "app_title": "Aven Colony",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "dc07b9ead8214591b8df6d2546d2a0e3",
+      "asset_id": "dc07b9ead8214591b8df6d2546d2a0e3",
+      "build_version": "15",
+      "catalog_item_id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567MZJACGYHxIeNLxV5tsLNGEgp",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-06T21:41:50.038Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AvenColony"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "31bd7140ab344cd59a770e14b2afbcea"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Aven Colony",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-14T16:31:57.122Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Falcone DLC1 Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "1155f01d108a477bb83a7ff84286dba3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1155f01d108a477bb83a7ff84286dba3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-10-28T14:13:30.885Z",
+        "mainGameItem": {
+          "id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+          "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+            "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Falcone DLC1 Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "59fd9ca3c8ac41f39713a3f28407d3d1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "59fd9ca3c8ac41f39713a3f28407d3d1",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3276f29fde89052103f0b650420d256b",
+        "size": 957789,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-16T14:09:47.972Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AvenColony_MothershipEntertainmentLLC_S3_2560x1440-3276f29fde89052103f0b650420d256b",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "2e6d5f94d466bc936c0b0d3f2a56a90d",
+        "size": 968119,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-16T14:09:38.025Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AvenColony_MothershipEntertainmentLLC_S4_1200x1600-2e6d5f94d466bc936c0b0d3f2a56a90d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-10-28T14:13:10.093Z",
+    "mainGameItemList": [],
+    "namespace": "31bd7140ab344cd59a770e14b2afbcea",
+    "releaseInfo": [
+      {
+        "appId": "dc07b9ead8214591b8df6d2546d2a0e3",
+        "dateAdded": "2020-10-06T23:43:11.330Z",
+        "id": "67a80724fe4444c88047b2139b73dfd9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Aven Colony",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

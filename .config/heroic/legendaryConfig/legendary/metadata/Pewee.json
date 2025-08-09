@@ -1,0 +1,981 @@
+{
+  "app_name": "Pewee",
+  "app_title": "Rogue Company",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Pewee",
+      "asset_id": "Pewee",
+      "build_version": "1787",
+      "catalog_item_id": "4846b408b2e5424baecf1dc29683402e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-16T21:22:27.462Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RogueCompany"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "933ada2ec45e4184ae840d64c99e0ba9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rogue Company",
+    "developer": "Hi-Rez Studios",
+    "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-02T15:39:01.444Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PeweeTruckbedAddonAudience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "3ee7806a8c004b4899dad1c418770423",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ee7806a8c004b4899dad1c418770423",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-22T19:56:01.950Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "PeweeTruckbedAddonAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-22T14:51:10.122Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "RC SCSP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "1eaebcd550dc440db4f277928055c26b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1eaebcd550dc440db4f277928055c26b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-07T10:53:58.043Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RC SCSP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-18T01:08:49.188Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCS4SP Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "dd82eb03ce4f4aa3aa2606695325bf72",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dd82eb03ce4f4aa3aa2606695325bf72",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-11-09T12:06:17.052Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCS4SP Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T02:33:28.262Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCSP Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "6549f6948c1a4fcaaf61156a98ef5292",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6549f6948c1a4fcaaf61156a98ef5292",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-22T19:54:26.057Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCSP Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-23T20:07:40.162Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PeweeStandardAudience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "cc940127fac44f67972e20e20415dc1b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cc940127fac44f67972e20e20415dc1b",
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "ccb9e1e2dc0a89e1c1b5aa29c1a18769",
+            "size": 570945,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-07-20T14:55:21.348Z",
+            "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_HeroCarousel_1920x1080-1920x1080-ccb9e1e2dc0a89e1c1b5aa29c1a18769.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "886450991cadd15b0e5e08b80f671556",
+            "size": 477073,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-07-20T14:55:29.111Z",
+            "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/item/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-886450991cadd15b0e5e08b80f671556.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-04-22T19:55:40.393Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "status": "ACTIVE",
+        "title": "PeweeStandardAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-03-31T22:02:49.914Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCS2SP Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "ee3e82f2b5d1438b916ece45019a4dc0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ee3e82f2b5d1438b916ece45019a4dc0",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-08-10T10:58:32.499Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCS2SP Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-04T13:51:51.728Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "JSP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "a4912cfd505a4d629eaca219f6b5494e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4912cfd505a4d629eaca219f6b5494e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-08T10:59:17.356Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "JSP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-18T01:09:13.876Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCRR Pack Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "5d20762104744926a406cc0b0cbc9cc8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5d20762104744926a406cc0b0cbc9cc8",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-10-05T04:21:45.218Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCRR Pack Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-04-23T20:12:29.083Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "PeweeUltimateAudience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "97cc8a58013240df81a27f098b3c1372",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97cc8a58013240df81a27f098b3c1372",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-22T19:55:12.942Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "status": "ACTIVE",
+        "title": "PeweeUltimateAudience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-24T04:48:59.414Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCPB Pack Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "27492b36ba5b464888a9d3d7c1260d2a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "27492b36ba5b464888a9d3d7c1260d2a",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-09-07T15:22:19.534Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCPB Pack Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-07T15:57:02.033Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rogue Company: Meltdown Starter Pack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "d0c9efc59ad54263bf0afc50e6dbf3ce",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d0c9efc59ad54263bf0afc50e6dbf3ce",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-23T11:03:22.682Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rogue Company: Meltdown Starter Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-06-25T02:43:42.825Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RCS3SP Audience",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "cddd17e69f2e4a23934cd968e79b57c3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cddd17e69f2e4a23934cd968e79b57c3",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-08-10T10:58:32.499Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RCS3SP Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-04T13:53:11.118Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "YTSTEP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "07f3f8c635ee4a2faad14d03190589e0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "07f3f8c635ee4a2faad14d03190589e0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-09T14:45:51.482Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "YTSTEP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-04T13:51:22.418Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SSSP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "ea8c82a2e44a4957bca2e4ea7769e271",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea8c82a2e44a4957bca2e4ea7769e271",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-08T10:59:17.359Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SSSP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-08T17:47:48.403Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DahliaOctober2022DLC",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "15f281deb2ec46cb8b8882c9050e6326",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "15f281deb2ec46cb8b8882c9050e6326",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-08T17:47:48.403Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DahliaOctober2022DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-11T13:23:37.873Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "LDP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "1f488e18efab47f7a380bf7372cc328c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f488e18efab47f7a380bf7372cc328c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-18T10:51:06.810Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "LDP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-31T16:24:14.166Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Rogue Company Mainframe Overload Starter Pack",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "414555004fc1429c89ff57573e22ecf9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "414555004fc1429c89ff57573e22ecf9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-28T12:00:17.659Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rogue Company Mainframe Overload Starter Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-14T11:36:03.831Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ViViSP",
+        "developer": "Hi-Rez Studios",
+        "developerId": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+        "endOfSupport": false,
+        "entitlementName": "a0f5df5fe2c94a68bfc23828f78bb6b7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0f5df5fe2c94a68bfc23828f78bb6b7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-18T10:54:21.925Z",
+        "mainGameItem": {
+          "id": "4846b408b2e5424baecf1dc29683402e",
+          "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4846b408b2e5424baecf1dc29683402e",
+            "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ViViSP",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4846b408b2e5424baecf1dc29683402e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4846b408b2e5424baecf1dc29683402e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "3c7184891bf4c43ad9ea14cc824e6c7d",
+        "size": 880873,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-06-28T13:26:44.590Z",
+        "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_3_1920x1080-3c7184891bf4c43ad9ea14cc824e6c7d",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "faf06c3f5a5e2af36681a033b96a1746",
+        "size": 661363,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-06-28T13:26:47.474Z",
+        "url": "https://cdn1.epicgames.com/item/933ada2ec45e4184ae840d64c99e0ba9/RoCo_EGS_3_1200x1600-faf06c3f5a5e2af36681a033b96a1746",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-07-18T10:54:21.915Z",
+    "mainGameItemList": [],
+    "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+    "releaseInfo": [
+      {
+        "appId": "Pewee",
+        "dateAdded": "2019-08-16T00:00:00.000Z",
+        "id": "63bbeed93f134076a22e0f5636334aa6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Rogue Company",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

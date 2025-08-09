@@ -1,0 +1,14 @@
+(01:10:22) [INFO]:    GOG REDIST:: GOGDL_CONFIG_PATH=/home/berke/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/berke/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/berke/.config/heroic/tools/redist/gog 
+
+(01:10:22) [INFO]:    Game Output:
+[API] INFO: Getting Dependencies repository
+(1.1137475967407227, 'MB') 1167849
+(1.1953582763671875, 'MB') 1253424
+[PROGRESS] INFO: = Progress: 0.00 0/1253424, Running for: 00:00:00, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 0.00 MiB, Written: 0.00 MiB
+[PROGRESS] INFO:  + Download	- 0.00 MiB/s (raw) / 0.00 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.00 MiB/s (write) / 0.00 MiB/s (read)
+[PROGRESS] INFO: = Progress: 100.00 1253424/1253424, Running for: 00:00:01, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 1.11 MiB, Written: 1.20 MiB
+[PROGRESS] INFO:  + Download	- 0.58 MiB/s (raw) / 0.62 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.62 MiB/s (write) / 0.00 MiB/s (read)

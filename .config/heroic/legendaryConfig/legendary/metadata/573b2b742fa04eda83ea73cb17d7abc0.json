@@ -1,0 +1,108 @@
+{
+  "app_name": "573b2b742fa04eda83ea73cb17d7abc0",
+  "app_title": "The Big Con",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "573b2b742fa04eda83ea73cb17d7abc0",
+      "asset_id": "573b2b742fa04eda83ea73cb17d7abc0",
+      "build_version": "TBC_DRM_1.6.18",
+      "catalog_item_id": "8b82a5255a63451aade45964ccb040f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-07-26T17:26:33.924Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheBigCon"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a1f2a672b08f45d28bb6b65eef6ffe41"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Big Con",
+    "developer": "Skybound Game Studios, Inc.",
+    "developerId": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "endOfSupport": false,
+    "entitlementName": "8b82a5255a63451aade45964ccb040f4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8b82a5255a63451aade45964ccb040f4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "532e70014a0082daf975946d402a4c85",
+        "size": 486934,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-08T14:40:57.807Z",
+        "url": "https://cdn1.epicgames.com/item/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S1_2560x1440-532e70014a0082daf975946d402a4c85",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c7fcd5da3c2904f83644165f4e7c1bc9",
+        "size": 316065,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-08T14:40:53.201Z",
+        "url": "https://cdn1.epicgames.com/item/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S2_1200x1600-c7fcd5da3c2904f83644165f4e7c1bc9",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:38:21.346Z",
+    "mainGameItemList": [],
+    "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
+    "releaseInfo": [
+      {
+        "appId": "573b2b742fa04eda83ea73cb17d7abc0",
+        "id": "4f4354983be045038e735e0e5f45fe40",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Big Con",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

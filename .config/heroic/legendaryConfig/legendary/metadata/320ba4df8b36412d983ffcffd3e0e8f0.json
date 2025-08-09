@@ -1,0 +1,123 @@
+{
+  "app_name": "320ba4df8b36412d983ffcffd3e0e8f0",
+  "app_title": "Fort Triumph",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "320ba4df8b36412d983ffcffd3e0e8f0",
+      "asset_id": "320ba4df8b36412d983ffcffd3e0e8f0",
+      "build_version": "1.1.7 Win64",
+      "catalog_item_id": "2b8748cc0626405eac89a425374bb659",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "58dbbafdb5b04b3e9442506354457e3c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-06T22:59:09.712Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Cookie Byte Entertainment/Fort Triumph/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/Cookie Byte Entertainment/Fort Triumph/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FortTriumph"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "58dbbafdb5b04b3e9442506354457e3c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Fort Triumph",
+    "developer": "All in! Games",
+    "developerId": "o-6frwxc24bbnzjuwjj3bsxtskufu2ug",
+    "endOfSupport": false,
+    "entitlementName": "2b8748cc0626405eac89a425374bb659",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2b8748cc0626405eac89a425374bb659",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a0b5e1aeb62c1ee5550d97886ab475a3",
+        "size": 431199,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-17T01:00:24.429Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S1_2560x1440-a0b5e1aeb62c1ee5550d97886ab475a3",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4371ffe4b85f2e1b4041dcb4e207f0a5",
+        "size": 506628,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-17T01:00:26.538Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S2_1200x1600-4371ffe4b85f2e1b4041dcb4e207f0a5",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:40:49.406Z",
+    "mainGameItemList": [],
+    "namespace": "58dbbafdb5b04b3e9442506354457e3c",
+    "releaseInfo": [
+      {
+        "appId": "320ba4df8b36412d983ffcffd3e0e8f0",
+        "compatibleApps": [],
+        "dateAdded": "2021-12-03T17:27:58.688Z",
+        "id": "2803c0982025440ca580ad0bc261da13",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fort Triumph",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

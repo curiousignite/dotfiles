@@ -1,0 +1,164 @@
+{
+  "app_name": "0e70be0cea0446599acb4c26d2e925f9",
+  "app_title": "Hell is Others",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0e70be0cea0446599acb4c26d2e925f9",
+      "asset_id": "0e70be0cea0446599acb4c26d2e925f9",
+      "build_version": "2.1.6-20231123_1713",
+      "catalog_item_id": "154f624fa2b040c4a5821386060d4632",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c40d8cbf50fb4d978339b8bd59f6cdd7"
+      },
+      "namespace": "bd75186521ab40b5840774b78bb287e3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-11-24T19:52:01.660Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.save,*.save.backup"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Strelka Games/Hell Is Others/EGS/{EpicID}/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HellIsOthers"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "50"
+      }
+    },
+    "description": "Hell is Others",
+    "developer": "A List Games",
+    "developerId": "o-hu7df4t3lr4taq6gyjq55bvd2lhg83",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-17T12:42:12.887Z",
+        "customAttributes": {},
+        "description": "Century Dynasty Pack",
+        "developer": "A List Games",
+        "developerId": "o-hu7df4t3lr4taq6gyjq55bvd2lhg83",
+        "endOfSupport": false,
+        "entitlementName": "97dd19316bab4c8f9d313ad102e24ae0",
+        "entitlementType": "EXECUTABLE",
+        "id": "97dd19316bab4c8f9d313ad102e24ae0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Hell is Others Century Dynasty Pack Offer",
+            "height": 1440,
+            "md5": "0a16c4a817c8f5f5daf06d00d8c0e04a",
+            "size": 1185122,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-17T15:57:13.723Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-1yf96.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download Hell is Others Century Dynasty Pack Offer",
+            "height": 1600,
+            "md5": "06e129a7497b07f90378e8cb00b8e71f",
+            "size": 612564,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-17T15:57:15.195Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-1nmgx.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-11-07T08:01:42.956Z",
+        "mainGameItem": {
+          "id": "154f624fa2b040c4a5821386060d4632",
+          "namespace": "bd75186521ab40b5840774b78bb287e3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "154f624fa2b040c4a5821386060d4632",
+            "namespace": "bd75186521ab40b5840774b78bb287e3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "bd75186521ab40b5840774b78bb287e3",
+        "releaseInfo": [
+          {
+            "appId": "5e37b11ddf364949b52359ca0bde3223",
+            "id": "fe1c1c75bda5497180782b2315a53407",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Century Dynasty Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "154f624fa2b040c4a5821386060d4632",
+    "entitlementType": "EXECUTABLE",
+    "id": "154f624fa2b040c4a5821386060d4632",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Hell is Others Offer",
+        "height": 1440,
+        "md5": "f86b678929c3f821afb29d97a657ed73",
+        "size": 1063541,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-12-01T11:12:15.331Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-1olnd.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Hell is Others Offer",
+        "height": 1600,
+        "md5": "f8f9f37629b99a05aeeb8122b998eeac",
+        "size": 2289093,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-04-06T16:02:12.475Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-9gl9d.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-11-07T08:01:42.956Z",
+    "mainGameItemList": [],
+    "namespace": "bd75186521ab40b5840774b78bb287e3",
+    "releaseInfo": [
+      {
+        "appId": "0e70be0cea0446599acb4c26d2e925f9",
+        "id": "66056c788ba24deda0abf572d012f57c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hell is Others",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

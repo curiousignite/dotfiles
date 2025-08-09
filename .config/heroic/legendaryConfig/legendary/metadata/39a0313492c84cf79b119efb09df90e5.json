@@ -1,0 +1,123 @@
+{
+  "app_name": "39a0313492c84cf79b119efb09df90e5",
+  "app_title": "The World Next Door",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "39a0313492c84cf79b119efb09df90e5",
+      "asset_id": "39a0313492c84cf79b119efb09df90e5",
+      "build_version": "1.2.1p",
+      "catalog_item_id": "c2b013f0500a4fa79e09c6d4a35fc76b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b258cb25f6cc4031914256c2d42b2188",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-11T18:54:09.875Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "01.bin"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/RoseCityGames/TheWorldNextDoor/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/com.roseCityGames.theworldnextdoor/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheWorldNextDoor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b258cb25f6cc4031914256c2d42b2188"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The World Next Door",
+    "developer": "VIZ Media",
+    "developerId": "o-8n8dlrevvlc42rrnbrlzewuwax8yev",
+    "endOfSupport": false,
+    "entitlementName": "c2b013f0500a4fa79e09c6d4a35fc76b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c2b013f0500a4fa79e09c6d4a35fc76b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3ff0e0f1f17c0e0875167f9f7be590c9",
+        "size": 547734,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-11-10T23:23:03.952Z",
+        "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/item/EGS_TheWorldNextDoor_RoseCityGames_S1-2560x1440-3ff0e0f1f17c0e0875167f9f7be590c9.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6bfdd2c32ae6b1edd8261e1bcb60d0f3",
+        "size": 263042,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-11-10T23:23:14.915Z",
+        "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/item/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:34.812Z",
+    "mainGameItemList": [],
+    "namespace": "b258cb25f6cc4031914256c2d42b2188",
+    "releaseInfo": [
+      {
+        "appId": "39a0313492c84cf79b119efb09df90e5",
+        "dateAdded": "2020-08-10T00:00:00.000Z",
+        "id": "974db2143c89475db2f83a067e657882",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "The World Next Door",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

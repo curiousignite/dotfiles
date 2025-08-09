@@ -1,0 +1,412 @@
+{
+  "app_name": "Jasper",
+  "app_title": "Watch Dogs",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Jasper",
+      "asset_id": "Jasper",
+      "build_version": "1.0",
+      "catalog_item_id": "6dc445f656de4e029834b2d32b6a2f77",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-13T19:28:26.229Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WatchDogs"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "274"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\274"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "afdd0a52d9e745ff8f79258a3cca003a"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Watch Dogs",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-10T03:22:00.010Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "afdd0a52d9e745ff8f79258a3cca003a"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "78e9ca89e8684afe8757761cdb204b83"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Watch Dogs Season Pass",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "d99e68fc6f0c42f0badf1db7f6d59e69",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d99e68fc6f0c42f0badf1db7f6d59e69",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+        "mainGameItem": {
+          "id": "6dc445f656de4e029834b2d32b6a2f77",
+          "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dc445f656de4e029834b2d32b6a2f77",
+            "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+        "releaseInfo": [
+          {
+            "appId": "JasperSP",
+            "dateAdded": "2020-03-10T00:00:00.000Z",
+            "id": "40e31341d62045c1836b704aa5be7349",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Watch Dogs Season Pass",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-10T03:22:05.291Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "afdd0a52d9e745ff8f79258a3cca003a"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "c1d7dcc8c47b4a5f8c6230a0c3918cfa"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Watch Dogs Conspiracy DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "2a4659594efd4efea26aeb735c604e65",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2a4659594efd4efea26aeb735c604e65",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+        "mainGameItem": {
+          "id": "6dc445f656de4e029834b2d32b6a2f77",
+          "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dc445f656de4e029834b2d32b6a2f77",
+            "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+        "releaseInfo": [
+          {
+            "appId": "JasperConsp",
+            "dateAdded": "2020-03-10T00:00:00.000Z",
+            "id": "a33996e2625b4103995b0f390658fe92",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Watch Dogs Conspiracy DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-10T03:19:35.028Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "afdd0a52d9e745ff8f79258a3cca003a"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "2a5b036641ee4bc9a16642f18f5ab7eb"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Watch Dogs Access Granted Pack DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "7aec1519857945e586e6403720cf80fc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7aec1519857945e586e6403720cf80fc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+        "mainGameItem": {
+          "id": "6dc445f656de4e029834b2d32b6a2f77",
+          "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dc445f656de4e029834b2d32b6a2f77",
+            "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+        "releaseInfo": [
+          {
+            "appId": "JasperAG",
+            "dateAdded": "2020-03-10T00:00:00.000Z",
+            "id": "88d945e8d7374476ac6b55113485d2f3",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Watch Dogs Access Granted Pack DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-03-10T03:22:02.767Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "afdd0a52d9e745ff8f79258a3cca003a"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "478e2f2d49444a4ba70776e9384199f2"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Watch Dogs Bad Blood DLC",
+        "developer": "Ubisoft Entertainment",
+        "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+        "endOfSupport": false,
+        "entitlementName": "aa963042e1534f99b240681dc4f86550",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aa963042e1534f99b240681dc4f86550",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-03-19T13:50:25.787Z",
+        "mainGameItem": {
+          "id": "6dc445f656de4e029834b2d32b6a2f77",
+          "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6dc445f656de4e029834b2d32b6a2f77",
+            "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+        "releaseInfo": [
+          {
+            "appId": "JasperBB",
+            "dateAdded": "2020-03-10T00:00:00.000Z",
+            "id": "80fa6f85b4624b47b94881882478bc2a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Watch Dogs Bad Blood DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6dc445f656de4e029834b2d32b6a2f77",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6dc445f656de4e029834b2d32b6a2f77",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "3fd07dcc02e65aca288d794c177c7512",
+        "size": 485271,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-03-18T22:18:36.583Z",
+        "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg",
+        "width": 2580
+      },
+      {
+        "height": 1420,
+        "md5": "7678e6c2b81692027935c7c2b685438d",
+        "size": 487998,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-03-18T22:18:50.560Z",
+        "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/item/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:34:15.847Z",
+    "mainGameItemList": [],
+    "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+    "releaseInfo": [
+      {
+        "appId": "Jasper",
+        "id": "ecc2d262a0214a65aa0fa977c8e921dc",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Watch Dogs",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

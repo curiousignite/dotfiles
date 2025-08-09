@@ -1,0 +1,254 @@
+{
+  "app_name": "da2038ef19e94554898056d79168b3f8",
+  "app_title": "Football Manager 2024",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "da2038ef19e94554898056d79168b3f8",
+      "asset_id": "da2038ef19e94554898056d79168b3f8",
+      "build_version": "2081827-win+denuvo-fix",
+      "catalog_item_id": "594b8acf31114b8f92430e150610e8db",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567wUqTgInXotHv0ZVqpPmdDPZU",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-04-05T19:39:40.038Z",
+    "customAttributes": {
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FootballManager24"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "NotarizedAndSigned": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "610a546d4e204215a0b9a1c8a382bacb"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2024",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-20T17:17:36.079Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "YorkieIGE",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "d3b5a521f8c847deb290935b49b7c8a5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d3b5a521f8c847deb290935b49b7c8a5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-10-20T17:17:36.079Z",
+        "mainGameItem": {
+          "id": "594b8acf31114b8f92430e150610e8db",
+          "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "594b8acf31114b8f92430e150610e8db",
+            "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "YorkieIGE",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2023-07-27T23:42:49.624Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Football Manager 2024 In-game editor",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "a0fc7745cb724ed1a9be3ca8a00fb567",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0fc7745cb724ed1a9be3ca8a00fb567",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-08T14:48:30.594Z",
+        "mainGameItem": {
+          "id": "594b8acf31114b8f92430e150610e8db",
+          "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "594b8acf31114b8f92430e150610e8db",
+            "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Football Manager 2024 In-game editor",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-27T23:42:49.544Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Football Manager 2024 In-game editor audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "c74d8fd8d3af49f6bb7ff2fed27baf6d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c74d8fd8d3af49f6bb7ff2fed27baf6d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-11T14:45:20.991Z",
+        "mainGameItemList": [
+          {
+            "id": "594b8acf31114b8f92430e150610e8db",
+            "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Football Manager 2024 In-game editor audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "594b8acf31114b8f92430e150610e8db",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "594b8acf31114b8f92430e150610e8db",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3f607ee3653065afb4ae73fcb5ff5e0c",
+        "size": 874546,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-09-06T13:34:40.030Z",
+        "url": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S1_2560x1440-3f607ee3653065afb4ae73fcb5ff5e0c",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d59e8b3545615cbc8a51d8acd316dd60",
+        "size": 868757,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-09-06T13:34:49.798Z",
+        "url": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S2_1200x1600-d59e8b3545615cbc8a51d8acd316dd60",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-24T11:00:18.911Z",
+    "mainGameItemList": [],
+    "namespace": "610a546d4e204215a0b9a1c8a382bacb",
+    "releaseInfo": [
+      {
+        "appId": "da2038ef19e94554898056d79168b3f8",
+        "compatibleApps": [],
+        "dateAdded": "2023-04-05T19:57:11.787Z",
+        "id": "dedbe043301942a5b7b1b6e5db82b825",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Football Manager 2024",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

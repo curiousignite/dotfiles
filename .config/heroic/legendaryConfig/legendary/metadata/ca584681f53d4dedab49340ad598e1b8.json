@@ -1,0 +1,83 @@
+{
+  "app_name": "ca584681f53d4dedab49340ad598e1b8",
+  "app_title": "Jitsu Squad",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ca584681f53d4dedab49340ad598e1b8",
+      "asset_id": "ca584681f53d4dedab49340ad598e1b8",
+      "build_version": "1.2.1.0",
+      "catalog_item_id": "5e2f9d85fe34413788b3f266b924a61b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "8463f0b8d598413896a771012270ae36"
+      },
+      "namespace": "6ef33a285bf5426d852762aecc95c826",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-05-06T09:08:36.913Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "JitsuSquadaxB57"
+      }
+    },
+    "description": "Jitsu Squad",
+    "developer": "Tanuki Creative Studio",
+    "developerId": "o-kkvtnpwtsk8g235g3anpnqrglfrfjk",
+    "endOfSupport": false,
+    "entitlementName": "5e2f9d85fe34413788b3f266b924a61b",
+    "entitlementType": "EXECUTABLE",
+    "id": "5e2f9d85fe34413788b3f266b924a61b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Jitsu Squad Offer",
+        "height": 1440,
+        "md5": "758f96abc0ebaabcc1cfa4c0d71937b3",
+        "size": 922878,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-15T07:50:26.442Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3d32732efa1840208f6488d243407eff/jitsu-squad-offer-1gvl9.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Jitsu Squad Offer",
+        "height": 1600,
+        "md5": "588254b33b47402460cd3407c8579e70",
+        "size": 1712766,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-15T10:00:28.277Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3d32732efa1840208f6488d243407eff/download-jitsu-squad-offer-1y8uz.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-07-06T14:05:01.701Z",
+    "mainGameItemList": [],
+    "namespace": "6ef33a285bf5426d852762aecc95c826",
+    "releaseInfo": [
+      {
+        "appId": "ca584681f53d4dedab49340ad598e1b8",
+        "id": "b453110fa3ff443aa3cf1f730dfaf305",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Jitsu Squad",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

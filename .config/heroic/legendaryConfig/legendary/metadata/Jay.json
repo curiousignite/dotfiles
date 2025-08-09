@@ -1,0 +1,223 @@
+{
+  "app_name": "Jay",
+  "app_title": "The Messenger",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Jay",
+      "asset_id": "Jay",
+      "build_version": "2.0.2.4",
+      "catalog_item_id": "adb023dbbb754ec0b88d7912bc747e5d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "836e22516e7641219b20d1b5d5b814d5"
+      },
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-27T18:09:39.184Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/Sabotage Studio/The Messenger/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheMessenger"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "752368fdba244e9386023cfb2b9d6ceb"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Messenger",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2024-03-27T18:09:39.183Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "PicnicPanic"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "752368fdba244e9386023cfb2b9d6ceb"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "The Messenger Picnic Panic",
+        "developer": "Devolver Digital, Inc.",
+        "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+        "endOfSupport": false,
+        "entitlementName": "9c95265f03fd44eb916b4f0b68d96fdf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c95265f03fd44eb916b4f0b68d96fdf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Messenger The Messenger Picnic Panic Offer",
+            "height": 1440,
+            "md5": "7a5e6f0028c571bd1e035740522852d2",
+            "size": 585580,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-03-28T20:18:27.339Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4d63784e33824d6aa15ce9cf0fdb659d/the-messenger-9mlq6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Messenger The Messenger Picnic Panic Offer",
+            "height": 1600,
+            "md5": "2f7e91c47c7f27842f5bd917c729a663",
+            "size": 2192603,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-03-28T20:19:47.240Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/4d63784e33824d6aa15ce9cf0fdb659d/the-messenger-pir4g.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-03-31T21:18:19.323Z",
+        "mainGameItem": {
+          "id": "adb023dbbb754ec0b88d7912bc747e5d",
+          "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "adb023dbbb754ec0b88d7912bc747e5d",
+            "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+        "releaseInfo": [
+          {
+            "appId": "JayDLC1",
+            "id": "a3fb934383a34f35af7e39a3fb2f7181",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Messenger Picnic Panic",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "adb023dbbb754ec0b88d7912bc747e5d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "adb023dbbb754ec0b88d7912bc747e5d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Messenger Offer",
+        "height": 1440,
+        "md5": "2c0f61495337929726a901f96a8fadbe",
+        "size": 295600,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-28T20:07:10.922Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4d63784e33824d6aa15ce9cf0fdb659d/the-messenger-1p1yi.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Messenger Offer",
+        "height": 1600,
+        "md5": "cd2f3192a02d9d8651d0fed68025d694",
+        "size": 2249324,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-28T20:07:23.518Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/4d63784e33824d6aa15ce9cf0fdb659d/the-messenger-1iczc.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-28T21:59:51.686Z",
+    "mainGameItemList": [],
+    "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+    "releaseInfo": [
+      {
+        "appId": "Jay",
+        "id": "99ace6782d254aafba50e339852afb0d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Messenger",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,112 @@
+{
+  "app_name": "c98c934106994f2d8afc36c3f1872549",
+  "app_title": "Undying",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "c98c934106994f2d8afc36c3f1872549",
+      "asset_id": "c98c934106994f2d8afc36c3f1872549",
+      "build_version": "1.0.2.41698",
+      "catalog_item_id": "034973e5bc3b4aa8af5247eba80c6f46",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "487df1dfd24b44c381a2a376fbf78946",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45670ubwIrY6mjgXsdLtX4f77IrO",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T17:10:12.105Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Vanimals/Undying/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Undying"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "487df1dfd24b44c381a2a376fbf78946"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Undying",
+    "developer": "Skystone Games",
+    "developerId": "o-wwzfgcpzmd2b2ymr5mwvlwfwbpl7ay",
+    "endOfSupport": false,
+    "entitlementName": "034973e5bc3b4aa8af5247eba80c6f46",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "034973e5bc3b4aa8af5247eba80c6f46",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "9d12977d4bf7410c7178d679db0fc7b8",
+        "size": 491641,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-06T22:39:15.390Z",
+        "url": "https://cdn1.epicgames.com/item/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_S3_2560x1440-9d12977d4bf7410c7178d679db0fc7b8",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "cd42af4fb98c2487cb7e09d637993a6f",
+        "size": 337288,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-06T22:39:21.385Z",
+        "url": "https://cdn1.epicgames.com/item/487df1dfd24b44c381a2a376fbf78946/EGS_Undying_Vanimals_S4_1200x1600-cd42af4fb98c2487cb7e09d637993a6f",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-12-07T10:01:26.733Z",
+    "mainGameItemList": [],
+    "namespace": "487df1dfd24b44c381a2a376fbf78946",
+    "releaseInfo": [
+      {
+        "appId": "c98c934106994f2d8afc36c3f1872549",
+        "compatibleApps": [],
+        "dateAdded": "2021-09-27T20:26:31.089Z",
+        "id": "1fe19b408496456a9f146afe139e5f34",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Undying",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

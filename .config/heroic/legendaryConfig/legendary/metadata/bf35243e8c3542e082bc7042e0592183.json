@@ -1,0 +1,179 @@
+{
+  "app_name": "bf35243e8c3542e082bc7042e0592183",
+  "app_title": "Football Manager 2020",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "bf35243e8c3542e082bc7042e0592183",
+      "asset_id": "bf35243e8c3542e082bc7042e0592183",
+      "build_version": "1260-win",
+      "catalog_item_id": "9f38657365ca4f309d08d0cafae6a453",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567qPIlIoIFHpvqPjRTutEY3KMf",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-04T14:13:01.143Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FootballManager2020"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "NotarizedAndSigned": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c1ccf2ba1bc1473abb6ca5168e1a670c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Football Manager 2020",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "hidden"
+          }
+        ],
+        "creationDate": "2020-09-18T14:57:41.109Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Pallas_InGameEditor",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "c725a8cd61564b238d46190569bd74d1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c725a8cd61564b238d46190569bd74d1",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-02T01:55:31.238Z",
+        "mainGameItem": {
+          "id": "9f38657365ca4f309d08d0cafae6a453",
+          "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "9f38657365ca4f309d08d0cafae6a453",
+            "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+        "releaseInfo": [
+          {
+            "appId": "Pallas_InGameEditor",
+            "compatibleApps": [],
+            "dateAdded": "2020-09-18T00:00:00.000Z",
+            "id": "9aab4094bc844c3f9e27c4367b3a92bb",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Pallas_InGameEditor",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9f38657365ca4f309d08d0cafae6a453",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9f38657365ca4f309d08d0cafae6a453",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6b25387abd0583c79d71b2ee73008633",
+        "size": 860358,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-16T17:33:54.275Z",
+        "url": "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/item/EGS_FootballManager2020_SportsInteractive_S1-2560x1440-6b25387abd0583c79d71b2ee73008633.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "458c5f71663d769a40cbac02466d51db",
+        "size": 522645,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-16T17:34:06.999Z",
+        "url": "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/item/EGS_FootballManager2020_SportsInteractive_S2-1200x1600-458c5f71663d769a40cbac02466d51db.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-11-04T14:54:24.626Z",
+    "mainGameItemList": [],
+    "namespace": "c1ccf2ba1bc1473abb6ca5168e1a670c",
+    "releaseInfo": [
+      {
+        "appId": "bf35243e8c3542e082bc7042e0592183",
+        "dateAdded": "2020-05-04T00:00:00.000Z",
+        "id": "4d5b8c62a6994895905444dbfc2bb058",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Football Manager 2020",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

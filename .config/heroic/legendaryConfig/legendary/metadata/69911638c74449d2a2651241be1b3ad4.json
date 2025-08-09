@@ -1,0 +1,164 @@
+{
+  "app_name": "69911638c74449d2a2651241be1b3ad4",
+  "app_title": "Gods Will Fall",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "69911638c74449d2a2651241be1b3ad4",
+      "asset_id": "69911638c74449d2a2651241be1b3ad4",
+      "build_version": "78",
+      "catalog_item_id": "ad9de4b2d5834de1a2d7b7706a144dff",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567F46e4NPUYXRn9cfwLhoGqvOn",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-06T13:39:07.638Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GodsWillFall"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "28d06644e2f84b398c1b7fb96a2b6bd5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Gods Will Fall",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-11T20:10:51.638Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtAlverstoneDLCGeneralAudience",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "a44c3817c9c3466d86b472476c93893c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a44c3817c9c3466d86b472476c93893c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-09-20T16:20:57.531Z",
+        "mainGameItem": {
+          "id": "ad9de4b2d5834de1a2d7b7706a144dff",
+          "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "ad9de4b2d5834de1a2d7b7706a144dff",
+            "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtAlverstoneDLCAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ad9de4b2d5834de1a2d7b7706a144dff",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ad9de4b2d5834de1a2d7b7706a144dff",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "406d07b465790161632b25aaa1613dfe",
+        "size": 1580446,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-27T21:35:07.921Z",
+        "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/item/GWF_Tall-1200x1600-406d07b465790161632b25aaa1613dfe.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "4d531d74db8b3f1aff7bd70386f55402",
+        "size": 630216,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-27T21:35:23.220Z",
+        "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/item/GWF_Wide-2560x1440-4d531d74db8b3f1aff7bd70386f55402.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-09-20T16:21:21.504Z",
+    "mainGameItemList": [],
+    "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+    "releaseInfo": [
+      {
+        "appId": "69911638c74449d2a2651241be1b3ad4",
+        "dateAdded": "2020-10-14T00:00:00.000Z",
+        "id": "a718bf6b05314c108a8a8723ae594cc1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gods Will Fall",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

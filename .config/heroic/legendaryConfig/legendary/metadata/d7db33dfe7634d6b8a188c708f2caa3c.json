@@ -1,0 +1,112 @@
+{
+  "app_name": "d7db33dfe7634d6b8a188c708f2caa3c",
+  "app_title": "Amnesia: A Machine for Pigs",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d7db33dfe7634d6b8a188c708f2caa3c",
+      "asset_id": "d7db33dfe7634d6b8a188c708f2caa3c",
+      "build_version": "1.2",
+      "catalog_item_id": "3b5f7509b172464ca18def194a12fc3c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8de58df378c34407b6db0388e0470a45",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-17T14:00:56.339Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AmnesiaAMFP"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8de58df378c34407b6db0388e0470a45"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Amnesia: A Machine for Pigs",
+    "developer": "Frictional Games",
+    "developerId": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "endOfSupport": false,
+    "entitlementName": "3b5f7509b172464ca18def194a12fc3c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3b5f7509b172464ca18def194a12fc3c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "c390c07fe698dbfd3101467b49bdf1db",
+        "size": 2559692,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-30T14:29:42.120Z",
+        "url": "https://cdn1.epicgames.com/8de58df378c34407b6db0388e0470a45/item/EGS_AmnesiaAMachineforPigs_TheChineseRoom_S1-2560x1440-c390c07fe698dbfd3101467b49bdf1db.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "c01e8b083d04dd0cdf76ee2390bc1cce",
+        "size": 769533,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-30T14:29:52.533Z",
+        "url": "https://cdn1.epicgames.com/8de58df378c34407b6db0388e0470a45/item/EGS_AmnesiaAMachineforPigs_TheChineseRoom_S2-860x1148-c01e8b083d04dd0cdf76ee2390bc1cce.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2025-03-21T12:52:02.706Z",
+    "mainGameItemList": [],
+    "namespace": "8de58df378c34407b6db0388e0470a45",
+    "releaseInfo": [
+      {
+        "appId": "d7db33dfe7634d6b8a188c708f2caa3c",
+        "id": "e768ac9335e9442b899635afbf761015",
+        "platform": [
+          "Mac",
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Amnesia: A Machine for Pigs",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

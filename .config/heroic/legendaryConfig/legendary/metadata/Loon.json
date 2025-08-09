@@ -1,0 +1,111 @@
+{
+  "app_name": "Loon",
+  "app_title": "Saints Row The Third Remastered",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Loon",
+      "asset_id": "Loon",
+      "build_version": "SRTTR_20211028_epic_14th_patch",
+      "catalog_item_id": "50dbf9c41bb34acbb1931ec635093755",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-15T17:09:28.492Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SaintsRowTheThird"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3928fd8975b2437d894bbc5cd21de9a0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Saints Row The Third Remastered",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "endOfSupport": false,
+    "entitlementName": "50dbf9c41bb34acbb1931ec635093755",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "50dbf9c41bb34acbb1931ec635093755",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 596,
+        "md5": "d7d3c2e363a215dff5a954cb82131747",
+        "size": 304940,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-19T00:23:12.429Z",
+        "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/item/SRTT_Wide-1060x596-d7d3c2e363a215dff5a954cb82131747.jpg",
+        "width": 1060
+      },
+      {
+        "height": 682,
+        "md5": "83e0de7dcccfbfdaa10f5fee5d2f1242",
+        "size": 297825,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-19T00:23:22.276Z",
+        "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/item/SRTT_Tall-512x682-83e0de7dcccfbfdaa10f5fee5d2f1242.jpg",
+        "width": 512
+      }
+    ],
+    "lastModifiedDate": "2023-10-04T14:59:01.767Z",
+    "longDescription": "Saints Row The Third Remastered",
+    "mainGameItemList": [],
+    "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+    "releaseInfo": [
+      {
+        "appId": "Loon",
+        "dateAdded": "2020-05-22T00:00:00.000Z",
+        "id": "d92f6a3e64ca4dc78f4e3598a2281af6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Saints Row The Third Remastered",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

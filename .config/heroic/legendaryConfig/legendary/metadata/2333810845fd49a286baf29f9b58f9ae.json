@@ -1,0 +1,112 @@
+{
+  "app_name": "2333810845fd49a286baf29f9b58f9ae",
+  "app_title": "Death Coming",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2333810845fd49a286baf29f9b58f9ae",
+      "asset_id": "2333810845fd49a286baf29f9b58f9ae",
+      "build_version": "1.1.713",
+      "catalog_item_id": "8157061d517946f3854f55a7575108e7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "58c35a214bbb4656a536126ad1552d42",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45671wl5qGNSk80kWb99tvZ2IEBd",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-12T19:35:15.783Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeathComing"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "58c35a214bbb4656a536126ad1552d42"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Death Coming",
+    "developer": "Tencent Technology Company Limited",
+    "developerId": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+    "endOfSupport": false,
+    "entitlementName": "8157061d517946f3854f55a7575108e7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8157061d517946f3854f55a7575108e7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7b1d3d39e3b37ced1633da45c010117d",
+        "size": 841096,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-15T21:07:14.900Z",
+        "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/item/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "8fcfbb18c34364f804e5b79d8e23f590",
+        "size": 341540,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-15T21:07:27.809Z",
+        "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/item/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-05-12T21:19:19.136Z",
+    "mainGameItemList": [],
+    "namespace": "58c35a214bbb4656a536126ad1552d42",
+    "releaseInfo": [
+      {
+        "appId": "2333810845fd49a286baf29f9b58f9ae",
+        "dateAdded": "2020-04-12T00:00:00.000Z",
+        "id": "d1b4ed6df8844a7ca17d0956889c474f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Death Coming",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

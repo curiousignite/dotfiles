@@ -1,0 +1,112 @@
+{
+  "app_name": "fe118ed0362040c994b510da064876ca",
+  "app_title": "Touch Type Tale",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fe118ed0362040c994b510da064876ca",
+      "asset_id": "fe118ed0362040c994b510da064876ca",
+      "build_version": "1.2.76",
+      "catalog_item_id": "fbca48e4e06c4676bef9a9ad66e4ea99",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7029f6353d7f468eb6940bbe6041474e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567txTO9kaAiV9JDB2jMzzThnPr",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-11T17:55:43.718Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "build/campaign.ttc,Assets/Replays/"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TouchTypeTale"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7029f6353d7f468eb6940bbe6041474e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Touch Type Tale",
+    "developer": "Mythwright",
+    "developerId": "o-qnq3rv8k67w2bvhlxdgd6kqhk95evv",
+    "endOfSupport": false,
+    "entitlementName": "fbca48e4e06c4676bef9a9ad66e4ea99",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && ttteula)"
+    ],
+    "id": "fbca48e4e06c4676bef9a9ad66e4ea99",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d187f8eb5013492f728313fb92978f16",
+        "size": 510609,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-23T22:34:47.440Z",
+        "url": "https://cdn1.epicgames.com/item/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-d187f8eb5013492f728313fb92978f16",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f39357812e3c896c3475ba8429adedd3",
+        "size": 508584,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-23T22:34:50.849Z",
+        "url": "https://cdn1.epicgames.com/item/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S2_1200x1600-f39357812e3c896c3475ba8429adedd3",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-06T21:39:58.775Z",
+    "mainGameItemList": [],
+    "namespace": "7029f6353d7f468eb6940bbe6041474e",
+    "releaseInfo": [
+      {
+        "appId": "fe118ed0362040c994b510da064876ca",
+        "id": "f0576a1f9bd94ec1bd4e57317a932852",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Touch Type Tale",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

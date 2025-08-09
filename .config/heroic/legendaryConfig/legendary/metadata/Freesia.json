@@ -1,0 +1,115 @@
+{
+  "app_name": "Freesia",
+  "app_title": "The Stanley Parable",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Freesia",
+      "asset_id": "Freesia",
+      "build_version": "1.0",
+      "catalog_item_id": "4107733638294e9397e7d0bbda5b8734",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-19T13:38:23.102Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "save/,cfg/,stats.vdf,stats_sv.vdf,language.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheStanleyParable"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4c00c7506c4b4fa695f749bd6bb07ff6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "The Stanley Parable",
+    "developer": "Galactic Cafe",
+    "developerId": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+    "endOfSupport": false,
+    "entitlementName": "4107733638294e9397e7d0bbda5b8734",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4107733638294e9397e7d0bbda5b8734",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6358e00645e12a49f3793f2c60f767f9",
+        "size": 490653,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-09T22:33:14.283Z",
+        "url": "https://cdn1.epicgames.com/item/4c00c7506c4b4fa695f749bd6bb07ff6/Landscape_2560x1440-6358e00645e12a49f3793f2c60f767f9",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ce5d667654b1bc59f59f5a4c25d6cf4c",
+        "size": 669214,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-09T22:33:11.682Z",
+        "url": "https://cdn1.epicgames.com/item/4c00c7506c4b4fa695f749bd6bb07ff6/Portrait_1200x1600-ce5d667654b1bc59f59f5a4c25d6cf4c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-20T20:01:08.608Z",
+    "mainGameItemList": [],
+    "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+    "releaseInfo": [
+      {
+        "appId": "Freesia",
+        "id": "ee0be516c57e49bc975b713b0d3e5915",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Stanley Parable",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

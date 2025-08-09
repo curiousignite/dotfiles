@@ -1,0 +1,112 @@
+{
+  "app_name": "6ffe878bb1ce490ba6d3a359a1f88df2",
+  "app_title": "Speed Brawl",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6ffe878bb1ce490ba6d3a359a1f88df2",
+      "asset_id": "6ffe878bb1ce490ba6d3a359a1f88df2",
+      "build_version": "1.5-cbf526615d",
+      "catalog_item_id": "a41a8ab340924001b662078d1fb79273",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567P1WtygWTw20zwyL3xUjGkRlu",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-12-18T19:30:51.927Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SpeedBrawl"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d3f34b351df646e0ab932fd8d8e5dfc2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Speed Brawl",
+    "developer": "Double Stallion Games",
+    "developerId": "o-xg2qys7ndgf4m9xk9ce9tytwr3778u",
+    "endOfSupport": false,
+    "entitlementName": "a41a8ab340924001b662078d1fb79273",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a41a8ab340924001b662078d1fb79273",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5b2cec10a59f7594e863eff0a51ecc37",
+        "size": 591400,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-07-28T19:53:11.128Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3bc192d2-c308-49ff-b381-a4833b954cec_2560x1440-5b2cec10a59f7594e863eff0a51ecc37",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "aa86e5269bbe48de601f1f9eca76598e",
+        "size": 270773,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-07-28T19:53:16.588Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/0f93df9a-9113-4a7f-b244-bd350b0340f4_1200x1600-aa86e5269bbe48de601f1f9eca76598e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-07-28T19:57:54.693Z",
+    "mainGameItemList": [],
+    "namespace": "d3f34b351df646e0ab932fd8d8e5dfc2",
+    "releaseInfo": [
+      {
+        "appId": "6ffe878bb1ce490ba6d3a359a1f88df2",
+        "dateAdded": "2020-12-18T00:00:00.000Z",
+        "id": "e9742119ee1740d8b67415dc31c318c9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Speed Brawl",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

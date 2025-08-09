@@ -1,0 +1,650 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "d50bfa4d5a8c4b0885f846d826df16b8",
+				"runner": "legendary",
+				"gameInfo": {
+					"app_name": "d50bfa4d5a8c4b0885f846d826df16b8",
+					"art_cover": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-12op3.png",
+					"art_square": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1cce6.png",
+					"cloud_save_enabled": false,
+					"developer": "Ninja Kiwi",
+					"extra": {
+						"about": {
+							"description": "An infinitely replayable multiplayer and single-player tower defense. Defend against waves of enemies and destroy the enemy's king before they destroy yours. Legion TD 2 is a one-of-a-kind game of tactics, teamwork, and prediction. Party as 1-8 players.",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/legion-td-2"
+					},
+					"dlcList": [
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T17:04:40.648Z",
+							"description": "Premium Essence Gift - 15000_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "88da3c0071624a288f4e83815a9f3975",
+							"entitlementType": "AUDIENCE",
+							"id": "88da3c0071624a288f4e83815a9f3975",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.026Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 15000_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:08:33.426Z",
+							"description": "Premium Essence - 15000_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "213309d16ac14c2cbdc671ee48fed14d",
+							"entitlementType": "AUDIENCE",
+							"id": "213309d16ac14c2cbdc671ee48fed14d",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.026Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 15000_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2023-07-12T16:07:11.615Z",
+							"description": "Legion TD 2 - Desert Ridge Campaign",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "b17dee783ba04a2eb816954421947d03",
+							"entitlementType": "EXECUTABLE",
+							"id": "b17dee783ba04a2eb816954421947d03",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"alt": "Legion TD 2 Legion TD 2 - Desert Ridge Campaign Offer",
+									"height": 1440,
+									"md5": "1a88ae70d061d6ed5602f2249bbbd710",
+									"size": 2842988,
+									"type": "DieselGameBox",
+									"uploadedDate": "2023-08-01T17:28:49.299Z",
+									"url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-xuv77.png",
+									"width": 2560
+								},
+								{
+									"alt": "Download Legion TD 2 Legion TD 2 - Desert Ridge Campaign Offer",
+									"height": 1600,
+									"md5": "78b9270d24b02049966e49089a77abc3",
+									"size": 1325220,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2023-08-01T17:28:49.580Z",
+									"url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-rypzz.png",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2025-02-05T17:23:11.026Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Legion TD 2 - Desert Ridge Campaign",
+							"unsearchable": false
+						},
+						{
+							"categories": [
+								{
+									"path": "addons"
+								}
+							],
+							"creationDate": "2023-07-18T14:02:11.241Z",
+							"description": "Legion TD 2 - Floating Isles Campaign",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "a17d333b3f184323989f767ba7d716b9",
+							"entitlementType": "EXECUTABLE",
+							"id": "a17d333b3f184323989f767ba7d716b9",
+							"itemType": "DURABLE",
+							"keyImages": [
+								{
+									"alt": "Legion TD 2 Legion TD 2 - Floating Isles Campaign Offer",
+									"height": 1440,
+									"md5": "c9f66c51fe9092ff17dabe5484a7a791",
+									"size": 2946319,
+									"type": "DieselGameBox",
+									"uploadedDate": "2023-08-01T17:29:28.125Z",
+									"url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-11y99.png",
+									"width": 2560
+								},
+								{
+									"alt": "Download Legion TD 2 Legion TD 2 - Floating Isles Campaign Offer",
+									"height": 1600,
+									"md5": "4e64eca601c9685115a7fbd529e56511",
+									"size": 1479749,
+									"type": "DieselGameBoxTall",
+									"uploadedDate": "2023-08-01T17:29:27.485Z",
+									"url": "https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1vanc.png",
+									"width": 1200
+								}
+							],
+							"lastModifiedDate": "2025-02-05T17:23:11.026Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Legion TD 2 - Floating Isles Campaign",
+							"unsearchable": false
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:05:25.206Z",
+							"description": "Premium Essence - 2800_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "cd74645d28de4e36bea962c20d48a1f9",
+							"entitlementType": "AUDIENCE",
+							"id": "cd74645d28de4e36bea962c20d48a1f9",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 2800_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T17:02:54.569Z",
+							"description": "Premium Essence Gift - 7200_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "48e05a5177f2401d90dcf49686353cce",
+							"entitlementType": "AUDIENCE",
+							"id": "48e05a5177f2401d90dcf49686353cce",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 7200_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:07:19.065Z",
+							"description": "Premium Essence - 7200_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "146266bbff8f44a28f92c0a423fc7edc",
+							"entitlementType": "AUDIENCE",
+							"id": "146266bbff8f44a28f92c0a423fc7edc",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 7200_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T16:57:08.810Z",
+							"description": "Premium Essence Gift - 2800_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "c88e597588514e0da95307e44fb0c5ef",
+							"entitlementType": "AUDIENCE",
+							"id": "c88e597588514e0da95307e44fb0c5ef",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 2800_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:04:20.934Z",
+							"description": "Premium Essence - 650_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "2fb5216e2e3e41939c71aa74da130210",
+							"entitlementType": "AUDIENCE",
+							"id": "2fb5216e2e3e41939c71aa74da130210",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 650_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T16:43:09.893Z",
+							"description": "Premium Essence Gift - 650_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "fa8cbc5e5204498c8d440d28ea4f6406",
+							"entitlementType": "AUDIENCE",
+							"id": "fa8cbc5e5204498c8d440d28ea4f6406",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 650_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T17:01:38.656Z",
+							"description": "Premium Essence Gift - 5000_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "6b62cdd1fc1042ef96896268ba596bb4",
+							"entitlementType": "AUDIENCE",
+							"id": "6b62cdd1fc1042ef96896268ba596bb4",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 5000_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:04:42.726Z",
+							"description": "Premium Essence - 1380_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "265af55eee83456c9db8dd42e5e643dd",
+							"entitlementType": "AUDIENCE",
+							"id": "265af55eee83456c9db8dd42e5e643dd",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 1380_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-27T16:51:49.493Z",
+							"description": "Premium Essence Gift - 1380_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "14de8d2426af4e938c334068b8c877bd",
+							"entitlementType": "AUDIENCE",
+							"id": "14de8d2426af4e938c334068b8c877bd",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence Gift - 1380_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						},
+						{
+							"categories": [
+								{
+									"path": "audience"
+								},
+								{
+									"path": "public"
+								}
+							],
+							"creationDate": "2023-07-18T14:06:39.731Z",
+							"description": "Premium Essence - 5000_ConsumableAudience",
+							"developer": "Ninja Kiwi",
+							"developerId": "o-eltt9sz3m387aekxfkra3vr5cmfp9f",
+							"endOfSupport": false,
+							"entitlementName": "f8593b9b7a5a48b48f437c7f0d4e23a7",
+							"entitlementType": "AUDIENCE",
+							"id": "f8593b9b7a5a48b48f437c7f0d4e23a7",
+							"itemType": "CONSUMABLE",
+							"lastModifiedDate": "2025-02-05T17:23:11.459Z",
+							"mainGameItem": {
+								"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+								"namespace": "524c3386e7e6470a8d8400cc51d92296",
+								"unsearchable": false
+							},
+							"mainGameItemList": [
+								{
+									"id": "ede00501bf0b4cc9ac10f3b578f1d074",
+									"namespace": "524c3386e7e6470a8d8400cc51d92296",
+									"unsearchable": false
+								}
+							],
+							"namespace": "524c3386e7e6470a8d8400cc51d92296",
+							"requiresSecureAccount": false,
+							"status": "ACTIVE",
+							"title": "Premium Essence - 5000_ConsumableAudience",
+							"unsearchable": false,
+							"useCount": 1
+						}
+					],
+					"folder_name": "LegionTD2",
+					"install": {
+						"executable": "Legion TD 2.exe",
+						"install_path": "/mnt/Games/Heroic/LegionTD2",
+						"install_size": "2.29 GiB",
+						"is_dlc": false,
+						"version": "WIN-rMbED-12.06.2",
+						"platform": "Windows"
+					},
+					"is_installed": true,
+					"namespace": "524c3386e7e6470a8d8400cc51d92296",
+					"is_mac_native": false,
+					"save_folder": "",
+					"save_path": null,
+					"title": "Legion TD 2",
+					"canRunOffline": false,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/legion-td-2"
+				},
+				"path": "/mnt/Games/Heroic/LegionTD2",
+				"platformToInstall": "Windows",
+				"size": "1.55 GiB"
+			},
+			"type": "update",
+			"addToQueueTime": 1754320556437,
+			"endTime": 1754320567153,
+			"startTime": 1754320560626,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "gog-redist",
+				"runner": "gog",
+				"path": "/home/berke/.config/heroic/tools/redist/gog",
+				"platformToInstall": "windows",
+				"gameInfo": {
+					"app_name": "gog-redist",
+					"runner": "gog",
+					"title": "Galaxy Common Redistributables",
+					"canRunOffline": true,
+					"install": {
+						"is_dlc": true
+					},
+					"is_installed": true,
+					"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+					"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+				},
+				"size": "?? MB"
+			},
+			"addToQueueTime": 1754345421336,
+			"startTime": 1754345424886,
+			"endTime": 1754345425485,
+			"type": "update",
+			"status": "done"
+		}
+	],
+	"queue": []
+}

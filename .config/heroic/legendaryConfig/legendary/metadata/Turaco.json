@@ -1,0 +1,137 @@
+{
+  "app_name": "Turaco",
+  "app_title": "Nuclear Throne",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Turaco",
+      "asset_id": "Turaco",
+      "build_version": "1",
+      "catalog_item_id": "3524134c7a4e4cf2832d8d2a634baef8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "742f165671424189aecdfdadf5ea9755",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T20:58:33.609Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/nuclearthrone/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/application support/com.vlambeer.nuclearthrone/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NuclearThrone"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "742f165671424189aecdfdadf5ea9755"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Nuclear Throne",
+    "developer": "Vlambeer",
+    "developerId": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
+    "endOfSupport": false,
+    "entitlementName": "3524134c7a4e4cf2832d8d2a634baef8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3524134c7a4e4cf2832d8d2a634baef8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "21de47e86aa44dc899f3242cfdbca3cb",
+        "size": 1020013,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-11-06T22:16:50.057Z",
+        "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg",
+        "width": 2560
+      },
+      {
+        "height": 677,
+        "md5": "ca9974bc6c89db4b30d0d02e7d928195",
+        "size": 505415,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-11-06T22:17:04.166Z",
+        "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png",
+        "width": 1900
+      },
+      {
+        "height": 1440,
+        "md5": "a9381fbc07b1e6fe1f892cfdbc4a14ca",
+        "size": 89074,
+        "type": "DieselStoreFrontTall",
+        "uploadedDate": "2019-11-07T13:48:28.149Z",
+        "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/S2_NuclearThrone-1280x1440-a9381fbc07b1e6fe1f892cfdbc4a14ca.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "md5": "90f08d7d248f2997d23d6080f7d6ec2d",
+        "size": 745272,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/item/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:17.179Z",
+    "mainGameItemList": [],
+    "namespace": "742f165671424189aecdfdadf5ea9755",
+    "releaseInfo": [
+      {
+        "appId": "Turaco",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "3d1b68b3a5704c13a0adebee7e34a827",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Nuclear Throne",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

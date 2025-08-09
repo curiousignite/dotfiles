@@ -1,0 +1,84 @@
+{
+  "app_name": "e25566912b57452b929cf8c333a16ca8",
+  "app_title": "Maid of Sker",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e25566912b57452b929cf8c333a16ca8",
+      "asset_id": "e25566912b57452b929cf8c333a16ca8",
+      "build_version": "1.0.9b",
+      "catalog_item_id": "12a46af639454dbfb162908aed866b61",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "69e2ecb5ecce4b85aac82b5cfa5ae8bc"
+      },
+      "namespace": "89a30c2a3fdb4281b5df57350e797ca9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567KgxKPtCxiVLoStPbq7is8K7T",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-09-15T09:45:39.729Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MaidofSker"
+      }
+    },
+    "description": "Maid of Sker is a first-person survival horror, set in a remote hotel with a gory and macabre history from British folklore. Brave the nightmares of the Quiet Ones. Do not panic\u2026don\u2019t even breathe!",
+    "developer": "Wales Interactive",
+    "developerId": "o-dqsahuym89qjm3dn69zaldakdjq6n5",
+    "endOfSupport": false,
+    "entitlementName": "12a46af639454dbfb162908aed866b61",
+    "entitlementType": "EXECUTABLE",
+    "id": "12a46af639454dbfb162908aed866b61",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Maid of Sker Offer",
+        "height": 1440,
+        "md5": "280d83739368b09a6155a5687252cff9",
+        "size": 2855942,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-09-28T12:57:47.708Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-6xiqq.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Maid of Sker Offer",
+        "height": 1600,
+        "md5": "18f4199f28782dd1f802de0af89f5cb9",
+        "size": 3398104,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-09-28T12:57:47.317Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-x8des.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-06-17T14:09:35.463Z",
+    "mainGameItemList": [],
+    "namespace": "89a30c2a3fdb4281b5df57350e797ca9",
+    "releaseInfo": [
+      {
+        "appId": "e25566912b57452b929cf8c333a16ca8",
+        "id": "4ace6801680d4dd3af570e742ef6485f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Maid of Sker",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

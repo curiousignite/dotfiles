@@ -1,0 +1,111 @@
+{
+  "app_name": "9a1aae61129247fb971ce96ab6a959da",
+  "app_title": "3 out of 10: Season Two",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9a1aae61129247fb971ce96ab6a959da",
+      "asset_id": "9a1aae61129247fb971ce96ab6a959da",
+      "build_version": "S02_Release_V002_CL16694",
+      "catalog_item_id": "24955da6dc4240d9a1f206aceff2691d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-08T21:58:00.346Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "threeoutof10S2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b829cfd910554ad3ad2eb3b314e2b1ef"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "3 out of 10: Season Two",
+    "developer": "Terrible Posture Games, Inc.",
+    "developerId": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "endOfSupport": false,
+    "entitlementName": "24955da6dc4240d9a1f206aceff2691d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "24955da6dc4240d9a1f206aceff2691d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "03f957380c64f41b4241cfb591a263ce",
+        "size": 754974,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-02T17:38:54.702Z",
+        "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S1-2560x1440-03f957380c64f41b4241cfb591a263ce.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0526ebb8c316a36e20e97271782bd31d",
+        "size": 512749,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-02T17:39:04.069Z",
+        "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/item/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-04-01T14:19:55.502Z",
+    "mainGameItemList": [],
+    "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+    "releaseInfo": [
+      {
+        "appId": "9a1aae61129247fb971ce96ab6a959da",
+        "dateAdded": "2020-09-08T00:00:00.000Z",
+        "id": "3e9f9b79b856434099756861e90f1e1a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "3 out of 10: Season Two",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,371 @@
+{
+  "app_name": "ea8df71f923649a193ab1c1fded7e1b3",
+  "app_title": "Ghostrunner",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ea8df71f923649a193ab1c1fded7e1b3",
+      "asset_id": "ea8df71f923649a193ab1c1fded7e1b3",
+      "build_version": "42507",
+      "catalog_item_id": "1044c51716c4423e83da5818d289057e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "95d0b9561be1464cb43bd029e94cf526",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-10T17:42:51.584Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Ghostrunner/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Ghostrunner"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "95d0b9561be1464cb43bd029e94cf526"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "-dx12"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Ghostrunner DirectX 12"
+      }
+    },
+    "description": "Ghostrunner",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-13T22:33:36.977Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtRainier Neon Pack DLC Audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "91cb3a59ebb54faebb41fe732af75a4f",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "91cb3a59ebb54faebb41fe732af75a4f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "ae7a2909804d96414b049264244c56c6",
+            "size": 58959,
+            "type": "ESRB",
+            "uploadedDate": "2020-12-11T01:52:47.499Z",
+            "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/ESRM_M17-842x404-ae7a2909804d96414b049264244c56c6.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-08-31T16:17:12.819Z",
+        "mainGameItem": {
+          "id": "1044c51716c4423e83da5818d289057e",
+          "namespace": "95d0b9561be1464cb43bd029e94cf526",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1044c51716c4423e83da5818d289057e",
+            "namespace": "95d0b9561be1464cb43bd029e94cf526",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95d0b9561be1464cb43bd029e94cf526",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtRainier Neon Pack DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-30T23:43:21.967Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtRainierWinterDLCAudience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "88fb094400584ab18074eed2305ae547",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "88fb094400584ab18074eed2305ae547",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "ae7a2909804d96414b049264244c56c6",
+            "size": 58959,
+            "type": "ESRB",
+            "uploadedDate": "2020-12-11T01:52:47.499Z",
+            "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/ESRM_M17-842x404-ae7a2909804d96414b049264244c56c6.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-08-31T16:17:12.819Z",
+        "mainGameItem": {
+          "id": "1044c51716c4423e83da5818d289057e",
+          "namespace": "95d0b9561be1464cb43bd029e94cf526",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1044c51716c4423e83da5818d289057e",
+            "namespace": "95d0b9561be1464cb43bd029e94cf526",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95d0b9561be1464cb43bd029e94cf526",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtRainierWinterDLCAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-16T14:49:03.686Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtRainier Neon Pack 3 DLC Audience",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "b36b7a2b625b4fadb0fd52e91281c7b6",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b36b7a2b625b4fadb0fd52e91281c7b6",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "ae7a2909804d96414b049264244c56c6",
+            "size": 58959,
+            "type": "ESRB",
+            "uploadedDate": "2020-12-11T01:52:47.499Z",
+            "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/ESRM_M17-842x404-ae7a2909804d96414b049264244c56c6.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2022-06-16T19:57:46.883Z",
+        "mainGameItem": {
+          "id": "1044c51716c4423e83da5818d289057e",
+          "namespace": "95d0b9561be1464cb43bd029e94cf526",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1044c51716c4423e83da5818d289057e",
+            "namespace": "95d0b9561be1464cb43bd029e94cf526",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95d0b9561be1464cb43bd029e94cf526",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtRainier Neon Pack 3 DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-05T03:05:28.761Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "MtRainier Metal Ox Pack DLC",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "e98974504a9f475684ba149dbf80991b",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e98974504a9f475684ba149dbf80991b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "ae7a2909804d96414b049264244c56c6",
+            "size": 58959,
+            "type": "ESRB",
+            "uploadedDate": "2020-12-11T01:52:47.499Z",
+            "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/ESRM_M17-842x404-ae7a2909804d96414b049264244c56c6.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-08-31T16:17:12.819Z",
+        "longDescription": "MtRainier Metal Ox Pack DLC",
+        "mainGameItem": {
+          "id": "1044c51716c4423e83da5818d289057e",
+          "namespace": "95d0b9561be1464cb43bd029e94cf526",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1044c51716c4423e83da5818d289057e",
+            "namespace": "95d0b9561be1464cb43bd029e94cf526",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "95d0b9561be1464cb43bd029e94cf526",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MtRainier Metal Ox Pack DLC",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1044c51716c4423e83da5818d289057e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1044c51716c4423e83da5818d289057e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "a7811e23904db375486535513d10412f",
+        "size": 580015,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-26T17:22:23.516Z",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "08987c0c3e1701ea6a7217ed5616922d",
+        "size": 942683,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-26T17:22:40.545Z",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-08-31T16:17:12.819Z",
+    "mainGameItemList": [],
+    "namespace": "95d0b9561be1464cb43bd029e94cf526",
+    "releaseInfo": [
+      {
+        "appId": "ea8df71f923649a193ab1c1fded7e1b3",
+        "dateAdded": "2020-09-10T00:00:00.000Z",
+        "id": "cf8ea665ab554c42ada1a19c2cf334bb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ghostrunner",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,97 @@
+{
+  "app_name": "fa5aa7e6c28c4c94aeac239eee700d5f",
+  "app_title": "Deliver At All Costs",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fa5aa7e6c28c4c94aeac239eee700d5f",
+      "asset_id": "fa5aa7e6c28c4c94aeac239eee700d5f",
+      "build_version": "DAAC_250331-150243_0264ccd1_Epic",
+      "catalog_item_id": "c067dd3d76c24b5394970c54c7c587e5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "75b73dafba674195994b1d5653530011"
+      },
+      "namespace": "2ef976af17b74478a4b2938d54bb3db4",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567MXyBXN1eDwziPGHvtbOSFBQm",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-16T07:26:19.696Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Far Out Games/Deliver At All Costs/Profiles/{EpicID}/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeliverAtAllCosts"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1"
+      }
+    },
+    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
+    "developer": "KONAMI",
+    "developerId": "o-snd8ledlra6sytkbbve7h5uwuxuytv",
+    "endOfSupport": false,
+    "entitlementName": "c067dd3d76c24b5394970c54c7c587e5",
+    "entitlementType": "EXECUTABLE",
+    "id": "c067dd3d76c24b5394970c54c7c587e5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Deliver At All Costs Offer",
+        "height": 1440,
+        "md5": "6c3e68829f8277aca2b7399160bad072",
+        "size": 1881102,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-08-21T14:58:15.508Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-npyad.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Deliver At All Costs Offer",
+        "height": 1600,
+        "md5": "bf115f3ebe6a2e3c0b44b3f1e708e0da",
+        "size": 1855300,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-08-21T14:58:18.412Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1ooo9.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-06T07:50:48.237Z",
+    "mainGameItemList": [],
+    "namespace": "2ef976af17b74478a4b2938d54bb3db4",
+    "releaseInfo": [
+      {
+        "appId": "fa5aa7e6c28c4c94aeac239eee700d5f",
+        "id": "e12e5c452976450db3357cee488c9c78",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deliver At All Costs",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "5144d9db4f524a9c94717a81b59c8881"
+    },
+    "rev": 1
+  }
+}

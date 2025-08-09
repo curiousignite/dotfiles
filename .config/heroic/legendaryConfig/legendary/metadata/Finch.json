@@ -1,0 +1,715 @@
+{
+  "app_name": "Finch",
+  "app_title": "Killing Floor 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Finch",
+      "asset_id": "Finch",
+      "build_version": "537162-2024_01_30_21h15m50s",
+      "catalog_item_id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Ubb7JGylGDZY5rNxhNLYFBxx",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-17T00:08:56.681Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../Roaming/KF2/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KillingFloor2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "affc33b82405457595a032f00284abd2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Killing Floor 2",
+    "developer": "Tripwire Interactive",
+    "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-16T21:53:30.068Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Digital Deluxe Upgrade",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "edfcce492c5a4e918f186c0cb191476d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edfcce492c5a4e918f186c0cb191476d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 190,
+            "md5": "017a994c76d3418208f3295ba94c718d",
+            "size": 5661,
+            "type": "ESRB",
+            "uploadedDate": "2020-07-09T12:57:09.907Z",
+            "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KillingFloor2_TripwireInteractive_RA1-396x190-017a994c76d3418208f3295ba94c718d.png",
+            "width": 396
+          }
+        ],
+        "lastModifiedDate": "2022-06-17T18:21:03.043Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Digital Deluxe Upgrade Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-26T02:09:50.542Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ArmorySeasonPassAudience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "1b5af7433b4244e698b6bbe3d8047347",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1b5af7433b4244e698b6bbe3d8047347",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-04-05T19:54:29.000Z",
+        "longDescription": "Armory Season Pass",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ArmorySeasonPassAudience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T17:50:24.088Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "S12 Shockgun Weapon Bundle",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "414f37cb922a40469e0091437fa4ee87",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "414f37cb922a40469e0091437fa4ee87",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.701Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "S12 Shockgun Weapon Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T23:04:07.615Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Stingray Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "b1d48ff217ea4171aea3ae05e81cfda9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b1d48ff217ea4171aea3ae05e81cfda9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.814Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Stingray Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T23:04:43.236Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Jaeger MKIV Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "557fe5936eb9446486bc0bca5956ff23",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "557fe5936eb9446486bc0bca5956ff23",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.735Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jaeger MKIV Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T23:05:10.532Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Junkyard MKII Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "9e2280a06aa448bca1f7074251372cd1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9e2280a06aa448bca1f7074251372cd1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.802Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Junkyard MKII Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T23:05:44.433Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Predator Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "42eaea68148b44d9874def4c492755d2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "42eaea68148b44d9874def4c492755d2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.704Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Predator Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-03-28T23:08:03.822Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Horzine Diver Outfit Bundle",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "5b2edc1db03e4d9ea021ad04243e005c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b2edc1db03e4d9ea021ad04243e005c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-30T23:02:37.743Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Horzine Diver Outfit Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-24T16:53:54.409Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Medieval MKII Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "034626e6e8b341149a81b3f198e585c3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "034626e6e8b341149a81b3f198e585c3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-24T16:53:54.409Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Medieval MKII Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-24T16:54:34.305Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Chameleon MKIV Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "54196e6aac8a4557b447e114c202caf0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "54196e6aac8a4557b447e114c202caf0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-24T16:54:34.305Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Chameleon MKIV Weapon Skin Bundle Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-24T16:55:15.100Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Last Stand Outfit Bundle",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "a2cb597e59e7488eb0eabf05f7aeee5c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a2cb597e59e7488eb0eabf05f7aeee5c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-10-13T19:15:00.126Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Last Stand Outfit Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-24T16:55:52.884Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "MG3 Shredder Weapon Bundle",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "fef33128aae044a3a15d6f75a6c15ce3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fef33128aae044a3a15d6f75a6c15ce3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-24T16:55:52.884Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MG3 Shredder Weapon Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-24T16:58:54.430Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Spectre MKIII HRG Weapon Skin Bundle Pack",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "3c4da39ec696450b8af4a6c72c764fbd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3c4da39ec696450b8af4a6c72c764fbd",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-24T16:58:54.430Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+            "namespace": "affc33b82405457595a032f00284abd2",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spectre MKIII HRG Weapon Skin Bundle Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "644173a0251b030bd2612e8f33b800d5",
+        "size": 2243509,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-15T10:56:03.199Z",
+        "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/EGS_KillingFloor2_TripwireInteractive_S1_2560x1440-644173a0251b030bd2612e8f33b800d5",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "3871a312bd2800d12a24e3498b1018c8",
+        "size": 673242,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-15T10:56:09.642Z",
+        "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/EGS_KillingFloor2_TripwireInteractive_S2_860x1148-3871a312bd2800d12a24e3498b1018c8",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2023-07-24T16:58:54.441Z",
+    "mainGameItemList": [],
+    "namespace": "affc33b82405457595a032f00284abd2",
+    "releaseInfo": [
+      {
+        "appId": "Finch",
+        "dateAdded": "2019-08-17T00:00:00.000Z",
+        "id": "da7c189df4324b3086693e6d2fbfd1a8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Killing Floor 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

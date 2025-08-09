@@ -1,0 +1,210 @@
+{
+  "app_name": "Tern",
+  "app_title": "Rising Storm 2: Vietnam",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Tern",
+      "asset_id": "Tern",
+      "build_version": "20250701-637700-46",
+      "catalog_item_id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1faa96c705684ca88f82b1f5994af580"
+      },
+      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-24T00:35:38.375Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RS2V"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3542a1df211e492bb2abecb7c734f7f9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rising Storm 2: Vietnam",
+    "developer": "Tripwire Interactive",
+    "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-03T18:42:09.317Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Green Army Men Upgrade",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "3675739013db420caeb9b9969236d38f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3675739013db420caeb9b9969236d38f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-10-08T14:42:08.845Z",
+        "mainGameItem": {
+          "id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+          "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+            "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+        "status": "ACTIVE",
+        "title": "Green Army Men Upgrade",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-03-03T18:42:57.351Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Digital Deluxe Edition Upgrade (not an edition, the DLC included in the Deluxe Edition)",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "ff90291521e14dc2bb8b41f8d993419a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ff90291521e14dc2bb8b41f8d993419a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-10-01T14:07:35.994Z",
+        "mainGameItem": {
+          "id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+          "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+            "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+        "status": "ACTIVE",
+        "title": "Digital Deluxe Edition Upgrade Audience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a2b9fb9d1c9846fd8a55dda97d113b02",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a2b9fb9d1c9846fd8a55dda97d113b02",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e08edd93cb71bf15b50a74f3de2d17b0",
+        "size": 649805,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-30T17:20:57.186Z",
+        "url": "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/item/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S3-2560x1440-e08edd93cb71bf15b50a74f3de2d17b0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5e3b2f8107e17cc008237e52761d67e5",
+        "size": 363274,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-30T17:21:07.488Z",
+        "url": "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/item/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S4-1200x1600-5e3b2f8107e17cc008237e52761d67e5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-02-23T20:50:07.610Z",
+    "mainGameItemList": [],
+    "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+    "releaseInfo": [
+      {
+        "appId": "Tern",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "67af25af299a470ab7b0ad766e6ff89d",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "technicalDetails": "*this will be the base game artifact once the title eventually launches.",
+    "title": "Rising Storm 2: Vietnam",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,60 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "TR",
+		"currencies": [
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "USD",
+			"symbol": "$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "89335fa6ab71acaa0f97a2f898db6d0b",
+			"wishlist": null,
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 9,
+			"forum": 0,
+			"total": 9
+		},
+		"userId": "50086535465523",
+		"username": "DW_Flame",
+		"galaxyUserId": "50086535481068544",
+		"avatar": "https://images.gog.com/f3d51f63f3a3ac710d93263dc37481294e26e4b66e830e5a445708ae99f3af9e",
+		"walletBalance": {
+			"currency": "USD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 19,
+			"movies": 0
+		},
+		"wishlistedItems": 0,
+		"friends": [
+			{
+				"username": "devilboy752",
+				"userSince": 1624890622,
+				"galaxyId": "54522281852692398",
+				"avatar": "https://images.gog.com/e2c951de580d9fa526ef7d9d444dd50b5cab5a8b594ddf486bf88f8e7f6badd6"
+			}
+		],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

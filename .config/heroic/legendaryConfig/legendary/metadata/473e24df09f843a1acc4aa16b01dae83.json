@@ -1,0 +1,115 @@
+{
+  "app_name": "473e24df09f843a1acc4aa16b01dae83",
+  "app_title": "Layers of Fear 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "473e24df09f843a1acc4aa16b01dae83",
+      "asset_id": "473e24df09f843a1acc4aa16b01dae83",
+      "build_version": "1.0.0.0",
+      "catalog_item_id": "7adafd04e0704601a2279e307b163e97",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2972368dffc24d4ea80ba1aa2bcf56d2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-30T19:42:36.865Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/LOF2/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LayersofFear2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2972368dffc24d4ea80ba1aa2bcf56d2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Layers of Fear 2",
+    "developer": "Bloober Team",
+    "developerId": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
+    "endOfSupport": false,
+    "entitlementName": "7adafd04e0704601a2279e307b163e97",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7adafd04e0704601a2279e307b163e97",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3d6f589ab55b5dd8f24eb57e52ce6a6f",
+        "size": 917439,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-30T19:54:18.056Z",
+        "url": "https://cdn1.epicgames.com/2972368dffc24d4ea80ba1aa2bcf56d2/item/EGS_LayersofFear2_BlooberTeamSA_S1-2560x1440-3d6f589ab55b5dd8f24eb57e52ce6a6f.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a82e724db7a9105a1b7bb2a904721fbf",
+        "size": 866910,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-30T19:54:23.119Z",
+        "url": "https://cdn1.epicgames.com/2972368dffc24d4ea80ba1aa2bcf56d2/item/EGS_LayersofFear2_BlooberTeamSA_S2-1200x1600-a82e724db7a9105a1b7bb2a904721fbf.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-03T17:04:30.707Z",
+    "mainGameItemList": [],
+    "namespace": "2972368dffc24d4ea80ba1aa2bcf56d2",
+    "releaseInfo": [
+      {
+        "appId": "473e24df09f843a1acc4aa16b01dae83",
+        "dateAdded": "2020-04-30T00:00:00.000Z",
+        "id": "4497eec22ac3406c99b99636b097c57a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Layers of Fear 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,112 @@
+{
+  "app_name": "29ee5d32f328471590b3bd3ac03ed7d0",
+  "app_title": "In Sound Mind",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "29ee5d32f328471590b3bd3ac03ed7d0",
+      "asset_id": "29ee5d32f328471590b3bd3ac03ed7d0",
+      "build_version": "1.027",
+      "catalog_item_id": "929a84bff8a34d80b490f71550ec782f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-08T23:55:30.706Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "InSoundMind"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "fa9812acd30f46f8a69a75bf27addb5c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "In Sound Mind",
+    "developer": "Maximum Entertainment",
+    "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+    "endOfSupport": false,
+    "entitlementName": "929a84bff8a34d80b490f71550ec782f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "929a84bff8a34d80b490f71550ec782f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "78d2b96f4772d724e6f003a1e88f4844",
+        "size": 494143,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-09-23T20:39:40.580Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S1_2560x1440-78d2b96f4772d724e6f003a1e88f4844",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0f24e46356fc61bda653468a6afd6d49",
+        "size": 507085,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-09-23T20:39:46.854Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S2_1200x1600-0f24e46356fc61bda653468a6afd6d49",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-01-17T20:23:22.072Z",
+    "mainGameItemList": [],
+    "namespace": "fa9812acd30f46f8a69a75bf27addb5c",
+    "releaseInfo": [
+      {
+        "appId": "29ee5d32f328471590b3bd3ac03ed7d0",
+        "dateAdded": "2021-03-10T17:17:32.961Z",
+        "id": "1d6a118885c449c68c864bdfb603779e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "In Sound Mind",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,269 @@
+{
+  "app_name": "f53c5471fd0e47619e72b6d21a527abe",
+  "app_title": "Black Myth: Wukong",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f53c5471fd0e47619e72b6d21a527abe",
+      "asset_id": "f53c5471fd0e47619e72b6d21a527abe",
+      "build_version": "1.0.16.18901",
+      "catalog_item_id": "a3a81029d0a947bfb81055b9eda2c1ff",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4833de0323924b1bb6190ae676eed405",
+        "update_type": "PATCH"
+      },
+      "namespace": "0e548758b82a4be785f435cedf306130",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [
+    "https://fastly-download.epicgames.com/Builds/Org/o-ql93722tl5s9zztlr9l42s8ucwb9vh/ca9ef1bcf2f54043baac351366aec677/default",
+    "https://epicgames-download1.akamaized.net/Builds/Org/o-ql93722tl5s9zztlr9l42s8ucwb9vh/ca9ef1bcf2f54043baac351366aec677/default",
+    "https://download.epicgames.com/Builds/Org/o-ql93722tl5s9zztlr9l42s8ucwb9vh/ca9ef1bcf2f54043baac351366aec677/default",
+    "https://cloudflare.epicgamescdn.com/Builds/Org/o-ql93722tl5s9zztlr9l42s8ucwb9vh/ca9ef1bcf2f54043baac351366aec677/default"
+  ],
+  "metadata": {
+    "applicationId": "fghi4567MteYyr5N5NHPwsQzhDrtx1Yt",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-07T11:29:09.669Z",
+    "customAttributes": {
+      "AllowMultipleInstances": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{InstallDir}/b1/Saved/SaveGames/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlackMythWukong"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "TRUE"
+      },
+      "SkipAutoInstallDlc": {
+        "type": "STRING",
+        "value": "FALSE"
+      }
+    },
+    "description": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+    "developer": "Game Science Interactive Technology Co., Ltd.",
+    "developerId": "o-ql93722tl5s9zztlr9l42s8ucwb9vh",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-09T06:03:08.509Z",
+        "customAttributes": {},
+        "description": "Pre-purchase to receive the Trailblazer's Scarlet Gourd.",
+        "developer": "Game Science Interactive Technology Co., Ltd.",
+        "developerId": "o-ql93722tl5s9zztlr9l42s8ucwb9vh",
+        "endOfSupport": false,
+        "entitlementName": "f08ff102d4fa41069680a5b7a996c4a3",
+        "entitlementType": "EXECUTABLE",
+        "id": "f08ff102d4fa41069680a5b7a996c4a3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Black Myth Wukong Black Myth: Wukong Pre-Order Bonus Content Offer",
+            "height": 1440,
+            "md5": "3551e287ed1ee0baea882929b1026dd8",
+            "size": 1758901,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-01T13:08:07.215Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-b1gtl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Black Myth Wukong Black Myth: Wukong Pre-Order Bonus Content Offer",
+            "height": 1600,
+            "md5": "fdb17380378bfbbb8a5541d5c6d94029",
+            "size": 2895876,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-01T13:08:08.931Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-179hu.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-14T07:55:54.422Z",
+        "mainGameItem": {
+          "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+          "namespace": "0e548758b82a4be785f435cedf306130",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+            "namespace": "0e548758b82a4be785f435cedf306130",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0e548758b82a4be785f435cedf306130",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Black Myth: Wukong Pre-Purchase Bonus Content",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-09T05:59:18.242Z",
+        "customAttributes": {},
+        "description": "This upgrade allows owners of Black Myth: Wukong Digital Standard Edition to access Black Myth: Wukong Digital Deluxe Edition content \u2014 an exclusive weapon, equipment, and curio, plus the Music Library, featuring a selection of music from the game's soundtrack.",
+        "developer": "Game Science Interactive Technology Co., Ltd.",
+        "developerId": "o-ql93722tl5s9zztlr9l42s8ucwb9vh",
+        "endOfSupport": false,
+        "entitlementName": "f0edfab4917c4fcf90e78d93c6c51445",
+        "entitlementType": "EXECUTABLE",
+        "id": "f0edfab4917c4fcf90e78d93c6c51445",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Black Myth Wukong Black Myth: Wukong Deluxe Edition Upgrade Offer",
+            "height": 1440,
+            "md5": "68e78dcc0ab32ab11d8a04f466b0bf14",
+            "size": 1930684,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-01T12:01:42.995Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-1ldeb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Black Myth Wukong Black Myth: Wukong Deluxe Edition Upgrade Offer",
+            "height": 1600,
+            "md5": "434df8764c2ee71d448f6380a52b8817",
+            "size": 2438950,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-01T12:01:47.376Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-1y1ay.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-14T07:55:54.422Z",
+        "mainGameItem": {
+          "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+          "namespace": "0e548758b82a4be785f435cedf306130",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+            "namespace": "0e548758b82a4be785f435cedf306130",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0e548758b82a4be785f435cedf306130",
+        "releaseInfo": [
+          {
+            "appId": "3f390b9040be445d9ff5aa6bbcfc5cf3",
+            "id": "c65a4fc7506c40998afef5bfbfeca755",
+            "platform": []
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Black Myth: Wukong Deluxe Edition Upgrade",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-13T17:39:35.925Z",
+        "description": "Black Myth: Wukong Deluxe Edition Upgrade_SeasonPassAudience",
+        "developer": "Game Science Interactive Technology Co., Ltd.",
+        "developerId": "o-ql93722tl5s9zztlr9l42s8ucwb9vh",
+        "endOfSupport": false,
+        "entitlementName": "4711fc03ba854459a0a14865e4169b21",
+        "entitlementType": "AUDIENCE",
+        "id": "4711fc03ba854459a0a14865e4169b21",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-14T07:55:53.357Z",
+        "mainGameItem": {
+          "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+          "namespace": "0e548758b82a4be785f435cedf306130",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+            "namespace": "0e548758b82a4be785f435cedf306130",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "0e548758b82a4be785f435cedf306130",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Black Myth: Wukong Deluxe Edition Upgrade_SeasonPassAudience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "a3a81029d0a947bfb81055b9eda2c1ff",
+    "entitlementType": "EXECUTABLE",
+    "id": "a3a81029d0a947bfb81055b9eda2c1ff",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Black Myth Wukong Offer",
+        "height": 1440,
+        "md5": "3551e287ed1ee0baea882929b1026dd8",
+        "size": 1758901,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-06-04T19:36:50.340Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-o2bn7.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Black Myth Wukong Offer",
+        "height": 1600,
+        "md5": "fdb17380378bfbbb8a5541d5c6d94029",
+        "size": 2895876,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-06-04T19:36:56.800Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-14556.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-14T07:55:54.422Z",
+    "mainGameItemList": [],
+    "namespace": "0e548758b82a4be785f435cedf306130",
+    "releaseInfo": [
+      {
+        "appId": "f53c5471fd0e47619e72b6d21a527abe",
+        "id": "f4a2c6f0b95a4ae4ba0199f20d7691b9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Black Myth: Wukong",
+    "unsearchable": false
+  },
+  "sidecar": null
+}
