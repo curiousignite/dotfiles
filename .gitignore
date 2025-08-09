@@ -1,0 +1,17 @@
+#ZSH
+*.zwc
+*.zwc.old
+*zcompdump*
+*.zsh_history
+*.zcompdump
+*.zsh_sessions
+*._zinit
+.directory_history
+.venv
+
+#Browsers
+*.sqlite
+.config/discord/*
+
+#GH
+.config/gh/hosts.yml
