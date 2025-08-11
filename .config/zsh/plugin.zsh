@@ -63,4 +63,4 @@ zinit light Aloxaf/fzf-tab
 
 # Plugin: alias-tips
 # Shows tips for using defined aliases when you type commands, helping you learn and use your aliases.
-zinit light djui/alias-tips
+# zinit light djui/alias-tips
