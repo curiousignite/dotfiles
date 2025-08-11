@@ -1,5 +1,0 @@
-(01:10:24) [INFO]:    GOG REDIST:: GOGDL_CONFIG_PATH=/home/berke/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/berke/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/berke/.config/heroic/tools/redist/gog 
-
-(01:10:24) [INFO]:    Game Output:
-[API] INFO: Getting Dependencies repository
-[REDIST] INFO: Nothing to do

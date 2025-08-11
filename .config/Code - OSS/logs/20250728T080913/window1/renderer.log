@@ -1,5 +1,0 @@
-2025-07-28 08:09:14.500 [info] Started local extension host with pid 1968800.
-2025-07-28 08:09:14.524 [info] Started initializing default profile extensions in extensions installation folder. file:///home/berke/.vscode-oss/extensions
-2025-07-28 08:09:14.529 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2025-07-28 08:09:14.647 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/berke/.vscode-oss/extensions
-2025-07-28 08:09:17.433 [info] [perf] Render performance baseline is 17ms
