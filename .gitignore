@@ -15,3 +15,20 @@
 
 #GH
 .config/gh/hosts.yml
+
+#Redundant
+'.config/Code - OSS/*'
+.config/Deskflow/*
+.config/Microsoft/*
+.config/go/*
+.config/heroic/*
+.config/obs-studio/*
+.config/session/*
+.config/teams/*
+.config/unity3d/*
+.config/QtProject
+.config/baloo*
+.config/code-flags.conf
+.config/dolphinrc
+.config/obsidian/*
+.config/waybar/layouts/backup/*

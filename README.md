@@ -9,4 +9,3 @@ My personal configuration files repo.
 
 ---
 
-- [ ] Remove redundant folders/files in .config
