@@ -1,9 +1,10 @@
 {
     "include": [
-        "/home/berke/.config/waybar/modules/custom-clock.jsonc",
+        "/home/berke/.config/waybar/modules/server.jsonc",
+        "/home/berke/.config/waybar/modules/network.jsonc",
+        "/home/berke/.config/waybar/modules/clock.jsonc",
         "/home/berke/.local/share/waybar/modules/wlr-taskbar.json",
         "/home/berke/.local/share/waybar/modules/wlr-taskbar#windows.json",
-        "/home/berke/.local/share/waybar/modules/custom-server.json",
         "/home/berke/.local/share/waybar/modules/image#wallpaper.json",
         "/home/berke/.local/share/waybar/modules/privacy.json",
         "/home/berke/.local/share/waybar/modules/tray.json",
@@ -85,15 +86,5 @@
         "icon-size": 16,
         "icon-size-multiplier": 1.6
     },
-    "position": "top",
-    "custom/server": {
-        "format": "\udb80\udd8a {0}",
-        "rotate": 0,
-        "tooltip-format": "192.168.1.81",
-        "on-click": "firefox http://192.168.1.81",
-        "on-click-right": "hyde-shell wallpaper -p",
-        "on-click-middle": "hyde-shell wallpaper --select",
-        "interval": 86400,
-        "tooltip": true
-    }
+    "position": "top"
 }

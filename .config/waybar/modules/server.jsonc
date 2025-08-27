@@ -1,0 +1,10 @@
+{
+  "custom/server": {
+    "tooltip": true,
+    "rotate": 0,
+    "interval": 10,
+    "format": "{}",
+    "return-type": "json",
+    "exec":"~/.config/waybar/modules/server.sh"
+  }
+}
