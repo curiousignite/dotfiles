@@ -186,8 +186,8 @@ vim.keymap.set("t", "<Esc><Esc>", "<C-\\><C-n>", { desc = "Exit terminal mode" }
 -- vim.keymap.set('n', '<up>', '<cmd>echo "Use k to move!!"<CR>')
 -- vim.keymap.set('n', '<down>', '<cmd>echo "Use j to move!!"<CR>')
 
-vim.keymap.set("n", "L", "$", { desc = "Go to the end of line" })
-vim.keymap.set("n", "H", "_", { desc = "Go to the start of line" })
+vim.keymap.set({ "n", "v" }, "L", "$", { desc = "Go to the end of line" })
+vim.keymap.set({ "n", "v" }, "H", "_", { desc = "Go to the start of line" })
 
 vim.keymap.set("n", "-", ":Explore<CR>")
 

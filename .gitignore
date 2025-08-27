@@ -32,3 +32,7 @@
 .config/dolphinrc
 .config/obsidian/*
 .config/waybar/layouts/backup/*
+.config/Bitwarden/*
+.config/cfg_backups/*
+.config/hyde/themes/*
+.config/kde.org/*
