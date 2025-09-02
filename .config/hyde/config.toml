@@ -143,7 +143,7 @@ show_icon = true  # Show the weather icon in waybar.
 show_location = true  # Show the location in waybar.
 show_today = true  # Show detailed description of today in tooltip.
 forecast_days = 3  # Number of days to show forecast (0-3).
-location = "Bursa"  # Location/coordinates string for the weather output.
+location = "~Ertuğrul+Bursa"  # Location/coordinates string for the weather output.
 
 # 'cava.sh stdout' configuration.
 [cava.stdout]

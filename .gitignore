@@ -25,6 +25,7 @@
 .config/obs-studio/*
 .config/session/*
 .config/teams/*
+.config/teams-for-linux/*
 .config/unity3d/*
 .config/QtProject
 .config/baloo*
@@ -36,3 +37,10 @@
 .config/cfg_backups/*
 .config/hyde/themes/*
 .config/kde.org/*
+
+.config/QtProject.conf
+.config/arkrc
+.config/news-flash/*
+.config/qBittorrent/*
+.config/retroarch/*
+.config/rpcs3/*

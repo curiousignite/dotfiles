@@ -29,6 +29,8 @@ if [[ ${HYDE_ZSH_NO_PLUGINS} != "1" ]]; then
 fi
 
 alias pwc='pwd | wl-copy'
+alias man='noglob man'
+alias icat='kitten icat'
 #Edited for LOCAL
 . /etc/locale.conf
 export LANG LC_MONETARY LC_TIME
@@ -119,5 +121,3 @@ bindkey '^ ' autosuggest-accept
 # autosuggest-clear: Clears the current suggestion.
 # autosuggest-fetch: Fetches a suggestion (works even when suggestions are disabled).
 # autosuggest-disable: Disables suggestions.
-# autosuggest-enable: Re-enables suggestions.
-# autosuggest-toggle: Toggles between enabled/disabled suggestions.
