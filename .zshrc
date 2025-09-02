@@ -33,3 +33,8 @@ alias mkdir='mkdir -p'
 export SUDO_EDITOR=/usr/bin/nvim
 export EDITOR=/usr/bin/nvim
 export VISUAL=/usr/bin/nvim
+
+# For setting python enviroment
+# export PYENV_ROOT="$HOME/.pyenv"
+# export PATH="$PYENV_ROOT/bin:$PATH"
+# eval "$(pyenv init -)"

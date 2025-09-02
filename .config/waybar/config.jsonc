@@ -29,7 +29,10 @@
     "group/pill#left2": {
         "orientation": "inherit",
         "modules": [
-            "custom/weather",
+            "cpu",
+            "custom/cpuinfo",
+            "memory",
+            "custom/gpuinfo"
         ]
     },
 
