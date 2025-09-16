@@ -44,3 +44,5 @@
 .config/qBittorrent/*
 .config/retroarch/*
 .config/rpcs3/*
+
+.ssh/id_*

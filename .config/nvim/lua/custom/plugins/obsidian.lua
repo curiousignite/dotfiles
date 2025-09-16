@@ -9,7 +9,7 @@ return {
   },
   opts = {
     ui = {
-      enable = false,
+      enable = true,
     },
     workspaces = {
       {
