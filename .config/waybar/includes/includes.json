@@ -1,5 +1,6 @@
 {
     "include": [
+        "/home/berke/.config/waybar/modules/brightness.jsonc",
         "/home/berke/.config/waybar/modules/server.jsonc",
         "/home/berke/.config/waybar/modules/network.jsonc",
         "/home/berke/.config/waybar/modules/clock.jsonc",
@@ -31,6 +32,7 @@
         "/home/berke/.local/share/waybar/modules/custom-theme.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-mediaplayer.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-github_hyde.jsonc",
+        "/home/berke/.local/share/waybar/modules/group-hide-tray.jsonc",
         "/home/berke/.local/share/waybar/modules/power-profiles-daemon.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-power.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-sensorsinfo.jsonc",
@@ -59,6 +61,7 @@
         "/home/berke/.local/share/waybar/modules/group-mediaplayer.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-swaync.jsonc",
         "/home/berke/.local/share/waybar/modules/network.jsonc",
+        "/home/berke/.local/share/waybar/modules/temperature.jsonc",
         "/home/berke/.local/share/waybar/modules/clock.jsonc",
         "/home/berke/.local/share/waybar/modules/battery.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-hyde-menu.jsonc",

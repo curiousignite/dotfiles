@@ -44,5 +44,12 @@
 .config/qBittorrent/*
 .config/retroarch/*
 .config/rpcs3/*
+.config/.mozilla/*
+.config/droidcam
+.config/libreoffice/*
+.config/kdeconnect/*
+
 
 .ssh/id_*
+.ssh/known_hosts.old
+

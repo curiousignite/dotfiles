@@ -1,1 +1,4 @@
 /* User custom styles */
+window#waybar.top #pill.right2 {
+  padding-right: 1.2em;
+}

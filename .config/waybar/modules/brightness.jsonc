@@ -1,0 +1,12 @@
+{
+  "custom/brightness": {
+    "format": "{}",
+    "return-type": "json",
+    "exec": "/usr/local/bin/brightness show",
+    "on-scroll-up": "/usr/local/bin/brightness up",
+    "on-scroll-down": "/usr/local/bin/brightness down",
+    "on-click": "/usr/local/bin/brightness up 25",
+    "on-click-right": "/usr/local/bin/brightness down 25",
+    "interval": 2,
+  },
+}
