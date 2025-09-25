@@ -1,0 +1,10 @@
+[Unit]
+Description=Sync monitor brightness cache at login
+After=graphical.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/brightness-queue init
+
+[Install]
+WantedBy=default.target

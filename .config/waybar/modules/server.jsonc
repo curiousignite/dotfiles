@@ -2,9 +2,9 @@
   "custom/server": {
     "tooltip": true,
     "rotate": 0,
-    "interval": 10,
+    "interval": 2,
     "format": "{}",
     "return-type": "json",
-    "exec":"~/.config/waybar/modules/server.sh"
-  }
+    "exec": "~/.config/waybar/modules/server.sh",
+  },
 }
