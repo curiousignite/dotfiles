@@ -217,7 +217,7 @@ require("lazy").setup({
   -- Then, because we use the `opts` key (recommended), the configuration runs
   -- after the plugin has been loaded as `require(MODULE).setup(opts)`.
 
-  { -- Useful plugin to show you pending keybinds.
+  {                     -- Useful plugin to show you pending keybinds.
     "folke/which-key.nvim",
     event = "VimEnter", -- Sets the loading event to 'VimEnter'
     opts = {
@@ -263,7 +263,7 @@ require("lazy").setup({
 
       -- Document existing key chains
       spec = {
-        { "<leader>c", group = "[C]ode", mode = { "n", "x" } },
+        { "<leader>c", group = "[C]ode",     mode = { "n", "x" } },
         { "<leader>d", group = "[D]ocument" },
         { "<leader>r", group = "[R]ename" },
         { "<leader>s", group = "[S]earch" },
@@ -302,7 +302,7 @@ require("lazy").setup({
       { "nvim-telescope/telescope-ui-select.nvim" },
 
       -- Useful for getting pretty icons, but requires a Nerd Font.
-      { "nvim-tree/nvim-web-devicons", enabled = vim.g.have_nerd_font },
+      { "nvim-tree/nvim-web-devicons",            enabled = vim.g.have_nerd_font },
     },
     config = function()
       -- Telescope is a fuzzy finder that comes with a lot of different things that
@@ -412,7 +412,7 @@ require("lazy").setup({
       "WhoIsSethDaniel/mason-tool-installer.nvim",
 
       -- Useful status updates for LSP.
-      { "j-hui/fidget.nvim", opts = {} },
+      { "j-hui/fidget.nvim",    opts = {} },
 
       -- Allows extra capabilities provided by nvim-cmp
       "hrsh7th/cmp-nvim-lsp",
@@ -520,8 +520,8 @@ require("lazy").setup({
 
           local client = vim.lsp.get_client_by_id(event.data.client_id)
           if
-            client
-            and client_supports_method(client, vim.lsp.protocol.Methods.textDocument_documentHighlight, event.buf)
+              client
+              and client_supports_method(client, vim.lsp.protocol.Methods.textDocument_documentHighlight, event.buf)
           then
             local highlight_augroup = vim.api.nvim_create_augroup("kickstart-lsp-highlight", { clear = false })
             vim.api.nvim_create_autocmd({ "CursorHold", "CursorHoldI" }, {
@@ -611,7 +611,16 @@ require("lazy").setup({
               },
             },
           },
-          cmd = { "clangd" },
+          -- cmd = { "clangd" },
+          cmd = {
+            "clangd",
+            "--background-index",
+            "--pch-storage=memory",
+            "--clang-tidy",
+            "--suggest-missing-includes",
+            "--cross-file-rename",
+            "--completion-style=detailed",
+          },
           filetypes = { "c", "cpp", "objc", "objcpp", "cuda" },
           root_markers = {
             ".clangd",
@@ -643,7 +652,7 @@ require("lazy").setup({
         },
         ruff = {},
         markdownlint = {},
-
+        markdown_oxide = {},
         -- gopls = {},
         -- pyright = {},
         -- rust_analyzer = {},
@@ -735,7 +744,7 @@ require("lazy").setup({
         }
       end,
       formatters_by_ft = {
-        lua = { "stylua" },
+        -- lua = { "stylua" },
         bash = { "beautysh" },
         sh = { "beautysh" },
         go = { "goimports", "gofumpt", "goimports-reviser" },
@@ -754,14 +763,14 @@ require("lazy").setup({
         ["markdown.mdx"] = { "markdownlint", "prettierd", "prettier" },
       },
       formatters = {
-        stylua = {
-          prepend_args = {
-            "--indent-type",
-            "Spaces",
-            "--indent-width",
-            "2",
-          },
-        },
+        -- stylua = {
+        --   prepend_args = {
+        --     "--indent-type",
+        --     "Spaces",
+        --     "--indent-width",
+        --     "2",
+        --   },
+        -- },
         beautysh = {
           prepend_args = {
             "--indent-size",
@@ -794,15 +803,16 @@ require("lazy").setup({
           return "make install_jsregexp"
         end)(),
         dependencies = {
-          -- `friendly-snippets` contains a variety of premade snippets.
-          --    See the README about individual language/framework/plugin snippets:
-          --    https://github.com/rafamadriz/friendly-snippets
-          -- {
-          --   'rafamadriz/friendly-snippets',
-          --   config = function()
-          --     require('luasnip.loaders.from_vscode').lazy_load()
-          --   end,
-          -- },
+          {
+            'rafamadriz/friendly-snippets',
+            config = function()
+              require('luasnip.loaders.from_vscode').lazy_load()
+              require("luasnip.loaders.from_vscode").lazy_load({
+                paths = { vim.fn.expand("~/.config/nvim/snippets") },
+              })
+              require("luasnip").filetype_extend("all", { "license" })
+            end,
+          },
         },
       },
       "saadparwaiz1/cmp_luasnip",
@@ -1036,7 +1046,52 @@ vim.opt.backup = false
 vim.opt.swapfile = false
 vim.opt.undodir = os.getenv("HOME") .. "/.vim.undodir"
 vim.opt.undofile = true
-vim.opt.colorcolumn = "80"
+vim.opt.colorcolumn = "88"
 vim.opt.conceallevel = 1
 vim.opt.wildmode = "longest:full,full"
 vim.opt.smoothscroll = true
+
+vim.keymap.set('n', '<leader>o', "<cmd>ObsidianQuickSwitch<CR>", { desc = "Compile and run the current file" })
+vim.keymap.set('n', '<Esc><Esc>', "<cmd>w<CR>", { desc = "Save file" })
+vim.keymap.set("n", "<leader>x", function()
+  local command         = ""
+  local source_file     = vim.fn.expand("%:p")
+  local executable_file = vim.fn.expand("%:p:r")
+
+  if vim.o.filetype == 'c' then
+    command = command .. vim.fn.expand("gcc ")
+  elseif vim.o.filetype == 'cpp' then
+    command = command .. vim.fn.expand("g++ ")
+  else
+    command = command .. vim.fn.expand("chmod +x ")
+    command = command .. source_file
+    command = command .. vim.fn.expand(" && ")
+  end
+  if vim.o.filetype == 'c' or vim.o.filetype == 'cpp' then
+    command = command .. vim.fn.expand(" -Wall")
+    command = command .. vim.fn.expand(" -Wextra")
+    command = command .. vim.fn.expand(" -o ")
+    command = command .. executable_file
+    command = command .. vim.fn.expand(" ")
+    command = command .. source_file
+    command = command .. vim.fn.expand(" && ")
+    command = command .. executable_file
+  elseif string.match(vim.fn.getline(1), "^#!/") then
+    command = command .. vim.fn.shellescape(source_file)
+  elseif vim.o.filetype == 'python' then
+    command = command .. vim.fn.expand("python3 ")
+    command = command .. source_file
+  elseif vim.o.filetype == 'lua' then
+    command = command .. vim.fn.expand("lua ")
+    command = command .. source_file
+  else
+    print("Unknown file type `" .. vim.o.filetype .. "`")
+  end
+
+  if command ~= "" then
+    vim.cmd("10 split")
+    vim.cmd("terminal " .. command)
+    vim.cmd("startinsert")
+    vim.cmd(":wincmd j")
+  end
+end, { desc = "Compile and run the current file" })
