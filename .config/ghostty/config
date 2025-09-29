@@ -18,8 +18,8 @@ gtk-wide-tabs = false
 # window controls
 window-title-font-family = VictorMono NFM Italic
 window-decoration = true
-window-padding-x = 0
-window-padding-y = 0
+window-padding-x = 10
+window-padding-y = 10
 window-padding-balance = true
 window-save-state = always
 confirm-close-surface = false
@@ -47,10 +47,10 @@ keybind = super+right=next_tab
 keybind = ctrl+shift+/=new_split:right
 keybind = ctrl+shift+.=new_split:down
 
-keybind = ctrl+shift+h=resize_split:left,10
-keybind = ctrl+shift+j=resize_split:down,10
-keybind = ctrl+shift+k=resize_split:up,10
-keybind = ctrl+shift+l=resize_split:right,10
+keybind = ctrl+shift+h=resize_split:left,50
+keybind = ctrl+shift+j=resize_split:down,50
+keybind = ctrl+shift+k=resize_split:up,50
+keybind = ctrl+shift+l=resize_split:right,50
 keybind = ctrl+shift+==equalize_splits
 
 keybind = alt+h=goto_split:left
@@ -71,6 +71,7 @@ keybind = ctrl+0=goto_tab:10
 
 keybind = ctrl+shift+w=close_surface
 
+keybind = ctrl+shift+f=write_screen_file:open
 
 keybind = ctrl+shift+up=jump_to_prompt:-1
 keybind = ctrl+shift+down=jump_to_prompt:1

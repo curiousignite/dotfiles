@@ -1,0 +1,12 @@
+{
+  "checkbox": {
+    "prefix": "cb",
+    "body": ["- [ ] $0"],
+    "description": "Insert a markdown checkbox"
+  },
+  "checkbox list": {
+    "prefix": "cbl",
+    "body": ["- [ ] $1", "- [ ] $2", "- [ ] $3", "$0"],
+    "description": "Insert multiple markdown checkboxes"
+  }
+}

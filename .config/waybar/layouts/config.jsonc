@@ -23,21 +23,22 @@
     "modules": ["cpu", "custom/cpuinfo", "memory", "custom/gpuinfo"],
   },
 
-  "modules-center": ["group/pill#center1", "group/pill#center2"],
+  "modules-center": ["group/pill#center1"],
   "group/pill#center1": {
     "orientation": "inherit",
     "modules": ["idle_inhibitor", "clock"],
   },
-  "group/pill#center2": {
-    "orientation": "inherit",
-    "modules": ["custom/brightness"],
-  },
+  // "group/pill#center2": {
+  //   "orientation": "inherit",
+  //   "modules": ["custom/brightness"],
+  // },
   "modules-right": ["group/pill#right1", "group/pill#right2"],
   "group/pill#right1": {
     "orientation": "inherit",
     "modules": [
       "network",
-      "custom/server",
+      // "custom/server",
+      "custom/brightness",
       "pulseaudio",
       "pulseaudio#microphone",
       "custom/updates",
