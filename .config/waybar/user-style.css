@@ -1,4 +1,12 @@
 /* User custom styles */
+window#waybar {
+  /* font-height: 18px; */
+  /* font-size: 18px; */
+}
+* {
+  font-size: 15px;
+  padding-bottom: 0px;
+}
 window#waybar.top #pill.right2 {
   padding-right: 1.2em;
 }

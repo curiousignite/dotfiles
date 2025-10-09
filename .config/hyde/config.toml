@@ -10,10 +10,10 @@ custom_paths = []  # List of paths to search for wallpapers.
 backend = "swww"  # Wallpaper backend, requires 'wallpaper.<backend>.sh' as handler script in $PATH
 # swwwallselect.sh configuration.
 [wallpaper.swww]
-framerate = 144  # Transition framerate.
-duration = 1  # Transition duration.
-transition_next = "grow"  # Transition type for next wallpaper.
-transition_prev = "outer"  # Transition type for previous wallpaper.
+framerate = 144              # Transition framerate.
+duration = 1                 # Transition duration.
+transition_next = "grow"     # Transition type for next wallpaper.
+transition_prev = "outer"    # Transition type for previous wallpaper.
 transition_default = "grow"  # Transition type for default wallpaper.
 
 
@@ -117,6 +117,9 @@ annotation_tool = "satty"  # Annotation tool for screenshots.
 annotation_pre_command = []  # Pre command for annotation tool.
 annotation_post_command = [""]  # Post command for annotation tool.
 
+[screenshot.ocr]
+tesseract_languages = ["eng", "tur"]
+
 # Bookmark configuration.
 [rofi.bookmark]
 
@@ -196,7 +199,7 @@ steps = 5  # Number of steps to increase/decrease brightness.
 # sysmonlaunch.sh configuration.
 [sysmonitor]
 execute = "btop"  # Default command to execute.
-commands = [""]  # Fallback command options.
+commands = ["htop"]  # Fallback command options.
 
 # Notification script configuration.
 [notification]

@@ -535,7 +535,6 @@ require("lazy").setup({
               group = highlight_augroup,
               callback = vim.lsp.buf.clear_references,
             })
-
             vim.api.nvim_create_autocmd("LspDetach", {
               group = vim.api.nvim_create_augroup("kickstart-lsp-detach", { clear = true }),
               callback = function(event2)
@@ -652,11 +651,10 @@ require("lazy").setup({
         },
         ruff = {},
         markdownlint = {},
-        markdown_oxide = {},
+        ts_ls = {},
+        -- markdown_oxide = {},
         -- gopls = {},
-        -- pyright = {},
         -- rust_analyzer = {},
-        -- ts_ls = {},
 
         lua_ls = {
           -- cmd = { ... },
@@ -759,8 +757,8 @@ require("lazy").setup({
         jsonc = { "prettierd", "prettier" },
         less = { "prettierd", "prettier" },
         html = { "prettierd", "prettier" },
-        markdown = { "markdownlint", "prettierd", "prettier" },
-        ["markdown.mdx"] = { "markdownlint", "prettierd", "prettier" },
+        markdown = { "markdownlint-cli2 " },
+        ["markdown.mdx"] = { "markdownlint-cli2 " },
       },
       formatters = {
         -- stylua = {
@@ -931,15 +929,25 @@ require("lazy").setup({
   },
 
   { -- Collection of various small independent plugins/modules
-    "echasnovski/mini.nvim",
+    "nvim-mini/mini.nvim",
     config = function()
+      local spec_treesitter = require('mini.ai').gen_spec.treesitter
       -- Better Around/Inside textobjects
       --
       -- Examples:
       --  - va)  - [V]isually select [A]round [)]paren
       --  - yinq - [Y]ank [I]nside [N]ext [Q]uote
       --  - ci'  - [C]hange [I]nside [']quote
-      require("mini.ai").setup({ n_lines = 500 })
+      require('mini.ai').setup({
+        n_lines = 500,
+        custom_textobjects = {
+          F = spec_treesitter({ a = '@function.outer', i = '@function.inner' }),
+          o = spec_treesitter({
+            a = { '@conditional.outer', '@loop.outer' },
+            i = { '@conditional.inner', '@loop.inner' },
+          })
+        }
+      })
 
       -- Add/delete/replace surroundings (brackets, quotes, etc.)
       --
@@ -965,11 +973,12 @@ require("lazy").setup({
       end
 
       -- ... and there is more!
-      --  Check out: https://github.com/echasnovski/mini.nvim
+      --  Check out: https://github.com/nvim-mini/mini.nvim
     end,
   },
   { -- Highlight, edit, and navigate code
     "nvim-treesitter/nvim-treesitter",
+    dependencies = { 'nvim-treesitter/nvim-treesitter-textobjects' },
     build = ":TSUpdate",
     main = "nvim-treesitter.configs", -- Sets main module to use for opts
     -- [[ Configure Treesitter ]] See `:help nvim-treesitter`
@@ -986,6 +995,8 @@ require("lazy").setup({
         "query",
         "vim",
         "vimdoc",
+        "javascript",
+        "python",
       },
       -- Autoinstall languages that are not installed
       auto_install = true,
@@ -1018,8 +1029,6 @@ require("lazy").setup({
   require("kickstart.plugins.debug"),
   require("kickstart.plugins.indent_line"),
   require("kickstart.plugins.lint"),
-  -- require 'kickstart.plugins.autopairs',
-  -- require 'kickstart.plugins.neo-tree',
   require("kickstart.plugins.gitsigns"), -- adds gitsigns recommend keymaps
 
   -- NOTE: The import below can automatically add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
@@ -1047,51 +1056,11 @@ vim.opt.swapfile = false
 vim.opt.undodir = os.getenv("HOME") .. "/.vim.undodir"
 vim.opt.undofile = true
 vim.opt.colorcolumn = "88"
-vim.opt.conceallevel = 1
+vim.opt.conceallevel = 0
 vim.opt.wildmode = "longest:full,full"
 vim.opt.smoothscroll = true
 
-vim.keymap.set('n', '<leader>o', "<cmd>ObsidianQuickSwitch<CR>", { desc = "Compile and run the current file" })
+-- Custom Autocommands
+-- Custom Keymaps
+-- vim.keymap.set('n', '<leader>o', "<cmd>ObsidianQuickSwitch<CR>", { desc = "[O]bsidian Quick Switch" })
 vim.keymap.set('n', '<Esc><Esc>', "<cmd>w<CR>", { desc = "Save file" })
-vim.keymap.set("n", "<leader>x", function()
-  local command         = ""
-  local source_file     = vim.fn.expand("%:p")
-  local executable_file = vim.fn.expand("%:p:r")
-
-  if vim.o.filetype == 'c' then
-    command = command .. vim.fn.expand("gcc ")
-  elseif vim.o.filetype == 'cpp' then
-    command = command .. vim.fn.expand("g++ ")
-  else
-    command = command .. vim.fn.expand("chmod +x ")
-    command = command .. source_file
-    command = command .. vim.fn.expand(" && ")
-  end
-  if vim.o.filetype == 'c' or vim.o.filetype == 'cpp' then
-    command = command .. vim.fn.expand(" -Wall")
-    command = command .. vim.fn.expand(" -Wextra")
-    command = command .. vim.fn.expand(" -o ")
-    command = command .. executable_file
-    command = command .. vim.fn.expand(" ")
-    command = command .. source_file
-    command = command .. vim.fn.expand(" && ")
-    command = command .. executable_file
-  elseif string.match(vim.fn.getline(1), "^#!/") then
-    command = command .. vim.fn.shellescape(source_file)
-  elseif vim.o.filetype == 'python' then
-    command = command .. vim.fn.expand("python3 ")
-    command = command .. source_file
-  elseif vim.o.filetype == 'lua' then
-    command = command .. vim.fn.expand("lua ")
-    command = command .. source_file
-  else
-    print("Unknown file type `" .. vim.o.filetype .. "`")
-  end
-
-  if command ~= "" then
-    vim.cmd("10 split")
-    vim.cmd("terminal " .. command)
-    vim.cmd("startinsert")
-    vim.cmd(":wincmd j")
-  end
-end, { desc = "Compile and run the current file" })

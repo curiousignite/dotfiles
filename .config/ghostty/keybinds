@@ -1,0 +1,42 @@
+# custom keybindings
+keybind = super+r=reload_config 
+keybind = super+i=inspector:toggle
+keybind = super+left=previous_tab
+keybind = super+right=next_tab
+
+keybind = ctrl+shift+/=new_split:right
+keybind = ctrl+shift+.=new_split:down
+
+keybind = ctrl+shift+h=resize_split:left,50
+keybind = ctrl+shift+j=resize_split:down,50
+keybind = ctrl+shift+k=resize_split:up,50
+keybind = ctrl+shift+l=resize_split:right,50
+keybind = ctrl+shift+==equalize_splits
+
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:bottom
+keybind = alt+k=goto_split:up
+keybind = alt+l=goto_split:right
+
+keybind = ctrl+1=goto_tab:1
+keybind = ctrl+2=goto_tab:2
+keybind = ctrl+3=goto_tab:3
+keybind = ctrl+4=goto_tab:4
+keybind = ctrl+5=goto_tab:5
+keybind = ctrl+6=goto_tab:6
+keybind = ctrl+7=goto_tab:7
+keybind = ctrl+8=goto_tab:8
+keybind = ctrl+9=goto_tab:9
+keybind = ctrl+0=goto_tab:10
+
+keybind = ctrl+shift+w=close_surface
+
+keybind = ctrl+shift+f=write_screen_file:open
+
+keybind = ctrl+shift+up=jump_to_prompt:-1
+keybind = ctrl+shift+down=jump_to_prompt:1
+
+# quick terminal (global keybinding) 
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+
+keybind = ctrl+enter=unbind

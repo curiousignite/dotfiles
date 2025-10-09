@@ -3,24 +3,28 @@
     "format": "{:%R \udb80\udced %d\u00b7%m\u00b7%y}",
     "rotate": 0,
     "format-alt": "{:%H:%M}",
+    "locale": "en_GB.UTF-8",
     "tooltip-format": "<span>{calendar}</span>",
+    "smooth-scrolling-threshold": 1,
     "calendar": {
       "mode": "month",
       "mode-mon-col": 3,
       "on-scroll": 1,
+      "on-click": "mode",
       "on-click-right": "mode",
       "format": {
         "months": "<span color='#ffead3'><b>{}</b></span>",
         "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
-        "today": "<span color='#ff6699'><b>{}</b></span>"
-      }
+        "today": "<span color='#ff6699'><b>{}</b></span>",
+      },
     },
     "actions": {
+      "on-click": "mode",
       "on-click-right": "mode",
       "on-click-forward": "tz_up",
       "on-click-backward": "tz_down",
       "on-scroll-up": "shift_up",
-      "on-scroll-down": "shift_down"
-    }
-  }
+      "on-scroll-down": "shift_down",
+    },
+  },
 }
