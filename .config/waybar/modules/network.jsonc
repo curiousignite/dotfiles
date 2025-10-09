@@ -8,6 +8,9 @@
     "format-disconnected": "\udb81\uddaa ",
     "tooltip-format-disconnected": "Disconnected",
     "format-ethernet": "<span foreground='#99ffdd'>\uf019 {bandwidthDownBytes}</span> <span foreground='#ffcc66'>\uf093 {bandwidthUpBytes}</span>",
-    "interval": 2
-  }
+    "interval": 2,
+    // fix scroll-crash
+    "on-scroll-up": "true",
+    "on-scroll-down": "true",
+  },
 }

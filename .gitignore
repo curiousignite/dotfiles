@@ -48,7 +48,9 @@
 .config/droidcam
 .config/libreoffice/*
 .config/kdeconnect/*
-
+.config/kolourpaintrc
+.config/rustdesk/*
+.config/sunshine/*
 
 .ssh/id_*
 .ssh/known_hosts.old
