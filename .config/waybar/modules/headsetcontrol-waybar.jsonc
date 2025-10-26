@@ -1,0 +1,9 @@
+{
+  "custom/headsetcontrol-waybar": {
+    "format": "{}",
+    "return-type": "json",
+    "exec": "/usr/local/bin/headsetcontrol-waybar",
+    "interval": 10,
+    "tooltip": true,
+  },
+}

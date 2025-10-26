@@ -51,6 +51,14 @@
 .config/kolourpaintrc
 .config/rustdesk/*
 .config/sunshine/*
+.config/GIMP/
+.config/autostart/bitwarden.desktop
+.config/autostart/localsend_app.desktop
+.config/balenaEtcher/
+.config/kiorc
+.config/parallel/tmp/sshlogin/archlinux/
+.config/systemd/immich-machine-learning.container
+.config/tool_state
 
 .ssh/id_*
 .ssh/known_hosts.old
