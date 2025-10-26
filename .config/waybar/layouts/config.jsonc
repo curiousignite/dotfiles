@@ -43,6 +43,7 @@
       // "custom/server",
       "custom/brightness",
       "pulseaudio",
+      "custom/headsetcontrol-waybar",
       "pulseaudio#microphone",
       "custom/updates",
     ],

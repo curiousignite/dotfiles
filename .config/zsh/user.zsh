@@ -31,6 +31,7 @@ fi
 alias pwc='pwd | wl-copy'
 alias man='noglob man'
 alias icat='kitten icat'
+alias vim='nvim'
 #Edited for LOCAL
 . /etc/locale.conf
 export LANG LC_MONETARY LC_TIME

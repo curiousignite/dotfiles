@@ -18,15 +18,6 @@ set t_Co=256 "terminal colors
 
 set wildmenu " auto completion, trigger with <C-n> 
 
-
-let s:VIM_DIR = fnamemodify($MYVIMRC, ':h')
-if filereadable(s:VIM_DIR . '/colors/wallbash.vim')
-    colorscheme wallbash
-endif
-
-let s:VIM_DIR = fnamemodify($MYVIMRC, ':h')
-execute 'source ' . s:VIM_DIR . '/hyde.vim'
-
 " Adding your custom colorschem
 colorscheme habamax "the only nice built-in colorscheme 
 
@@ -34,3 +25,4 @@ nnoremap L $
 nnoremap H _
 vnoremap L $
 vnoremap H _
+nnoremap - :Explore<CR>
