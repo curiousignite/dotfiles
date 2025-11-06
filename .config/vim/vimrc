@@ -1,28 +1,45 @@
 let mapleader = " "
-
-syntax on "parser
+syntax on
 
 filetype plugin indent on
 
 set number
 set relativenumber
-
-" nvim defaults
 set tabstop=4        
 set shiftwidth=4     
 set expandtab        
+set scrolloff=10
+set ignorecase
+set smartcase
+set incsearch
+set hlsearch 
+set wildmenu
+set mouse=a
+set mousemodel=extend
+set encoding=utf-8
 
-set hlsearch "hilight search, :nohl to remove
-
-set t_Co=256 "terminal colors
-
-set wildmenu " auto completion, trigger with <C-n> 
-
-" Adding your custom colorschem
-colorscheme habamax "the only nice built-in colorscheme 
+colorscheme habamax 
 
 nnoremap L $
 nnoremap H _
 vnoremap L $
 vnoremap H _
 nnoremap - :Explore<CR>
+nnoremap <F5> :UndotreeToggle<CR>
+nnoremap <C-h> <C-w><C-h>
+nnoremap <C-j> <C-w><C-j>
+nnoremap <C-k> <C-w><C-k>
+nnoremap <C-l> <C-w><C-l>
+
+if has("persistent_undo")
+   let target_path = expand('~/.undodir')
+
+    " create the directory and any parent directories
+    " if the location does not exist.
+    if !isdirectory(target_path)
+        call mkdir(target_path, "p", 0700)
+    endif
+
+    let &undodir=target_path
+    set undofile
+endif
