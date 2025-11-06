@@ -650,6 +650,7 @@ require("lazy").setup({
           },
         },
         ruff = {},
+        prettier = {},
         markdownlint = {},
         ts_ls = {},
         -- markdown_oxide = {},
@@ -1061,46 +1062,3 @@ vim.opt.wildmode = "longest:full,full"
 vim.opt.smoothscroll = true
 
 vim.keymap.set('n', '<Esc><Esc>', "<cmd>w<CR>", { desc = "Save file" })
-
-vim.keymap.set("n", "<leader>x", function()
-  local command         = ""
-  local source_file     = vim.fn.expand("%:p")
-  local executable_file = vim.fn.expand("%:p:r")
-
-  if vim.o.filetype == 'c' then
-    command = command .. "gcc "
-  elseif vim.o.filetype == 'cpp' then
-    command = command .. "g++ "
-  else
-    command = command .. "chmod +x "
-    command = command .. source_file
-    command = command .. " && "
-  end
-  if vim.o.filetype == 'c' or vim.o.filetype == 'cpp' then
-    command = command .. " -Wall"
-    command = command .. " -Wextra"
-    command = command .. " -o "
-    command = command .. executable_file
-    command = command .. vim.fn.expand(" ")
-    command = command .. source_file
-    command = command .. " && "
-    command = command .. executable_file
-  elseif string.match(vim.fn.getline(1), "^#!/") then
-    command = command .. vim.fn.shellescape(source_file)
-  elseif vim.o.filetype == 'python' then
-    command = command .. vim.fn.expand("python3 ")
-    command = command .. source_file
-  elseif vim.o.filetype == 'lua' then
-    command = command .. vim.fn.expand("lua ")
-    command = command .. source_file
-  else
-    print("Unknown file type `" .. vim.o.filetype .. "`")
-  end
-
-  if command ~= "" then
-    vim.cmd("10 split")
-    vim.cmd("terminal " .. command)
-    vim.cmd("startinsert")
-    vim.cmd(":wincmd j")
-  end
-end, { desc = "Compile and run the current file" })
