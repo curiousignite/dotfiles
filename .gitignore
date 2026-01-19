@@ -9,6 +9,9 @@
 .directory_history
 .venv
 
+#Vim
+.config/nvim/lazy-lock.json
+
 #Browsers
 *.sqlite
 .config/discord/*
@@ -18,6 +21,7 @@
 
 #Redundant
 '.config/Code - OSS/*'
+.config/Code - OSS/*
 .config/Deskflow/*
 .config/Microsoft/*
 .config/go/*
