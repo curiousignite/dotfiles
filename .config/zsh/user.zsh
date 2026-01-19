@@ -32,6 +32,7 @@ alias pwc='pwd | wl-copy'
 alias man='noglob man'
 alias icat='kitten icat'
 alias vim='nvim'
+alias lu='eza -lhau --icons=auto --sort=name --group-directories-first' # long list all with the last access date
 #Edited for LOCAL
 . /etc/locale.conf
 export LANG LC_MONETARY LC_TIME

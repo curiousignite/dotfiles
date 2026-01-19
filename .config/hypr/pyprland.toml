@@ -16,8 +16,8 @@
     # term_with_class = "hyde-shell app -T" # You cannot set the class for this
     # term_with_class = "alacritty --class"
     # term_with_class = "foot --app-id"
-    # term_with_class = "kitty --class"
-    term_with_class = "ghostty --class"
+    term_with_class = "kitty --class"
+    # term_with_class = "ghostty --class"
 
 
 [scratchpads.console]
