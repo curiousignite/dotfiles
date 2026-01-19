@@ -33,6 +33,7 @@ application/x-yaml=nvim.desktop
 application/xml=nvim.desktop
 text/xml=nvim.desktop
 text/x-script.python=nvim.desktop
+x-scheme-handler/ror2mm=r2modman.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;userapp-Zen-MC9YA3.desktop;
