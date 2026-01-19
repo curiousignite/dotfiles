@@ -59,6 +59,10 @@
 .config/parallel/tmp/sshlogin/archlinux/
 .config/systemd/immich-machine-learning.container
 .config/tool_state
+.config/BraveSoftware/
+.config/chromium/
+.config/qt5ct/colors/
+.config/qt6ct/colors/
 
 .ssh/id_*
 .ssh/known_hosts.old
