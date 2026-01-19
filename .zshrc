@@ -12,7 +12,8 @@ source $ZSH/oh-my-zsh.sh
 alias c='clear' # clear terminal
 alias l='eza -lh --icons=auto' # long list
 alias ls='eza -1 --icons=auto' # short list
-alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
+alias ll='eza -lha  --icons=auto --sort=name --group-directories-first' # long list all
+alias lu='eza -lhau --icons=auto --sort=name --group-directories-first' # long list all with the last access date
 
 # Directory navigation shortcuts
 alias ..='cd ..'
