@@ -9,8 +9,8 @@ return {
     require("oil").setup({
       view_options = {
         show_hidden = true,
-        skip_confirm_for_simple_edits = true,
       },
+      skip_confirm_for_simple_edits = true,
       default_file_explorer = true,
       keymaps = {
         ["g?"] = { "actions.show_help", mode = "n" },
@@ -28,7 +28,6 @@ return {
         ["g."] = { "actions.toggle_hidden", mode = "n" },
         ["g\\"] = { "actions.toggle_trash", mode = "n" },
       },
-      -- Set to false to disable all of the above keymaps
       use_default_keymaps = false,
     })
     vim.keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Open parent directory" })

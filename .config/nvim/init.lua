@@ -37,21 +37,18 @@ vim.bo.softtabstop = 2
 
 -- vim.opt.clipboard = nil
 
-vim.g.clipboard = {
-  name = "OSC 52",
-  copy = {
-    ["+"] = require("vim.ui.clipboard.osc52").copy("+"),
-    ["*"] = require("vim.ui.clipboard.osc52").copy("*"),
-  },
-  paste = {
-    ["+"] = require("vim.ui.clipboard.osc52").paste("+"),
-    ["*"] = require("vim.ui.clipboard.osc52").paste("*"),
-  },
-}
-
-vim.schedule(function()
-  vim.opt.clipboard = "unnamedplus"
-end)
+-- vim.g.clipboard = {
+--   name = "OSC 52",
+--   copy = {
+--     ["+"] = require("vim.ui.clipboard.osc52").copy("+"),
+--     ["*"] = require("vim.ui.clipboard.osc52").copy("*"),
+--   },
+--   paste = {
+--     ["+"] = require("vim.ui.clipboard.osc52").paste("+"),
+--     ["*"] = require("vim.ui.clipboard.osc52").paste("*"),
+--   },
+-- }
+vim.opt.clipboard = "unnamedplus"
 
 -- Enable break indent
 vim.opt.breakindent = true
@@ -273,7 +270,6 @@ require("lazy").setup({
       },
     },
   },
-
   -- NOTE: Plugins can specify dependencies.
   --
   -- The dependencies are proper plugin specifications as well - anything
@@ -652,13 +648,10 @@ require("lazy").setup({
         ruff = {},
         prettierd = {},
         prettier = {},
-        markdownlint = {},
         ts_ls = {},
         html = {},
         cssls = {},
-        -- markdown_oxide = {},
-        -- gopls = {},
-        -- rust_analyzer = {},
+        gopls = {},
 
         lua_ls = {
           -- cmd = { ... },
@@ -761,8 +754,8 @@ require("lazy").setup({
         jsonc = { "prettierd", "prettier" },
         less = { "prettierd", "prettier" },
         html = { "prettierd", "prettier" },
-        markdown = { "markdownlint-cli2 " },
-        ["markdown.mdx"] = { "markdownlint-cli2 " },
+        markdown = { "markdownlint-cli2" },
+        ["markdown.mdx"] = { "markdownlint-cli2" },
       },
       formatters = {
         -- stylua = {
@@ -1065,3 +1058,5 @@ vim.opt.wildmode = "longest:full,full"
 vim.opt.smoothscroll = true
 
 vim.keymap.set('n', '<Esc><Esc>', "<cmd>w<CR>", { desc = "Save file" })
+vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
+vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
