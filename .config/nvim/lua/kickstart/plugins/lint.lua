@@ -7,7 +7,15 @@ return {
       lint.linters_by_ft = {
         markdown = { "markdownlint" },
       }
-      -- lint.linters.markdownlint.args = { "--disable", "MD013", "--" }
+      lint.linters.markdownlint.args = {
+        "--stdin", -- Essential: tells linter to read from the buffer
+        "--disable",
+        "MD013",   -- line length
+        "MD035",   -- horizontal lines
+        "MD059",   -- descriptive link text
+        "MD033",   -- no-inline-html
+        "--"
+      }
       local lint_augroup = vim.api.nvim_create_augroup("lint", { clear = true })
       vim.api.nvim_create_autocmd({ "BufEnter", "BufWritePost", "InsertLeave" }, {
         group = lint_augroup,
