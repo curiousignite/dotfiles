@@ -68,5 +68,15 @@
 .config/qt5ct/colors/
 .config/qt6ct/colors/
 
+.config/Archon App Beta/
+.config/Discord Key Storage/
+.config/Owlboy/
+.config/audacity/
+.config/dconf/
+.config/menus/applications-merged/
+.config/mimeapps.list
+.config/ow-electron/
+.config/qt6ct/
+
 .ssh/*
 

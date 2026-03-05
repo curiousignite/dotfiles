@@ -115,6 +115,8 @@ vim.keymap.set("n", "<down>", '<cmd>echo "Use j to move!!"<CR>')
 vim.keymap.set({ "n", "v" }, "L", "$", { desc = "Go to the end of line" })
 vim.keymap.set({ "n", "v" }, "H", "_", { desc = "Go to the start of line" })
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
+vim.keymap.set("n", "<Tab>", ":tabnext<CR>")
+vim.keymap.set("n", "<S-Tab>", ":tabprevious<CR>")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "J", "mzJ`z")
 vim.keymap.set("n", "<C-d>", "<C-d>zz")
@@ -329,6 +331,9 @@ require("lazy").setup({
         -- defaults = {
         --   mappings = {
         --     i = { ['<c-enter>'] = 'to_fuzzy_refine' },
+        --           ['<Tab>']     = require("telescope.actions").move_selection_next,
+        --           ['<S-Tab>']   = require("telescope.actions").move_selection_previous,
+        --
         --   },
         -- },
         -- pickers = {}
@@ -349,13 +354,11 @@ require("lazy").setup({
       vim.keymap.set("n", "<leader>sk", builtin.keymaps, { desc = "[S]earch [K]eymaps" })
       vim.keymap.set("n", "<leader>sd", builtin.diagnostics, { desc = "[S]earch [D]iagnostics" })
       vim.keymap.set("n", "<leader>sr", builtin.resume, { desc = "[S]earch [R]esume" })
-      vim.keymap.set("n", "<leader>s.", builtin.oldfiles, { desc = '[S]earch Recent Files ("." for repeat)' })
-      vim.keymap.set("n", "<leader><leader>", builtin.buffers, { desc = "[ ] Find existing buffers" })
-      -- vim.keymap.set("n", "<leader>ss", builtin.builtin, { desc = "[S]earch [S]elect Telescope" })
+      vim.keymap.set("n", "<leader><leader>", builtin.oldfiles, { desc = '[ ] Find existing buffers' })
+      vim.keymap.set("n", "<leader>s.", builtin.buffers, { desc = "[S]earch Recent Files" })
+      vim.keymap.set("n", "<leader>ss", builtin.builtin, { desc = "[S]earch [S]elect Telescope" })
 
-      -- Slightly advanced example of overriding default behavior and theme
       vim.keymap.set("n", "<leader>/", function()
-        -- You can pass additional configuration to Telescope to change the theme, layout, etc.
         builtin.current_buffer_fuzzy_find(require("telescope.themes").get_dropdown({
           winblend = 10,
         }))
@@ -652,6 +655,7 @@ require("lazy").setup({
         html = {},
         cssls = {},
         gopls = {},
+        markdown_oxide = {},
 
         lua_ls = {
           -- cmd = { ... },
@@ -690,6 +694,8 @@ require("lazy").setup({
       local ensure_installed = vim.tbl_keys(servers or {})
       vim.list_extend(ensure_installed, {
         "stylua", -- Used to format Lua code
+        "markdownlint-cli2",
+        "markdown-toc",
       })
       require("mason-tool-installer").setup({ ensure_installed = ensure_installed })
 
@@ -754,10 +760,27 @@ require("lazy").setup({
         jsonc = { "prettierd", "prettier" },
         less = { "prettierd", "prettier" },
         html = { "prettierd", "prettier" },
-        markdown = { "markdownlint-cli2" },
-        ["markdown.mdx"] = { "markdownlint-cli2" },
+        ["markdown"] = { "prettier", "markdownlint-cli2", "markdown-toc" },
+        ["markdown.mdx"] = { "prettier", "markdownlint-cli2", "markdown-toc" },
       },
       formatters = {
+        ["markdown-toc"] = {
+          condition = function(_, ctx)
+            for _, line in ipairs(vim.api.nvim_buf_get_lines(ctx.buf, 0, -1, false)) do
+              if line:find("<!%-%- toc %-%->") then
+                return true
+              end
+            end
+          end,
+        },
+        ["markdownlint-cli2"] = {
+          condition = function(_, ctx)
+            local diag = vim.tbl_filter(function(d)
+              return d.source == "markdownlint"
+            end, vim.diagnostic.get(ctx.buf))
+            return #diag > 0
+          end,
+        },
         -- stylua = {
         --   prepend_args = {
         --     "--indent-type",
@@ -1058,5 +1081,3 @@ vim.opt.wildmode = "longest:full,full"
 vim.opt.smoothscroll = true
 
 vim.keymap.set('n', '<Esc><Esc>', "<cmd>w<CR>", { desc = "Save file" })
-vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
-vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
