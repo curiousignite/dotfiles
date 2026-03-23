@@ -31,9 +31,6 @@ alias mkdir='mkdir -p'
 # Display Pokemon
 # pokemon-colorscripts --no-title -r 1
 
-export SUDO_EDITOR=/usr/bin/nvim
-export EDITOR=/usr/bin/nvim
-export VISUAL=/usr/bin/nvim
 
 # For setting python enviroment
 # export PYENV_ROOT="$HOME/.pyenv"

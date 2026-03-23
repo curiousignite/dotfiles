@@ -36,19 +36,19 @@ vim.bo.softtabstop = 2
 --  See `:help 'clipboard'`
 
 -- vim.opt.clipboard = nil
-
--- vim.g.clipboard = {
---   name = "OSC 52",
---   copy = {
---     ["+"] = require("vim.ui.clipboard.osc52").copy("+"),
---     ["*"] = require("vim.ui.clipboard.osc52").copy("*"),
---   },
---   paste = {
---     ["+"] = require("vim.ui.clipboard.osc52").paste("+"),
---     ["*"] = require("vim.ui.clipboard.osc52").paste("*"),
---   },
--- }
 vim.opt.clipboard = "unnamedplus"
+
+vim.g.clipboard = {
+  name = "OSC 52",
+  copy = {
+    ["+"] = require("vim.ui.clipboard.osc52").copy("+"),
+    ["*"] = require("vim.ui.clipboard.osc52").copy("*"),
+  },
+  paste = {
+    ["+"] = require("vim.ui.clipboard.osc52").paste("+"),
+    ["*"] = require("vim.ui.clipboard.osc52").paste("*"),
+  },
+}
 
 -- Enable break indent
 vim.opt.breakindent = true
@@ -115,7 +115,7 @@ vim.keymap.set("n", "<down>", '<cmd>echo "Use j to move!!"<CR>')
 vim.keymap.set({ "n", "v" }, "L", "$", { desc = "Go to the end of line" })
 vim.keymap.set({ "n", "v" }, "H", "_", { desc = "Go to the start of line" })
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
-vim.keymap.set("n", "<Tab>", ":tabnext<CR>")
+-- vim.keymap.set("n", "<Tab>", ":tabnext<CR>")
 vim.keymap.set("n", "<S-Tab>", ":tabprevious<CR>")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "J", "mzJ`z")
@@ -146,7 +146,8 @@ vim.api.nvim_create_autocmd("TextYankPost", {
   desc = "Highlight when yanking (copying) text",
   group = vim.api.nvim_create_augroup("kickstart-highlight-yank", { clear = true }),
   callback = function()
-    vim.hl.on_yank()
+    -- vim.hl.on_yank()
+    vim.highlight.on_yank()
   end,
 })
 
@@ -356,7 +357,6 @@ require("lazy").setup({
       vim.keymap.set("n", "<leader>sr", builtin.resume, { desc = "[S]earch [R]esume" })
       vim.keymap.set("n", "<leader><leader>", builtin.oldfiles, { desc = '[ ] Find existing buffers' })
       vim.keymap.set("n", "<leader>s.", builtin.buffers, { desc = "[S]earch Recent Files" })
-      vim.keymap.set("n", "<leader>ss", builtin.builtin, { desc = "[S]earch [S]elect Telescope" })
 
       vim.keymap.set("n", "<leader>/", function()
         builtin.current_buffer_fuzzy_find(require("telescope.themes").get_dropdown({
@@ -375,10 +375,6 @@ require("lazy").setup({
       vim.keymap.set("n", "<leader>sw", function()
         builtin.grep_string({ cwd = vim.fn.expand("%:p:h") })
       end, { desc = "[S]earch current [W]ord" })
-
-      vim.keymap.set("n", "<leader>sf", function()
-        builtin.find_files({ cwd = vim.fn.expand("%:p:h") })
-      end, { desc = "[S]earch [F]iles" })
 
       vim.keymap.set("n", "<C-f>", function()
         builtin.find_files({ cwd = os.getenv("HOME") .. "/Programming" })
@@ -464,8 +460,8 @@ require("lazy").setup({
           --  To jump back, press <C-t>.
 
           --TODO:  Changed with the default vim definition because of the warning. Check after update.
-          map("gd", require("telescope.builtin").lsp_definitions, "[G]oto [D]efinition")
-          -- map("gd", vim.lsp.buf.definition, "[G]oto [D]efinition")
+          -- map("gd", require("telescope.builtin").lsp_definitions, "[G]oto [D]efinition")
+          map("gd", vim.lsp.buf.definition, "[G]oto [D]efinition")
 
           -- Find references for the word under your cursor.
           map("gr", require("telescope.builtin").lsp_references, "[G]oto [R]eferences")
@@ -549,7 +545,7 @@ require("lazy").setup({
           -- This may be unwanted, since they displace some of your code
           if client and client_supports_method(client, vim.lsp.protocol.Methods.textDocument_inlayHint, event.buf) then
             map("<leader>th", function()
-              vim.lsp.inlay_hint.enable(not vim.lsp.inlaybhint.is_enabled({ bufnr = event.buf }))
+              vim.lsp.inlay_hint.enable(not vim.lsp.inlay_hint.is_enabled({ bufnr = event.buf }))
             end, "[T]oggle Inlay [H]ints")
           end
         end,
@@ -718,7 +714,7 @@ require("lazy").setup({
       {
         "<leader>f",
         function()
-          require("conform").format({ async = true, lsp_format = "fallback", stop_after_first = true })
+          require("conform").format({ async = true, lsp_format = "fallback" })
         end,
         mode = "",
         desc = "[F]ormat buffer",
@@ -726,24 +722,28 @@ require("lazy").setup({
     },
     opts = {
       notify_on_error = false,
-      format_on_save = function()
-        -- Disable "format_on_save lsp_fallback" for languages that don't
-        -- have a well standardized coding style. You can add additional
-        -- languages here or re-enable it for the disabled ones.
-
-        -- local disable_filetypes = { c = true, cpp = true }
-        local lsp_format_opt
-        -- if disable_filetypes[vim.bo[bufnr].filetype] then
-        --   lsp_format_opt = 'never'
-        -- else
-        --   lsp_format_opt = 'fallback'
-        -- end
-        lsp_format_opt = "fallback"
-        return {
-          timeout_ms = 500,
-          lsp_format = lsp_format_opt,
-        }
-      end,
+      format_on_save = {
+        timeout_ms = 500,
+        lsp_format = "fallback",
+      },
+      -- format_on_save = function()
+      --   -- Disable "format_on_save lsp_fallback" for languages that don't
+      --   -- have a well standardized coding style. You can add additional
+      --   -- languages here or re-enable it for the disabled ones.
+      --
+      --   -- local disable_filetypes = { c = true, cpp = true }
+      --   local lsp_format_opt
+      --   -- if disable_filetypes[vim.bo[bufnr].filetype] then
+      --   --   lsp_format_opt = 'never'
+      --   -- else
+      --   --   lsp_format_opt = 'fallback'
+      --   -- end
+      --   lsp_format_opt = "fallback"
+      --   return {
+      --     timeout_ms = 500,
+      --     lsp_format = lsp_format_opt,
+      --   }
+      -- end,
       formatters_by_ft = {
         -- lua = { "stylua" },
         bash = { "beautysh" },
@@ -1027,7 +1027,7 @@ require("lazy").setup({
         --  the list of additional_vim_regex_highlighting and disabled languages for indent.
         additional_vim_regex_highlighting = { "ruby" },
       },
-      indent = { enable = true, disable = { "ruby" } },
+      indent = { enable = true, disable = { "ruby", "markdown", "markdown_inline" } },
     },
     -- There are additional nvim-treesitter modules that you can use to interact
     -- with nvim-treesitter. You should go explore a few and see what interests you:
@@ -1070,11 +1070,11 @@ require("lazy").setup({
 -- vim: ts=2 sts=2 sw=2 et
 
 -- Custom Settings
+
 vim.opt.guicursor = ""
 vim.opt.backup = false
 vim.opt.swapfile = false
 vim.opt.undodir = os.getenv("HOME") .. "/.vim.undodir"
-vim.opt.undofile = true
 vim.opt.colorcolumn = "88"
 vim.opt.conceallevel = 0
 vim.opt.wildmode = "longest:full,full"
