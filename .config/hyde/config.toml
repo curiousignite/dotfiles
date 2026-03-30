@@ -7,9 +7,9 @@
 # Wallpaper configuration.
 [wallpaper]
 custom_paths = []  # List of paths to search for wallpapers.
-backend = "swww"  # Wallpaper backend, requires 'wallpaper.<backend>.sh' as handler script in $PATH
+backend = "awww"  # Wallpaper backend, requires 'wallpaper.<backend>.sh' as handler script in $PATH
 # swwwallselect.sh configuration.
-[wallpaper.swww]
+[wallpaper.awww]
 framerate = 144              # Transition framerate.
 duration = 1                 # Transition duration.
 transition_next = "grow"     # Transition type for next wallpaper.
@@ -208,7 +208,7 @@ font_size = 10  # Font size for notifications.
 
 # Hyprland configuration.
 [hyprland]
-browser = "firefox"  # Browser.
+browser = "zen-browser"  # Browser.
 editor = "nvim"  # Editor.
 explorer = "dolphin"  # File manager.
 idle = "hypridle"  # Idle manager.
@@ -227,7 +227,7 @@ font = "Canterell"  # Font.
 font_antialiasing = "rgba"  # Font antialiasing.
 font_hinting = "full"  # Font hinting.
 font_size = 10  # Font size.
-monospace_font = "CaskaydiaCove Nerd Font Mono"  # Monospace font.
+monospace_font = "JetBrainsMono Nerd Font"  # Monospace font.
 monospace_font_size = 9  # Monospace font size.
 background_path = ""  # LockScreen's Background path.
 
