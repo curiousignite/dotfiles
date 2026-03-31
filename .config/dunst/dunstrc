@@ -85,10 +85,10 @@ browser = /usr/bin/xdg-open
 always_run_script = true
 title = Dunst
 class = Dunst
-ignore_dbusclose = true
+ignore_dbusclose = false
 force_xwayland = false
 force_xinerama = false
-mouse_left_click = do_action, close_current
+mouse_left_click = context, close_current
 mouse_middle_click = do_action, close_current
 mouse_right_click = close_all
 [experimental]
@@ -102,14 +102,6 @@ new_icon = telegram-desktop
 [skype]
 desktop_entry = "^Skype$"
 new_icon = skype
-[kdeconnect_calls]
-desktop_entry = "^org.kde.kdeconnect.daemon$"
-body = "Incoming call*"
-timeout = 5
-[kdeconnect_missed]
-desktop_entry = "^org.kde.kdeconnect.daemon$"
-body = "Missed call*"
-timeout = 5
 # HyDE Mandatory section // Non overridable // please open a request in https://github.com/HyDE-Project/HyDE
 # ------------------------------------------------------------------------------
 [global]

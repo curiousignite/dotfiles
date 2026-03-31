@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/berke/.android'
+let g:netrw_dirhist_7='/home/berke'
+let g:netrw_dirhist_6='/home/berke/.steam'
+let g:netrw_dirhist_5='/home/berke'
 let g:netrw_dirhist_4='/home/berke/.dotfiles/.config/vim'
 let g:netrw_dirhist_3='/home/berke/.config/vim'
 let g:netrw_dirhist_2='/home/berke/Templates'
