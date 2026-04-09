@@ -78,6 +78,10 @@
 .config/ow-electron/
 .config/qt6ct/
 .config/vesktop/
+.config/Cemu/
+.config/Element/
+.config/Ryujinx/
+.config/filetypesrc
 
 .ssh/*
 
