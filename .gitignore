@@ -82,6 +82,7 @@
 .config/Element/
 .config/Ryujinx/
 .config/filetypesrc
+.config/Vortex/
 
 .ssh/*
 
