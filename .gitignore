@@ -8,6 +8,24 @@
 *._zinit
 .directory_history
 .venv
+# secrets
+.env
+.env.*
+!.env.example
+
+secrets.toml
+secrets.yaml
+secrets.json
+
+*.key
+*.pem
+*.p12
+*.kubeconfig
+
+# app-specific
+.config/rclone/rclone.conf
+.config/gh/hosts.yml
+.config/discord/token*
 
 #Vim
 .config/nvim/lazy-lock.json
