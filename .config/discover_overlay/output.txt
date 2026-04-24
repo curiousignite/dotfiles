@@ -1,0 +1,858 @@
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+WARNING - discover_overlay.discord_connector - Connection closed
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+WARNING - discover_overlay.discord_connector - Connection closed
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): streamkit.discord.com:443
+DEBUG - urllib3.connectionpool - https://streamkit.discord.com:443 "POST /overlay/token HTTP/1.1" 200 None
+INFO - discover_overlay.discord_connector - ID is 258572903199539200
+INFO - discover_overlay.discord_connector - Logged in as berkeerbagci
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): cdn.discordapp.com:443
+DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): cdn.discordapp.com:443
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - urllib3.connectionpool - https://cdn.discordapp.com:443 "GET /avatars/258572903199539200/95363d3ccb4694b2381c2ce18e004890.png HTTP/1.1" 200 31137
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 41 8192
+DEBUG - urllib3.connectionpool - https://cdn.discordapp.com:443 "GET /avatars/123063543913250816/a_d710d6ae73b74a26f0bf4178fc36dd87.png HTTP/1.1" 200 37135
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 41 8192
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+ERROR - discover_overlay.discover_overlay - Connection timed out
+ERROR - discover_overlay.discover_overlay - Traceback (most recent call last):
+  File "/usr/lib/python3.14/site-packages/websocket/_socket.py", line 127, in recv
+    bytes_ = _recv()
+  File "/usr/lib/python3.14/site-packages/websocket/_socket.py", line 99, in _recv
+    return sock.recv(bufsize)
+           ~~~~~~~~~^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.14/site-packages/discover_overlay/discover_overlay.py", line 582, in entrypoint
+    Discover(rpc_file, config_file, channel_file,
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+             debug_file, sys.argv[1:])
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/discover_overlay/discover_overlay.py", line 81, in __init__
+    self.connection.connect()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/site-packages/discover_overlay/discord_connector.py", line 815, in connect
+    self.websocket = websocket.create_connection(
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        f"ws://127.0.0.1:6463/?v=1&client_id={self.oauth_token}",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        origin="https://streamkit.discord.com",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=0.5
+        ^^^^^^^^^^^
+    )
+    ^
+  File "/usr/lib/python3.14/site-packages/websocket/_core.py", line 664, in create_connection
+    websock.connect(url, **options)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/websocket/_core.py", line 268, in connect
+    self.handshake_response = handshake(self.sock, url, *addrs, **options)
+                              ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/site-packages/websocket/_handshake.py", line 66, in handshake
+    status, resp = _get_resp_headers(sock)
+                   ~~~~~~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.14/site-packages/websocket/_handshake.py", line 142, in _get_resp_headers
+    status, resp_headers, status_message = read_headers(sock)
+                                           ~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.14/site-packages/websocket/_http.py", line 385, in read_headers
+    line = recv_line(sock)
+  File "/usr/lib/python3.14/site-packages/websocket/_socket.py", line 151, in recv_line
+    c = recv(sock, 1)
+  File "/usr/lib/python3.14/site-packages/websocket/_socket.py", line 129, in recv
+    raise WebSocketTimeoutException("Connection timed out")
+websocket._exceptions.WebSocketTimeoutException: Connection timed out
+
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+WARNING - discover_overlay.discord_connector - Connection closed
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+WARNING - discover_overlay.discord_connector - Connection closed
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Connecting...
+WARNING - discover_overlay.discord_connector - Connection closed
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discover_overlay - Starting Discover Overlay: 0.7.9
+INFO - discover_overlay.discord_connector - Connecting...
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6464
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6465
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6466
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6467
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6468
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6469
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6470
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6471
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6472
+INFO - discover_overlay.discord_connector - Trying Discord RPC port 6463
+INFO - discover_overlay.discord_connector - Connected to Discord RPC port 6463
+DEBUG - PIL.Image - Importing PngImagePlugin
+DEBUG - PIL.PngImagePlugin - STREAM b'IHDR' 16 13
+DEBUG - PIL.PngImagePlugin - STREAM b'pHYs' 41 9
+DEBUG - PIL.PngImagePlugin - STREAM b'tEXt' 62 25
+DEBUG - PIL.PngImagePlugin - STREAM b'IDAT' 99 4965
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.audio_assist - Starting Audio subsystem assistance
+DEBUG - asyncio - Using selector: EpollSelector
+WARNING - discover_overlay.discord_connector - Connection closed
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+INFO - discover_overlay.discord_connector - Scheduled a reconnect
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint
+DEBUG - discover_overlay.overlay - Already awaiting paint

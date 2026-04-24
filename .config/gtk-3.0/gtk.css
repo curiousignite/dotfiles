@@ -1,0 +1,31 @@
+/* Popup/menu corner fix */
+menu,
+.popup,
+popover,
+.background.popup,
+.background.menu,
+csd.popup decoration,
+.popup decoration {
+  border-radius: 14px;
+  -gtk-outline-radius: 14px;
+  box-shadow: none;
+  background-clip: padding-box;
+}
+
+/* Force inner layer to clip to same curve */
+menu > decoration,
+.popup > decoration,
+popover > contents,
+menuitem,
+modelbutton {
+  border-radius: 10px;
+  background-clip: padding-box;
+}
+
+/* Prevent square bottom artifacts */
+window.background.popup,
+window.popup,
+window.csd.popup {
+  border-radius: 14px;
+  background-clip: padding-box;
+}

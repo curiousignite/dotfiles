@@ -21,7 +21,8 @@
     "enabledPlugins": [
       "hltb-for-millennium",
       "non-steam-playtimes",
-      "extendium"
+      "extendium",
+      "achievement-groups"
     ]
   },
   "themes": {

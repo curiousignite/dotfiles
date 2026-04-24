@@ -147,8 +147,7 @@ vim.api.nvim_create_autocmd("TextYankPost", {
   desc = "Highlight when yanking (copying) text",
   group = vim.api.nvim_create_augroup("kickstart-highlight-yank", { clear = true }),
   callback = function()
-    -- vim.hl.on_yank()
-    vim.highlight.on_yank()
+    vim.hl.on_yank()
   end,
 })
 
@@ -502,7 +501,7 @@ require("lazy").setup({
           ---@return boolean
           local function client_supports_method(client, method, bufnr)
             if vim.fn.has("nvim-0.11") == 1 or vim.fn.has("nvim-0.12") == 1 then
-              return client:supports_method(method, bufnr)
+              return client:supports_method(method, { bufnr = bufnr })
             else
               return client.supports_method(method, { bufnr = bufnr })
             end
@@ -596,6 +595,9 @@ require("lazy").setup({
       --  - settings (table): Override the default settings passed when initializing the server.
       --        For example, to see the options for `lua_ls`, you could go to: https://luals.github.io/wiki/settings/
 
+      local capabilities = vim.lsp.protocol.make_client_capabilities()
+      capabilities = vim.tbl_deep_extend("force", capabilities, require("cmp_nvim_lsp").default_capabilities())
+
       local servers = {
         clangd = {
           capabilities = {
@@ -606,7 +608,6 @@ require("lazy").setup({
               },
             },
           },
-          -- cmd = { "clangd" },
           cmd = {
             "clangd",
             "--background-index",
@@ -646,8 +647,6 @@ require("lazy").setup({
           },
         },
         -- ruff = {},
-        prettierd = {},
-        prettier = {},
         ts_ls = {},
         html = {},
         cssls = {},
@@ -699,7 +698,13 @@ require("lazy").setup({
       -- Installed LSPs are configured and enabled automatically with mason-lspconfig
       -- The loop below is for overriding the default configuration of LSPs with the ones in the servers table
       for server_name, config in pairs(servers) do
-        vim.lsp.config(server_name, config)
+        config.capabilities = vim.tbl_deep_extend("force", {}, capabilities, config.capabilities or {})
+        if vim.lsp.config and vim.lsp.enable then
+          vim.lsp.config(server_name, config)
+          vim.lsp.enable(server_name)
+        else
+          require("lspconfig")[server_name].setup(config)
+        end
       end
 
       -- NOTE: Some servers may require an old setup until they are updated. For the full list refer here: https://github.com/neovim/nvim-lspconfig/issues/3705
@@ -723,30 +728,7 @@ require("lazy").setup({
     },
     opts = {
       notify_on_error = false,
-      -- format_on_save = {
-      --   timeout_ms = 500,
-      --   lsp_format = "fallback",
-      -- },
-      -- format_on_save = function()
-      --   -- Disable "format_on_save lsp_fallback" for languages that don't
-      --   -- have a well standardized coding style. You can add additional
-      --   -- languages here or re-enable it for the disabled ones.
-      --
-      --   -- local disable_filetypes = { c = true, cpp = true }
-      --   local lsp_format_opt
-      --   -- if disable_filetypes[vim.bo[bufnr].filetype] then
-      --   --   lsp_format_opt = 'never'
-      --   -- else
-      --   --   lsp_format_opt = 'fallback'
-      --   -- end
-      --   lsp_format_opt = "fallback"
-      --   return {
-      --     timeout_ms = 500,
-      --     lsp_format = lsp_format_opt,
-      --   }
-      -- end,
       formatters_by_ft = {
-        -- lua = { "stylua" },
         bash = { "beautysh" },
         sh = { "beautysh" },
         go = { "goimports", "gofumpt", "goimports-reviser" },
@@ -782,14 +764,6 @@ require("lazy").setup({
             return #diag > 0
           end,
         },
-        -- stylua = {
-        --   prepend_args = {
-        --     "--indent-type",
-        --     "Spaces",
-        --     "--indent-width",
-        --     "2",
-        --   },
-        -- },
         beautysh = {
           prepend_args = {
             "--indent-size",
@@ -927,15 +901,13 @@ require("lazy").setup({
     -- change the command in the config to whatever the name of that colorscheme is.
     --
     -- If you want to see what colorschemes are already installed, you can use `:Telescope colorscheme`.
-    -- 'folke/tokyonight.nvim',
-    "catppuccin/nvim",
+    'folke/tokyonight.nvim',
     priority = 1000, -- Make sure to load this before all the other start plugins.
     init = function()
       -- Load the colorscheme here.
       -- Like many other themes, this one has different styles, and you could load
       -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
-      vim.cmd.colorscheme("catppuccin-mocha")
-
+      vim.cmd.colorscheme("tokyonight-moon")
       -- You can configure highlights by doing something like:
       vim.cmd.hi("Comment gui=none")
     end,
@@ -976,7 +948,13 @@ require("lazy").setup({
       -- - sd'   - [S]urround [D]elete [']quotes
       -- - sr)'  - [S]urround [R]eplace [)] [']
       require("mini.surround").setup()
-
+      local function getWords()
+        if vim.fn.mode() == "v" or vim.fn.mode() == "V" or vim.fn.mode() == "" then
+          return vim.fn.wordcount().visual_words
+        else
+          return vim.fn.wordcount().words
+        end
+      end
       -- Simple and easy statusline.
       --  You could remove this setup call if you don't like it,
       --  and try some other statusline plugin
@@ -990,7 +968,8 @@ require("lazy").setup({
       -- cursor location to LINE:COLUMN
       ---@diagnostic disable-next-line: duplicate-set-field
       statusline.section_location = function()
-        return "%2l:%-2v"
+        local returnValue = getWords() .. "|%2l:%-2v"
+        return returnValue
       end
 
       -- ... and there is more!
@@ -999,9 +978,9 @@ require("lazy").setup({
   },
   { -- Highlight, edit, and navigate code
     "nvim-treesitter/nvim-treesitter",
-    dependencies = { 'nvim-treesitter/nvim-treesitter-textobjects' },
+    branch = "main",
+    dependencies = { { "nvim-treesitter/nvim-treesitter-textobjects", branch = "main" } },
     build = ":TSUpdate",
-    main = "nvim-treesitter.configs", -- Sets main module to use for opts
     -- [[ Configure Treesitter ]] See `:help nvim-treesitter`
     opts = {
       ensure_installed = {
@@ -1009,13 +988,8 @@ require("lazy").setup({
         "c",
         "diff",
         "html",
-        "lua",
-        "luadoc",
         "markdown",
         "markdown_inline",
-        "query",
-        "vim",
-        "vimdoc",
         "javascript",
         "python",
       },
@@ -1030,12 +1004,9 @@ require("lazy").setup({
       },
       indent = { enable = true, disable = { "ruby", "markdown", "markdown_inline" } },
     },
-    -- There are additional nvim-treesitter modules that you can use to interact
-    -- with nvim-treesitter. You should go explore a few and see what interests you:
-    --
-    --    - Incremental selection: Included, see `:help nvim-treesitter-incremental-selection-mod`
-    --    - Show your current context: https://github.com/nvim-treesitter/nvim-treesitter-context
-    --    - Treesitter + textobjects: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+    config = function(_, opts)
+      require("nvim-treesitter").setup(opts)
+    end,
   },
 
   -- The following comments only work if you have downloaded the kickstart repo, not just copy pasted the

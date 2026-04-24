@@ -6,7 +6,7 @@
 
 # Wallpaper configuration.
 [wallpaper]
-custom_paths = []  # List of paths to search for wallpapers.
+custom_paths = [~/.config/wallpapers]  # List of paths to search for wallpapers.
 backend = "awww"  # Wallpaper backend, requires 'wallpaper.<backend>.sh' as handler script in $PATH
 # swwwallselect.sh configuration.
 [wallpaper.awww]
