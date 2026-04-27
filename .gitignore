@@ -101,6 +101,7 @@ secrets.json
 .config/Ryujinx/
 .config/filetypesrc
 .config/Vortex/
+.config/net.imput.helium
 
 .ssh/*
 
