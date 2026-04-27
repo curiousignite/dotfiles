@@ -1,11 +1,11 @@
 [Unit]
 Description=Arctis Manager tray
-After=graphical-session.target
+After=graphical-session.target waybar.service
 Wants=graphical-session.target
 
 [Service]
 Type=simple
-ExecStart=/bin/sh -lc 'sleep 2; exec /usr/bin/lam-gui --systray'
+ExecStart=/usr/bin/lam-gui --systray
 Restart=on-failure
 RestartSec=2
 
