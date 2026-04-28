@@ -102,6 +102,7 @@ secrets.json
 .config/filetypesrc
 .config/Vortex/
 .config/net.imput.helium
+.config/arctis_manager
 
 .ssh/*
 

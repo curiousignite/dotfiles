@@ -664,23 +664,23 @@ require('lazy').setup({
       },
       -- You can also specify external formatters in here.
       formatters_by_ft = {
-        bash = { "beautysh" },
-        sh = { "beautysh" },
-        go = { "goimports", "gofumpt", "goimports-reviser" },
-        javascript = { "prettierd", "prettier" },
-        typescript = { "prettierd", "prettier" },
-        javascriptreact = { "prettierd", "prettier" },
-        typescriptreact = { "prettierd", "prettier" },
-        vue = { "prettierd", "prettier" },
-        css = { "prettierd", "prettier" },
-        scss = { "prettierd", "prettier" },
-        json = { "prettierd", "prettier" },
-        jsonc = { "prettierd", "prettier" },
-        less = { "prettierd", "prettier" },
-        html = { "prettierd", "prettier" },
-        gd = { "gdscript-formatter" },
-        ["markdown"] = { "prettier", "markdownlint-cli2", "markdown-toc" },
-        ["markdown.mdx"] = { "prettier", "markdownlint-cli2", "markdown-toc" },
+        bash = { 'beautysh' },
+        sh = { 'beautysh' },
+        go = { 'goimports', 'gofumpt', 'goimports-reviser' },
+        javascript = { 'prettierd', 'prettier' },
+        typescript = { 'prettierd', 'prettier' },
+        javascriptreact = { 'prettierd', 'prettier' },
+        typescriptreact = { 'prettierd', 'prettier' },
+        vue = { 'prettierd', 'prettier' },
+        css = { 'prettierd', 'prettier' },
+        scss = { 'prettierd', 'prettier' },
+        json = { 'prettierd', 'prettier' },
+        jsonc = { 'prettierd', 'prettier' },
+        less = { 'prettierd', 'prettier' },
+        html = { 'prettierd', 'prettier' },
+        gd = { 'gdscript-formatter' },
+        ['markdown'] = { 'prettier', 'markdownlint-cli2', 'markdown-toc' },
+        ['markdown.mdx'] = { 'prettier', 'markdownlint-cli2', 'markdown-toc' },
       },
     },
   },
@@ -707,9 +707,7 @@ require('lazy').setup({
           --    https://github.com/rafamadriz/friendly-snippets
           {
             'rafamadriz/friendly-snippets',
-            config = function()
-              require('luasnip.loaders.from_vscode').lazy_load()
-            end,
+            config = function() require('luasnip.loaders.from_vscode').lazy_load() end,
           },
         },
         opts = {},
@@ -862,7 +860,7 @@ require('lazy').setup({
     -- [[ Configure Treesitter ]] See `:help nvim-treesitter-intro`
     config = function()
       -- ensure basic parser are installed
-      local parsers = { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'python', 'javascript' }
+      local parsers = { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'python', 'javascript','gdscript' }
       require('nvim-treesitter').install(parsers)
 
       ---@param buf integer
@@ -971,16 +969,21 @@ vim.keymap.set('n', 'n', 'nzzzv')
 vim.keymap.set('n', 'N', 'Nzzzv')
 vim.keymap.set('x', '<leader>p', '"_dP')
 vim.keymap.set('n', '<Esc><Esc>', '<cmd>w<CR>', { desc = 'Save file' })
+vim.keymap.set('n', '-', '<CMD>Oil<CR>', { desc = 'Open parent directory' })
 
-vim.opt.guicursor = ''
-vim.opt.backup = false
-vim.opt.swapfile = false
-vim.opt.undodir = os.getenv 'HOME' .. '/.vim.undodir'
-vim.opt.colorcolumn = '88'
-vim.opt.conceallevel = 0
-vim.opt.wildmode = 'longest:full,full'
-vim.opt.smoothscroll = true
-vim.opt.tabstop = 2
-vim.opt.shiftwidth = 2
-vim.opt.expandtab = true
+vim.o.guicursor = ''
+vim.o.backup = false
+vim.o.swapfile = false
+vim.o.undodir = os.getenv 'HOME' .. '/.vim.undodir'
+vim.o.colorcolumn = '88'
+vim.o.conceallevel = 0
+vim.o.wildmode = 'longest:full,full'
+vim.o.smoothscroll = true
+
+vim.o.tabstop = 2
+vim.o.shiftwidth = 2
 vim.bo.softtabstop = 2
+vim.o.expandtab = true
+
+vim.cmd("packadd nvim.undotree")
+vim.keymap.set("n", "<leader>u", require("undotree").open)

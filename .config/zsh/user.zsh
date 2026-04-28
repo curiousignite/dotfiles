@@ -33,6 +33,7 @@ alias man='noglob man'
 alias icat='kitten icat'
 alias vim='nvim'
 alias lu='eza -lhau --icons=auto --sort=name --group-directories-first' # long list all with the last access date
+alias oil='nvim oil-ssh://berke@192.168.1.100:22/'
 alias ssh='kitten ssh'
 #Edited for LOCAL
 . /etc/locale.conf

@@ -1,8 +1,18 @@
 return {
   'Mathijs-Bakker/godotdev.nvim',
+  ft = { 'gdscript', 'gdresource', 'gdshader' },
+  cmd = {
+    'GodotRun',
+    'GodotRunCurrent',
+    'GodotRunLast',
+    'GodotRunFZF',
+    'GodotDebug',
+    'GodotDebugCurrent',
+    'GodotDebugLast',
+  },
   dependencies = {
     'mfussenegger/nvim-dap',
-    'rcarriga/nvim-dap-ui',
+    -- 'rcarriga/nvim-dap-ui',
     'nvim-treesitter',
   },
 
@@ -38,8 +48,8 @@ return {
         remove_stale_socket = true,
       },
       treesitter = {
-        auto_setup = true, -- convenience default; disable if you manage nvim-treesitter yourself
-        ensure_installed = { 'gdscript' },
+        auto_setup = false, -- convenience default; disable if you manage nvim-treesitter yourself
+        ensure_installed = {},
       },
       docs = {
         renderer = 'float', -- default: open docs in a floating window
