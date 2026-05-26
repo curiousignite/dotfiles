@@ -1,0 +1,15 @@
+{
+  "windowX": 3203,
+  "windowY": 50,
+  "windowWidth": 1271,
+  "windowHeight": 1384,
+  "startMinimized": true,
+  "minimizeToTray": true,
+  "updateFrequencySeconds": 5,
+  "hideTrayIconWhenDisconnected": false,
+  "notifyOnControllerConnected": true,
+  "notifyOnControllerDisconnected": true,
+  "notifyOnBatteryLow": true,
+  "theme": "Dark",
+  "language": "English"
+}

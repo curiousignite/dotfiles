@@ -5,4 +5,5 @@
 
 ---@module 'lazy'
 ---@type LazySpec
-return {}
+return {
+}

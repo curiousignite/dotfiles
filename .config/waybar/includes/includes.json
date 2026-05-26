@@ -28,6 +28,7 @@
         "/home/berke/.local/share/waybar/modules/group-eyecare.jsonc",
         "/home/berke/.local/share/waybar/modules/hyprland-workspaces.jsonc",
         "/home/berke/.local/share/waybar/modules/mpris.jsonc",
+        "/home/berke/.local/share/waybar/modules/custom-app-launcher.jsonc",
         "/home/berke/.local/share/waybar/modules/hyprland-workspaces#kanji.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-theme.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-mediaplayer.jsonc",

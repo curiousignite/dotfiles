@@ -857,10 +857,21 @@ require('lazy').setup({
     lazy = false,
     build = ':TSUpdate',
     branch = 'main',
+    priority = 9999,
+    opts = {
+      highlight = {
+        disable = function(lang, buf)
+          local max_filesize = 5 * 1024 * 1024 -- 5 MB
+          local ok, stats = pcall(vim.loop.fs_stat, vim.api.nvim_buf_get_name(buf))
+          if ok and stats and stats.size > max_filesize then return true end
+        end,
+      },
+    },
     -- [[ Configure Treesitter ]] See `:help nvim-treesitter-intro`
     config = function()
       -- ensure basic parser are installed
-      local parsers = { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'python', 'javascript','gdscript' }
+      local parsers =
+        { 'bash', 'c', 'diff', 'html', 'lua', 'luadoc', 'markdown', 'markdown_inline', 'query', 'vim', 'vimdoc', 'go', 'python', 'javascript', 'gdscript' }
       require('nvim-treesitter').install(parsers)
 
       ---@param buf integer
@@ -985,5 +996,5 @@ vim.o.shiftwidth = 2
 vim.bo.softtabstop = 2
 vim.o.expandtab = true
 
-vim.cmd("packadd nvim.undotree")
-vim.keymap.set("n", "<leader>u", require("undotree").open)
+vim.cmd 'packadd nvim.undotree'
+vim.keymap.set('n', '<leader>u', require('undotree').open)

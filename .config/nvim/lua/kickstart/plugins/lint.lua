@@ -11,6 +11,15 @@ return {
       markdown = { 'markdownlint' }, -- Make sure to install `markdownlint` via mason / npm
     }
 
+    lint.linters.markdownlint.args = {
+      '--stdin', -- Essential: tells linter to read from the buffer
+      '--disable',
+      'MD013', -- line length
+      'MD035', -- horizontal lines
+      'MD059', -- descriptive link text
+      'MD033', -- no-inline-html
+      '--',
+    }
     -- To allow other plugins to add linters to require('lint').linters_by_ft,
     -- instead set linters_by_ft like this:
     -- lint.linters_by_ft = lint.linters_by_ft or {}
