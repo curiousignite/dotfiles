@@ -980,7 +980,7 @@ vim.keymap.set('n', 'n', 'nzzzv')
 vim.keymap.set('n', 'N', 'Nzzzv')
 vim.keymap.set('x', '<leader>p', '"_dP')
 vim.keymap.set('n', '<Esc><Esc>', '<cmd>w<CR>', { desc = 'Save file' })
-vim.keymap.set('n', '-', '<CMD>Oil<CR>', { desc = 'Open parent directory' })
+-- vim.keymap.set('n', '-', '<CMD>Oil<CR>', { desc = 'Open parent directory' })
 
 vim.o.guicursor = ''
 vim.o.backup = false
@@ -990,6 +990,12 @@ vim.o.colorcolumn = '88'
 vim.o.conceallevel = 0
 vim.o.wildmode = 'longest:full,full'
 vim.o.smoothscroll = true
+
+vim.keymap.set("n", "q:", "<Nop>", {
+  noremap = true,
+  silent = true,
+  desc = "Disable command-line window",
+})
 
 vim.o.tabstop = 2
 vim.o.shiftwidth = 2

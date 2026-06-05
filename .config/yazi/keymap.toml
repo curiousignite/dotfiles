@@ -1,0 +1,14 @@
+[[mgr.prepend_keymap]]
+on = "i"
+run = "rename --cursor=before_ext"
+desc = "Rename hovered/selected"
+
+[[mgr.prepend_keymap]]
+on = "a"
+run = "rename --cursor=before_ext"
+desc = "Rename hovered/selected"
+
+[[mgr.prepend_keymap]]
+on = "o"
+run = "create"
+desc = "Create file or directory"

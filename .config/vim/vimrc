@@ -20,6 +20,8 @@ set encoding=utf-8
 
 colorscheme habamax 
 
+nnoremap q: <nop>
+nnoremap Q <nop>
 nnoremap L $
 nnoremap H _
 vnoremap L $

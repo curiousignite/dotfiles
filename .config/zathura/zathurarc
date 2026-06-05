@@ -1,0 +1,38 @@
+# General things
+set recolor true # Dark mode integration for lighthouse
+set selection-clipboard clipboard # Set clipboard copy
+
+# Font size
+set font 'monospace normal 16'
+
+# One page per row by default
+set pages-per-row 1
+
+# Keybindings
+map J zoom out
+map K zoom in
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+map r reload
+
+map b toggle_page_mode # Toggle dual page mode
+
+unmap u # unmaps u and d for default full-up/down scroll
+unmap d
+map u scroll full-up
+map d scroll full-down
+
+# stop at page boundries
+set scroll-page-aware "true"
+set scroll-full-overlap 0.01
+set scroll-step 100
+
+# zoom settings
+set zoom-min 5
+set guioptions ""
+
+set statusbar-bg                "#073642" # base02
+set statusbar-fg                "#93a1a1" # base1
+
+set smooth-scroll "true"

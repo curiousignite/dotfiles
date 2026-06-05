@@ -126,6 +126,13 @@ bindkey '^ ' autosuggest-accept
 # autosuggest-fetch: Fetches a suggestion (works even when suggestions are disabled).
 # autosuggest-disable: Disables suggestions.
 
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	command yazi "$@" --cwd-file="$tmp"
+	IFS= read -r -d '' cwd < "$tmp"
+	[ "$cwd" != "$PWD" ] && [ -d "$cwd" ] && builtin cd -- "$cwd"
+	command rm -f -- "$tmp"
+}
 
 export SUDO_EDITOR=/usr/bin/nvim
 export EDITOR=/usr/bin/nvim
