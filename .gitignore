@@ -103,6 +103,7 @@ secrets.json
 .config/Vortex/
 .config/net.imput.helium
 .config/arctis_manager
-
+.config/Foundry Virtual Tabletop/
+.config/TeamSpeak/
 .ssh/*
 

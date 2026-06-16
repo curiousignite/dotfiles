@@ -12,3 +12,8 @@ desc = "Rename hovered/selected"
 on = "o"
 run = "create"
 desc = "Create file or directory"
+
+[[mgr.prepend_keymap]]
+on   = [ "b", "l" ]
+run  = "cd sftp://beelink"
+desc = "Go to home server"
