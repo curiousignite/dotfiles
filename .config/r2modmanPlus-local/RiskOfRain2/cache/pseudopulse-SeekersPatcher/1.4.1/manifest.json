@@ -1,0 +1,9 @@
+{
+	"name": "SeekersPatcher",
+	"version_number": "1.4.1",
+	"website_url": "",
+	"description": "Patches ROR2 to add redirects for things were changed or removed in SOTS and AC.",
+	"dependencies": [
+		
+	]
+}

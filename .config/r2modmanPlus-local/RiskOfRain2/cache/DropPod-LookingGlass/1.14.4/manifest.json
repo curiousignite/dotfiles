@@ -1,0 +1,12 @@
+{
+  "namespace": "DropPod",
+  "name": "LookingGlass",
+  "description": "A QoL UI mod that exposes statistics for items and the player, adjusts the size and features of command and scrapper menus, and much more. Fully open source and compatible with RiskUI!",
+  "version_number": "1.14.4",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2113",
+    "Rune580-Risk_Of_Options-2.7.2"
+  ],
+  "website_url": "https://github.com/Wet-Boys/LookingGlass/",
+  "FullName": "DropPod-LookingGlass"
+}

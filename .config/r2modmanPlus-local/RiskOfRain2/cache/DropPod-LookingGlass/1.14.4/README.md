@@ -1,0 +1,90 @@
+# LookingGlass
+A fully open source UI mod, compatible with RiskUI
+
+
+# Features:
+
+## Item Stats
+
+- Full item descriptions for all items. Items setup with the API have their calculations noted in the description as well.
+
+![Item Stats](https://i.imgur.com/WXTVSxm.png)
+![Item Stats 2](https://i.imgur.com/avVswuU.png)
+
+## Auto Sort Items
+
+- Sort your inventory with various parameters. Defaults to sorting by tier and count.
+
+![Auto Sort Items](https://i.imgur.com/OfKQAdG.png)
+
+## Stats Display
+
+- Shows you general character stats on the right side. Can customize however you want in settings, see [the syntax guide](https://github.com/Wet-Boys/LookingGlass/blob/main/Stats%20Display%20Syntax) for adding in items
+
+![Vanilla Stats Display](https://i.imgur.com/z6P9rYb.png)
+![RiskUI Stats Display](https://i.imgur.com/iYrnF6I.png)
+
+## Number Go Up
+
+- DPS meter and combo counter (Part of stats display)
+
+![Number go Up](https://i.imgur.com/kHdyCqe.png)
+
+## Command Window Tweaks
+
+- Various tweaks to the command window, such as resizing, option to remove the blur, and adding item counters to your existing items.
+
+![Command Window Tweaks](https://i.imgur.com/5buYHlv.png)
+
+## Item Counters
+
+- Count your items in the scoreboard so you can see who is poor.
+
+![Item Counters](https://i.imgur.com/40vXB3Y.png)
+
+## Buff Timers
+
+- Timers for buffs. RoR2 does not network buff timers, please install [NetworkedTimedBuffs](https://thunderstore.io/package/Bubbet/NetworkedTimedBuffs/) if you want clients to have timers.
+
+![Buff Timers](https://i.imgur.com/2TwEpg0.png)
+
+## Risk of Options Support/RiskUI support
+
+- Change any options in game with Risk of Options
+
+- Fully compatible with RiskUI
+
+## Additional Info
+
+- String for the stats display can be customized using Unity Rich Text rules, see  https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/RichText.html for more info.
+
+- Note that this mod does not correct the vanilla item descriptions, so the listed stats may differ from the ones the mod shows. A different mod is recommended if you want those corrected.
+
+
+# Have an issue/suggestion or want to contribute?
+
+- Please submit issues or suggestions to the GitHub repo https://github.com/Wet-Boys/LookingGlass/issues
+
+- If you want to contribute to the mod, feel free to reach out to us and/or create a pull request. Please note that the CLA indicates all contributions to this project are licensed under LGPLv3.
+
+
+
+# Credits:
+
+- https://github.com/ontrigger/ItemStatsMod
+- https://github.com/MCMrARM/ror2-mods
+- https://github.com/Moffein/ItemStats
+- https://github.com/Vl4dimyr/CommandItemCount for being great open source projects to use as reference material/code
+
+
+- @github.com (discord tag): icon
+- @rune (discord tag): coding
+- @nunchuk (discord tag): coding
+- SSM240 (github tag): coding 
+- yuukotf2 (github tag): coding
+- shirograhm (github tag): coding
+- Warmek (github tag): coding
+- timoreo22 (github tag): coding
+- isolno (github tag): coding
+- itsschwer (github tag): coding
+- WolfoIsBestWolf (aka Wolfo) (github tag): coding

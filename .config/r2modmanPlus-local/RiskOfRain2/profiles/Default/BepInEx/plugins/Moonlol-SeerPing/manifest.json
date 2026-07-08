@@ -1,0 +1,10 @@
+{
+    "name": "SeerPing",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "Shows the location where a lunar seer leads to in the ping message.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1801",
+        "RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}

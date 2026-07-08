@@ -1,0 +1,12 @@
+﻿{
+  "name": "StageRecap",
+  "version_number": "1.4.0",
+  "website_url": "https://github.com/Lawlzee/StageReport",
+  "displayName": "Stage Recap",
+  "description": "At the end of each stage, StageRecap shows all the interactables on the stage and how many you’ve collected. This helps players improve at full looting stages.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2108",
+    "RiskofThunder-HookGenPatcher-1.2.3",
+    "Rune580-Risk_Of_Options-2.7.0"
+  ]
+}

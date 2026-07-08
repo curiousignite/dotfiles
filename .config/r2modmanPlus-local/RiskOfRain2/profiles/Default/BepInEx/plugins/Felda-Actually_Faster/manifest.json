@@ -1,0 +1,9 @@
+{
+    "name": "Actually_Faster",
+    "version_number": "1.1.4",
+    "website_url": "https://github.com/FelixVolo/ActuallyFaster",
+    "description": "A mod that makes the printer, scrapper, chance shrine and cauldrons go brrrrrt. This one actually works!",
+    "dependencies": [
+        
+    ]
+}

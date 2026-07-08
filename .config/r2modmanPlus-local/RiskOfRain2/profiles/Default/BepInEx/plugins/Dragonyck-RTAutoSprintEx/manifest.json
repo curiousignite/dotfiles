@@ -1,0 +1,10 @@
+{
+    "name": "RTAutoSprintEx",
+    "version_number": "2.2.3",
+    "website_url": "",
+    "description": "RTAutoSprint fully fixed and enhanced with more features for SOTS. Sprint automatically, but only when you would be allowed to do so in the first place.",
+    "dependencies": [
+      "bbepis-BepInExPack-5.4.2117",
+      "RiskofThunder-HookGenPatcher-1.2.4"
+    ]
+}

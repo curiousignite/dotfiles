@@ -1,0 +1,11 @@
+{
+    "name": "LostAndFound",
+    "version_number": "1.2.2",
+    "website_url": "https://github.com/pudwinks/ROR2-LostAndFound",
+    "description": "Pauses time and gives you a camera view of each interactable you missed at the end of the stage. Configurable.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2121",
+        "RiskofThunder-HookGenPatcher-1.2.9",
+        "Rune580-Risk_Of_Options-2.8.4"
+    ]
+}

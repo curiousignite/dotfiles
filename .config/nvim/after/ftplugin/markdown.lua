@@ -1,6 +1,6 @@
 -- vim.cmd('runtime! ftplugin/xxx.lua') -- inherit from xxx.lua
 vim.wo.conceallevel = 2
-vim.opt.textwidth = 80
+-- vim.opt.textwidth = 80
 vim.opt_local.formatoptions:append("ro")
 vim.opt_local.comments = "b:*,b:-,b:+,n:>"
 

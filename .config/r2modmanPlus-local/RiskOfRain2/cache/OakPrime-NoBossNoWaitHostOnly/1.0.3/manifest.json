@@ -1,0 +1,10 @@
+{
+    "name": "NoBossNoWaitHostOnly",
+    "version_number": "1.0.3",
+    "website_url": "https://thunderstore.io/package/mrchous/NoBossNoWait/",
+    "description": "NoBossNoWait by mrchous but only host needs mod. All credit to mrchous",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2113",
+	"RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}

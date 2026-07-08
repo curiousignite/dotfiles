@@ -1,0 +1,4 @@
+00:28:45 [INFO]: Starting manager on version 3.2.18
+00:33:17 [INFO]: Steam executable to call is: /home/berke/.local/share/Steam/steam.sh
+00:33:17 [INFO]: Running command: "/home/berke/.local/share/Steam/steam.sh" -applaunch 632360 "--doorstop-enabled" "true" "--doorstop-target-assembly" "Z:/home/berke/.dotfiles/.config/r2modmanPlus-local/RiskOfRain2/profiles/Default/BepInEx/core/BepInEx.Preloader.dll" "--r2profile" "Default"
+00:33:17 [INFO]: Launching using Native behaviour

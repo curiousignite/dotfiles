@@ -1,0 +1,9 @@
+{
+  "namespace": "RiskofThunder",
+  "name": "RoR2BepInExPack",
+  "description": "Simplify the modding ecosystem of Risk of Rain 2, making it easier for modders to create and maintain their mods while preventing harmful bugs.",
+  "version_number": "1.41.0",
+  "dependencies": [],
+  "website_url": "https://github.com/risk-of-thunder/RoR2BepInExPack",
+  "FullName": "RiskofThunder-RoR2BepInExPack"
+}

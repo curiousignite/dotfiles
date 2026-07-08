@@ -1,0 +1,8 @@
+﻿{
+	"name": "MiscFixes",
+	"version_number": "1.5.9",
+	"author": "score",
+	"website_url": "https://github.com/goldenguy00/MiscFixes",
+    "description": "Fixes some bugs",
+    "dependencies": []
+}

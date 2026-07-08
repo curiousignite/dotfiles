@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>R2API.Elites</name>
+    </assembly>
+    <members>
+        <member name="T:R2API.CustomElite">
+            <summary>
+            Class that defines a custom Elite type for use in the game
+            All Elites consist of an <see cref="T:RoR2.EliteDef"/>, an <see cref="T:RoR2.EquipmentDef"/>
+            and a <see cref="T:RoR2.BuffDef"/>.
+            An Elite can only spawn if its in one of the available <see cref="F:RoR2.CombatDirector.eliteTiers"/> (vanilla or custom).
+            Please check the constructors docs for more information.
+            </summary>
+        </member>
+        <member name="F:R2API.CustomElite.EliteDef">
+            <summary>
+            Elite definition
+            </summary>
+        </member>
+        <member name="F:R2API.CustomElite.EliteRamp">
+            <summary>
+            The TextureRamp for this elite, can be omitted
+            </summary>
+        </member>
+        <member name="F:R2API.CustomElite.EliteTierDefs">
+            <summary>
+            Elite tier(s) that the eliteDef will be on.
+            </summary>
+        </member>
+        <member name="M:R2API.CustomElite.#ctor(System.String,RoR2.EquipmentDef,UnityEngine.Color32,System.String,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef})">
+            <inheritdoc cref="M:R2API.CustomElite.#ctor(System.String,RoR2.EquipmentDef,UnityEngine.Color32,System.String,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef},UnityEngine.Texture2D)"/>
+        </member>
+        <member name="M:R2API.CustomElite.#ctor(System.String,RoR2.EquipmentDef,UnityEngine.Color32,System.String,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef},UnityEngine.Texture2D)">
+            <summary>
+            Use <see cref="M:R2API.EliteAPI.Add(R2API.CustomElite)"/> to add your elite to the <see cref="T:RoR2.EliteCatalog"/> during startup,
+            along with adding it to all the given <see cref="F:R2API.CustomElite.EliteTierDefs"/>.
+            <para>
+            It's recommended that you use <see cref="M:R2API.EliteAPI.GetEliteTierEnumerable(R2API.VanillaEliteTier)"/> or <see cref="M:R2API.EliteAPI.GetHonorEliteTierEnumerable(R2API.VanillaEliteTier)"/>
+            if you intend on adding this elite to any vanilla tiers to ensure correct tier placement, with custom tiers added as needed.
+            </para>
+            </summary>
+            <param name="name">Internal <see cref="P:UnityEngine.Object.name"/> for the <see cref="F:R2API.CustomElite.EliteDef"/></param>
+            <param name="equipmentDef">Elite affix equipment</param>
+            <param name="color">Elite base color</param>
+            <param name="modifierToken">Token for the text before a characters name</param>
+            <param name="eliteTierDefs">List of all tiers that can spawn this elite.</param>
+            <param name="eliteRamp">Color ramp to be used in <see cref="F:R2API.CustomElite.EliteRamp"/>. Can be null.</param>
+        </member>
+        <member name="M:R2API.CustomElite.#ctor(RoR2.EliteDef,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef})">
+            <inheritdoc cref="M:R2API.CustomElite.#ctor(RoR2.EliteDef,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef},UnityEngine.Texture2D)"/>
+        </member>
+        <member name="M:R2API.CustomElite.#ctor(RoR2.EliteDef,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef},UnityEngine.Texture2D)">
+            <summary>
+            <para>You can omit giving a value to <see cref="P:RoR2.EliteDef.eliteIndex"/>, as it'll be filled in automatically by the game.</para>
+            <inheritdoc cref="M:R2API.CustomElite.#ctor(System.String,RoR2.EquipmentDef,UnityEngine.Color32,System.String,System.Collections.Generic.IEnumerable{RoR2.CombatDirector.EliteTierDef},UnityEngine.Texture2D)"/>
+            </summary>
+            <param name="eliteDef"></param>
+            <param name="eliteTierDefs">List of <see cref="T:RoR2.CombatDirector.EliteTierDef"/> the <see cref="F:R2API.CustomElite.EliteDef"/> can spawn in.</param>
+            <param name="eliteRamp">Color ramp to be used in <see cref="F:R2API.CustomElite.EliteRamp"/>. Can be null.</param>
+        </member>
+        <member name="P:R2API.EliteAPI.Loaded">
+            <summary>
+            Return true if the submodule is loaded.
+            </summary>
+        </member>
+        <member name="M:R2API.EliteAPI.Add(R2API.CustomElite)">
+            <summary>
+            Add a custom elite to the elite catalog.
+            If this is called after the <see cref="T:RoR2.EliteCatalog"/> inits then this will throw.
+            <see cref="F:R2API.CustomElite.EliteTierDefs"/> shouldnt be empty if you want to see your custom elite appear in the game.
+            You can also directly modify <see cref="F:RoR2.CombatDirector.eliteTiers"/>.
+            Please check the constructors docs of <see cref="T:R2API.CustomElite"/> for more information.
+            </summary>
+            <param name="elite">The elite to add.</param>
+            <returns>true if added, false otherwise</returns>
+        </member>
+        <member name="M:R2API.EliteAPI.AppendCustomEliteTier(RoR2.CombatDirector.EliteTierDef)">
+            <summary>
+            Allows for adding a new elite tier def to the combat director during runtime.
+            </summary>
+            <param name="eliteTierDef">The new elite tier to add.</param>
+        </member>
+        <member name="M:R2API.EliteAPI.AddCustomEliteTier(RoR2.CombatDirector.EliteTierDef)">
+            <summary>
+            Allows for adding a new elite tier def to the combat director.
+            Automatically insert the eliteTierDef at the correct position in the array based on its <see cref="F:RoR2.CombatDirector.EliteTierDef.costMultiplier"/>
+            </summary>
+            <param name="eliteTierDef">The new elite tier to add.</param>
+            <returns>Index inserted at, or -1 if the operation failed</returns>
+        </member>
+        <member name="M:R2API.EliteAPI.AddCustomEliteTier(RoR2.CombatDirector.EliteTierDef,System.Int32)">
+            <summary>
+            Allows for adding a new <see cref="T:RoR2.CombatDirector.EliteTierDef"/> at the given index in <see cref="M:R2API.EliteAPI.GetCombatDirectorEliteTiers"/>
+            </summary>
+            <param name="eliteTierDef">The new elite tier to add.</param>
+            <param name="indexToInsertAt">Optional index to specify if you want to insert a cheaper elite tier</param>
+            <returns>Index inserted at, or -1 if the operation failed</returns>
+        </member>
+        <member name="M:R2API.EliteAPI.GetEliteTierEnumerable(R2API.VanillaEliteTier)">
+            <summary>
+            Used for ensuring correct tier placement when creating a new <see cref="T:R2API.CustomElite"/>. When given <see cref="F:R2API.VanillaEliteTier.BaseTier1"/>,
+            the list will also include <see cref="F:R2API.VanillaEliteTier.FullTier1"/> in the result to ensure the elite doesn't stop spawning after stage 2.
+            </summary>
+            <returns> All vanilla <see cref="T:RoR2.CombatDirector.EliteTierDef"/> that the elite can appear in, or empty for None. </returns>
+        </member>
+        <member name="M:R2API.EliteAPI.GetHonorEliteTierEnumerable(R2API.VanillaEliteTier)">
+            <summary>
+            <para>Retrieves the honor compatible <see cref="T:RoR2.CombatDirector.EliteTierDef"/> for the given tier. <see cref="F:R2API.VanillaEliteTier.BaseTier1"/> and <see cref="F:R2API.VanillaEliteTier.FullTier1"/> will be changed to their Honor variants.</para>
+            Used for ensuring correct tier placement when creating a new <see cref="T:R2API.CustomElite"/>. When given <see cref="F:R2API.VanillaEliteTier.BaseTier1Honor"/>,
+            the list will also include <see cref="F:R2API.VanillaEliteTier.FullTier1Honor"/> in the result to ensure the elite doesn't stop spawning after stage 2.
+            </summary>
+            <returns> All vanilla honor <see cref="T:RoR2.CombatDirector.EliteTierDef"/> that the elite can appear in, or empty for None, Tier2 and Lunar. </returns>
+        </member>
+        <member name="M:R2API.EliteAPI.GetCombatDirectorEliteTiers">
+            <summary>
+            Returns the current <see cref="F:RoR2.CombatDirector.eliteTiers"/> used by the Combat Director for doing its elite spawning while doing a run.
+            </summary>
+        </member>
+        <member name="M:R2API.EliteAPI.OverrideCombatDirectorEliteTiers(RoR2.CombatDirector.EliteTierDef[])">
+            <summary>
+            The EliteTierDef array is used by the Combat Director for doing its elite spawning while doing a run.
+            You can get the current array used by the director with <see cref="M:R2API.EliteAPI.GetCombatDirectorEliteTiers"/>
+            </summary>
+            <param name="newEliteTiers">The new elite tiers that will be used by the combat director.</param>
+        </member>
+        <member name="F:R2API.EliteAPI.PluginVersion">
+            <summary>
+            Version of the plugin, should be matching with the thunderstore package.
+            </summary>
+        </member>
+        <member name="M:R2API.EliteRamp.AddRamp(RoR2.EliteDef,UnityEngine.Texture2D)">
+            <summary>
+            
+            </summary>
+            <param name="eliteDef"></param>
+            <param name="ramp"></param>
+        </member>
+        <member name="M:R2API.EliteRamp.AddRampToMultipleElites(System.Collections.Generic.IEnumerable{RoR2.EliteDef},UnityEngine.Texture2D)">
+            <summary>
+            
+            </summary>
+            <param name="eliteDefs"></param>
+            <param name="ramp"></param>
+        </member>
+        <member name="M:R2API.EliteRamp.TryGetRamp(RoR2.EliteIndex,UnityEngine.Texture2D@)">
+            <summary>
+            
+            </summary>
+            <param name="eliteIndex"></param>
+            <param name="ramp"></param>
+            <returns></returns>
+        </member>
+        <member name="T:R2API.VanillaEliteTier">
+            <summary>
+            Provides a list of names that correspond to each <see cref="T:RoR2.CombatDirector.EliteTierDef"/> in the <see cref="P:R2API.EliteAPI.VanillaEliteTiers"/> array
+            </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.None">
+            <summary> No Elites </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.BaseTier1">
+            <summary> Stages 1-2 </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.BaseTier1Honor">
+            <summary> Stages 1-2 with <see cref="F:RoR2.SpawnCard.EliteRules.ArtifactOnly"/> </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.FullTier1Honor">
+            <summary> All <see cref="F:R2API.VanillaEliteTier.BaseTier1Honor"/> elites plus <see cref="F:RoR2.DLC2Content.Elites.AurelioniteHonor"/>, Stages 3+ with <see cref="F:RoR2.SpawnCard.EliteRules.ArtifactOnly"/> </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.FullTier1">
+            <summary> All <see cref="F:R2API.VanillaEliteTier.BaseTier1"/> elites plus <see cref="F:RoR2.DLC2Content.Elites.Aurelionite"/>, Stages 3+ </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.Tier2">
+            <summary> When <see cref="F:RoR2.Run.stageClearCount"/> is greater or equal to <see cref="!:Run.stagesPerLoop"/> </summary>
+        </member>
+        <member name="F:R2API.VanillaEliteTier.Lunar">
+            <summary> Only for <see cref="F:RoR2.SpawnCard.EliteRules.Lunar"/> </summary>
+        </member>
+        <member name="T:R2API.AutoVersionGen.AutoVersionAttribute">
+            <summary>
+            Add a PluginVersion field to the attribut-ed class filled from the thunderstore.toml versionNumber field
+            </summary>
+        </member>
+    </members>
+</doc>
