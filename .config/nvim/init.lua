@@ -531,11 +531,14 @@ require('lazy').setup({
           cmd = {
             'clangd',
             '--background-index',
-            '--pch-storage=memory',
             '--clang-tidy',
-            '--suggest-missing-includes',
-            '--cross-file-rename',
             '--completion-style=detailed',
+            '--pch-storage=memory',
+            '--suggest-missing-includes',
+            '--header-insertion=iwyu',
+            '--cross-file-rename',
+            '--function-arg-placeholders',
+            '--fallback-style=llvm',
           },
           filetypes = { 'c', 'cpp', 'objc', 'objcpp', 'cuda' },
           root_markers = {
@@ -664,6 +667,8 @@ require('lazy').setup({
       },
       -- You can also specify external formatters in here.
       formatters_by_ft = {
+        c = { 'clang_format' },
+        cpp = { 'clang_format' },
         bash = { 'beautysh' },
         sh = { 'beautysh' },
         go = { 'goimports', 'gofumpt', 'goimports-reviser' },
@@ -806,7 +811,7 @@ require('lazy').setup({
     ---@module 'todo-comments'
     ---@type TodoOptions
     ---@diagnostic disable-next-line: missing-fields
-    opts = { signs = false },
+    opts = { signs = true },
   },
 
   { -- Collection of various small independent plugins/modules
@@ -980,21 +985,23 @@ vim.keymap.set('n', 'n', 'nzzzv')
 vim.keymap.set('n', 'N', 'Nzzzv')
 vim.keymap.set('x', '<leader>p', '"_dP')
 vim.keymap.set('n', '<Esc><Esc>', '<cmd>w<CR>', { desc = 'Save file' })
--- vim.keymap.set('n', '-', '<CMD>Oil<CR>', { desc = 'Open parent directory' })
+
+vim.keymap.set('n', ']t', function() require('todo-comments').jump_next() end, { desc = 'Next todo comment' })
+vim.keymap.set('n', '[t', function() require('todo-comments').jump_prev() end, { desc = 'Previous todo comment' })
 
 vim.o.guicursor = ''
 vim.o.backup = false
 vim.o.swapfile = false
 vim.o.undodir = os.getenv 'HOME' .. '/.vim.undodir'
-vim.o.colorcolumn = '88'
+vim.o.colorcolumn = '80'
 vim.o.conceallevel = 0
 vim.o.wildmode = 'longest:full,full'
 vim.o.smoothscroll = true
 
-vim.keymap.set("n", "q:", "<Nop>", {
+vim.keymap.set('n', 'q:', '<Nop>', {
   noremap = true,
   silent = true,
-  desc = "Disable command-line window",
+  desc = 'Disable command-line window',
 })
 
 vim.o.tabstop = 2

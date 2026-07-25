@@ -105,5 +105,9 @@ secrets.json
 .config/arctis_manager
 .config/Foundry Virtual Tabletop/
 .config/TeamSpeak/
+.config/LM Studio/
+.config/LM-Studio/
+.config/StoneShard/
+.config/htop/htop_history
 .ssh/*
 

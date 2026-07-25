@@ -4,6 +4,7 @@ vim.keymap.set("n", "<leader>x", function()
   local executable_file = vim.fn.expand("%:p:r")
 
   command = command .. vim.fn.expand("gcc ")
+  command = command .. "-std=c17"
   command = command .. " -Wall"
   command = command .. " -Wextra"
   command = command .. " -o "

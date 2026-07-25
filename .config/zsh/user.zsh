@@ -142,3 +142,4 @@ export MANGOHUD=1
 if [[ -r "$HOME/.dotfiles/.env" ]]; then
   source "$HOME/.dotfiles/.env"
 fi
+OLLAMA_HOST=0.0.0.0:11434
