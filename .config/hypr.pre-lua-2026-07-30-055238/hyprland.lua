@@ -1,0 +1,5 @@
+-- User Configuration goeas here.
+-- Adding keybinding are simple, refer to the wiki and add it here!
+-- Duplicated keybinding will always respect the last last added, therefore please override keybindings as you wish.
+--- use "require()" to load other lua files, for example:
+-- require("keybindings") --- this will load "keybindings.lua"

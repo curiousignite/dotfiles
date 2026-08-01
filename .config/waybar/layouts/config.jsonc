@@ -41,7 +41,6 @@
   "group/pill#right2": {
     "orientation": "inherit",
     "modules": [
-      // "custom/server",
       "custom/brightness",
       "pulseaudio",
       "custom/headsetcontrol-waybar",

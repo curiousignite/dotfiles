@@ -6,6 +6,7 @@
         "/home/berke/.config/waybar/modules/clock.jsonc",
         "/home/berke/.local/share/waybar/modules/wlr-taskbar.json",
         "/home/berke/.local/share/waybar/modules/wlr-taskbar#windows.json",
+        "/home/berke/.local/share/waybar/modules/user.json",
         "/home/berke/.local/share/waybar/modules/image#wallpaper.json",
         "/home/berke/.local/share/waybar/modules/privacy.json",
         "/home/berke/.local/share/waybar/modules/tray.json",
@@ -65,6 +66,7 @@
         "/home/berke/.local/share/waybar/modules/temperature.jsonc",
         "/home/berke/.local/share/waybar/modules/clock.jsonc",
         "/home/berke/.local/share/waybar/modules/battery.jsonc",
+        "/home/berke/.local/share/waybar/modules/group-user-menu.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-hyde-menu.jsonc",
         "/home/berke/.local/share/waybar/modules/custom-wbar.jsonc",
         "/home/berke/.local/share/waybar/modules/wlr-taskbar#windows.jsonc",
@@ -90,5 +92,12 @@
         "icon-size": 16,
         "icon-size-multiplier": 1.6
     },
-    "position": "top"
+    "position": "top",
+    "user": {
+        "format": "",
+        "interval": 60,
+        "height": 20,
+        "width": 20,
+        "icon": true
+    }
 }

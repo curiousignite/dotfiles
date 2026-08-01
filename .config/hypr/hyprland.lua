@@ -1,0 +1,5 @@
+require("nvidia")
+require("monitors")
+require("userprefs")
+require("keybindings")
+require("windowrules")

@@ -41,7 +41,5 @@ alias mkdir='mkdir -p'
 export PATH="$PATH:/home/berke/.lmstudio/bin"
 # End of LM Studio CLI section
 
-
-
 # Added by Antigravity CLI installer
 export PATH="/home/berke/.local/bin:$PATH"
