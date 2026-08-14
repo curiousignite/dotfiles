@@ -1,3 +1,4 @@
+--
 -- User window and layer rules
 
 local function window_rule(name, match, effects)
@@ -365,3 +366,16 @@ hl.layer_rule({
     },
     no_anim = true,
 })
+
+-- Obsidian settings
+-- Settings - Vault - Obsidian
+window_rule(
+    "obsidian-settings",
+    {
+        class = "^(md.Obsidian)$",
+        title = "^(Settings - Vault - Obsidian.*)",
+    },
+    {
+        float = true,
+    }
+)

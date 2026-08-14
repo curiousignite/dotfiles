@@ -1,0 +1,35 @@
+{
+    "active": "79f460d7-710c-426d-b786-e998d1a189e6",
+    "users": [
+        {
+            "id": "79f460d7-710c-426d-b786-e998d1a189e6",
+            "name": "(default)",
+            "device_id": "e6572446-dc19-43c5-a185-7fef89014d9d",
+            "default": true,
+            "pin_hash": null,
+            "pin_salt": null,
+            "require_pin_startup": false,
+            "last_server": null,
+            "credentials": [
+                {
+                    "address": "https://jellyfin.berke.homes",
+                    "Name": "Jellyfin",
+                    "Id": "b6f7ad1d4950417f8f8bcd84d476cf77",
+                    "Version": "10.11.5",
+                    "DateLastAccessed": "2026-01-10T06:46:38Z",
+                    "UserId": "6a12e7878acd43dd89dce9726458e158",
+                    "AccessToken": "f4802774c5334baeab84101b1404a82b",
+                    "Users": [
+                        {
+                            "Id": "6a12e7878acd43dd89dce9726458e158",
+                            "IsSignedInOffline": true
+                        }
+                    ],
+                    "uuid": "d08953d4-c4e8-4359-8082-bbe7178d9293",
+                    "username": "berke",
+                    "connected": true
+                }
+            ]
+        }
+    ]
+}

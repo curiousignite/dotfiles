@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/goodroot/hyprwhspr/main/share/config.schema.json",
+  "use_hypr_bindings": true,
+  "keyboard_device_names": [
+    "BY Tech Gaming Keyboard",
+    "Razer Razer DeathAdder V2",
+    "Razer Razer DeathAdder V2 Keyboard"
+  ],
+  "transcription_backend": "faster-whisper",
+  "faster_whisper_model": "large-v3-turbo",
+  "faster_whisper_device": "cuda",
+  "whisper_prompt_tr": "T\u00fcrk\u00e7e konu\u015fmay\u0131 T\u00fcrk\u00e7e yaz. \u0130ngilizce s\u00f6ylenen kelimeleri ve teknik terimleri \u0130ngilizce b\u0131rak; \u00e7evirme veya T\u00fcrk\u00e7ele\u015ftirme. Teknik terimler aras\u0131nda Arch Linux, Hyprland, Docker, systemd, PipeWire, Foundry VTT, Pathfinder, API, backend ve frontend bulunabilir.",
+  "whisper_prompt_en": "Transcribe in English. Preserve technical terms, product names, commands, filenames, acronyms, and capitalization."
+}

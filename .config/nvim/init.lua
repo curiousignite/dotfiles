@@ -985,6 +985,7 @@ vim.keymap.set('n', 'n', 'nzzzv')
 vim.keymap.set('n', 'N', 'Nzzzv')
 vim.keymap.set('x', '<leader>p', '"_dP')
 vim.keymap.set('n', '<Esc><Esc>', '<cmd>w<CR>', { desc = 'Save file' })
+vim.keymap.set({ 'n', 'v' }, '-', '<CMD>Oil<CR>', { desc = 'Open parent directory' })
 
 vim.keymap.set('n', ']t', function() require('todo-comments').jump_next() end, { desc = 'Next todo comment' })
 vim.keymap.set('n', '[t', function() require('todo-comments').jump_prev() end, { desc = 'Previous todo comment' })

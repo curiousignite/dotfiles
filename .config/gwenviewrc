@@ -1,0 +1,14 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/arthamir.png
+File2[$e]=$HOME/Downloads/arch-linux-logo-arch-linux-icon-triangle-person-human-transparent-png-2487889.png
+Name1[$e]=arthamir.png
+Name2[$e]=arch-linux-logo-arch-linux-icon-triangle-person-human-transparent-png-2487889.png
+
+[SideBar]
+InformationSplitterSizes=232,235

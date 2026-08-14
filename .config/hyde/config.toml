@@ -235,6 +235,7 @@ background_path = ""  # LockScreen's Background path.
 [hyprland_start]
 apptray_bluetooth = "blueman-applet"  # Bluetooth applet.
 auth_dialogue = "polkitkdeauth.sh"  # Authentication dialogue.
+# bar = "waybar"  # Bar.
 bar = "hyde-shell waybar --watch"  # Bar.
 # battery_notify = "batterynotify.sh"  # Battery notification script.
 dbus_share_picker = "dbus-update-activation-environment --systemd --all"  # DBus share picker.

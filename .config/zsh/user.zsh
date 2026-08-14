@@ -137,9 +137,10 @@ function y() {
 export SUDO_EDITOR=/usr/bin/nvim
 export EDITOR=/usr/bin/nvim
 export VISUAL=/usr/bin/nvim
+export SYSTEMD_EDITOR=/usr/bin/nvim
 export MANGOHUD=1
 # Hugging Face token
 if [[ -r "$HOME/.dotfiles/.env" ]]; then
   source "$HOME/.dotfiles/.env"
 fi
-OLLAMA_HOST=0.0.0.0:11434
+export OMO_SEND_ANONYMOUS_TELEMETRY=0

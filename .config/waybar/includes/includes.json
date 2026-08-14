@@ -1,6 +1,7 @@
 {
     "include": [
         "/home/berke/.config/waybar/modules/brightness.jsonc",
+        "/home/berke/.config/waybar/modules/hyprwhspr.jsonc",
         "/home/berke/.config/waybar/modules/headsetcontrol-waybar.jsonc",
         "/home/berke/.config/waybar/modules/network.jsonc",
         "/home/berke/.config/waybar/modules/clock.jsonc",

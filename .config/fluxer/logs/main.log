@@ -1,0 +1,38 @@
+[2026-08-07 20:54:18.549] [info]  Configured user data storage {
+  channel: 'stable',
+  directory: 'fluxer',
+  path: '/home/berke/.config/fluxer'
+}
+[2026-08-07 20:54:18.844] [info]  App ready, initializing...
+[2026-08-07 20:54:19.103] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-08-07 20:54:19.112] [info]  App initialized successfully
+[2026-08-07 20:54:19.117] [info]  [RPC] Server listening on http://127.0.0.1:21863
+[2026-08-07 20:54:19.117] [info]  [WS Proxy] Server listening on ws://127.0.0.1:21865
+[2026-08-07 20:54:19.118] [info]  [API Proxy] Server listening on http://127.0.0.1:21861/proxy
+[2026-08-07 20:54:19.118] [info]  [Media Proxy] Server listening on http://127.0.0.1:21867/media
+[2026-08-07 21:18:20.776] [info]  Configured user data storage {
+  channel: 'stable',
+  directory: 'fluxer',
+  path: '/home/berke/.config/fluxer'
+}
+[2026-08-07 21:18:21.096] [info]  App ready, initializing...
+[2026-08-07 21:18:21.120] [info]  Restored window bounds: { x: 0, y: 0, width: 1280, height: 800, isMaximized: true }
+[2026-08-07 21:18:21.361] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-08-07 21:18:21.375] [info]  App initialized successfully
+[2026-08-07 21:18:21.381] [info]  [RPC] Server listening on http://127.0.0.1:21863
+[2026-08-07 21:18:21.381] [info]  [WS Proxy] Server listening on ws://127.0.0.1:21865
+[2026-08-07 21:18:21.381] [info]  [API Proxy] Server listening on http://127.0.0.1:21861/proxy
+[2026-08-07 21:18:21.381] [info]  [Media Proxy] Server listening on http://127.0.0.1:21867/media
+[2026-08-07 21:49:29.734] [info]  Configured user data storage {
+  channel: 'stable',
+  directory: 'fluxer',
+  path: '/home/berke/.config/fluxer'
+}
+[2026-08-07 21:49:30.025] [info]  App ready, initializing...
+[2026-08-07 21:49:30.048] [info]  Restored window bounds: { x: 0, y: 0, width: 1410, height: 1081, isMaximized: true }
+[2026-08-07 21:49:30.283] [info]  Electron's autoUpdater does not support the 'linux' platform. Ref: https://www.electronjs.org/docs/latest/api/auto-updater#platform-notices
+[2026-08-07 21:49:30.295] [info]  App initialized successfully
+[2026-08-07 21:49:30.300] [info]  [RPC] Server listening on http://127.0.0.1:21863
+[2026-08-07 21:49:30.300] [info]  [WS Proxy] Server listening on ws://127.0.0.1:21865
+[2026-08-07 21:49:30.300] [info]  [API Proxy] Server listening on http://127.0.0.1:21861/proxy
+[2026-08-07 21:49:30.300] [info]  [Media Proxy] Server listening on http://127.0.0.1:21867/media

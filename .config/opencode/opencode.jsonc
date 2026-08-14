@@ -1,0 +1,20 @@
+{
+  "plugin": ["oh-my-openagent@latest"],
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "orcarouter": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "OrcaRouter",
+      "options": {
+        "baseURL": "https://api.orcarouter.ai/v1",
+        "apiKey": "sk-orca-V3Eznrhr381DNWqHdGSVPB1Gk8fEsVBIv2owPjaAjys",
+      },
+      "models": {
+        "tencent/hy3": {
+          "name": "OrcaRouter Auto",
+        },
+      },
+    },
+  },
+  "model": "orcarouter/tencent/hy3",
+}

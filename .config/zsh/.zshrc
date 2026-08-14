@@ -42,3 +42,6 @@ export EDITOR=nvim
 
 unset -f command_not_found_handler # Uncomment to prevent searching for commands not found in package manager
 export PATH=$(echo "$PATH" | awk -v RS=: -v ORS=: 'NF{print}' | sed 's/:$//')
+
+# opencode
+export PATH=/home/berke/.opencode/bin:$PATH

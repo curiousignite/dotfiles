@@ -71,11 +71,11 @@ hl.bind(
     flags("[Window Management] logout menu")
 )
 
-hl.bind(
-    "CTRL + ALT + W",
-    exec("pkill -x waybar; hyde-shell waybar --watch"),
-    flags("[Window Management] restart Waybar")
-)
+-- hl.bind(
+--     "CTRL + ALT + W",
+--     exec("pkill -x waybar; hyde-shell waybar --watch"),
+--     flags("[Window Management] restart Waybar")
+-- )
 
 hl.bind(
     MOD .. " + U",
@@ -257,6 +257,7 @@ hl.bind(
 --------------------------------------------------
 
 -- Remove HyDE bindings occupying these combinations.
+hl.unbind("CTRL + DELETE")
 hl.unbind(MOD .. " + S")
 hl.unbind(MOD .. " + SHIFT + S")
 hl.unbind(MOD .. " + ALT + S")
@@ -330,5 +331,26 @@ hl.bind(
         description = "[Window Management|Alt-Tab] switch",
         release = true,
         transparent = true,
+    }
+)
+
+--------------------------------------------------
+-- Whisper
+--------------------------------------------------
+
+local home = assert(os.getenv("HOME"), "HOME environment variable is unavailable")
+
+hl.bind(
+    "SUPER + SHIFT + D",
+    hl.dsp.exec_cmd(home .. "/.local/bin/hyprwhspr-toggle"),
+    {
+        description = "[Utilities] Toggle local dictation",
+    }
+)
+hl.bind(
+    "SUPER + PAUSE",
+    hl.dsp.exec_cmd(home .. "/.local/bin/hyprwhspr-toggle"),
+    {
+        description = "[Utilities] Toggle local dictation",
     }
 )
