@@ -43,7 +43,7 @@
     "modules": [
       "custom/brightness",
       "pulseaudio",
-      "custom/headsetcontrol-waybar",
+      // "custom/headsetcontrol-waybar",
       "custom/hyprwhspr",
       // "pulseaudio#microphone",
       "custom/updates"

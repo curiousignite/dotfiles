@@ -6,5 +6,9 @@
   "biome": {
     "decision": "declined",
     "decidedAt": "2026-08-14T12:27:15.284Z"
+  },
+  "basedpyright": {
+    "decision": "declined",
+    "decidedAt": "2026-08-21T03:44:27.528Z"
   }
 }

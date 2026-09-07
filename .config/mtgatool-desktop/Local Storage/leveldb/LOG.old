@@ -1,0 +1,6 @@
+2026/08/22-07:46:53.861 24149 Reusing MANIFEST /home/berke/.config/mtgatool-desktop/Local Storage/leveldb/MANIFEST-000001
+2026/08/22-07:46:53.862 24149 Recovering log #17
+2026/08/22-07:46:53.863 24149 Reusing old log /home/berke/.config/mtgatool-desktop/Local Storage/leveldb/000017.log 
+2026/08/22-08:20:33.473 2414a Level-0 table #22: started
+2026/08/22-08:20:33.476 2414a Level-0 table #22: 18644 bytes OK
+2026/08/22-08:20:33.478 2414a Delete type=0 #17

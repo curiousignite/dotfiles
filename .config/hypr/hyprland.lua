@@ -23,7 +23,3 @@ require("monitors")
 require("userprefs")
 require("keybindings")
 require("windowrules")
-
--- DMS Include Configs
-require("dms.outputs")
-require("dms.layout")

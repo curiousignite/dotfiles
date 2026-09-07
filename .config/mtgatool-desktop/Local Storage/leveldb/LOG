@@ -1,0 +1,27 @@
+2026/08/23-18:12:44.419 3570af Reusing MANIFEST /home/berke/.config/mtgatool-desktop/Local Storage/leveldb/MANIFEST-000001
+2026/08/23-18:12:44.421 3570af Recovering log #21
+2026/08/23-18:12:44.423 3570af Reusing old log /home/berke/.config/mtgatool-desktop/Local Storage/leveldb/000021.log 
+2026/08/23-18:17:45.393 3570b0 Level-0 table #25: started
+2026/08/23-18:17:45.398 3570b0 Level-0 table #25: 24728 bytes OK
+2026/08/23-18:17:45.401 3570b0 Delete type=0 #21
+2026/08/23-18:36:45.393 3570b0 Level-0 table #27: started
+2026/08/23-18:36:45.397 3570b0 Level-0 table #27: 17376 bytes OK
+2026/08/23-18:36:45.400 3570b0 Delete type=0 #24
+2026/08/23-19:28:35.507 3570b0 Level-0 table #29: started
+2026/08/23-19:28:35.512 3570b0 Level-0 table #29: 15887 bytes OK
+2026/08/23-19:28:35.514 3570b0 Delete type=0 #26
+2026/08/23-19:28:35.515 3570b0 Compacting 4@0 + 1@1 files
+2026/08/23-19:28:35.519 3570b0 Generated table #30@0: 35 keys, 6499 bytes
+2026/08/23-19:28:35.519 3570b0 Compacted 4@0 + 1@1 files => 6499 bytes
+2026/08/23-19:28:35.521 3570b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/23-19:28:35.521 3570b0 Delete type=2 #22
+2026/08/23-19:28:35.521 3570b0 Delete type=2 #25
+2026/08/23-19:28:35.521 3570b0 Delete type=2 #27
+2026/08/23-19:28:35.521 3570b0 Delete type=2 #29
+2026/08/23-19:28:35.521 3570b0 Delete type=2 #19
+2026/08/23-19:45:29.510 3570b0 Level-0 table #32: started
+2026/08/23-19:45:29.515 3570b0 Level-0 table #32: 14536 bytes OK
+2026/08/23-19:45:29.517 3570b0 Delete type=0 #28
+2026/08/24-00:29:39.007 3570b0 Level-0 table #34: started
+2026/08/24-00:29:39.012 3570b0 Level-0 table #34: 17857 bytes OK
+2026/08/24-00:29:39.014 3570b0 Delete type=0 #31

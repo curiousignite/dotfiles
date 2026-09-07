@@ -4,9 +4,9 @@ window#waybar {
   /* font-size: 18px; */
 }
 * {
-  font-size: 15px;
-  padding-bottom: 0px;
+  font-size: 14px;
+  /* padding-bottom: 0px; */
 }
-window#waybar.top #pill.right3 {
+window#waybar.top #pill.right4 {
   padding-right: 1.2em;
 }

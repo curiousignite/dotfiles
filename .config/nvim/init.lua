@@ -559,6 +559,20 @@ require('lazy').setup({
         },
         basedpyright = {
           settings = {
+            python = {
+              -- Dynamically find the python path
+              pythonPath = (function()
+                -- 1. Check if VIRTUAL_ENV is active in the shell environment
+                if os.getenv 'VIRTUAL_ENV' then return os.getenv 'VIRTUAL_ENV' .. '/bin/python' end
+
+                -- 2. Check for a local .venv folder in the working directory
+                local local_venv = vim.fn.getcwd() .. '/.venv/bin/python'
+                if vim.fn.executable(local_venv) == 1 then return local_venv end
+
+                -- 3. Fallback to system python
+                return 'python3'
+              end)(),
+            },
             basedpyright = {
               analysis = {
                 autoSearchPaths = true,
